@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2016028660013400387",
+    "created_at": "2026-01-27T06:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T07:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016028660013400387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/my065826911172…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/my065826911172/status/2015735226480402578",
+          "start": 32,
+          "url": "https://t.co/BHJjT62DnZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016028660013400387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015735226480402578",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我身边真没有人攻略我。搞得我对自己蛮焦虑的，到底是是什么原因啊 https://t.co/BHJjT62DnZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2016028660013400387",
+        "created_at": "2026-01-27T06:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016028660013400387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/my065826911172…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/my065826911172/status/2015735226480402578",
+              "start": 32,
+              "url": "https://t.co/BHJjT62DnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016028660013400387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015735226480402578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我身边真没有人攻略我。搞得我对自己蛮焦虑的，到底是是什么原因啊 https://t.co/BHJjT62DnZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969003080587923456",
+        "conversation_id": "2015735226480402578",
+        "created_at": "2026-01-26T10:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015735226480402578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015735226480402578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 15944,
+          "like_count": 345,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "★☆☆☆☆\n退游了，没有人攻略我，只有人攻击我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2012548014359916750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 198,
+          "like_count": 1579,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T11:38:23.000Z",
+        "description": "",
+        "id": "1969003080587923456",
+        "location": "你的床底",
+        "name": "miu叽",
+        "pinned_tweet_id": "2006036739677180137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003406638104137728/y0VR9YJr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 15,
+          "like_count": 826,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 535
+        },
+        "username": "my065826911172",
+        "verified": false
+      }
+    ]
+  }
+}

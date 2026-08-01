@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2066002393737900309",
+    "created_at": "2026-06-14T08:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066076396259303835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019401624079462406",
+          "start": 0,
+          "username": "gdswweeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066076396259303835",
+    "in_reply_to_user_id": "2019401624079462406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066002393737900309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdswweeeee 或许是她说话的方式太让人不适了 小宝宝你可以指责她这一点的 就算要说实话也该斟酌着态度和选好时机去说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066002387635228672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvqObQbUAAiT1x.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2066002393737900309",
+        "created_at": "2026-06-14T08:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066076396259303835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019401624079462406",
+              "start": 0,
+              "username": "gdswweeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066076396259303835",
+        "in_reply_to_user_id": "2019401624079462406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066002393737900309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdswweeeee 或许是她说话的方式太让人不适了 小宝宝你可以指责她这一点的 就算要说实话也该斟酌着态度和选好时机去说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066002387635228672"
+          ]
+        },
+        "author_id": "2019401624079462406",
+        "conversation_id": "2066002393737900309",
+        "created_at": "2026-06-14T03:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066002393737900309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RohDOg56oK",
+              "end": 23,
+              "expanded_url": "https://x.com/gdswweeeee/status/2066002393737900309/photo/1",
+              "media_key": "3_2066002387635228672",
+              "start": 0,
+              "url": "https://t.co/RohDOg56oK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066002393737900309",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2191,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RohDOg56oK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很隨意。一天可能发很多。慎关",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 216,
+          "like_count": 2755,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T13:24:19.000Z",
+        "description": "78岁离婚 天王星人 带两娃 皮下男 不是真人\n不约 不加 不看 不露 不线下 不互看\n没门 不要逼我回覆讯息",
+        "id": "2019401624079462406",
+        "name": "en",
+        "pinned_tweet_id": "2041750801987858460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035912058555002880/cw1rhnY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5834,
+          "following_count": 62,
+          "like_count": 4364,
+          "listed_count": 17,
+          "media_count": 38,
+          "tweet_count": 642
+        },
+        "username": "gdswweeeee",
+        "verified": false
+      }
+    ]
+  }
+}

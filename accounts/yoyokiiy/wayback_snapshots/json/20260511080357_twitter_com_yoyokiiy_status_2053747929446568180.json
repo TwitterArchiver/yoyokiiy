@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2053682980414263559",
+    "created_at": "2026-05-11T08:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053747929446568180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954914237090066432",
+          "start": 0,
+          "username": "fanyigei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053747929446568180",
+    "in_reply_to_user_id": "1954914237090066432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053682980414263559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanyigei 哈哈哈哈哈哈逗我一乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2053682980414263559",
+        "created_at": "2026-05-11T08:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053747929446568180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954914237090066432",
+              "start": 0,
+              "username": "fanyigei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053747929446568180",
+        "in_reply_to_user_id": "1954914237090066432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053682980414263559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanyigei 哈哈哈哈哈哈逗我一乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954914237090066432",
+        "conversation_id": "2053682980414263559",
+        "created_at": "2026-05-11T03:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053682980414263559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053682980414263559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 60343,
+          "like_count": 514,
+          "quote_count": 2,
+          "reply_count": 181,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "“在干嘛”\n  “我在洗澡”\n  “看看”\n  “别搞 我今年才高三”\n  “哦哦 高考加油”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 207,
+          "like_count": 2402,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T14:34:26.000Z",
+        "description": "想把全球旅游个遍 天秤⚖️infp…📍自用vpn https://t.co/RrOy62c2Aj 关评推广自辨 没有义务礼貌回关。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "api2.cmespeed.com/#/register?cod…",
+                "end": 48,
+                "expanded_url": "https://api2.cmespeed.com/#/register?code=YqihyjX0",
+                "start": 25,
+                "url": "https://t.co/RrOy62c2Aj"
+              }
+            ]
+          }
+        },
+        "id": "1954914237090066432",
+        "location": "Georgia, USA",
+        "name": "凯蒂",
+        "pinned_tweet_id": "2004416532923941096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012460903850237952/-WWaeq63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2806,
+          "following_count": 179,
+          "like_count": 22831,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 11972
+        },
+        "username": "fanyigei",
+        "verified": false
+      }
+    ]
+  }
+}

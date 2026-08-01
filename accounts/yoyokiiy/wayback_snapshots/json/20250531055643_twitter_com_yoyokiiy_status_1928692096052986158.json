@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1928662724394832189",
+    "created_at": "2025-05-31T05:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T06:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928692096052986158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1567386757259472896",
+          "start": 0,
+          "username": "LoveDeepspaceJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928692096052986158",
+    "in_reply_to_user_id": "1567386757259472896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928662724394832189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveDeepspaceJP 祝全球华人端午安康！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1928351300926033920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsLhSpXb0AAS-U1.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1928662724394832189",
+        "created_at": "2025-05-31T05:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T06:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928692096052986158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1567386757259472896",
+              "start": 0,
+              "username": "LoveDeepspaceJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928692096052986158",
+        "in_reply_to_user_id": "1567386757259472896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928662724394832189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveDeepspaceJP 祝全球华人端午安康！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928351300926033920"
+          ]
+        },
+        "author_id": "1567386757259472896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1928662724394832189",
+        "created_at": "2025-05-31T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928662724394832189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/umfG5MY15L",
+              "end": 147,
+              "expanded_url": "https://x.com/LoveDeepspaceJP/status/1928662724394832189/photo/1",
+              "media_key": "3_1928351300926033920",
+              "start": 124,
+              "url": "https://t.co/umfG5MY15L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928662724394832189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 338,
+                "start": 333,
+                "tag": "恋と深空"
+              }
+            ]
+          },
+          "text": "🎁交換コードプレゼント🎁\n\n端午節、皆さんに健やかなひとときが訪れますように✨\n今年のちまき、なんだかいつもより大きい気がする！\n\nちまきの葉の香りに包まれて、ひと口ごとにもちもちとした幸せ。\n彼と一緒に味わいながら、健やかな願いを分かち合おう。\n\nゲームにログイン後、メイン画面の左上をタップし、\n「設定→その他→交換コード」の順に進んで、\n✨「ZONGZI2025」✨を入力すると、以下の特典がもらえます💎\nダイヤ ×200\nコイン ×10000\n体力 ×100\n加速キューブ ×1\n願いの瓶・R ×10\n撮影用シール「ちまきとヨモギと船」「ヨモギの香り袋」「福運ぶヨモギのかご」\n*シールはゲーム内の撮影機能で使用可能です。\n\n🔽有効期間\n6/7 0:59\n\n#恋と深空"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1209,
+          "impression_count": 98451,
+          "like_count": 5159,
+          "quote_count": 120,
+          "reply_count": 20,
+          "retweet_count": 1539
+        },
+        "reply_settings": "everyone",
+        "text": "🎁交換コードプレゼント🎁\n\n端午節、皆さんに健やかなひとときが訪れますように✨\n今年のちまき、なんだかいつもより大きい気がする！\n\nちまきの葉の香りに包まれて、ひと口ごとにもちもちとした幸せ。\n彼と一緒に味わいながら、健やかな願いを分かち合おう。 https://t.co/umfG5MY15L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "成分复杂！颜值/卡面/主线/扩写/剪辑/私设同人",
+        "id": "1897445432365821952",
+        "name": "夏未夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899672913357488128/pA9Kobnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 39,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T05:38:31.000Z",
+        "description": "君のリアルに届ける恋愛シミュレーションゲーム\n#恋と深空\n\nDL：https://t.co/JiojZBInwJ\nDiscord：https://t.co/yRfWi0kQQG\nYouTube：https://t.co/ny45s78U1c\nTikTok：https://t.co/vMAXSCHa8h\nLINE：https://t.co/P4ZVQG9fIU\n問合せ：loveanddeepspace-jp@infoldgames.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "恋と深空"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/lPIvj",
+                "end": 56,
+                "expanded_url": "http://x.gd/lPIvj",
+                "start": 33,
+                "url": "https://t.co/JiojZBInwJ"
+              },
+              {
+                "display_url": "x.gd/Q56mW",
+                "end": 88,
+                "expanded_url": "http://x.gd/Q56mW",
+                "start": 65,
+                "url": "https://t.co/yRfWi0kQQG"
+              },
+              {
+                "display_url": "x.gd/yLzI8",
+                "end": 120,
+                "expanded_url": "http://x.gd/yLzI8",
+                "start": 97,
+                "url": "https://t.co/ny45s78U1c"
+              },
+              {
+                "display_url": "x.gd/YimrJ",
+                "end": 151,
+                "expanded_url": "http://x.gd/YimrJ",
+                "start": 128,
+                "url": "https://t.co/vMAXSCHa8h"
+              },
+              {
+                "display_url": "x.gd/GpsTM",
+                "end": 180,
+                "expanded_url": "http://x.gd/GpsTM",
+                "start": 157,
+                "url": "https://t.co/P4ZVQG9fIU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "loveanddeepspace.infoldgames.com/ja-JP",
+                "end": 23,
+                "expanded_url": "https://loveanddeepspace.infoldgames.com/ja-JP",
+                "start": 0,
+                "url": "https://t.co/ahdmEP82FK"
+              }
+            ]
+          }
+        },
+        "id": "1567386757259472896",
+        "location": "臨空市役所",
+        "name": "【公式】恋と深空-Love and Deepspace-",
+        "pinned_tweet_id": "1926835722595533219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717001761947590656/imJCx4yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290421,
+          "following_count": 8,
+          "like_count": 88,
+          "listed_count": 741,
+          "media_count": 1117,
+          "tweet_count": 1404
+        },
+        "url": "https://t.co/ahdmEP82FK",
+        "username": "LoveDeepspaceJP",
+        "verified": true
+      }
+    ]
+  }
+}

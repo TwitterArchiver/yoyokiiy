@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1986714444257542439",
+    "created_at": "2025-11-08T05:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T06:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987022510089773437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817903432344240128",
+          "start": 0,
+          "username": "sumingbai71221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987022510089773437",
+    "in_reply_to_user_id": "1817903432344240128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986714444257542439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sumingbai71221 有时候我朋友圈还有一些群里会有人提出登x啥的我就有点紧张🆘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1986714444257542439",
+        "created_at": "2025-11-08T05:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T06:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987022510089773437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817903432344240128",
+              "start": 0,
+              "username": "sumingbai71221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987022510089773437",
+        "in_reply_to_user_id": "1817903432344240128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986714444257542439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumingbai71221 有时候我朋友圈还有一些群里会有人提出登x啥的我就有点紧张🆘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817903432344240128",
+        "conversation_id": "1986714444257542439",
+        "created_at": "2025-11-07T08:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986714444257542439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986714444257542439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1064,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同班同学被我无意间知道刷x。好吧。！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 176,
+          "like_count": 1313,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 180
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T12:42:19.000Z",
+        "description": "可以叫我小狸花/小刃呀  switch |这里有大量性欲大爆发宣泄|废话|做饭日常|乱七八糟写一点短打代餐|塔斯汀忠实拥护者|提问箱放下面了记得给我塞点啥！👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sumingbai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sumingbai",
+                "start": 0,
+                "url": "https://t.co/1Pz4w1ngJs"
+              }
+            ]
+          }
+        },
+        "id": "1817903432344240128",
+        "name": "梨花刃",
+        "pinned_tweet_id": "1975179258936062104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824817551995457538/JltAQtin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 891,
+          "like_count": 36323,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 7950
+        },
+        "url": "https://t.co/1Pz4w1ngJs",
+        "username": "sumingbai71221",
+        "verified": false
+      }
+    ]
+  }
+}

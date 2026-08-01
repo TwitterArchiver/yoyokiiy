@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2071989671358292233",
+    "created_at": "2026-07-01T03:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072163487774642545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1430002948893941760",
+          "start": 0,
+          "username": "ayhzii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072163487774642545",
+    "in_reply_to_user_id": "1430002948893941760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071989671358292233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayhzii 🤝同感。国内可以是多元装扮 国外就可能被解读为种族自卑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1042,
+        "media_key": "3_2071989667327533056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEvn-NWYAAYDVk.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2071989671358292233",
+        "created_at": "2026-07-01T03:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072163487774642545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1430002948893941760",
+              "start": 0,
+              "username": "ayhzii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072163487774642545",
+        "in_reply_to_user_id": "1430002948893941760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071989671358292233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayhzii 🤝同感。国内可以是多元装扮 国外就可能被解读为种族自卑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071989667327533056"
+          ]
+        },
+        "author_id": "1430002948893941760",
+        "conversation_id": "2071989671358292233",
+        "created_at": "2026-06-30T16:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071989671358292233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aC8Z8paKvc",
+              "end": 89,
+              "expanded_url": "https://x.com/ayhzii/status/2071989671358292233/photo/1",
+              "media_key": "3_2071989667327533056",
+              "start": 66,
+              "url": "https://t.co/aC8Z8paKvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071989671358292233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1909,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢这个。\n我带来英国的全是棕色的美瞳（即使我在中国经常戴蓝色的）。\n几度想染头发 但是我不想失去我“黑色头发”的identity https://t.co/aC8Z8paKvc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜苦笑面对世界中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 212,
+          "like_count": 3005,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 850
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T03:04:20.000Z",
+        "description": "猫在上网。",
+        "id": "1430002948893941760",
+        "name": "青柠哔哔猫256",
+        "pinned_tweet_id": "2043413224528220274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476432741570801666/N4tQs_Yv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 101,
+          "like_count": 1344,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "ayhzii",
+        "verified": false
+      }
+    ]
+  }
+}

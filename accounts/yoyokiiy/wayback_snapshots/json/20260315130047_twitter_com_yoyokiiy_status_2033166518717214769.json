@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2032804650211217436",
+    "created_at": "2026-03-15T13:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T14:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033166518717214769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1878383301389598720",
+          "start": 0,
+          "username": "bmgog0613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033166518717214769",
+    "in_reply_to_user_id": "1878383301389598720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032804650211217436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bmgog0613 是真的 氛围太好了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2032804650211217436",
+        "created_at": "2026-03-15T13:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033166518717214769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1878383301389598720",
+              "start": 0,
+              "username": "bmgog0613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033166518717214769",
+        "in_reply_to_user_id": "1878383301389598720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032804650211217436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bmgog0613 是真的 氛围太好了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878383301389598720",
+        "conversation_id": "2032804650211217436",
+        "created_at": "2026-03-14T13:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032804650211217436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032804650211217436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1203,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打开黑叉都是狗妹们为了迎接哥日的各种抽奖整活，一片喜气洋洋的氛围，狗妹们真好🫶🫶🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症 重度恋哥癖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 204,
+          "like_count": 1887,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T10:07:41.000Z",
+        "description": "视奸的穷丐子和四王母活了，A.P. T.🕯️🙏🙏🙏受到影响的老师mute、block随意",
+        "id": "1878383301389598720",
+        "name": "qwer",
+        "pinned_tweet_id": "2031365224847257703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988817824459218944/lEBPQEIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 190,
+          "like_count": 5988,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1782
+        },
+        "username": "bmgog0613",
+        "verified": false
+      }
+    ]
+  }
+}

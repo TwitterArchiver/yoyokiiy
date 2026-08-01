@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060379039865651382",
+    "created_at": "2026-05-30T09:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060658011245301985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1785219145040306176",
+          "start": 0,
+          "username": "mingmingzi77888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060658011245301985",
+    "in_reply_to_user_id": "1785219145040306176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060379039865651382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingmingzi77888 上天了解到一个订婚了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060379039865651382",
+        "created_at": "2026-05-30T09:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060658011245301985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1785219145040306176",
+              "start": 0,
+              "username": "mingmingzi77888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060658011245301985",
+        "in_reply_to_user_id": "1785219145040306176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060379039865651382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingmingzi77888 上天了解到一个订婚了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785219145040306176",
+        "conversation_id": "2060379039865651382",
+        "created_at": "2026-05-29T15:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060379039865651382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060379039865651382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 37960,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 173,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好友删太早了 好想知道初中那群社会人现在在干啥……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "幸福就在我手心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 214,
+          "like_count": 2567,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T08:07:18.000Z",
+        "description": "杭州人！另外一个号： @mingmingzi77658  其他都是假的 广告自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "mingmingzi77658"
+              }
+            ]
+          }
+        },
+        "id": "1785219145040306176",
+        "name": "爱新觉罗敏敏子",
+        "pinned_tweet_id": "1994992147716784551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785974112734924800/DoA953J-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46570,
+          "following_count": 12,
+          "like_count": 6185,
+          "listed_count": 35,
+          "media_count": 788,
+          "tweet_count": 2172
+        },
+        "username": "mingmingzi77888",
+        "verified": false
+      }
+    ]
+  }
+}

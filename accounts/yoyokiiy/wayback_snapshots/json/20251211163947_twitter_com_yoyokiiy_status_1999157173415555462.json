@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1999093901064634484",
+    "created_at": "2025-12-11T16:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T17:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999157173415555462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1513898402366439427",
+          "start": 0,
+          "username": "QvQ_1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999157173415555462",
+    "in_reply_to_user_id": "1513898402366439427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999093901064634484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QvQ_1111 这种跟我多说一句话我就删。🤮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1999093901064634484",
+        "created_at": "2025-12-11T16:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999157173415555462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1513898402366439427",
+              "start": 0,
+              "username": "QvQ_1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999157173415555462",
+        "in_reply_to_user_id": "1513898402366439427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999093901064634484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QvQ_1111 这种跟我多说一句话我就删。🤮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513898402366439427",
+        "conversation_id": "1999093901064634484",
+        "created_at": "2025-12-11T12:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T13:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999093901064634484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999093901064634484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6084,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些脑残还乐呢 啥老式男友 这种男的最精了 一到要花钱的时候就装疯卖傻 最开始老式男友这个词不是形容给买迪奥999然后转999的吗？我还给男友aj买成老北京布鞋 我是老式女友不？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1992994593131081912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 186,
+          "like_count": 1463,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 223
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:14:50.000Z",
+        "description": "我很脆弱。梦到啥说啥。不约不聊别问我IP。匿名问答：https://t.co/02AmJFCDEU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amaya_ovo",
+                "end": 49,
+                "expanded_url": "https://ngl.link/amaya_ovo",
+                "start": 26,
+                "url": "https://t.co/02AmJFCDEU"
+              }
+            ]
+          }
+        },
+        "id": "1513898402366439427",
+        "location": "抱抱",
+        "name": "烦烦",
+        "pinned_tweet_id": "1989400290320421039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997664462552387584/tgwBV2Sy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 295,
+          "like_count": 3421,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 2174
+        },
+        "username": "QvQ_1111",
+        "verified": false
+      }
+    ]
+  }
+}

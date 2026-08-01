@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2068880520667435121",
+    "created_at": "2026-06-22T02:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T03:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068880520667435121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1774114163943706624",
+          "start": 3,
+          "username": "jngh462508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068880520667435121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068745833500320155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jngh462508: 对我来说做爱是很神圣的事情。要了解我跟我有灵魂上的共鸣我才会信任并愿意去做这样的事，我认为做爱是亲密关系的延伸，是更高一级的亲密，而不是两个人恋爱了出于对性的好奇和欲望就做了。我想等你看到完整的我，再去享受性。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2068880520667435121",
+        "created_at": "2026-06-22T02:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068880520667435121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1774114163943706624",
+              "start": 3,
+              "username": "jngh462508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068880520667435121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068745833500320155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jngh462508: 对我来说做爱是很神圣的事情。要了解我跟我有灵魂上的共鸣我才会信任并愿意去做这样的事，我认为做爱是亲密关系的延伸，是更高一级的亲密，而不是两个人恋爱了出于对性的好奇和欲望就做了。我想等你看到完整的我，再去享受性。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774114163943706624",
+        "conversation_id": "2068745833500320155",
+        "created_at": "2026-06-21T17:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068745833500320155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068745833500320155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1467,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "对我来说做爱是很神圣的事情。要了解我跟我有灵魂上的共鸣我才会信任并愿意去做这样的事，我认为做爱是亲密关系的延伸，是更高一级的亲密，而不是两个人恋爱了出于对性的好奇和欲望就做了。我想等你看到完整的我，再去享受性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜只想长大｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 211,
+          "like_count": 2911,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T16:39:28.000Z",
+        "description": "近了会倦，远了会陌生，不要走进我，也不要离我远去。",
+        "id": "1774114163943706624",
+        "name": "半夜林黛玉。",
+        "pinned_tweet_id": "2053879708652290238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043716124450418688/kpLCteb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 33,
+          "like_count": 659,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 455
+        },
+        "url": "",
+        "username": "jngh462508",
+        "verified": false
+      }
+    ]
+  }
+}

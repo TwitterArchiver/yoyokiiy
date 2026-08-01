@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1954643067132424588",
+    "created_at": "2025-10-10T17:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T18:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976697550796427288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892263580952862720",
+          "start": 0,
+          "username": "a_shark12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976697550796427288",
+    "in_reply_to_user_id": "1892263580952862720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954643067132424588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_shark12138 好好好下次我对心选哥也这样。😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954643064343187456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyBJgsjbUAALElN.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1954643067132424588",
+        "created_at": "2025-10-10T17:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976697550796427288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892263580952862720",
+              "start": 0,
+              "username": "a_shark12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976697550796427288",
+        "in_reply_to_user_id": "1892263580952862720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954643067132424588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_shark12138 好好好下次我对心选哥也这样。😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954643064343187456"
+          ]
+        },
+        "author_id": "1892263580952862720",
+        "conversation_id": "1954643067132424588",
+        "created_at": "2025-08-10T20:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T21:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954643067132424588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UE63f1637z",
+              "end": 53,
+              "expanded_url": "https://x.com/a_shark12138/status/1954643067132424588/photo/1",
+              "media_key": "3_1954643064343187456",
+              "start": 30,
+              "url": "https://t.co/UE63f1637z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954643067132424588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 49018,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多人问我怎么和炮友哥认识的，我置顶说一下好了，省得挨个回 https://t.co/UE63f1637z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 172,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 134
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T17:22:58.000Z",
+        "description": "我只是喜欢碎碎念💢\n❌私聊❌线下\n🈶且仅有炮友哥一个长期",
+        "id": "1892263580952862720",
+        "name": "shark",
+        "pinned_tweet_id": "1954643067132424588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940522310273748992/P9stW-rv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 60,
+          "like_count": 3207,
+          "listed_count": 4,
+          "media_count": 45,
+          "tweet_count": 442
+        },
+        "username": "a_shark12138",
+        "verified": false
+      }
+    ]
+  }
+}

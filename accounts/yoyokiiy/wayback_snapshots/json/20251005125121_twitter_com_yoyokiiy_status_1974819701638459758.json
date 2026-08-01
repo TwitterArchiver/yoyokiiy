@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1974534587801014755",
+    "created_at": "2025-10-05T12:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T13:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974819701638459758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1923424244823941120",
+          "start": 0,
+          "username": "kannimane_SB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974819701638459758",
+    "in_reply_to_user_id": "1923424244823941120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974534587801014755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kannimane_SB 坚果你最近口癖是痔疮吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1974534587801014755",
+        "created_at": "2025-10-05T12:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974819701638459758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1923424244823941120",
+              "start": 0,
+              "username": "kannimane_SB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974819701638459758",
+        "in_reply_to_user_id": "1923424244823941120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974534587801014755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kannimane_SB 坚果你最近口癖是痔疮吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923424244823941120",
+        "conversation_id": "1974534587801014755",
+        "created_at": "2025-10-04T17:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974534587801014755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974534587801014755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3422,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说痔疮一直脱着不割 还每天捏捏搓搓 会不会变成尾巴🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主（61大王）",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 151,
+          "like_count": 1008,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 92
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T17:04:18.000Z",
+        "description": "我只是个爱上网的坚果🚬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kannimane_sb",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kannimane_sb",
+                "start": 0,
+                "url": "https://t.co/C8kxXhBNhU"
+              }
+            ]
+          }
+        },
+        "id": "1923424244823941120",
+        "location": "戴夫的后花园",
+        "name": "高建国",
+        "pinned_tweet_id": "1973289717392376288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953160100560166912/v_TmQc6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 463,
+          "like_count": 8039,
+          "listed_count": 1,
+          "media_count": 699,
+          "tweet_count": 7275
+        },
+        "url": "https://t.co/C8kxXhBNhU",
+        "username": "kannimane_SB",
+        "verified": false
+      }
+    ]
+  }
+}

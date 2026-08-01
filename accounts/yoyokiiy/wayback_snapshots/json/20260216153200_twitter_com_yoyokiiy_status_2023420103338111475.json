@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023420090113527809"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023420103338111475",
+    "created_at": "2026-02-16T15:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T16:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023420103338111475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KoKRivAEjf",
+          "end": 34,
+          "expanded_url": "https://x.com/yoyokiiy/status/2023420103338111475/photo/1",
+          "media_key": "3_2023420090113527809",
+          "start": 11,
+          "url": "https://t.co/KoKRivAEjf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023420103338111475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回老家拯救奶奶的手机 https://t.co/KoKRivAEjf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023420090113527809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBSh2fabEAEat0C.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023420090113527809"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023420103338111475",
+        "created_at": "2026-02-16T15:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T16:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023420103338111475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KoKRivAEjf",
+              "end": 34,
+              "expanded_url": "https://x.com/yoyokiiy/status/2023420103338111475/photo/1",
+              "media_key": "3_2023420090113527809",
+              "start": 11,
+              "url": "https://t.co/KoKRivAEjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023420103338111475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回老家拯救奶奶的手机 https://t.co/KoKRivAEjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 204,
+          "like_count": 1779,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 354
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

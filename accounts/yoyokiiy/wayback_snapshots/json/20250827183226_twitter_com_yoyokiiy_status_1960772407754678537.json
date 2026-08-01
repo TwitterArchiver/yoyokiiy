@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960263153939558400"
+      ],
+      "media_source_tweet_id": [
+        "1960263166748967284"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1960772407754678537",
+    "created_at": "2025-08-27T18:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T19:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960772407754678537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3039021846",
+          "start": 3,
+          "username": "Kharu11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IRoirgDPca",
+          "end": 36,
+          "expanded_url": "https://x.com/Kharu11/status/1960263166748967284/photo/1",
+          "media_key": "3_1960263153939558400",
+          "start": 13,
+          "url": "https://t.co/IRoirgDPca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960772407754678537",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 702
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960263166748967284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kharu11: https://t.co/IRoirgDPca"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960263153939558400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRA89zasAAPCx6.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960263153939558400"
+          ],
+          "media_source_tweet_id": [
+            "1960263166748967284"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1960772407754678537",
+        "created_at": "2025-08-27T18:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T19:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960772407754678537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3039021846",
+              "start": 3,
+              "username": "Kharu11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRoirgDPca",
+              "end": 36,
+              "expanded_url": "https://x.com/Kharu11/status/1960263166748967284/photo/1",
+              "media_key": "3_1960263153939558400",
+              "start": 13,
+              "url": "https://t.co/IRoirgDPca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960772407754678537",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 702
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960263166748967284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kharu11: https://t.co/IRoirgDPca"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960263153939558400"
+          ]
+        },
+        "author_id": "3039021846",
+        "conversation_id": "1960263166748967284",
+        "created_at": "2025-08-26T08:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960263166748967284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRoirgDPca",
+              "end": 23,
+              "expanded_url": "https://x.com/Kharu11/status/1960263166748967284/photo/1",
+              "media_key": "3_1960263153939558400",
+              "start": 0,
+              "url": "https://t.co/IRoirgDPca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960263166748967284",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 316,
+          "impression_count": 53596,
+          "like_count": 4589,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 702
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IRoirgDPca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 136,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 65
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-24T07:59:19.000Z",
+        "description": "禁止转载/転載禁止/Don't repost 🚫Ai              仕事連絡✉️spyangsheng822@gmail.com",
+        "id": "3039021846",
+        "name": "春日スモモ",
+        "pinned_tweet_id": "1872933505686180248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878010100599996417/k6q600_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37789,
+          "following_count": 442,
+          "like_count": 8497,
+          "listed_count": 102,
+          "media_count": 1149,
+          "tweet_count": 3098
+        },
+        "username": "Kharu11",
+        "verified": false
+      }
+    ]
+  }
+}

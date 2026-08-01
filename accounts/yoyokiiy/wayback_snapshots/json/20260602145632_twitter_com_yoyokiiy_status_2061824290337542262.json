@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061824273962930176"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2061824290337542262",
+    "created_at": "2026-06-02T14:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061824290337542262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UwGYLE3hhb",
+          "end": 37,
+          "expanded_url": "https://x.com/yoyokiiy/status/2061824290337542262/photo/1",
+          "media_key": "3_2061824273962930176",
+          "start": 14,
+          "url": "https://t.co/UwGYLE3hhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061824290337542262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的虎口才是我最喜欢的项链 https://t.co/UwGYLE3hhb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2061824273962930176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0SQM7WkAAbiZA.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061824273962930176"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2061824290337542262",
+        "created_at": "2026-06-02T14:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061824290337542262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwGYLE3hhb",
+              "end": 37,
+              "expanded_url": "https://x.com/yoyokiiy/status/2061824290337542262/photo/1",
+              "media_key": "3_2061824273962930176",
+              "start": 14,
+              "url": "https://t.co/UwGYLE3hhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061824290337542262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的虎口才是我最喜欢的项链 https://t.co/UwGYLE3hhb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 212,
+          "like_count": 2615,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

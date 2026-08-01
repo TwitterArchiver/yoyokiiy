@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2064754850093813901",
+    "created_at": "2026-06-10T17:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064762273332334771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646972643206365184",
+          "start": 0,
+          "username": "yanyannbcwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064762273332334771",
+    "in_reply_to_user_id": "1646972643206365184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064761989931659556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyannbcwx 精神裸奔（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2064754850093813901",
+        "created_at": "2026-06-10T17:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064762273332334771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646972643206365184",
+              "start": 0,
+              "username": "yanyannbcwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064762273332334771",
+        "in_reply_to_user_id": "1646972643206365184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064761989931659556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyannbcwx 精神裸奔（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646972643206365184",
+        "conversation_id": "2064754850093813901",
+        "created_at": "2026-06-10T17:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064761989931659556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064761989931659556",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064754850093813901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 你又没发什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2058222485959475215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 215,
+          "like_count": 2685,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 745
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T20:24:24.000Z",
+        "description": "以前枷锁太多，现在我顺从自己。\n小号 @jiangzhonwen\n承蒙各位喜爱\n推出地陪服务\n主要城市为广州，深圳，佛山，中山，东莞，珠海，江门\n新添国内旅陪，帮您轻松度假\n\n欢迎私信咨询o!!!\n(获取详细信息、客人评价、自我介绍等)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "jiangzhonwen"
+              }
+            ]
+          }
+        },
+        "id": "1646972643206365184",
+        "location": "🚪好友位88-188-288",
+        "name": "𝓐𝖕𝖕、",
+        "pinned_tweet_id": "2058162530888114474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032121230170734595/UutBtkMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4911,
+          "following_count": 81,
+          "like_count": 10572,
+          "listed_count": 9,
+          "media_count": 91,
+          "tweet_count": 2343
+        },
+        "username": "yanyannbcwx",
+        "verified": false
+      }
+    ]
+  }
+}

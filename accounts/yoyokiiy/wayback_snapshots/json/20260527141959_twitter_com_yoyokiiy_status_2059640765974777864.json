@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059640723310272518",
+        "3_2059640723314487297",
+        "3_2059640723306082304",
+        "3_2059640723310276608"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059640765974777864",
+    "created_at": "2026-05-27T14:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059640765974777864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/336PcsAwOR",
+          "end": 27,
+          "expanded_url": "https://x.com/yoyokiiy/status/2059640765974777864/photo/1",
+          "media_key": "3_2059640723310272518",
+          "start": 4,
+          "url": "https://t.co/336PcsAwOR"
+        },
+        {
+          "display_url": "pic.x.com/336PcsAwOR",
+          "end": 27,
+          "expanded_url": "https://x.com/yoyokiiy/status/2059640765974777864/photo/1",
+          "media_key": "3_2059640723314487297",
+          "start": 4,
+          "url": "https://t.co/336PcsAwOR"
+        },
+        {
+          "display_url": "pic.x.com/336PcsAwOR",
+          "end": 27,
+          "expanded_url": "https://x.com/yoyokiiy/status/2059640765974777864/photo/1",
+          "media_key": "3_2059640723306082304",
+          "start": 4,
+          "url": "https://t.co/336PcsAwOR"
+        },
+        {
+          "display_url": "pic.x.com/336PcsAwOR",
+          "end": 27,
+          "expanded_url": "https://x.com/yoyokiiy/status/2059640765974777864/photo/1",
+          "media_key": "3_2059640723310276608",
+          "start": 4,
+          "url": "https://t.co/336PcsAwOR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059640765974777864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "忙忙忙 https://t.co/336PcsAwOR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059640723310272518",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVQU03WYAYXJna.jpg",
+        "width": 1544
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059640723314487297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVQU04WsAE360c.jpg",
+        "width": 1492
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059640723306082304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVQU02WcAAyfOp.jpg",
+        "width": 1254
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059640723310276608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVQU03WcAAnhWh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059640723310272518",
+            "3_2059640723314487297",
+            "3_2059640723306082304",
+            "3_2059640723310276608"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059640765974777864",
+        "created_at": "2026-05-27T14:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059640765974777864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/336PcsAwOR",
+              "end": 27,
+              "expanded_url": "https://x.com/yoyokiiy/status/2059640765974777864/photo/1",
+              "media_key": "3_2059640723310272518",
+              "start": 4,
+              "url": "https://t.co/336PcsAwOR"
+            },
+            {
+              "display_url": "pic.x.com/336PcsAwOR",
+              "end": 27,
+              "expanded_url": "https://x.com/yoyokiiy/status/2059640765974777864/photo/1",
+              "media_key": "3_2059640723314487297",
+              "start": 4,
+              "url": "https://t.co/336PcsAwOR"
+            },
+            {
+              "display_url": "pic.x.com/336PcsAwOR",
+              "end": 27,
+              "expanded_url": "https://x.com/yoyokiiy/status/2059640765974777864/photo/1",
+              "media_key": "3_2059640723306082304",
+              "start": 4,
+              "url": "https://t.co/336PcsAwOR"
+            },
+            {
+              "display_url": "pic.x.com/336PcsAwOR",
+              "end": 27,
+              "expanded_url": "https://x.com/yoyokiiy/status/2059640765974777864/photo/1",
+              "media_key": "3_2059640723310276608",
+              "start": 4,
+              "url": "https://t.co/336PcsAwOR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059640765974777864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忙忙忙 https://t.co/336PcsAwOR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 214,
+          "like_count": 2548,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

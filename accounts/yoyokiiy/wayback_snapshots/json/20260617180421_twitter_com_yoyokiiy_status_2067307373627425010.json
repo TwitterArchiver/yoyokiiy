@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2067304604593967379",
+    "created_at": "2026-06-17T18:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067307373627425010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2067078944348839936",
+          "start": 0,
+          "username": "dangguim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067307373627425010",
+    "in_reply_to_user_id": "2067078944348839936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067306447801909428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dangguim 我也觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2067304604593967379",
+        "created_at": "2026-06-17T18:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067307373627425010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2067078944348839936",
+              "start": 0,
+              "username": "dangguim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067307373627425010",
+        "in_reply_to_user_id": "2067078944348839936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067306447801909428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dangguim 我也觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067078944348839936",
+        "conversation_id": "2067304604593967379",
+        "created_at": "2026-06-17T18:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067306447801909428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067306447801909428",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067304604593967379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 我觉得不能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 214,
+          "like_count": 2781,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 751
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-17T02:58:51.000Z",
+        "description": "05 185 63kg\n超级爱吃麦当劳！\n有点m倾向但是没进过圈子。\n喜欢打瓦和王者\n喜欢听歌，但是听的很杂可以来找我一起听\n可以当男菩萨",
+        "id": "2067078944348839936",
+        "name": "麦当劳狂热爱好者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067079751840432128/Ep9rXqXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "dangguim",
+        "verified": false
+      }
+    ]
+  }
+}

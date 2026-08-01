@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048065309727494145"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2048065392397193335",
+    "created_at": "2026-04-25T15:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048065392397193335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KlXngL2LCh",
+          "end": 35,
+          "expanded_url": "https://x.com/yoyokiiy/status/2048065392397193335/video/1",
+          "media_key": "13_2048065309727494145",
+          "start": 12,
+          "url": "https://t.co/KlXngL2LCh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048065392397193335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当作一惊一乍的安眠曲吧 https://t.co/KlXngL2LCh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20418,
+        "height": 1114,
+        "media_key": "13_2048065309727494145",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048065309727494145/img/H_JCu2devzb58Fbe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048065309727494145/vid/avc1/320x494/sWON6r77JQreJO0x.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048065309727494145/vid/avc1/480x742/tRzWCkdGqhw4czZ1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048065309727494145/vid/avc1/720x1114/eaj16wfhw4plreDt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048065309727494145/pl/MsCVu2vMiCMlB-Tr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048065309727494145"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2048065392397193335",
+        "created_at": "2026-04-25T15:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048065392397193335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KlXngL2LCh",
+              "end": 35,
+              "expanded_url": "https://x.com/yoyokiiy/status/2048065392397193335/video/1",
+              "media_key": "13_2048065309727494145",
+              "start": 12,
+              "url": "https://t.co/KlXngL2LCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048065392397193335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当作一惊一乍的安眠曲吧 https://t.co/KlXngL2LCh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 199,
+          "like_count": 2277,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

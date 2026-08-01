@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2068195082264596494",
+    "created_at": "2026-06-20T17:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068381548814942709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1983662924754452480",
+          "start": 0,
+          "username": "Ning6777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068381548814942709",
+    "in_reply_to_user_id": "1983662924754452480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068349221397483971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ning6777 哈哈哈哈哈哈哈也对 近似吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2068195082264596494",
+        "created_at": "2026-06-20T17:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068381548814942709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1983662924754452480",
+              "start": 0,
+              "username": "Ning6777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068381548814942709",
+        "in_reply_to_user_id": "1983662924754452480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068349221397483971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ning6777 哈哈哈哈哈哈哈也对 近似吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983662924754452480",
+        "conversation_id": "2068195082264596494",
+        "created_at": "2026-06-20T15:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068349221397483971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068349221397483971",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068195082264596494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 然而熟男熟女并不恋爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 216,
+          "like_count": 2855,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T22:31:50.000Z",
+        "description": "看到你想看的算你走运，看到你不想看的算你倒霉",
+        "id": "1983662924754452480",
+        "name": "Ning",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 29,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 534
+        },
+        "url": "",
+        "username": "Ning6777",
+        "verified": false
+      }
+    ]
+  }
+}

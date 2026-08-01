@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060970331263905912",
+    "created_at": "2026-06-01T03:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061286603788574842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1364801321954467842",
+          "start": 0,
+          "username": "Ea2tNo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061286603788574842",
+    "in_reply_to_user_id": "1364801321954467842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060970331263905912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ea2tNo 吃不到这个鲛太郎我好着急"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060970331263905912",
+        "created_at": "2026-06-01T03:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061286603788574842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1364801321954467842",
+              "start": 0,
+              "username": "Ea2tNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061286603788574842",
+        "in_reply_to_user_id": "1364801321954467842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060970331263905912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ea2tNo 吃不到这个鲛太郎我好着急"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364801321954467842",
+        "conversation_id": "2060970331263905912",
+        "created_at": "2026-05-31T06:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060970331263905912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ea2tno/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ea2tno/status/2060766411996406019",
+              "start": 7,
+              "url": "https://t.co/c9JtMeBJkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060970331263905912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1662,
+          "impression_count": 711857,
+          "like_count": 28536,
+          "quote_count": 957,
+          "reply_count": 266,
+          "retweet_count": 1887
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060766411996406019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女でレズです https://t.co/c9JtMeBJkd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 215,
+          "like_count": 2606,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-25T04:56:18.000Z",
+        "description": "les wlw girl🚺 20↑ free",
+        "id": "1364801321954467842",
+        "location": "名古屋🇯🇵",
+        "name": "鮫太郎",
+        "pinned_tweet_id": "1859574224203153564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943722281643196416/UFi843zT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3574,
+          "following_count": 232,
+          "like_count": 37106,
+          "listed_count": 13,
+          "media_count": 94,
+          "tweet_count": 6355
+        },
+        "username": "Ea2tNo",
+        "verified": false
+      }
+    ]
+  }
+}

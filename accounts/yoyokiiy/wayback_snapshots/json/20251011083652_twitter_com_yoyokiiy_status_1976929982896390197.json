@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976929971672432640"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1976929982896390197",
+    "created_at": "2025-10-11T08:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T09:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976929982896390197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f4QTSPFpPr",
+          "end": 41,
+          "expanded_url": "https://x.com/yoyokiiy/status/1976929982896390197/photo/1",
+          "media_key": "3_1976929971672432640",
+          "start": 18,
+          "url": "https://t.co/f4QTSPFpPr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976929982896390197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁跟我去湖边弹吉他看日落依偎着聊天 https://t.co/f4QTSPFpPr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_1976929971672432640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G293VcNbwAAmZRr.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976929971672432640"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1976929982896390197",
+        "created_at": "2025-10-11T08:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976929982896390197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f4QTSPFpPr",
+              "end": 41,
+              "expanded_url": "https://x.com/yoyokiiy/status/1976929982896390197/photo/1",
+              "media_key": "3_1976929971672432640",
+              "start": 18,
+              "url": "https://t.co/f4QTSPFpPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976929982896390197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁跟我去湖边弹吉他看日落依偎着聊天 https://t.co/f4QTSPFpPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 181,
+          "like_count": 1182,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 137
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

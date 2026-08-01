@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2048981942096584892",
+    "created_at": "2026-04-28T04:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048984172451242463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600593416332595200",
+          "start": 0,
+          "username": "Baipiao1844"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048984172451242463",
+    "in_reply_to_user_id": "1600593416332595200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048983614902394971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baipiao1844 又来一头猪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2048981942096584892",
+        "created_at": "2026-04-28T04:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048984172451242463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600593416332595200",
+              "start": 0,
+              "username": "Baipiao1844"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048984172451242463",
+        "in_reply_to_user_id": "1600593416332595200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048983614902394971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baipiao1844 又来一头猪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600593416332595200",
+        "conversation_id": "2048981942096584892",
+        "created_at": "2026-04-28T04:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048983614902394971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048983614902394971",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048981942096584892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 看你名字好眼熟，以前我也骂过你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 207,
+          "like_count": 2358,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 594
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T20:49:50.000Z",
+        "description": "欢迎女爹私信，给您磕头~（恋足恋臭，超级下贱公狗）",
+        "id": "1600593416332595200",
+        "location": "距离你0.72km",
+        "name": "恋足下贱公狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729531396098818048/qSNbtKWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 411,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 402
+        },
+        "username": "Baipiao1844",
+        "verified": false
+      }
+    ]
+  }
+}

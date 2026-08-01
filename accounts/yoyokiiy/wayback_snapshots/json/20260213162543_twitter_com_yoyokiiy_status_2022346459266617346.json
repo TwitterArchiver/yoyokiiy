@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022346450332418050"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2022346459266617346",
+    "created_at": "2026-02-13T16:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022346459266617346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OKe1ihC5NK",
+          "end": 35,
+          "expanded_url": "https://x.com/yoyokiiy/status/2022346459266617346/photo/1",
+          "media_key": "3_2022346450332418050",
+          "start": 12,
+          "url": "https://t.co/OKe1ihC5NK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022346459266617346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2026继续许这个愿。 https://t.co/OKe1ihC5NK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 285,
+        "media_key": "3_2022346450332418050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDRYbjWAAI_4G3.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022346450332418050"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2022346459266617346",
+        "created_at": "2026-02-13T16:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022346459266617346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKe1ihC5NK",
+              "end": 35,
+              "expanded_url": "https://x.com/yoyokiiy/status/2022346459266617346/photo/1",
+              "media_key": "3_2022346450332418050",
+              "start": 12,
+              "url": "https://t.co/OKe1ihC5NK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022346459266617346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026继续许这个愿。 https://t.co/OKe1ihC5NK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 200,
+          "like_count": 1694,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

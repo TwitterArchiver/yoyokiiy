@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073046751687102464",
+        "3_2073046751703924736",
+        "3_2073046751729057792"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073046767369691372",
+    "created_at": "2026-07-03T14:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073046767369691372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mN2QbzXbLh",
+          "end": 30,
+          "expanded_url": "https://x.com/yoyokiiy/status/2073046767369691372/photo/1",
+          "media_key": "3_2073046751687102464",
+          "start": 7,
+          "url": "https://t.co/mN2QbzXbLh"
+        },
+        {
+          "display_url": "pic.x.com/mN2QbzXbLh",
+          "end": 30,
+          "expanded_url": "https://x.com/yoyokiiy/status/2073046767369691372/photo/1",
+          "media_key": "3_2073046751703924736",
+          "start": 7,
+          "url": "https://t.co/mN2QbzXbLh"
+        },
+        {
+          "display_url": "pic.x.com/mN2QbzXbLh",
+          "end": 30,
+          "expanded_url": "https://x.com/yoyokiiy/status/2073046767369691372/photo/1",
+          "media_key": "3_2073046751729057792",
+          "start": 7,
+          "url": "https://t.co/mN2QbzXbLh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073046767369691372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个普通晚上 https://t.co/mN2QbzXbLh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073046751687102464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTxCYUWUAAHzcv.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2073046751703924736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTxCYYXAAAYuxH.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2073046751729057792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTxCYeWgAAXaMP.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073046751687102464",
+            "3_2073046751703924736",
+            "3_2073046751729057792"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073046767369691372",
+        "created_at": "2026-07-03T14:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073046767369691372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mN2QbzXbLh",
+              "end": 30,
+              "expanded_url": "https://x.com/yoyokiiy/status/2073046767369691372/photo/1",
+              "media_key": "3_2073046751687102464",
+              "start": 7,
+              "url": "https://t.co/mN2QbzXbLh"
+            },
+            {
+              "display_url": "pic.x.com/mN2QbzXbLh",
+              "end": 30,
+              "expanded_url": "https://x.com/yoyokiiy/status/2073046767369691372/photo/1",
+              "media_key": "3_2073046751703924736",
+              "start": 7,
+              "url": "https://t.co/mN2QbzXbLh"
+            },
+            {
+              "display_url": "pic.x.com/mN2QbzXbLh",
+              "end": 30,
+              "expanded_url": "https://x.com/yoyokiiy/status/2073046767369691372/photo/1",
+              "media_key": "3_2073046751729057792",
+              "start": 7,
+              "url": "https://t.co/mN2QbzXbLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073046767369691372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个普通晚上 https://t.co/mN2QbzXbLh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 216,
+          "like_count": 3039,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

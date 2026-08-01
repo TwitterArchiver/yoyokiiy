@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2081386446536253882",
+    "created_at": "2026-07-26T16:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081424289304314063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1814970519638491136",
+          "start": 0,
+          "username": "Awayshui"
+        },
+        {
+          "end": 16,
+          "id": "1507396901594820608",
+          "start": 10,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081424289304314063",
+    "in_reply_to_user_id": "1814970519638491136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081386446536253882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Awayshui @hgds0 做教育带带我行不。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081386435920416768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKR75FaUAAMmXb.jpg",
+        "width": 776
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2081386435920445440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKR75FawAAp3RV.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2081386446536253882",
+        "created_at": "2026-07-26T16:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081424289304314063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1814970519638491136",
+              "start": 0,
+              "username": "Awayshui"
+            },
+            {
+              "end": 16,
+              "id": "1507396901594820608",
+              "start": 10,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081424289304314063",
+        "in_reply_to_user_id": "1814970519638491136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081386446536253882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Awayshui @hgds0 做教育带带我行不。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081386435920416768",
+            "3_2081386435920445440"
+          ]
+        },
+        "author_id": "1814970519638491136",
+        "conversation_id": "2081386446536253882",
+        "created_at": "2026-07-26T14:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081386446536253882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lj541OWIF",
+              "end": 101,
+              "expanded_url": "https://x.com/Awayshui/status/2081386446536253882/photo/1",
+              "media_key": "3_2081386435920416768",
+              "start": 78,
+              "url": "https://t.co/0lj541OWIF"
+            },
+            {
+              "display_url": "pic.x.com/0lj541OWIF",
+              "end": 101,
+              "expanded_url": "https://x.com/Awayshui/status/2081386446536253882/photo/1",
+              "media_key": "3_2081386435920445440",
+              "start": 78,
+              "url": "https://t.co/0lj541OWIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081386446536253882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1890,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "帮会员发个交友帖\n\n坐标上海   95年   179   74kg，ai教育行业\n\n工作比较忙，想找一个同城的搭子，一个月陪4天左右，一个月的预算1w左右 https://t.co/0lj541OWIF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "友情出演「筋肉父親與棒球運動員兒子禁斷秘密」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "0.2km",
+        "name": "熟睡的妻子",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079909173740118016/ahEmuHyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 156,
+          "like_count": 3356,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 963
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-21T10:27:56.000Z",
+        "description": "干一行爱一行\n认真对待每个忠实客户！\n\n小特的大号：@ccxxhmbb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "ccxxhmbb"
+              }
+            ]
+          }
+        },
+        "id": "1814970519638491136",
+        "name": "小特（专业版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007428889665253378/YBbeq5FU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11297,
+          "following_count": 77,
+          "like_count": 4859,
+          "listed_count": 22,
+          "media_count": 101,
+          "tweet_count": 429
+        },
+        "url": "",
+        "username": "Awayshui",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97243,
+          "following_count": 2422,
+          "like_count": 45358,
+          "listed_count": 144,
+          "media_count": 4543,
+          "tweet_count": 8959
+        },
+        "url": "",
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2072391008600707504",
+    "created_at": "2026-07-03T11:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073008854816661593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1712657034796294144",
+          "start": 0,
+          "username": "beannie_ms"
+        },
+        {
+          "end": 25,
+          "id": "948164217370112007",
+          "start": 12,
+          "username": "midnighttttm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073008854816661593",
+    "in_reply_to_user_id": "1712657034796294144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072401837698003210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beannie_ms @midnighttttm 八字真言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2072391008600707504",
+        "created_at": "2026-07-03T11:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073008854816661593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1712657034796294144",
+              "start": 0,
+              "username": "beannie_ms"
+            },
+            {
+              "end": 25,
+              "id": "948164217370112007",
+              "start": 12,
+              "username": "midnighttttm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073008854816661593",
+        "in_reply_to_user_id": "1712657034796294144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072401837698003210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beannie_ms @midnighttttm 八字真言"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712657034796294144",
+        "conversation_id": "2072391008600707504",
+        "created_at": "2026-07-01T19:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072401837698003210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "948164217370112007",
+              "start": 0,
+              "username": "midnighttttm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072401837698003210",
+        "in_reply_to_user_id": "948164217370112007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5817,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072391008600707504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@midnighttttm 我也害怕，但我喜欢直面恐惧 战胜恐惧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜討厭裝貨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 216,
+          "like_count": 3036,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T02:30:48.000Z",
+        "description": "𝐿𝒾𝓋𝒾𝓃𝑔 𝓁𝒾𝒻𝑒 𝓉𝑜 𝓉𝒽𝑒 𝒻𝓊𝓁𝓁𝑒𝓈𝓉 🍀\nI am who I am\n • INTP • 屬貓 • 🐈‍⬛ • \n色色的這裡（pm私群哦）👉https://t.co/MpNwXL3e1u👈some naughty stuffs here",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/beannieeeee",
+                "end": 101,
+                "expanded_url": "https://t.me/beannieeeee",
+                "start": 78,
+                "url": "https://t.co/MpNwXL3e1u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Beannie",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Beannie",
+                "start": 0,
+                "url": "https://t.co/vI5i1IFjmS"
+              }
+            ]
+          }
+        },
+        "id": "1712657034796294144",
+        "location": "Malaysia",
+        "name": "Ms Beannie",
+        "pinned_tweet_id": "2026666386488176984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734193442518167552/FQFJ6p8N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31468,
+          "following_count": 577,
+          "like_count": 17228,
+          "listed_count": 38,
+          "media_count": 664,
+          "tweet_count": 6278
+        },
+        "url": "https://t.co/vI5i1IFjmS",
+        "username": "beannie_ms",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-02T12:09:00.000Z",
+        "description": "",
+        "id": "948164217370112007",
+        "name": "烤鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035180295763476480/H2HXBMEJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6820,
+          "following_count": 87,
+          "like_count": 3583,
+          "listed_count": 25,
+          "media_count": 219,
+          "tweet_count": 931
+        },
+        "url": "",
+        "username": "midnighttttm",
+        "verified": true
+      }
+    ]
+  }
+}

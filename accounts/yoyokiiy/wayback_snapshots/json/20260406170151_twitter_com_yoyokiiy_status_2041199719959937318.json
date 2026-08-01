@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2041199719959937318",
+    "created_at": "2026-04-06T17:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T18:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041199719959937318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/narcissistfein…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/narcissistfein/status/2041110082046349419",
+          "start": 7,
+          "url": "https://t.co/5jDq3Gpx65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041199719959937318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041110082046349419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个视角好好 https://t.co/5jDq3Gpx65"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22466,
+        "height": 720,
+        "media_key": "13_1988220169785847808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988220169785847808/img/vLjDr5B6j0mL4gMJ.jpg",
+        "public_metrics": {
+          "view_count": 95985
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988220169785847808/vid/avc1/480x270/j2Y-o3qQKJfyVi3p.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988220169785847808/vid/avc1/640x360/Mo_csp33_7DlCIjz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988220169785847808/vid/avc1/1280x720/Gkz4iKHaHXa5Y9wb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988220169785847808/pl/jRlIRdQsVbk0NWBC.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2041199719959937318",
+        "created_at": "2026-04-06T17:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041199719959937318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/narcissistfein…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/narcissistfein/status/2041110082046349419",
+              "start": 7,
+              "url": "https://t.co/5jDq3Gpx65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041199719959937318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041110082046349419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个视角好好 https://t.co/5jDq3Gpx65"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988220169785847808"
+          ],
+          "media_source_tweet_id": [
+            "1988220241705603426"
+          ]
+        },
+        "author_id": "1610308946316738571",
+        "conversation_id": "2041110082046349419",
+        "created_at": "2026-04-06T11:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041110082046349419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PyPA8GPE2F",
+              "end": 23,
+              "expanded_url": "https://x.com/Sleepy_dog0/status/1988220241705603426/video/1",
+              "media_key": "13_1988220169785847808",
+              "start": 0,
+              "url": "https://t.co/PyPA8GPE2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041110082046349419",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 630,
+          "impression_count": 39831,
+          "like_count": 1988,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PyPA8GPE2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 227,
+          "like_count": 2036,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T16:15:51.000Z",
+        "description": "✮ narcissist & hot — content isn't mine. | DM for Removal/Promo",
+        "id": "1610308946316738571",
+        "location": "NSFW — MDNI.",
+        "name": "✞",
+        "pinned_tweet_id": "2040238772013465954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660112936071749637/Cy9qpx-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807145,
+          "following_count": 95,
+          "like_count": 26,
+          "listed_count": 1517,
+          "media_count": 608,
+          "tweet_count": 564
+        },
+        "username": "NARCISSISTFEIN",
+        "verified": true
+      }
+    ]
+  }
+}

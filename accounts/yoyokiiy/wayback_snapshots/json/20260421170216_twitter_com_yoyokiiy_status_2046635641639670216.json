@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2046635641639670216",
+    "created_at": "2026-04-21T17:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T18:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046635641639670216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1984629468410101764",
+          "start": 3,
+          "username": "twntyfour7svn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046635641639670216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046507506961399825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twntyfour7svn: 最近真的很想断掉所有的社交关系，感觉迎合所有人真的太累了。也很少有照片，化妆、自拍都很少。最多也只有记录生活中那些平凡的点点滴滴。感觉好像已经过了那股走到哪儿都要疯狂出片的劲儿了。其实这样也蛮好的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2046635641639670216",
+        "created_at": "2026-04-21T17:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046635641639670216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1984629468410101764",
+              "start": 3,
+              "username": "twntyfour7svn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046635641639670216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046507506961399825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twntyfour7svn: 最近真的很想断掉所有的社交关系，感觉迎合所有人真的太累了。也很少有照片，化妆、自拍都很少。最多也只有记录生活中那些平凡的点点滴滴。感觉好像已经过了那股走到哪儿都要疯狂出片的劲儿了。其实这样也蛮好的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984629468410101764",
+        "conversation_id": "2046507506961399825",
+        "created_at": "2026-04-21T08:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046507506961399825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046507506961399825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3290,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "最近真的很想断掉所有的社交关系，感觉迎合所有人真的太累了。也很少有照片，化妆、自拍都很少。最多也只有记录生活中那些平凡的点点滴滴。感觉好像已经过了那股走到哪儿都要疯狂出片的劲儿了。其实这样也蛮好的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 244,
+          "like_count": 2197,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T14:32:12.000Z",
+        "description": "我提前说一下 我是文盲 和我家小狗共用一个账号 如果这个账号发了不好的言论 那都是小狗发的对不起 我家小狗没上过学 刚学会上网三个月 请大家谅解 骂人的都是小狗 狗四个爪子比我打字快🫶🏻",
+        "id": "1984629468410101764",
+        "name": "屁屁",
+        "pinned_tweet_id": "2010053247202169223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010030643103838209/nLSjDjZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 56,
+          "like_count": 2181,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1165
+        },
+        "username": "twntyfour7svn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066923155835539459",
+        "3_2066923155843928065"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2066923167218880519",
+    "created_at": "2026-06-16T16:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066923167218880519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7EVRzRBAC9",
+          "end": 31,
+          "expanded_url": "https://x.com/yoyokiiy/status/2066923167218880519/photo/1",
+          "media_key": "3_2066923155835539459",
+          "start": 8,
+          "url": "https://t.co/7EVRzRBAC9"
+        },
+        {
+          "display_url": "pic.x.com/7EVRzRBAC9",
+          "end": 31,
+          "expanded_url": "https://x.com/yoyokiiy/status/2066923167218880519/photo/1",
+          "media_key": "3_2066923155843928065",
+          "start": 8,
+          "url": "https://t.co/7EVRzRBAC9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066923167218880519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挡了脸再发一遍 https://t.co/7EVRzRBAC9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066923155835539459",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8vqMGbUAMMwd2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066923155843928065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8vqMIbUAEY3qV.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066923155835539459",
+            "3_2066923155843928065"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2066923167218880519",
+        "created_at": "2026-06-16T16:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066923167218880519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7EVRzRBAC9",
+              "end": 31,
+              "expanded_url": "https://x.com/yoyokiiy/status/2066923167218880519/photo/1",
+              "media_key": "3_2066923155835539459",
+              "start": 8,
+              "url": "https://t.co/7EVRzRBAC9"
+            },
+            {
+              "display_url": "pic.x.com/7EVRzRBAC9",
+              "end": 31,
+              "expanded_url": "https://x.com/yoyokiiy/status/2066923167218880519/photo/1",
+              "media_key": "3_2066923155843928065",
+              "start": 8,
+              "url": "https://t.co/7EVRzRBAC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066923167218880519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挡了脸再发一遍 https://t.co/7EVRzRBAC9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜碎碎念多一些偶尔丢几张图片｜苦笑面对世界中｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 213,
+          "like_count": 2776,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2069970545844933058",
+    "created_at": "2026-06-25T02:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T03:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069970545844933058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1921813809481859072",
+          "start": 3,
+          "username": "Zmor537174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069970545844933058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069435136652001561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zmor537174: 我特别地欣赏你，但并不太想认识你\n请尽情地保持距离保持神秘，神秘才是我们之间最好的粘合剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2069970545844933058",
+        "created_at": "2026-06-25T02:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069970545844933058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1921813809481859072",
+              "start": 3,
+              "username": "Zmor537174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069970545844933058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069435136652001561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zmor537174: 我特别地欣赏你，但并不太想认识你\n请尽情地保持距离保持神秘，神秘才是我们之间最好的粘合剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921813809481859072",
+        "conversation_id": "2069435136652001561",
+        "created_at": "2026-06-23T14:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069435136652001561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069435136652001561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11075,
+          "like_count": 207,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我特别地欣赏你，但并不太想认识你\n请尽情地保持距离保持神秘，神秘才是我们之间最好的粘合剂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜只想长大｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 211,
+          "like_count": 2954,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 814
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T06:25:03.000Z",
+        "description": "",
+        "id": "1921813809481859072",
+        "name": "Zmorrrrr",
+        "pinned_tweet_id": "1999607262126698554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921814314668773376/x3zPnAdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25488,
+          "following_count": 0,
+          "like_count": 183,
+          "listed_count": 23,
+          "media_count": 93,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "Zmor537174",
+        "verified": true
+      }
+    ]
+  }
+}

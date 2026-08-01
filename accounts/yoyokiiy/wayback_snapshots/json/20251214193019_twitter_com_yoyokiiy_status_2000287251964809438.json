@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2000090864639529287",
+    "created_at": "2025-12-14T19:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T20:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000287251964809438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1890591824391397376",
+          "start": 0,
+          "username": "YiQuandbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000287251964809438",
+    "in_reply_to_user_id": "1890591824391397376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000090864639529287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiQuandbn 卧槽咋聊上的😭😭我接，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1752,
+        "media_key": "3_2000090852757032960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8HACJ0XUAA85-v.jpg",
+        "width": 777
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2000090864639529287",
+        "created_at": "2025-12-14T19:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T20:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000287251964809438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1890591824391397376",
+              "start": 0,
+              "username": "YiQuandbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000287251964809438",
+        "in_reply_to_user_id": "1890591824391397376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000090864639529287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiQuandbn 卧槽咋聊上的😭😭我接，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000090852757032960"
+          ]
+        },
+        "author_id": "1890591824391397376",
+        "conversation_id": "2000090864639529287",
+        "created_at": "2025-12-14T06:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000090864639529287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2iinlTkQWO",
+              "end": 74,
+              "expanded_url": "https://x.com/YiQuandbn/status/2000090864639529287/photo/1",
+              "media_key": "3_2000090852757032960",
+              "start": 51,
+              "url": "https://t.co/2iinlTkQWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000090864639529287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2504,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不好意思各位 我的梦想在2025年底实现了 天降白皮薄肌眼镜男了啊哈哈哈哈哈 我现在笑得嘴都合不拢了 https://t.co/2iinlTkQWO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1992994593131081912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 186,
+          "like_count": 1455,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 222
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T02:40:08.000Z",
+        "description": "可以叫我小本/我妈妈@Mermercury52955/我的小猫：@279251miaowu/梦想是白皮薄肌眼镜男给我做狗/感谢你的喜欢祝你天天开心/🚀推荐我自己长期使用的喵叽VPN加速器 高速 稳定 强推！🔗：https://t.co/bEnmklG45X",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "Mermercury52955"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "279251miaowu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 128,
+                "expanded_url": "http://wwwwwl.sogood9.com/#/register?code=HoSUlNeH",
+                "start": 105,
+                "url": "https://t.co/bEnmklG45X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiquandbn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yiquandbn",
+                "start": 0,
+                "url": "https://t.co/LITVnMA9qb"
+              }
+            ]
+          }
+        },
+        "id": "1890591824391397376",
+        "location": "🚪/锁推号关注我会被屏蔽",
+        "name": "👊🏻",
+        "pinned_tweet_id": "2000229909709639919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998250892282236928/WbdQFMfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14822,
+          "following_count": 289,
+          "like_count": 87,
+          "listed_count": 10,
+          "media_count": 292,
+          "tweet_count": 14555
+        },
+        "url": "https://t.co/LITVnMA9qb",
+        "username": "YiQuandbn",
+        "verified": false
+      }
+    ]
+  }
+}

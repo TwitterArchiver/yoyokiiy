@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2061115595127418888",
+    "created_at": "2026-06-01T03:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061287016269066684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "624967292",
+          "start": 0,
+          "username": "vinicdsouza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061287016269066684",
+    "in_reply_to_user_id": "624967292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061115595127418888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vinicdsouza 这个用词好妙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2061115595127418888",
+        "created_at": "2026-06-01T03:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061287016269066684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "624967292",
+              "start": 0,
+              "username": "vinicdsouza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061287016269066684",
+        "in_reply_to_user_id": "624967292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061115595127418888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vinicdsouza 这个用词好妙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "624967292",
+        "conversation_id": "2061115595127418888",
+        "created_at": "2026-05-31T16:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061115595127418888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061115595127418888",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 543,
+          "impression_count": 295214,
+          "like_count": 8514,
+          "quote_count": 192,
+          "reply_count": 57,
+          "retweet_count": 367
+        },
+        "reply_settings": "everyone",
+        "text": "é estranhamente interessante ficar com uma pessoa super hiper low profile"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 215,
+          "like_count": 2607,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-02T20:18:00.000Z",
+        "description": "ninguém sabe mexer na minha confusão",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/vinicdsouza",
+                "end": 23,
+                "expanded_url": "http://instagram.com/vinicdsouza",
+                "start": 0,
+                "url": "https://t.co/gQoaq0mDkh"
+              }
+            ]
+          }
+        },
+        "id": "624967292",
+        "location": "Salvador",
+        "name": "Vini",
+        "pinned_tweet_id": "1587553592264859650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056497962499313664/Eooa5GBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165248,
+          "following_count": 434,
+          "like_count": 30521,
+          "listed_count": 85,
+          "media_count": 1447,
+          "tweet_count": 23786
+        },
+        "url": "https://t.co/gQoaq0mDkh",
+        "username": "vinicdsouza",
+        "verified": false
+      }
+    ]
+  }
+}

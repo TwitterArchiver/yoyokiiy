@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2015809142984962315",
+    "created_at": "2026-01-27T08:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T09:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016069717241561296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1163059050",
+          "start": 0,
+          "username": "BarlowLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016069717241561296",
+    "in_reply_to_user_id": "1163059050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015809142984962315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BarlowLi 停停停这不是我想要的女性视角。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10820,
+        "height": 1080,
+        "media_key": "13_2015808026192859136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015808026192859136/img/csw7bleX-CTBxFmr.jpg",
+        "public_metrics": {
+          "view_count": 177631
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015808026192859136/vid/avc1/480x270/KxlBpuElgQRe08q7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015808026192859136/vid/avc1/640x360/BR3E9Uo_Qzir6OQ2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015808026192859136/pl/q5iK_VucAD3jMIVv.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015808026192859136/vid/avc1/1920x1080/Dh78L8-6x32ivKVG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015808026192859136/vid/avc1/1280x720/jgNZaqkXjkN2OcHs.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2015809142984962315",
+        "created_at": "2026-01-27T08:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T09:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016069717241561296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1163059050",
+              "start": 0,
+              "username": "BarlowLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016069717241561296",
+        "in_reply_to_user_id": "1163059050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015809142984962315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BarlowLi 停停停这不是我想要的女性视角。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015808026192859136"
+          ]
+        },
+        "author_id": "1163059050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2015809142984962315",
+        "created_at": "2026-01-26T15:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015809142984962315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nbYIG1cykm",
+              "end": 40,
+              "expanded_url": "https://x.com/BarlowLi/status/2015809142984962315/video/1",
+              "media_key": "13_2015808026192859136",
+              "start": 17,
+              "url": "https://t.co/nbYIG1cykm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015809142984962315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 299959,
+          "like_count": 529,
+          "quote_count": 11,
+          "reply_count": 77,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "女性第一人称视角小电影，太吓人🥵 https://t.co/nbYIG1cykm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2012548014359916750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 200,
+          "like_count": 1583,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-09T14:14:02.000Z",
+        "description": "在0和1的世界里，寻找关于未来的无限可能。",
+        "id": "1163059050",
+        "name": "阿毛",
+        "pinned_tweet_id": "2015754138022519279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991668429351485440/oPLMrdn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9908,
+          "following_count": 5993,
+          "like_count": 40094,
+          "listed_count": 50,
+          "media_count": 1424,
+          "tweet_count": 44207
+        },
+        "username": "BarlowLi",
+        "verified": true
+      }
+    ]
+  }
+}

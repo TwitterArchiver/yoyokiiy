@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2033207252782621016",
+    "created_at": "2026-03-16T14:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033547589438554471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1968578365222506496",
+          "start": 0,
+          "username": "K1rreo_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033547589438554471",
+    "in_reply_to_user_id": "1968578365222506496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033207252782621016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1rreo_o 严肃参与。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2033207252782621016",
+        "created_at": "2026-03-16T14:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033547589438554471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968578365222506496",
+              "start": 0,
+              "username": "K1rreo_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033547589438554471",
+        "in_reply_to_user_id": "1968578365222506496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033207252782621016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1rreo_o 严肃参与。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968578365222506496",
+        "conversation_id": "2033207252782621016",
+        "created_at": "2026-03-15T15:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033207252782621016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033207252782621016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3578,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 83,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果没抽到购物基金的妹妹们不要慌 这条下面抽五个宝贝妹妹报销月卡（至于你买不买月卡那是你的事 我无所谓）参与要求哥新日上线后最低双0阶 🍗和丐敢来你就死定了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症 重度恋哥癖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 203,
+          "like_count": 1885,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T07:30:41.000Z",
+        "description": "❤️🐦‍⬛ -Sylus and Caleb - ·˚ 🍎🧡🈲乙女腐🈲未成年｜啥都发烂话脏话随便来的｜Bbh&Red Velvet|国乙只玩深空 偶尔偷吃光夜世外｜",
+        "id": "1968578365222506496",
+        "name": "小蛇島屿",
+        "pinned_tweet_id": "2032706200102707517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030982634273398785/nDQnxlkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4873,
+          "following_count": 40,
+          "like_count": 173,
+          "listed_count": 7,
+          "media_count": 101,
+          "tweet_count": 565
+        },
+        "username": "K1rreo_o",
+        "verified": false
+      }
+    ]
+  }
+}

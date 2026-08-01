@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1998327259682484728",
+    "created_at": "2025-12-10T17:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T18:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998799967960576073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998799967960576073",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998327259682484728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 闭关锁国进行中。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 458,
+        "media_key": "3_1998327122671341568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7t77jPakAArcRE.png",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1998327259682484728",
+        "created_at": "2025-12-10T17:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T18:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998799967960576073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998799967960576073",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998327259682484728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 闭关锁国进行中。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998327122671341568"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1998327259682484728",
+        "created_at": "2025-12-09T09:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998327259682484728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ak0GPE7JPP",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1998327259682484728/photo/1",
+              "media_key": "3_1998327122671341568",
+              "start": 144,
+              "url": "https://t.co/Ak0GPE7JPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998327259682484728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "12月9日，某学校教师在班级群里提醒同学们，近期网络上流行的“高雅人士”企鹅表情包因被部分网友二次创作出涉及敏感历史与政治隐喻的内容，已经带来争议，要求学生不要继续使用相关表情。\n这类表情包最初为搞笑梗图，但随后有人将其改绘为红卫兵造型、坦克画面，甚至与某些历史事件的象征性场景相结合。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 655543,
+          "like_count": 1863,
+          "quote_count": 12,
+          "reply_count": 89,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "12月9日，某学校教师在班级群里提醒同学们，近期网络上流行的“高雅人士”企鹅表情包因被部分网友二次创作出涉及敏感历史与政治隐喻的内容，已经带来争议，要求学生不要继续使用相关表情。\n这类表情包最初为搞笑梗图，但随后有人将其改绘为红卫兵造型、坦克画面，甚至与某些历史事件的象征性场景相结合。 https://t.co/Ak0GPE7JPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1992994593131081912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 192,
+          "like_count": 1448,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 218
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998464594226839552/OmoQEWXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157215,
+          "following_count": 984,
+          "like_count": 8435,
+          "listed_count": 8414,
+          "media_count": 38358,
+          "tweet_count": 45256
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

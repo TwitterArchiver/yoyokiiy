@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1998796334414049500",
+    "created_at": "2025-12-10T16:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T17:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998796334414049500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1933265227652739076",
+          "start": 3,
+          "username": "ETHQIFEILO"
+        },
+        {
+          "end": 31,
+          "id": "1807973988544720896",
+          "start": 16,
+          "username": "OlandoChen6165"
+        },
+        {
+          "end": 46,
+          "id": "1854392898244263936",
+          "start": 32,
+          "username": "ruo_ding47252"
+        },
+        {
+          "end": 57,
+          "id": "1997946138083926016",
+          "start": 47,
+          "username": "MND_China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998796334414049500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998699578116227363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ETHQIFEILO: @OlandoChen6165 @ruo_ding47252 @MND_China 也别咱妈了，叫己爸我觉得合适的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1998796334414049500",
+        "created_at": "2025-12-10T16:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T17:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998796334414049500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1933265227652739076",
+              "start": 3,
+              "username": "ETHQIFEILO"
+            },
+            {
+              "end": 31,
+              "id": "1807973988544720896",
+              "start": 16,
+              "username": "OlandoChen6165"
+            },
+            {
+              "end": 46,
+              "id": "1854392898244263936",
+              "start": 32,
+              "username": "ruo_ding47252"
+            },
+            {
+              "end": 57,
+              "id": "1997946138083926016",
+              "start": 47,
+              "username": "MND_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998796334414049500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998699578116227363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ETHQIFEILO: @OlandoChen6165 @ruo_ding47252 @MND_China 也别咱妈了，叫己爸我觉得合适的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933265227652739076",
+        "conversation_id": "1997969403124531347",
+        "created_at": "2025-12-10T10:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998699578116227363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1807973988544720896",
+              "start": 0,
+              "username": "OlandoChen6165"
+            },
+            {
+              "end": 30,
+              "id": "1854392898244263936",
+              "start": 16,
+              "username": "ruo_ding47252"
+            },
+            {
+              "end": 41,
+              "id": "1997946138083926016",
+              "start": 31,
+              "username": "MND_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998699578116227363",
+        "in_reply_to_user_id": "1807973988544720896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 543,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998337854490161466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OlandoChen6165 @ruo_ding47252 @MND_China 也别咱妈了，叫己爸我觉得合适的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1992994593131081912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 192,
+          "like_count": 1445,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 216
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T20:49:06.000Z",
+        "description": "",
+        "id": "1933265227652739076",
+        "name": "唧唧装神弄鬼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933267359147700227/XLlMWj4n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 377,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 314
+        },
+        "username": "ETHQIFEILO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T03:06:12.000Z",
+        "description": "",
+        "id": "1807973988544720896",
+        "location": "深圳",
+        "name": "Olando Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915637746162688001/ZZittkIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 35,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "OlandoChen6165",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T05:18:29.000Z",
+        "description": "❌",
+        "id": "1854392898244263936",
+        "name": "April51927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859963898113536000/5nZkNmSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 13,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "username": "ruo_ding47252",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T08:27:55.000Z",
+        "description": "Follow us to know about China's national defense in the new era.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "eng.mod.gov.cn",
+                "end": 23,
+                "expanded_url": "http://eng.mod.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/CWpY8zE0AC"
+              }
+            ]
+          }
+        },
+        "id": "1997946138083926016",
+        "location": "Beijing, China",
+        "name": "Ministry of National Defense of China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997946300550217728/w3JcRFTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224007,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 70,
+          "media_count": 6,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/CWpY8zE0AC",
+        "username": "MND_China",
+        "verified": false
+      }
+    ]
+  }
+}

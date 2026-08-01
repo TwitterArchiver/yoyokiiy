@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075909837628833792",
+        "3_2075909837624672256"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2075909860613587245",
+    "created_at": "2026-07-11T11:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075909860613587245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ir1tbctrwY",
+          "end": 39,
+          "expanded_url": "https://x.com/yoyokiiy/status/2075909860613587245/photo/1",
+          "media_key": "3_2075909837628833792",
+          "start": 16,
+          "url": "https://t.co/Ir1tbctrwY"
+        },
+        {
+          "display_url": "pic.x.com/Ir1tbctrwY",
+          "end": 39,
+          "expanded_url": "https://x.com/yoyokiiy/status/2075909860613587245/photo/1",
+          "media_key": "3_2075909837624672256",
+          "start": 16,
+          "url": "https://t.co/Ir1tbctrwY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075909860613587245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在这个充满积极情绪的地方想流泪 https://t.co/Ir1tbctrwY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075909837628833792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8c_6mbAAAYVaV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075909837624672256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8c_6lbgAAMTT5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075909837628833792",
+            "3_2075909837624672256"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2075909860613587245",
+        "created_at": "2026-07-11T11:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075909860613587245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ir1tbctrwY",
+              "end": 39,
+              "expanded_url": "https://x.com/yoyokiiy/status/2075909860613587245/photo/1",
+              "media_key": "3_2075909837628833792",
+              "start": 16,
+              "url": "https://t.co/Ir1tbctrwY"
+            },
+            {
+              "display_url": "pic.x.com/Ir1tbctrwY",
+              "end": 39,
+              "expanded_url": "https://x.com/yoyokiiy/status/2075909860613587245/photo/1",
+              "media_key": "3_2075909837624672256",
+              "start": 16,
+              "url": "https://t.co/Ir1tbctrwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075909860613587245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在这个充满积极情绪的地方想流泪 https://t.co/Ir1tbctrwY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 190,
+          "like_count": 3186,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      }
+    ]
+  }
+}

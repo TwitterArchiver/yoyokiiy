@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2061365836598620182",
+    "created_at": "2026-06-01T14:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061455257582903693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684434793352646656",
+          "start": 0,
+          "username": "Yours_Stupid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061455257582903693",
+    "in_reply_to_user_id": "1684434793352646656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061416279786041396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yours_Stupid oh太会说了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2061365836598620182",
+        "created_at": "2026-06-01T14:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061455257582903693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684434793352646656",
+              "start": 0,
+              "username": "Yours_Stupid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061455257582903693",
+        "in_reply_to_user_id": "1684434793352646656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061416279786041396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yours_Stupid oh太会说了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684434793352646656",
+        "conversation_id": "2061365836598620182",
+        "created_at": "2026-06-01T11:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061416279786041396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061416279786041396",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061365836598620182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 你比他更生动奥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 214,
+          "like_count": 2605,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T05:25:32.000Z",
+        "description": "你越得不到你越想要",
+        "id": "1684434793352646656",
+        "location": "天津",
+        "name": "Stupid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684452384917819392/_ZZLcQVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 13,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 38
+        },
+        "username": "Yours_Stupid",
+        "verified": false
+      }
+    ]
+  }
+}

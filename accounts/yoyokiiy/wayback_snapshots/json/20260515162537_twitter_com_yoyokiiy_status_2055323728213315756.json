@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2055188082287378673",
+    "created_at": "2026-05-15T16:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055323728213315756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862884625833660416",
+          "start": 0,
+          "username": "kuololxhssc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055323728213315756",
+    "in_reply_to_user_id": "1862884625833660416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055188082287378673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuololxhssc 之前去那边玩买了全带给亲戚了自己倒是一口没吃🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2055188082287378673",
+        "created_at": "2026-05-15T16:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055323728213315756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862884625833660416",
+              "start": 0,
+              "username": "kuololxhssc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055323728213315756",
+        "in_reply_to_user_id": "1862884625833660416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055188082287378673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuololxhssc 之前去那边玩买了全带给亲戚了自己倒是一口没吃🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862884625833660416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2055188082287378673",
+        "created_at": "2026-05-15T07:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055188082287378673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055188082287378673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9541,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们吃过那个白色恋人的饼干吗，小时候亲戚在日本留学给我寄了超级多，给我吃成大胃袋了，最后吃不完全送人了，长大了想吃一搜四包还是八包的六十多…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "乱涂乱画的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 210,
+          "like_count": 2484,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 662
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T15:41:30.000Z",
+        "description": "在这里放只小猫ᓚᘏᗢ 路过可以摸摸它^v^",
+        "id": "1862884625833660416",
+        "location": "我喜欢你ᯇ⩊ᯇ",
+        "name": "香草薄荷",
+        "pinned_tweet_id": "2054497332717298133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045006452927188992/D1K_Nh7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 33,
+          "like_count": 344,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 151
+        },
+        "username": "kuololxhssc",
+        "verified": false
+      }
+    ]
+  }
+}

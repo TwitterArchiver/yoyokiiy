@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1974088294951752105",
+    "created_at": "2025-10-03T15:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T16:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974134917069222204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779093261954465792",
+          "start": 0,
+          "username": "Readyt01ove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974134917069222204",
+    "in_reply_to_user_id": "1779093261954465792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974088294951752105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Readyt01ove 和老婆隔空同款"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974088282553360384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Ve1XTaoAAjvif.jpg",
+        "width": 1470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1974088294951752105",
+        "created_at": "2025-10-03T15:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974134917069222204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779093261954465792",
+              "start": 0,
+              "username": "Readyt01ove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974134917069222204",
+        "in_reply_to_user_id": "1779093261954465792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974088294951752105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Readyt01ove 和老婆隔空同款"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974088282553360384"
+          ]
+        },
+        "author_id": "1779093261954465792",
+        "conversation_id": "1974088294951752105",
+        "created_at": "2025-10-03T12:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T13:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974088294951752105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/26ZSEvmHnW",
+              "end": 37,
+              "expanded_url": "https://x.com/Readyt01ove/status/1974088294951752105/photo/1",
+              "media_key": "3_1974088282553360384",
+              "start": 14,
+              "url": "https://t.co/26ZSEvmHnW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974088294951752105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2930,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样去见爸爸主人老公。 https://t.co/26ZSEvmHnW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "这里大概有90%的我自己。安分与淫乱二象性。骨科重度爱好者。女宝们都来和我互动好不好🥺",
+        "id": "1897445432365821952",
+        "name": "其实我是gay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972538448977461248/340Iphsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 148,
+          "like_count": 974,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 83
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T10:24:39.000Z",
+        "description": "我只有一米五。｜蜂鸟VPN：https://t.co/7bmBTjVUYL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 37,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=0yw6dllt",
+                "start": 14,
+                "url": "https://t.co/7bmBTjVUYL"
+              }
+            ]
+          }
+        },
+        "id": "1779093261954465792",
+        "location": "距离你1km",
+        "name": "hani",
+        "pinned_tweet_id": "1966077393740902511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957090015118598144/plWbiKK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5654,
+          "following_count": 145,
+          "like_count": 39211,
+          "listed_count": 13,
+          "media_count": 167,
+          "tweet_count": 2942
+        },
+        "username": "Readyt01ove",
+        "verified": false
+      }
+    ]
+  }
+}

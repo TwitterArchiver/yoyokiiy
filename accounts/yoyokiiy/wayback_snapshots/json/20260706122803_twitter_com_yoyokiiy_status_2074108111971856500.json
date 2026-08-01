@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2073772449410228377",
+    "created_at": "2026-07-06T12:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074108111971856500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1923820442902724610",
+          "start": 0,
+          "username": "J6382309784476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074108111971856500",
+    "in_reply_to_user_id": "1923820442902724610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074002853954519113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J6382309784476 谢谢你🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2073772449410228377",
+        "created_at": "2026-07-06T12:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074108111971856500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1923820442902724610",
+              "start": 0,
+              "username": "J6382309784476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074108111971856500",
+        "in_reply_to_user_id": "1923820442902724610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074002853954519113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J6382309784476 谢谢你🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923820442902724610",
+        "conversation_id": "2073772449410228377",
+        "created_at": "2026-07-06T05:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074002853954519113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074002853954519113",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073772449410228377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 那说明你本来也很厉害才会接触到很厉害的群体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 202,
+          "like_count": 3113,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T19:19:07.000Z",
+        "description": "会いたいのに赤信号ばかり",
+        "id": "1923820442902724610",
+        "name": "无人读取的日志",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930975462181982208/OfPlA_8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 30,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "J6382309784476",
+        "verified": false
+      }
+    ]
+  }
+}

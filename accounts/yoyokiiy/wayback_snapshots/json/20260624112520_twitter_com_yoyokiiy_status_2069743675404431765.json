@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2069738953520091388",
+    "created_at": "2026-06-24T11:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069743675404431765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2014312470144503808",
+          "start": 0,
+          "username": "_yuziiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069743675404431765",
+    "in_reply_to_user_id": "2014312470144503808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069738953520091388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yuziiii 咋这么惨！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2069738953520091388",
+        "created_at": "2026-06-24T11:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069743675404431765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2014312470144503808",
+              "start": 0,
+              "username": "_yuziiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069743675404431765",
+        "in_reply_to_user_id": "2014312470144503808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069738953520091388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuziiii 咋这么惨！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014312470144503808",
+        "conversation_id": "2069738953520091388",
+        "created_at": "2026-06-24T11:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069738953520091388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069738953520091388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上午因为痛经休息了，中午睡起来又发现落枕了，下午回去上了半天班，准备去针灸发现生理期不可以，回家路上点了晚餐，因为还没有到家开不了门禁，骑手说放我楼下门口比较隐蔽的地方，小区附近药房的阿姨给我按摩了会敷好药油回到楼下发现晚餐已经被偷^^ 究竟是谁在给我做局"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜只想长大｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2066923167218880519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 211,
+          "like_count": 2950,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 810
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T12:21:49.000Z",
+        "description": "生活垃圾倾倒中心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuziii_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuziii_",
+                "start": 0,
+                "url": "https://t.co/NV81bTI5Hl"
+              }
+            ]
+          }
+        },
+        "id": "2014312470144503808",
+        "name": "•_•yuzi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054810705589866496/JdtPMSxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 59,
+          "like_count": 2650,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/NV81bTI5Hl",
+        "username": "_yuziiii",
+        "verified": false
+      }
+    ]
+  }
+}

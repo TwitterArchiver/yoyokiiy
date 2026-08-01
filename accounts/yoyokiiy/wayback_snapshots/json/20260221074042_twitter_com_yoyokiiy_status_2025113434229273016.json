@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2024814618779271534",
+    "created_at": "2026-02-21T07:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025113434229273016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1643482518555963392",
+          "start": 0,
+          "username": "hzhzhzorz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025113434229273016",
+    "in_reply_to_user_id": "1643482518555963392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024814618779271534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzhzhzorz 不中了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15811,
+        "height": 714,
+        "media_key": "7_2024814592501903360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2024814592501903360/pu/img/V8PCYOHplK6sY-q2.jpg",
+        "public_metrics": {
+          "view_count": 17181
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024814592501903360/pu/vid/avc1/484x270/fIlo8fq_40ylU2ux.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024814592501903360/pu/vid/avc1/644x360/b04IS90kyeB46ceX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024814592501903360/pu/vid/avc1/1280x714/nnmYDABeVLfAS6aS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2024814592501903360/pu/pl/0CFVa-1sYIxkglAq.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 14900,
+        "height": 720,
+        "media_key": "7_2024814596633378816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2024814596633378816/pu/img/U9mOS7Am4heDGYkZ.jpg",
+        "public_metrics": {
+          "view_count": 2540
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024814596633378816/pu/vid/avc1/480x270/xLP7ncnNLdotcejy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024814596633378816/pu/vid/avc1/640x360/bqS7fylhtdVpFXNe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024814596633378816/pu/vid/avc1/1280x720/y52QCaJHZSoH-zx0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2024814596633378816/pu/pl/n7YwV4e8bcqBwabH.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2024814618779271534",
+        "created_at": "2026-02-21T07:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025113434229273016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643482518555963392",
+              "start": 0,
+              "username": "hzhzhzorz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025113434229273016",
+        "in_reply_to_user_id": "1643482518555963392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024814618779271534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzhzhzorz 不中了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2024814592501903360",
+            "7_2024814596633378816"
+          ]
+        },
+        "author_id": "1643482518555963392",
+        "conversation_id": "2024814618779271534",
+        "created_at": "2026-02-20T11:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024814618779271534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qoml5YpnIY",
+              "end": 38,
+              "expanded_url": "https://x.com/hzhzhzorz/status/2024814618779271534/video/1",
+              "media_key": "7_2024814592501903360",
+              "start": 15,
+              "url": "https://t.co/qoml5YpnIY"
+            },
+            {
+              "display_url": "pic.x.com/qoml5YpnIY",
+              "end": 38,
+              "expanded_url": "https://x.com/hzhzhzorz/status/2024814618779271534/video/1",
+              "media_key": "7_2024814596633378816",
+              "start": 15,
+              "url": "https://t.co/qoml5YpnIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024814618779271534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 48446,
+          "like_count": 1290,
+          "quote_count": 19,
+          "reply_count": 44,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "我上推刷到的无非这两种贴文： https://t.co/qoml5YpnIY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 205,
+          "like_count": 1815,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:15:48.000Z",
+        "description": "🚪88除互关 不闲聊\n坐标长春 高三不定时复活\n认出来请无视我",
+        "id": "1643482518555963392",
+        "location": "怡紅院",
+        "name": "今沢江朝",
+        "pinned_tweet_id": "2014270030041829391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920307211936378880/U8fjF4sr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 569,
+          "like_count": 3594,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 1821
+        },
+        "username": "hzhzhzorz",
+        "verified": false
+      }
+    ]
+  }
+}

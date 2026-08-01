@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2068195082264596494",
+    "created_at": "2026-06-20T13:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068319077223850292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "966986879626301440",
+          "start": 0,
+          "username": "william40152988"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068319077223850292",
+    "in_reply_to_user_id": "966986879626301440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068287913062728119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@william40152988 可能少不必要的拉扯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2068195082264596494",
+        "created_at": "2026-06-20T13:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068319077223850292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "966986879626301440",
+              "start": 0,
+              "username": "william40152988"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068319077223850292",
+        "in_reply_to_user_id": "966986879626301440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068287913062728119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@william40152988 可能少不必要的拉扯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "966986879626301440",
+        "conversation_id": "2068195082264596494",
+        "created_at": "2026-06-20T11:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068287913062728119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068287913062728119",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068195082264596494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 成熟一点反而少点拉扯吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 216,
+          "like_count": 2862,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-23T10:43:32.000Z",
+        "description": "",
+        "id": "966986879626301440",
+        "location": "Roma",
+        "name": "Yong.c",
+        "pinned_tweet_id": "2064262711626576331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058200248749641729/15gJ_nqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 1827,
+          "like_count": 3117,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 3657
+        },
+        "url": "",
+        "username": "william40152988",
+        "verified": true
+      }
+    ]
+  }
+}

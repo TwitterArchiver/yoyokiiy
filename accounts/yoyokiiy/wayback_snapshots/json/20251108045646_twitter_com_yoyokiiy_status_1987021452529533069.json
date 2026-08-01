@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1986464537676292508",
+    "created_at": "2025-11-08T04:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T05:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987021452529533069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921989501884264449",
+          "start": 0,
+          "username": "xiaoxiaoyyyyy_"
+        },
+        {
+          "end": 29,
+          "id": "1800046292724563968",
+          "start": 16,
+          "username": "Mdlwxhn11111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987021452529533069",
+    "in_reply_to_user_id": "1921989501884264449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986464800600363246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiaoyyyyy_ @Mdlwxhn11111 我笑死了消防车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1986464537676292508",
+        "created_at": "2025-11-08T04:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987021452529533069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921989501884264449",
+              "start": 0,
+              "username": "xiaoxiaoyyyyy_"
+            },
+            {
+              "end": 29,
+              "id": "1800046292724563968",
+              "start": 16,
+              "username": "Mdlwxhn11111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987021452529533069",
+        "in_reply_to_user_id": "1921989501884264449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986464800600363246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiaoyyyyy_ @Mdlwxhn11111 我笑死了消防车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921989501884264449",
+        "conversation_id": "1986464537676292508",
+        "created_at": "2025-11-06T16:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T17:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986464800600363246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1800046292724563968",
+              "start": 0,
+              "username": "Mdlwxhn11111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986464800600363246",
+        "in_reply_to_user_id": "1800046292724563968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2661,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986464537676292508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mdlwxhn11111 他们说的大概是扣1就给私信看喷水的消防车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 175,
+          "like_count": 1310,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 178
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T18:03:09.000Z",
+        "description": "胡说八道的地方/只有这一个大号@xiaoyyyyy_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "xiaoyyyyy_"
+              }
+            ]
+          }
+        },
+        "id": "1921989501884264449",
+        "name": "小小y",
+        "pinned_tweet_id": "1983501094048161880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983501507023749120/nGy_u4kh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 19,
+          "like_count": 805,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 764
+        },
+        "username": "xiaoxiaoyyyyy_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T06:04:30.000Z",
+        "description": "发点碎碎念or发疯日常 偷图挡灾 没有固定属性 xp和性取向 觉得好玩都可以尝试，欢迎有意思有礼貌的人来找我互动！！回有礼貌有意思的私信（让人感到不舒服的私信会拉黑！ 非粉私信拉黑！！），发图发语音发神发情拉黑。（不恨男不厌女 平等的讨厌每一个伪人）",
+        "id": "1800046292724563968",
+        "location": "🚪520",
+        "name": "麦当当大薯条（早睡早起上吊版）",
+        "pinned_tweet_id": "1935402693406888352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889389645605249026/ct8VBDYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19455,
+          "following_count": 294,
+          "like_count": 45206,
+          "listed_count": 42,
+          "media_count": 302,
+          "tweet_count": 9686
+        },
+        "username": "Mdlwxhn11111",
+        "verified": false
+      }
+    ]
+  }
+}

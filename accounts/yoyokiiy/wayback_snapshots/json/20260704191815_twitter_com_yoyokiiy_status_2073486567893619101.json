@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073298868327088128"
+      ],
+      "media_source_tweet_id": [
+        "2073298880410923263"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2073486567893619101",
+    "created_at": "2026-07-04T19:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T20:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073486567893619101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825529827958624256",
+          "start": 3,
+          "username": "SUGASSSA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D9Eb1pMfKB",
+          "end": 86,
+          "expanded_url": "https://x.com/SUGASSSA/status/2073298880410923263/photo/1",
+          "media_key": "3_2073298868327088128",
+          "start": 63,
+          "url": "https://t.co/D9Eb1pMfKB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073486567893619101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073298880410923263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SUGASSSA: 对互联网上的人通过照片和展示的生活状态就产生感情是非常危险的行为，\n不管怎么样见面才能是“开始” https://t.co/D9Eb1pMfKB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1444,
+        "media_key": "3_2073298868327088128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXWVf_bAAAytv6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073298868327088128"
+          ],
+          "media_source_tweet_id": [
+            "2073298880410923263"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2073486567893619101",
+        "created_at": "2026-07-04T19:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073486567893619101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825529827958624256",
+              "start": 3,
+              "username": "SUGASSSA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9Eb1pMfKB",
+              "end": 86,
+              "expanded_url": "https://x.com/SUGASSSA/status/2073298880410923263/photo/1",
+              "media_key": "3_2073298868327088128",
+              "start": 63,
+              "url": "https://t.co/D9Eb1pMfKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073486567893619101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073298880410923263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SUGASSSA: 对互联网上的人通过照片和展示的生活状态就产生感情是非常危险的行为，\n不管怎么样见面才能是“开始” https://t.co/D9Eb1pMfKB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073298868327088128"
+          ]
+        },
+        "author_id": "1825529827958624256",
+        "conversation_id": "2073298880410923263",
+        "created_at": "2026-07-04T06:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073298880410923263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9Eb1pMfKB",
+              "end": 72,
+              "expanded_url": "https://x.com/SUGASSSA/status/2073298880410923263/photo/1",
+              "media_key": "3_2073298868327088128",
+              "start": 49,
+              "url": "https://t.co/D9Eb1pMfKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073298880410923263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4715,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "对互联网上的人通过照片和展示的生活状态就产生感情是非常危险的行为，\n不管怎么样见面才能是“开始” https://t.co/D9Eb1pMfKB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 205,
+          "like_count": 3049,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T13:47:10.000Z",
+        "description": "废话大王",
+        "id": "1825529827958624256",
+        "name": "SUGASAA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831898340377948164/DlFVbDky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 183,
+          "like_count": 50,
+          "listed_count": 8,
+          "media_count": 66,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "SUGASSSA",
+        "verified": false
+      }
+    ]
+  }
+}

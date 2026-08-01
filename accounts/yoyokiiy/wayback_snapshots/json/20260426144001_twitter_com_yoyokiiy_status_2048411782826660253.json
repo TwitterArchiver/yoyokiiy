@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2048330680803975559",
+    "created_at": "2026-04-26T14:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048411782826660253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2004574270916268033",
+          "start": 0,
+          "username": "Nssymwhsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048411782826660253",
+    "in_reply_to_user_id": "2004574270916268033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048330680803975559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nssymwhsg 诡秘我十八岁学了半个暑假现在依旧畏水🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2048330680803975559",
+        "created_at": "2026-04-26T14:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048411782826660253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2004574270916268033",
+              "start": 0,
+              "username": "Nssymwhsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048411782826660253",
+        "in_reply_to_user_id": "2004574270916268033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048330680803975559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nssymwhsg 诡秘我十八岁学了半个暑假现在依旧畏水🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004574270916268033",
+        "conversation_id": "2048330680803975559",
+        "created_at": "2026-04-26T09:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048330680803975559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048330680803975559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1481,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜们我买了泳衣泳镜泳帽打算去学游泳了，我找个教练学几节课，你们觉得我能学会吗🌚我会憋气，我上一次游泳是初二🌚🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "纯绿清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 207,
+          "like_count": 2314,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T15:26:29.000Z",
+        "description": "什么都发。不加v（女生来者不拒）",
+        "id": "2004574270916268033",
+        "name": "Nssymw",
+        "pinned_tweet_id": "2022014103930515555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004574891719507968/kUdZI6nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 379,
+          "like_count": 6882,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 2871
+        },
+        "username": "Nssymwhsg",
+        "verified": false
+      }
+    ]
+  }
+}

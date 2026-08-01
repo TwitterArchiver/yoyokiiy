@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2066882372684120560",
+    "created_at": "2026-06-17T09:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067177335321944285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646972643206365184",
+          "start": 0,
+          "username": "yanyannbcwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067177335321944285",
+    "in_reply_to_user_id": "1646972643206365184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066882372684120560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyannbcwx 不要忘了夸夸🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2066882372684120560",
+        "created_at": "2026-06-17T09:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067177335321944285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646972643206365184",
+              "start": 0,
+              "username": "yanyannbcwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067177335321944285",
+        "in_reply_to_user_id": "1646972643206365184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066882372684120560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyannbcwx 不要忘了夸夸🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646972643206365184",
+        "conversation_id": "2066882372684120560",
+        "created_at": "2026-06-16T13:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066882372684120560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066882372684120560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1093,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一般射了之后，能抱抱我就会多抱会再拔出来，然后帮女生擦干净逼再亲亲她。\n就是想问问大家有没有更优解啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 213,
+          "like_count": 2773,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T20:24:24.000Z",
+        "description": "以前枷锁太多，现在我顺从自己。\n小号 @jiangzhonwen\n承蒙各位喜爱\n推出地陪服务\n主要城市为广州，深圳，佛山，中山，东莞，珠海，江门\n新添国内旅陪，帮您轻松度假\n\n欢迎私信咨询o!!!\n(获取详细信息、客人评价、自我介绍等)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "jiangzhonwen"
+              }
+            ]
+          }
+        },
+        "id": "1646972643206365184",
+        "location": "🚪好友位88-188-288",
+        "name": "𝓐𝖕𝖕",
+        "pinned_tweet_id": "2058162530888114474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032121230170734595/UutBtkMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4919,
+          "following_count": 80,
+          "like_count": 11113,
+          "listed_count": 11,
+          "media_count": 97,
+          "tweet_count": 2425
+        },
+        "username": "yanyannbcwx",
+        "verified": false
+      }
+    ]
+  }
+}

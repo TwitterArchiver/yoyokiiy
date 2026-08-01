@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1976944083865387034",
+    "created_at": "2025-10-12T16:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T17:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977406512923545968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938108852752502784",
+          "start": 0,
+          "username": "520Seulgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977406512923545968",
+    "in_reply_to_user_id": "1938108852752502784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976944083865387034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Seulgi gay蜜这张又ins又韩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1976944076928016384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-EKeYbYAAHNNs.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1976944083865387034",
+        "created_at": "2025-10-12T16:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T17:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977406512923545968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938108852752502784",
+              "start": 0,
+              "username": "520Seulgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977406512923545968",
+        "in_reply_to_user_id": "1938108852752502784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976944083865387034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Seulgi gay蜜这张又ins又韩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976944076928016384"
+          ]
+        },
+        "author_id": "1938108852752502784",
+        "conversation_id": "1976944083865387034",
+        "created_at": "2025-10-11T09:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T10:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976944083865387034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9gTbMbPFl",
+              "end": 28,
+              "expanded_url": "https://x.com/520Seulgi/status/1976944083865387034/photo/1",
+              "media_key": "3_1976944076928016384",
+              "start": 5,
+              "url": "https://t.co/x9gTbMbPFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976944083865387034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 91042,
+          "like_count": 982,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢这张 https://t.co/x9gTbMbPFl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974094973529387348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 186,
+          "like_count": 1206,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 142
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "姜涩琪主义....｜当朋友圈发🫧 碎碎念 分享日常｜互关可➕🛰️  不是互关🚪88｜悉尼留子🇦🇺｜不聊黄！绿色冲浪🏄｜欢迎宝宝们找我玩 https://t.co/uXGLEeOspz🥺｜（我是男的，是gay，是0。补药再把我当女生了/……… ）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/520seulgi",
+                "end": 91,
+                "expanded_url": "https://ngl.link/520seulgi",
+                "start": 68,
+                "url": "https://t.co/uXGLEeOspz"
+              }
+            ]
+          }
+        },
+        "id": "1938108852752502784",
+        "location": "在你心里",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "1955175746487587120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948655968755359744/-MCjuM5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 190,
+          "like_count": 4963,
+          "listed_count": 1,
+          "media_count": 1153,
+          "tweet_count": 3115
+        },
+        "username": "520Seulgi",
+        "verified": false
+      }
+    ]
+  }
+}

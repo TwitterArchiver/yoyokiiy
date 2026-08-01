@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2017935590873018433",
+    "created_at": "2026-02-02T11:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T12:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018281021582749990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "718468849943752705",
+          "start": 0,
+          "username": "spankingdoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018281021582749990",
+    "in_reply_to_user_id": "718468849943752705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018256080590229776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spankingdoll 不是捏hh不过激发了我的好奇心我去搜看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2017935590873018433",
+        "created_at": "2026-02-02T11:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018281021582749990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "718468849943752705",
+              "start": 0,
+              "username": "spankingdoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018281021582749990",
+        "in_reply_to_user_id": "718468849943752705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018256080590229776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spankingdoll 不是捏hh不过激发了我的好奇心我去搜看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "718468849943752705",
+        "conversation_id": "2017935590873018433",
+        "created_at": "2026-02-02T09:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T10:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018256080590229776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018256080590229776",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017935590873018433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 萌猫教主也是你吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2012548014359916750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 199,
+          "like_count": 1615,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 300
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-08T16:01:37.000Z",
+        "description": "",
+        "id": "718468849943752705",
+        "location": "Showa-cho, Yamanashi",
+        "name": "哇哇教主",
+        "pinned_tweet_id": "1858523577320165442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018257256295628800/s82xXYnc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 21,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 134
+        },
+        "username": "spankingdoll",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2074784964034613292",
+    "created_at": "2026-07-08T14:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074870755586920450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1240563575032180736",
+          "start": 0,
+          "username": "yushengjiujiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074870755586920450",
+    "in_reply_to_user_id": "1240563575032180736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074859709816045957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yushengjiujiu 哎哟谢谢这个小兔！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2074784964034613292",
+        "created_at": "2026-07-08T14:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074870755586920450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1240563575032180736",
+              "start": 0,
+              "username": "yushengjiujiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074870755586920450",
+        "in_reply_to_user_id": "1240563575032180736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074859709816045957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yushengjiujiu 哎哟谢谢这个小兔！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240563575032180736",
+        "conversation_id": "2074784964034613292",
+        "created_at": "2026-07-08T14:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074859709816045957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074859709816045957",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074784964034613292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 好可爱的甲！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 191,
+          "like_count": 3141,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-19T08:59:49.000Z",
+        "description": "漂亮小男娘请立刻和我结婚(⁎⁍̴̛ᴗ⁍̴̛⁎)/4i",
+        "id": "1240563575032180736",
+        "name": "🐰",
+        "pinned_tweet_id": "2024902952297886068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053673696381009920/rgb6r3uT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6696,
+          "following_count": 896,
+          "like_count": 9837,
+          "listed_count": 37,
+          "media_count": 170,
+          "tweet_count": 1447
+        },
+        "url": "",
+        "username": "yushengjiujiu",
+        "verified": false
+      }
+    ]
+  }
+}

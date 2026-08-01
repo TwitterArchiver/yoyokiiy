@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2020917644174541003",
+    "created_at": "2026-02-09T17:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T18:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020917644174541003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/duolingo/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/duolingo/status/2020498601605034462",
+          "start": 4,
+          "url": "https://t.co/9pFYQsQDo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020917644174541003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020498601605034462",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好阴。 https://t.co/9pFYQsQDo1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2019897819994202112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAgeXYtXIAASaBP.jpg",
+        "width": 3278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2020917644174541003",
+        "created_at": "2026-02-09T17:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T18:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020917644174541003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duolingo/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/duolingo/status/2020498601605034462",
+              "start": 4,
+              "url": "https://t.co/9pFYQsQDo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020917644174541003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020498601605034462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好阴。 https://t.co/9pFYQsQDo1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019897819994202112"
+          ]
+        },
+        "author_id": "107238136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "2020498601605034462",
+        "created_at": "2026-02-08T14:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020498601605034462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpvRN9HkrB",
+              "end": 76,
+              "expanded_url": "https://x.com/duolingo/status/2020498601605034462/photo/1",
+              "media_key": "3_2019897819994202112",
+              "start": 53,
+              "url": "https://t.co/cpvRN9HkrB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020498601605034462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4372,
+          "impression_count": 2278227,
+          "like_count": 34809,
+          "quote_count": 842,
+          "reply_count": 923,
+          "retweet_count": 2114
+        },
+        "reply_settings": "everyone",
+        "text": "today's the day, did you learn Spanish? time to cram https://t.co/cpvRN9HkrB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 200,
+          "like_count": 1659,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 323
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-21T23:15:30.000Z",
+        "description": "You have today to learn Spanish for the halftime show.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@duolingo",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@duolingo",
+                "start": 0,
+                "url": "https://t.co/sLUHIFp72o"
+              }
+            ]
+          }
+        },
+        "id": "107238136",
+        "name": "Duolingo",
+        "pinned_tweet_id": "2013659156746506280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020883695004164096/n-X_EzSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035282,
+          "following_count": 515,
+          "like_count": 24279,
+          "listed_count": 2769,
+          "media_count": 2007,
+          "tweet_count": 53966
+        },
+        "url": "https://t.co/sLUHIFp72o",
+        "username": "duolingo",
+        "verified": true
+      }
+    ]
+  }
+}

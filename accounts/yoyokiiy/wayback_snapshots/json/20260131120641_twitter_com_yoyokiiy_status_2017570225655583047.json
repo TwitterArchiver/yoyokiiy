@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2017570225655583047",
+    "created_at": "2026-01-31T12:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T13:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017570225655583047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/su2003ii/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/su2003ii/status/2017293884045582791",
+          "start": 10,
+          "url": "https://t.co/SlUw8gYynJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017570225655583047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017293884045582791",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去笑死我了。不接 https://t.co/SlUw8gYynJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_2017293876042907648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7eF5kbwAAb1r6.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2017570225655583047",
+        "created_at": "2026-01-31T12:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017570225655583047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/su2003ii/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/su2003ii/status/2017293884045582791",
+              "start": 10,
+              "url": "https://t.co/SlUw8gYynJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017570225655583047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017293884045582791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去笑死我了。不接 https://t.co/SlUw8gYynJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017293876042907648"
+          ]
+        },
+        "author_id": "1898537369428688896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017293884045582791",
+        "created_at": "2026-01-30T17:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017293884045582791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bCfF7WDWP",
+              "end": 23,
+              "expanded_url": "https://x.com/Su2003ii/status/2017293884045582791/photo/1",
+              "media_key": "3_2017293876042907648",
+              "start": 0,
+              "url": "https://t.co/2bCfF7WDWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017293884045582791",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 664417,
+          "like_count": 3489,
+          "quote_count": 33,
+          "reply_count": 303,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2bCfF7WDWP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2012548014359916750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 198,
+          "like_count": 1610,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 294
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T00:52:45.000Z",
+        "description": "试图了解我",
+        "id": "1898537369428688896",
+        "location": "🚪51",
+        "name": "苏苏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898590148562157568/CWe39w3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78634,
+          "following_count": 11,
+          "like_count": 388,
+          "listed_count": 186,
+          "media_count": 273,
+          "tweet_count": 308
+        },
+        "username": "Su2003ii",
+        "verified": false
+      }
+    ]
+  }
+}

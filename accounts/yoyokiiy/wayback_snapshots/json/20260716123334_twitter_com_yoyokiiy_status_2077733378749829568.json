@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2077733378749829568",
+    "created_at": "2026-07-16T12:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077733378749829568"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077733378749829568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎這泰酒喝著不烈咋暈暈的呀⋯⋯還是我最近太困了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2077733378749829568",
+        "created_at": "2026-07-16T12:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077733378749829568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077733378749829568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎這泰酒喝著不烈咋暈暈的呀⋯⋯還是我最近太困了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CV",
+              "full_name": "Cape Verde",
+              "geo": {
+                "coordinates": [
+                  -24.0,
+                  16.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "06｜sub｜永远不要停止感受｜皮肤飢渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "天涯海角。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 160,
+          "like_count": 3315,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      }
+    ]
+  }
+}

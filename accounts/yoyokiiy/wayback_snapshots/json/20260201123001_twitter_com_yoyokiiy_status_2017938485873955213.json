@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2017938485873955213",
+    "created_at": "2026-02-01T12:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T13:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017938485873955213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944862516976472064",
+          "start": 3,
+          "username": "Mickey06101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017938485873955213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017635062477722111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mickey06101: 什么时候能让我谈一场纯爱又淫乱的恋爱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2017938485873955213",
+        "created_at": "2026-02-01T12:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017938485873955213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944862516976472064",
+              "start": 3,
+              "username": "Mickey06101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017938485873955213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017635062477722111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mickey06101: 什么时候能让我谈一场纯爱又淫乱的恋爱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944862516976472064",
+        "conversation_id": "2017635062477722111",
+        "created_at": "2026-01-31T16:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T17:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017635062477722111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017635062477722111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 102472,
+          "like_count": 1227,
+          "quote_count": 24,
+          "reply_count": 134,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候能让我谈一场纯爱又淫乱的恋爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2012548014359916750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 198,
+          "like_count": 1614,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T20:52:22.000Z",
+        "description": "玩推只是分享生活",
+        "id": "1944862516976472064",
+        "location": "🚪88/188",
+        "name": "qaq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944863286157053952/6Y2oQa9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58068,
+          "following_count": 12,
+          "like_count": 778,
+          "listed_count": 73,
+          "media_count": 173,
+          "tweet_count": 464
+        },
+        "username": "Mickey06101",
+        "verified": false
+      }
+    ]
+  }
+}

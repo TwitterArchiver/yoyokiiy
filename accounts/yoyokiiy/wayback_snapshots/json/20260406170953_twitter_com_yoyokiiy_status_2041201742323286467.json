@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2041201742323286467",
+    "created_at": "2026-04-06T17:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T18:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041201742323286467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1904433641767505920",
+          "start": 3,
+          "username": "liuyue80232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041201742323286467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040795585771602251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liuyue80232: 看到文淇的一段采访，她说：“我想成为那种你一靠近她，你就会被她吸引的那种人。”\n其实我也想成为这样的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2041201742323286467",
+        "created_at": "2026-04-06T17:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041201742323286467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1904433641767505920",
+              "start": 3,
+              "username": "liuyue80232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041201742323286467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040795585771602251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liuyue80232: 看到文淇的一段采访，她说：“我想成为那种你一靠近她，你就会被她吸引的那种人。”\n其实我也想成为这样的人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904433641767505920",
+        "conversation_id": "2040795585771602251",
+        "created_at": "2026-04-05T14:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040795585771602251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040795585771602251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 14319,
+          "like_count": 355,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "看到文淇的一段采访，她说：“我想成为那种你一靠近她，你就会被她吸引的那种人。”\n其实我也想成为这样的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 227,
+          "like_count": 2042,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T07:22:26.000Z",
+        "description": "les ，istj，属性1，00年，171cm，52.5kg，不约炮（私信出现意外错误，无法回复，请暂时不要发私信",
+        "id": "1904433641767505920",
+        "name": "Lenter",
+        "pinned_tweet_id": "2040844032465928587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014710663168589829/vQroxRm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 408,
+          "like_count": 2697,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 596
+        },
+        "username": "liuyue80232",
+        "verified": false
+      }
+    ]
+  }
+}

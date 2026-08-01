@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2061282528850223451",
+    "created_at": "2026-06-01T03:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061282528850223451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1857471601454768128",
+          "start": 3,
+          "username": "ScreamButSilent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061282528850223451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061134360167010441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ScreamButSilent: 若干年后\n孩子：你跟我妈怎么认识的？\n爸爸：在推特\n孩子：你们怎么在一起的，一定很浪漫吧\n妈妈：你爸六一给我赞赏码发了六十一米"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2061282528850223451",
+        "created_at": "2026-06-01T03:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061282528850223451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1857471601454768128",
+              "start": 3,
+              "username": "ScreamButSilent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061282528850223451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061134360167010441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ScreamButSilent: 若干年后\n孩子：你跟我妈怎么认识的？\n爸爸：在推特\n孩子：你们怎么在一起的，一定很浪漫吧\n妈妈：你爸六一给我赞赏码发了六十一米"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857471601454768128",
+        "conversation_id": "2061134360167010441",
+        "created_at": "2026-05-31T17:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061134360167010441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061134360167010441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2121,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "若干年后\n孩子：你跟我妈怎么认识的？\n爸爸：在推特\n孩子：你们怎么在一起的，一定很浪漫吧\n妈妈：你爸六一给我赞赏码发了六十一米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 215,
+          "like_count": 2605,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:12:16.000Z",
+        "description": "别再叹息皱眉头",
+        "id": "1857471601454768128",
+        "name": "梨从",
+        "pinned_tweet_id": "1931283850761830468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060358433245904896/P3CkZcFo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 259,
+          "like_count": 750,
+          "listed_count": 6,
+          "media_count": 77,
+          "tweet_count": 3658
+        },
+        "username": "ScreamButSilent",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071916026040627200"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2071916048207548854",
+    "created_at": "2026-06-30T11:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071916048207548854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ewBjElQyNd",
+          "end": 23,
+          "expanded_url": "https://x.com/yoyokiiy/status/2071916048207548854/photo/1",
+          "media_key": "3_2071916026040627200",
+          "start": 0,
+          "url": "https://t.co/ewBjElQyNd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071916048207548854",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ewBjElQyNd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071916026040627200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDspfCXMAAT7DW.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071916026040627200"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2071916048207548854",
+        "created_at": "2026-06-30T11:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071916048207548854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ewBjElQyNd",
+              "end": 23,
+              "expanded_url": "https://x.com/yoyokiiy/status/2071916048207548854/photo/1",
+              "media_key": "3_2071916026040627200",
+              "start": 0,
+              "url": "https://t.co/ewBjElQyNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071916048207548854",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ewBjElQyNd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜苦笑面对世界中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 212,
+          "like_count": 2988,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 841
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

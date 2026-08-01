@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046907174870208512"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2046906847857094764",
+    "created_at": "2026-04-22T11:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046907268382306423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XOohfpLoGg",
+          "end": 36,
+          "expanded_url": "https://x.com/yoyokiiy/status/2046907268382306423/video/1",
+          "media_key": "13_2046907174870208512",
+          "start": 13,
+          "url": "https://t.co/XOohfpLoGg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046907268382306423",
+    "in_reply_to_user_id": "1897445432365821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046906847857094764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "类似的还有这个🥵🥵🔥🔥🐶 https://t.co/XOohfpLoGg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12379,
+        "height": 720,
+        "media_key": "13_2046907174870208512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046907174870208512/img/-4vd1OdmU35557yJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046907174870208512/vid/avc1/480x270/aLe6j7R5_wFIu3V5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046907174870208512/vid/avc1/640x360/q12B-iSiU44s6jpP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046907174870208512/vid/avc1/1280x720/NWSCncnDrVd3i7Da.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046907174870208512/pl/LnNuFBL1H8BIEupA.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046906837182611456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgS7GaWgAAH-WN.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046907174870208512"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2046906847857094764",
+        "created_at": "2026-04-22T11:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046907268382306423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOohfpLoGg",
+              "end": 36,
+              "expanded_url": "https://x.com/yoyokiiy/status/2046907268382306423/video/1",
+              "media_key": "13_2046907174870208512",
+              "start": 13,
+              "url": "https://t.co/XOohfpLoGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046907268382306423",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046906847857094764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "类似的还有这个🥵🥵🔥🔥🐶 https://t.co/XOohfpLoGg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046906837182611456"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046906847857094764",
+        "created_at": "2026-04-22T10:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046906847857094764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGXgsBqRw2",
+              "end": 35,
+              "expanded_url": "https://x.com/yoyokiiy/status/2046906847857094764/photo/1",
+              "media_key": "3_2046906837182611456",
+              "start": 12,
+              "url": "https://t.co/KGXgsBqRw2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046906847857094764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个视频给我看火热了。 https://t.co/KGXgsBqRw2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 248,
+          "like_count": 2215,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

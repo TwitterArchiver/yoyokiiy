@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2023726555936026642",
+    "created_at": "2026-02-17T11:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T12:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023726555936026642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "768898303941603330",
+          "start": 3,
+          "username": "ppaommoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023726555936026642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023450877948842391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ppaommoo: 叫老公都不一定是在调情 但叫哥哥真的是…在…发…sao…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2023726555936026642",
+        "created_at": "2026-02-17T11:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023726555936026642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "768898303941603330",
+              "start": 3,
+              "username": "ppaommoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023726555936026642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023450877948842391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ppaommoo: 叫老公都不一定是在调情 但叫哥哥真的是…在…发…sao…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "768898303941603330",
+        "conversation_id": "2023450877948842391",
+        "created_at": "2026-02-16T17:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023450877948842391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoyoovo6june1/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/yoyoovo6june1/status/2023310425362964857",
+              "start": 29,
+              "url": "https://t.co/NHkaER01yB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023450877948842391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 48747,
+          "like_count": 277,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023310425362964857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叫老公都不一定是在调情 但叫哥哥真的是…在…发…sao… https://t.co/NHkaER01yB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 204,
+          "like_count": 1788,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-25T19:50:15.000Z",
+        "description": "爱是自由意志的沉沦",
+        "id": "768898303941603330",
+        "name": "mmomo",
+        "pinned_tweet_id": "1791235059921363094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1366702946612838401/6pCxLz6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5528,
+          "following_count": 20,
+          "like_count": 733,
+          "listed_count": 19,
+          "media_count": 27,
+          "tweet_count": 404
+        },
+        "username": "ppaommoo",
+        "verified": false
+      }
+    ]
+  }
+}

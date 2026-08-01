@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1933504505972469869",
+    "created_at": "2025-06-14T16:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T17:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933925712404287871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "256715142",
+          "start": 0,
+          "username": "LAY__X__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933925712404287871",
+    "in_reply_to_user_id": "256715142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933504505972469869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LAY__X__ 帅成啥了还以为是bjd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2384,
+        "media_key": "3_1933504499450327041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtUwGR1bMAExNaY.jpg",
+        "width": 3268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1933504505972469869",
+        "created_at": "2025-06-14T16:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933925712404287871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "256715142",
+              "start": 0,
+              "username": "LAY__X__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933925712404287871",
+        "in_reply_to_user_id": "256715142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933504505972469869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LAY__X__ 帅成啥了还以为是bjd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933504499450327041"
+          ]
+        },
+        "author_id": "256715142",
+        "conversation_id": "1933504505972469869",
+        "created_at": "2025-06-13T12:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T13:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933504505972469869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qHT5ntdK8Z",
+              "end": 35,
+              "expanded_url": "https://x.com/LAY__X__/status/1933504505972469869/photo/1",
+              "media_key": "3_1933504499450327041",
+              "start": 12,
+              "url": "https://t.co/qHT5ntdK8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933504505972469869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 92330,
+          "like_count": 5029,
+          "quote_count": 24,
+          "reply_count": 4,
+          "retweet_count": 334
+        },
+        "reply_settings": "everyone",
+        "text": "パイロットのお兄さん🍎 https://t.co/qHT5ntdK8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "成分复杂！",
+        "id": "1897445432365821952",
+        "name": "夏未夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933924237728980992/IyPy4m_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 65,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-23T23:05:45.000Z",
+        "description": "Cosplayer｜TVアニメ『進撃の巨人』×『関市の包丁』PR｜『とちぎeスポーツフェスタ』｜『SUPER JAPAN EXPO』｜『Bilibili World』｜海外17ヶ国｜https://t.co/elm2mw88I7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boost.yokohama",
+                "end": 114,
+                "expanded_url": "http://boost.yokohama",
+                "start": 91,
+                "url": "https://t.co/elm2mw88I7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lay.cosplay",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lay.cosplay",
+                "start": 0,
+                "url": "https://t.co/Rlx0XIdFFI"
+              }
+            ]
+          }
+        },
+        "id": "256715142",
+        "location": "BOOST LLC.",
+        "name": "𝑳 𝑨 𝒀",
+        "pinned_tweet_id": "1924428878623437217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554459441650876418/XSaz28iF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222814,
+          "following_count": 201,
+          "like_count": 43595,
+          "listed_count": 848,
+          "media_count": 1821,
+          "tweet_count": 27721
+        },
+        "url": "https://t.co/Rlx0XIdFFI",
+        "username": "LAY__X__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1936947291266719895",
+    "created_at": "2025-06-23T06:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T07:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937036575084597305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1331293180541632512",
+          "start": 0,
+          "username": "iwtbjt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937036575084597305",
+    "in_reply_to_user_id": "1331293180541632512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936947291266719895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iwtbjt 宝宝老婆给我亲亲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936947281242009600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuFrSjcWsAAmEBW.jpg",
+        "width": 1462
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1936947291266719895",
+        "created_at": "2025-06-23T06:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T07:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937036575084597305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1331293180541632512",
+              "start": 0,
+              "username": "iwtbjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937036575084597305",
+        "in_reply_to_user_id": "1331293180541632512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936947291266719895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwtbjt 宝宝老婆给我亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936947281242009600"
+          ]
+        },
+        "author_id": "1331293180541632512",
+        "conversation_id": "1936947291266719895",
+        "created_at": "2025-06-23T00:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T01:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936947291266719895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuzP7Hh4fO",
+              "end": 23,
+              "expanded_url": "https://x.com/iwtbjt/status/1936947291266719895/photo/1",
+              "media_key": "3_1936947281242009600",
+              "start": 0,
+              "url": "https://t.co/AuzP7Hh4fO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936947291266719895",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3163,
+          "like_count": 284,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AuzP7Hh4fO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "成分复杂！",
+        "id": "1897445432365821952",
+        "name": "夏未夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933924237728980992/IyPy4m_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 91,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-24T17:46:51.000Z",
+        "description": "a.k.a @riberatio",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "riberatio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkfly.to/704164TYrHC",
+                "end": 23,
+                "expanded_url": "https://linkfly.to/704164TYrHC",
+                "start": 0,
+                "url": "https://t.co/qgqDJzsVth"
+              }
+            ]
+          }
+        },
+        "id": "1331293180541632512",
+        "location": "筋トレサボってたらdmください。Paypay500かフォロバ",
+        "name": "Shun",
+        "pinned_tweet_id": "1928968568944865361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927277181840891904/jo8m7fKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6392,
+          "following_count": 22,
+          "like_count": 45587,
+          "listed_count": 9,
+          "media_count": 164,
+          "tweet_count": 1675
+        },
+        "url": "https://t.co/qgqDJzsVth",
+        "username": "iwtbjt",
+        "verified": false
+      }
+    ]
+  }
+}

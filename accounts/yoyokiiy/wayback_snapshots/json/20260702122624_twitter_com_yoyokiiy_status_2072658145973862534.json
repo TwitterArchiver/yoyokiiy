@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072658091854684160",
+        "3_2072658091452071936"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2072658145973862534",
+    "created_at": "2026-07-02T12:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072658145973862534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/twO933Nbhn",
+          "end": 40,
+          "expanded_url": "https://x.com/yoyokiiy/status/2072658145973862534/photo/1",
+          "media_key": "3_2072658091854684160",
+          "start": 17,
+          "url": "https://t.co/twO933Nbhn"
+        },
+        {
+          "display_url": "pic.x.com/twO933Nbhn",
+          "end": 40,
+          "expanded_url": "https://x.com/yoyokiiy/status/2072658145973862534/photo/1",
+          "media_key": "3_2072658091452071936",
+          "start": 17,
+          "url": "https://t.co/twO933Nbhn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072658145973862534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎卧槽不敢想穿这套去海边有多好看 https://t.co/twO933Nbhn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072658091854684160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOPjZnWYAAg5u-.jpg",
+        "width": 1522
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072658091452071936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOPjYHXAAAVp2C.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072658091854684160",
+            "3_2072658091452071936"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2072658145973862534",
+        "created_at": "2026-07-02T12:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072658145973862534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/twO933Nbhn",
+              "end": 40,
+              "expanded_url": "https://x.com/yoyokiiy/status/2072658145973862534/photo/1",
+              "media_key": "3_2072658091854684160",
+              "start": 17,
+              "url": "https://t.co/twO933Nbhn"
+            },
+            {
+              "display_url": "pic.x.com/twO933Nbhn",
+              "end": 40,
+              "expanded_url": "https://x.com/yoyokiiy/status/2072658145973862534/photo/1",
+              "media_key": "3_2072658091452071936",
+              "start": 17,
+              "url": "https://t.co/twO933Nbhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072658145973862534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎卧槽不敢想穿这套去海边有多好看 https://t.co/twO933Nbhn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜討厭裝貨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 214,
+          "like_count": 3034,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

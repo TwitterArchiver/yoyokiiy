@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1952025612132188364",
+    "created_at": "2025-08-03T15:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T16:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952025612132188364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1424145433966776323",
+          "start": 0,
+          "username": "glmslmgun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952025612132188364",
+    "in_reply_to_user_id": "1424145433966776323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@glmslmgun 女神我想膜拜一下战斗力😭放我进去吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1952025612132188364",
+        "created_at": "2025-08-03T15:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952025612132188364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1424145433966776323",
+              "start": 0,
+              "username": "glmslmgun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952025612132188364",
+        "in_reply_to_user_id": "1424145433966776323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@glmslmgun 女神我想膜拜一下战斗力😭放我进去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 126,
+          "like_count": 650,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-07T23:08:41.000Z",
+        "description": "glm slm都滚",
+        "id": "1424145433966776323",
+        "name": "脆冰冰（搬运到dy跟我头像一个下场）",
+        "pinned_tweet_id": "1951556908000878764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950576979536916480/G7jiNIrm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6132,
+          "following_count": 114,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 853
+        },
+        "username": "glmslmgun",
+        "verified": false
+      }
+    ]
+  }
+}

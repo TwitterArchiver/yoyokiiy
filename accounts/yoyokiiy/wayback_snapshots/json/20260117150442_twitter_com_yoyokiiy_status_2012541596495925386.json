@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2012541596495925386",
+    "created_at": "2026-01-17T15:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T16:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012541596495925386"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012541596495925386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恋爱到底啥感觉，告白到底啥感觉，第一次牵手到底啥感觉，肩膀靠着肩膀到底啥感觉，接吻到底啥感觉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2012541596495925386",
+        "created_at": "2026-01-17T15:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012541596495925386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012541596495925386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恋爱到底啥感觉，告白到底啥感觉，第一次牵手到底啥感觉，肩膀靠着肩膀到底啥感觉，接吻到底啥感觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1992994593131081912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 194,
+          "like_count": 1535,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 245
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

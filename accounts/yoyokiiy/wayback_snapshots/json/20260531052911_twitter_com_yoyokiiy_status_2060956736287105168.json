@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060956725629374469"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060696838978593112",
+    "created_at": "2026-05-31T05:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060956736287105168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1533345010833182720",
+          "start": 0,
+          "username": "kfusing"
+        },
+        {
+          "end": 21,
+          "id": "821294263828762626",
+          "start": 9,
+          "username": "youguwutong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AKdH094reT",
+          "end": 96,
+          "expanded_url": "https://x.com/yoyokiiy/status/2060956736287105168/photo/1",
+          "media_key": "3_2060956725629374469",
+          "start": 73,
+          "url": "https://t.co/AKdH094reT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060956736287105168",
+    "in_reply_to_user_id": "1533345010833182720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060949875433582765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kfusing @youguwutong 这种东西我不需要吹牛逼吧因为我本身就那么牛逼。我只是阐述事实你就觉得我在吹牛逼的话那就是你档次太低了 https://t.co/AKdH094reT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1670,
+        "media_key": "3_2060956725629374469",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJn9OPiXUAUVeZB.jpg",
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060956725629374469"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060696838978593112",
+        "created_at": "2026-05-31T05:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060956736287105168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1533345010833182720",
+              "start": 0,
+              "username": "kfusing"
+            },
+            {
+              "end": 21,
+              "id": "821294263828762626",
+              "start": 9,
+              "username": "youguwutong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKdH094reT",
+              "end": 96,
+              "expanded_url": "https://x.com/yoyokiiy/status/2060956736287105168/photo/1",
+              "media_key": "3_2060956725629374469",
+              "start": 73,
+              "url": "https://t.co/AKdH094reT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060956736287105168",
+        "in_reply_to_user_id": "1533345010833182720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060949875433582765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kfusing @youguwutong 这种东西我不需要吹牛逼吧因为我本身就那么牛逼。我只是阐述事实你就觉得我在吹牛逼的话那就是你档次太低了 https://t.co/AKdH094reT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533345010833182720",
+        "conversation_id": "2060696838978593112",
+        "created_at": "2026-05-31T05:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060949875433582765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            },
+            {
+              "end": 22,
+              "id": "821294263828762626",
+              "start": 10,
+              "username": "youguwutong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060949875433582765",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060949323559411848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy @youguwutong 你自己说你英语144，我说你吹牛逼，这种板上钉钉的事如果为真你发个誓也没有什么负面作用啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "幸福就在我手心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 213,
+          "like_count": 2579,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T07:08:50.000Z",
+        "description": "hihihi",
+        "id": "1533345010833182720",
+        "name": "Rowan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992799357029232640/xpl2ib9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 138
+        },
+        "username": "kfusing",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-17T09:53:06.000Z",
+        "description": "Civil Engineer/Writer/CV/Coser\n山梨県に住んでいます/with English Teaching Certificate/JLPT N2\n母语：中文，吴语/学习中： English,日本語,русский язык 正乙江南清微道士",
+        "id": "821294263828762626",
+        "location": "Kofu-shi, Yamanashi",
+        "name": "竹雨糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1191726408340426753/G4eQUv7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 521,
+          "like_count": 1791,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1043
+        },
+        "username": "youguwutong",
+        "verified": true
+      }
+    ]
+  }
+}

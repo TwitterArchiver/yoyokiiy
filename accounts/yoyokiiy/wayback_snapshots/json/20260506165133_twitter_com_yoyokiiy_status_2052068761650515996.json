@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2051867529384251776",
+    "created_at": "2026-05-06T16:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052068761650515996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926640396232179712",
+          "start": 0,
+          "username": "dd7Q6IvZTBOxQMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052068761650515996",
+    "in_reply_to_user_id": "1926640396232179712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051867529384251776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd7Q6IvZTBOxQMC 老大我们这样的宅女真的能谈上恋爱吗..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2051867529384251776",
+        "created_at": "2026-05-06T16:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052068761650515996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926640396232179712",
+              "start": 0,
+              "username": "dd7Q6IvZTBOxQMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052068761650515996",
+        "in_reply_to_user_id": "1926640396232179712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051867529384251776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd7Q6IvZTBOxQMC 老大我们这样的宅女真的能谈上恋爱吗..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926640396232179712",
+        "conversation_id": "2051867529384251776",
+        "created_at": "2026-05-06T03:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051867529384251776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051867529384251776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8747,
+          "like_count": 111,
+          "quote_count": 2,
+          "reply_count": 53,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "老大我们这样的宅女真的能谈上恋爱吗..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 208,
+          "like_count": 2388,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 619
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T14:04:54.000Z",
+        "description": "switch",
+        "id": "1926640396232179712",
+        "name": "밤",
+        "pinned_tweet_id": "2050975281377390758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045546881267470336/eZKG9PUX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 68,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 94
+        },
+        "username": "dd7Q6IvZTBOxQMC",
+        "verified": false
+      }
+    ]
+  }
+}

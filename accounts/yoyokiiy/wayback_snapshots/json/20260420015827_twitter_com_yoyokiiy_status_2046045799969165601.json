@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2045784038754210000",
+    "created_at": "2026-04-20T01:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T02:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046045799969165601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948779307045978112",
+          "start": 0,
+          "username": "woAiLashi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046045799969165601",
+    "in_reply_to_user_id": "1948779307045978112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045784038754210000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woAiLashi8 今晚就试试！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2045784038754210000].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2045784038754210000",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2045784038754210000"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2045784038754210000",
+        "created_at": "2026-04-20T01:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046045799969165601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948779307045978112",
+              "start": 0,
+              "username": "woAiLashi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046045799969165601",
+        "in_reply_to_user_id": "1948779307045978112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045784038754210000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woAiLashi8 今晚就试试！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 239,
+          "like_count": 2135,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:27.000Z",
+        "description": "不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wwwwww51164",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wwwwww51164",
+                "start": 0,
+                "url": "https://t.co/bMpGG5JDoV"
+              }
+            ]
+          }
+        },
+        "id": "1948779307045978112",
+        "name": "我（戒色day2）",
+        "pinned_tweet_id": "2017250484038578632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025513191044968448/hpbNxBYO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4687,
+          "following_count": 350,
+          "like_count": 66128,
+          "listed_count": 6,
+          "media_count": 585,
+          "tweet_count": 24031
+        },
+        "url": "https://t.co/bMpGG5JDoV",
+        "username": "woAiLashi8",
+        "verified": false
+      }
+    ]
+  }
+}

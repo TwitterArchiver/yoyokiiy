@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2068767340414874090",
+    "created_at": "2026-06-21T18:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068767340414874090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1624617603699462146",
+          "start": 3,
+          "username": "jigar_042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068767340414874090",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1617
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068390542791328254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jigar_042: flirting is fun but nothing beats that moment when both people know exactly what’s going on and neither wants to say it firs…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2068767340414874090",
+        "created_at": "2026-06-21T18:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068767340414874090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1624617603699462146",
+              "start": 3,
+              "username": "jigar_042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068767340414874090",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1617
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068390542791328254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jigar_042: flirting is fun but nothing beats that moment when both people know exactly what’s going on and neither wants to say it firs…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624617603699462146",
+        "conversation_id": "2068390542791328254",
+        "created_at": "2026-06-20T17:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068390542791328254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068390542791328254",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2947,
+          "impression_count": 671560,
+          "like_count": 38436,
+          "quote_count": 188,
+          "reply_count": 50,
+          "retweet_count": 1617
+        },
+        "reply_settings": "everyone",
+        "text": "flirting is fun but nothing beats that moment when both people know exactly what’s going on and neither wants to say it first."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜只想长大｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 210,
+          "like_count": 2905,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T03:54:07.000Z",
+        "description": "25 | Memes, takes & a little bit of chaos | @RCBTweets",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "RCBTweets"
+              }
+            ]
+          }
+        },
+        "id": "1624617603699462146",
+        "name": "🧃",
+        "pinned_tweet_id": "2067677192688132340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061454048117858304/96e8w6s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6902,
+          "following_count": 1182,
+          "like_count": 187612,
+          "listed_count": 10,
+          "media_count": 6086,
+          "tweet_count": 41829
+        },
+        "url": "",
+        "username": "jigar_042",
+        "verified": false
+      }
+    ]
+  }
+}

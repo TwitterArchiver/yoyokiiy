@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060696838978593112",
+    "created_at": "2026-05-30T19:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060808605855567884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "237787594",
+          "start": 0,
+          "username": "kyriesolino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060808605855567884",
+    "in_reply_to_user_id": "237787594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060795127224995916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyriesolino 我高考英语144。学英语不难，只是要再费时间学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060696838978593112",
+        "created_at": "2026-05-30T19:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060808605855567884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "237787594",
+              "start": 0,
+              "username": "kyriesolino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060808605855567884",
+        "in_reply_to_user_id": "237787594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060795127224995916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyriesolino 我高考英语144。学英语不难，只是要再费时间学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "237787594",
+        "conversation_id": "2060696838978593112",
+        "created_at": "2026-05-30T18:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060795127224995916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060795127224995916",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060696838978593112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 学英语很难吗？😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "幸福就在我手心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 213,
+          "like_count": 2569,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-13T16:46:02.000Z",
+        "description": "",
+        "id": "237787594",
+        "name": "Solino",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 1126,
+          "like_count": 83840,
+          "listed_count": 9,
+          "media_count": 31,
+          "tweet_count": 2336
+        },
+        "username": "kyriesolino",
+        "verified": false
+      }
+    ]
+  }
+}

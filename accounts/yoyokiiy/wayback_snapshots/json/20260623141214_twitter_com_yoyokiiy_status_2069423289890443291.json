@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2069006373778800677",
+    "created_at": "2026-06-23T14:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069423289890443291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1977298575014207488",
+          "start": 0,
+          "username": "tGFuneverforget"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069423289890443291",
+    "in_reply_to_user_id": "1977298575014207488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069006373778800677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tGFuneverforget 实话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2069006373778800677",
+        "created_at": "2026-06-23T14:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069423289890443291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1977298575014207488",
+              "start": 0,
+              "username": "tGFuneverforget"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069423289890443291",
+        "in_reply_to_user_id": "1977298575014207488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069006373778800677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tGFuneverforget 实话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977298575014207488",
+        "conversation_id": "2069006373778800677",
+        "created_at": "2026-06-22T10:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069006373778800677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069006373778800677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从今天早上一位傻逼男子给我发微信开始我就知道今天注定很傻逼。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜只想长大｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2066923167218880519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 212,
+          "like_count": 2942,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T09:01:40.000Z",
+        "description": "如果眼泪有用就好了",
+        "id": "1977298575014207488",
+        "name": "你闻起来有悲伤的味道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005529389791150080/ny6EOZ8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 55,
+          "like_count": 2129,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1655
+        },
+        "url": "",
+        "username": "tGFuneverforget",
+        "verified": false
+      }
+    ]
+  }
+}

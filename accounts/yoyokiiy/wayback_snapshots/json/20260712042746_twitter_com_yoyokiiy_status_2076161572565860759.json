@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2075994323313983496",
+    "created_at": "2026-07-12T04:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076161572565860759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1240563575032180736",
+          "start": 0,
+          "username": "yushengjiujiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076161572565860759",
+    "in_reply_to_user_id": "1240563575032180736",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076004670569578890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yushengjiujiu 💋💋！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2075994323313983496",
+        "created_at": "2026-07-12T04:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076161572565860759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1240563575032180736",
+              "start": 0,
+              "username": "yushengjiujiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076161572565860759",
+        "in_reply_to_user_id": "1240563575032180736",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076004670569578890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yushengjiujiu 💋💋！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240563575032180736",
+        "conversation_id": "2075994323313983496",
+        "created_at": "2026-07-11T18:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076004670569578890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076004670569578890",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075994323313983496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 美！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 189,
+          "like_count": 3188,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 938
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-19T08:59:49.000Z",
+        "description": "漂亮小男娘请立刻和我结婚(⁎⁍̴̛ᴗ⁍̴̛⁎)/4i",
+        "id": "1240563575032180736",
+        "name": "🐰",
+        "pinned_tweet_id": "2024902952297886068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053673696381009920/rgb6r3uT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6724,
+          "following_count": 900,
+          "like_count": 9905,
+          "listed_count": 37,
+          "media_count": 167,
+          "tweet_count": 1449
+        },
+        "url": "",
+        "username": "yushengjiujiu",
+        "verified": false
+      }
+    ]
+  }
+}

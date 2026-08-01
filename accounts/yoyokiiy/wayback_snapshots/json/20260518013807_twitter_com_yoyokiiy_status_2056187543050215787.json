@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056187525308276737",
+        "3_2056187525299834880"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2056187543050215787",
+    "created_at": "2026-05-18T01:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056187543050215787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4GZuGUfISx",
+          "end": 26,
+          "expanded_url": "https://x.com/yoyokiiy/status/2056187543050215787/photo/1",
+          "media_key": "3_2056187525308276737",
+          "start": 3,
+          "url": "https://t.co/4GZuGUfISx"
+        },
+        {
+          "display_url": "pic.x.com/4GZuGUfISx",
+          "end": 26,
+          "expanded_url": "https://x.com/yoyokiiy/status/2056187543050215787/photo/1",
+          "media_key": "3_2056187525299834880",
+          "start": 3,
+          "url": "https://t.co/4GZuGUfISx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056187543050215787",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🧼🫧 https://t.co/4GZuGUfISx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_2056187525308276737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkLqP2W4AEbwGK.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056187525299834880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkLqP0WEAAmskl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056187525308276737",
+            "3_2056187525299834880"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2056187543050215787",
+        "created_at": "2026-05-18T01:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056187543050215787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4GZuGUfISx",
+              "end": 26,
+              "expanded_url": "https://x.com/yoyokiiy/status/2056187543050215787/photo/1",
+              "media_key": "3_2056187525308276737",
+              "start": 3,
+              "url": "https://t.co/4GZuGUfISx"
+            },
+            {
+              "display_url": "pic.x.com/4GZuGUfISx",
+              "end": 26,
+              "expanded_url": "https://x.com/yoyokiiy/status/2056187543050215787/photo/1",
+              "media_key": "3_2056187525299834880",
+              "start": 3,
+              "url": "https://t.co/4GZuGUfISx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056187543050215787",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🧼🫧 https://t.co/4GZuGUfISx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "乱涂乱画的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 210,
+          "like_count": 2495,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 666
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

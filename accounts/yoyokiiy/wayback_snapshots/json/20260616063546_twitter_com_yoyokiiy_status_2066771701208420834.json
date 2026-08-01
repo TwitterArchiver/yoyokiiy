@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2066771701208420834",
+    "created_at": "2026-06-16T06:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066771701208420834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1906215374162464769",
+          "start": 3,
+          "username": "whitesnowml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066771701208420834",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066600349889180132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whitesnowml: Friends to lovers is better than romantic situationships"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2066771701208420834",
+        "created_at": "2026-06-16T06:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066771701208420834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1906215374162464769",
+              "start": 3,
+              "username": "whitesnowml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066771701208420834",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066600349889180132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whitesnowml: Friends to lovers is better than romantic situationships"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906215374162464769",
+        "conversation_id": "2066600349889180132",
+        "created_at": "2026-06-15T19:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066600349889180132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066600349889180132",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 517,
+          "impression_count": 129418,
+          "like_count": 8337,
+          "quote_count": 212,
+          "reply_count": 38,
+          "retweet_count": 1115
+        },
+        "reply_settings": "everyone",
+        "text": "Friends to lovers is better than romantic situationships"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜碎碎念多一些偶尔丢几张图片｜喜欢真诚互动｜苦笑面对世界中｜关注我你只会看到一个普通女孩每天都在想什么𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 213,
+          "like_count": 2770,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 751
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T05:22:39.000Z",
+        "description": "he/him | 19 | Orlando Magic til I die | blk🤎 | priv. @scaredofdamoon | #Moonwalker | 17+ | istp | Free Palestine 🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 71,
+                "tag": "Moonwalker"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "scaredofdamoon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/whitesnowml1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/whitesnowml1",
+                "start": 0,
+                "url": "https://t.co/WFZC5STnEF"
+              }
+            ]
+          }
+        },
+        "id": "1906215374162464769",
+        "location": "Moonwalker",
+        "name": "hari!",
+        "pinned_tweet_id": "2028734230851711073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060144795541020676/_2hFbJ2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 968,
+          "like_count": 86010,
+          "listed_count": 51,
+          "media_count": 2703,
+          "tweet_count": 22818
+        },
+        "url": "https://t.co/WFZC5STnEF",
+        "username": "whitesnowml",
+        "verified": false
+      }
+    ]
+  }
+}

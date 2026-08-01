@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2040767011471671724",
+    "created_at": "2026-04-06T17:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T18:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041200342138835427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035365830838648832",
+          "start": 0,
+          "username": "PuYmikoxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041200342138835427",
+    "in_reply_to_user_id": "2035365830838648832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040767011471671724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PuYmikoxin 好漂亮！我一定要挑个时间去绍兴当采茶女（也可能一个人吧hh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2040766990076579840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJCw9jbkAAlaDS.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2040766990160363520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJCw93aAAAYn8b.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2040767011471671724",
+        "created_at": "2026-04-06T17:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041200342138835427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035365830838648832",
+              "start": 0,
+              "username": "PuYmikoxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041200342138835427",
+        "in_reply_to_user_id": "2035365830838648832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040767011471671724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PuYmikoxin 好漂亮！我一定要挑个时间去绍兴当采茶女（也可能一个人吧hh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040766990076579840",
+            "3_2040766990160363520"
+          ]
+        },
+        "author_id": "2035365830838648832",
+        "conversation_id": "2040767011471671724",
+        "created_at": "2026-04-05T12:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040767011471671724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvYVxAUKz7",
+              "end": 63,
+              "expanded_url": "https://x.com/PuYmikoxin/status/2040767011471671724/photo/1",
+              "media_key": "3_2040766990076579840",
+              "start": 40,
+              "url": "https://t.co/hvYVxAUKz7"
+            },
+            {
+              "display_url": "pic.x.com/hvYVxAUKz7",
+              "end": 63,
+              "expanded_url": "https://x.com/PuYmikoxin/status/2040767011471671724/photo/1",
+              "media_key": "3_2040766990160363520",
+              "start": 40,
+              "url": "https://t.co/hvYVxAUKz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040767011471671724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 149288,
+          "like_count": 899,
+          "quote_count": 0,
+          "reply_count": 185,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我以后再也不要在假期出去玩了😭而且还是一个人😭😭但是绍兴真的好美🤤我也好美🤤🤤 https://t.co/hvYVxAUKz7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 227,
+          "like_count": 2037,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T14:44:40.000Z",
+        "description": "不约",
+        "id": "2035365830838648832",
+        "name": "会飞的鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035367600398696451/QExHHGnc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 15,
+          "like_count": 358,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 60
+        },
+        "username": "PuYmikoxin",
+        "verified": false
+      }
+    ]
+  }
+}

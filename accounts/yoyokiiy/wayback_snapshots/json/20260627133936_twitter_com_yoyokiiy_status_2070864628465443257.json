@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070864533506375680",
+        "3_2070864533481312256",
+        "3_2070864533502185472"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2070864628465443257",
+    "created_at": "2026-06-27T13:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070864628465443257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zlBm5LLnm0",
+          "end": 33,
+          "expanded_url": "https://x.com/yoyokiiy/status/2070864628465443257/photo/1",
+          "media_key": "3_2070864533506375680",
+          "start": 10,
+          "url": "https://t.co/zlBm5LLnm0"
+        },
+        {
+          "display_url": "pic.x.com/zlBm5LLnm0",
+          "end": 33,
+          "expanded_url": "https://x.com/yoyokiiy/status/2070864628465443257/photo/1",
+          "media_key": "3_2070864533481312256",
+          "start": 10,
+          "url": "https://t.co/zlBm5LLnm0"
+        },
+        {
+          "display_url": "pic.x.com/zlBm5LLnm0",
+          "end": 33,
+          "expanded_url": "https://x.com/yoyokiiy/status/2070864628465443257/photo/1",
+          "media_key": "3_2070864533502185472",
+          "start": 10,
+          "url": "https://t.co/zlBm5LLnm0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070864628465443257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "才发现绀色百褶的美 https://t.co/zlBm5LLnm0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2070864533506375680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0wUkGaQAAUiRB.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2070864533481312256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0wUkAb0AAto_F.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2070864533502185472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0wUkFaUAAO7mb.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070864533506375680",
+            "3_2070864533481312256",
+            "3_2070864533502185472"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2070864628465443257",
+        "created_at": "2026-06-27T13:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070864628465443257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zlBm5LLnm0",
+              "end": 33,
+              "expanded_url": "https://x.com/yoyokiiy/status/2070864628465443257/photo/1",
+              "media_key": "3_2070864533506375680",
+              "start": 10,
+              "url": "https://t.co/zlBm5LLnm0"
+            },
+            {
+              "display_url": "pic.x.com/zlBm5LLnm0",
+              "end": 33,
+              "expanded_url": "https://x.com/yoyokiiy/status/2070864628465443257/photo/1",
+              "media_key": "3_2070864533481312256",
+              "start": 10,
+              "url": "https://t.co/zlBm5LLnm0"
+            },
+            {
+              "display_url": "pic.x.com/zlBm5LLnm0",
+              "end": 33,
+              "expanded_url": "https://x.com/yoyokiiy/status/2070864628465443257/photo/1",
+              "media_key": "3_2070864533502185472",
+              "start": 10,
+              "url": "https://t.co/zlBm5LLnm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070864628465443257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才发现绀色百褶的美 https://t.co/zlBm5LLnm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜只想长大｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 210,
+          "like_count": 2961,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 818
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

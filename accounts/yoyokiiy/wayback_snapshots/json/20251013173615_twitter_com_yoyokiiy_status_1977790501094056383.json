@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1977790501094056383",
+    "created_at": "2025-10-13T17:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T18:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977790501094056383"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1977790501094056383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "舍友打呼如猪我真睡不了。就着乙抓来一发让自己累睡吧，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1977790501094056383",
+        "created_at": "2025-10-13T17:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T18:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977790501094056383"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977790501094056383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舍友打呼如猪我真睡不了。就着乙抓来一发让自己累睡吧，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974094973529387348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 187,
+          "like_count": 1218,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 148
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

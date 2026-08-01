@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2066785787740610903",
+    "created_at": "2026-06-16T16:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066922662681858180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920522409263968256",
+          "start": 0,
+          "username": "jamjam_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066922662681858180",
+    "in_reply_to_user_id": "1920522409263968256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066883830019981503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jamjam_0v0 嗯。对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2066785787740610903",
+        "created_at": "2026-06-16T16:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066922662681858180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920522409263968256",
+              "start": 0,
+              "username": "jamjam_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066922662681858180",
+        "in_reply_to_user_id": "1920522409263968256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066883830019981503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jamjam_0v0 嗯。对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920522409263968256",
+        "conversation_id": "2066785787740610903",
+        "created_at": "2026-06-16T14:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066883830019981503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066883830019981503",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066785787740610903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 嗯对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜碎碎念多一些偶尔丢几张图片｜苦笑面对世界中｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 213,
+          "like_count": 2776,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T16:53:29.000Z",
+        "description": "人这辈子最重要的是爱",
+        "id": "1920522409263968256",
+        "name": "happy0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994322110920183809/ENqKGd58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 22,
+          "like_count": 1576,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1878
+        },
+        "username": "jamjam_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

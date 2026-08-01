@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2069728534562799704",
+    "created_at": "2026-06-24T15:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069806069787099350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024798549008072704",
+          "start": 0,
+          "username": "ovocakeuui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069806069787099350",
+    "in_reply_to_user_id": "2024798549008072704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069728534562799704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovocakeuui 卧槽宝贝你咋这么瘦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069728524114558976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLknIHVXgAABZe5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2069728534562799704",
+        "created_at": "2026-06-24T15:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069806069787099350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024798549008072704",
+              "start": 0,
+              "username": "ovocakeuui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069806069787099350",
+        "in_reply_to_user_id": "2024798549008072704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069728534562799704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovocakeuui 卧槽宝贝你咋这么瘦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069728524114558976"
+          ]
+        },
+        "author_id": "2024798549008072704",
+        "conversation_id": "2069728534562799704",
+        "created_at": "2026-06-24T10:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069728534562799704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z81ZgT7Fj9",
+              "end": 47,
+              "expanded_url": "https://x.com/ovocakeuui/status/2069728534562799704/photo/1",
+              "media_key": "3_2069728524114558976",
+              "start": 24,
+              "url": "https://t.co/z81ZgT7Fj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069728534562799704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 682,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷推特种草的衣服 我好喜欢波点啊啊啊爱推友🫰🏻 https://t.co/z81ZgT7Fj9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜只想长大｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 211,
+          "like_count": 2953,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T10:49:42.000Z",
+        "description": "我保证我是恶魔 只是偶尔很会装天使",
+        "id": "2024798549008072704",
+        "name": "梅渍小番茄",
+        "pinned_tweet_id": "2049861708265783653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057806030806065152/4kN6lTRx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8670,
+          "following_count": 8,
+          "like_count": 2348,
+          "listed_count": 14,
+          "media_count": 186,
+          "tweet_count": 2213
+        },
+        "url": "",
+        "username": "ovocakeuui",
+        "verified": false
+      }
+    ]
+  }
+}

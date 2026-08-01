@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2047570666065453216",
+    "created_at": "2026-04-24T18:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T19:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047745734624043447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1642822790658285569",
+          "start": 0,
+          "username": "anfei9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047745734624043447",
+    "in_reply_to_user_id": "1642822790658285569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047744141136953851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anfei9527 🌚你的像国产片剧情简介"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2047570666065453216",
+        "created_at": "2026-04-24T18:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047745734624043447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1642822790658285569",
+              "start": 0,
+              "username": "anfei9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047745734624043447",
+        "in_reply_to_user_id": "1642822790658285569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047744141136953851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anfei9527 🌚你的像国产片剧情简介"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642822790658285569",
+        "conversation_id": "2047570666065453216",
+        "created_at": "2026-04-24T18:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047744141136953851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047744141136953851",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047570666065453216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 🌝🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 248,
+          "like_count": 2260,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T09:35:21.000Z",
+        "description": "日常发癫‖社死/曝光/羞辱/交友（偶尔）‖投稿照片视频必须验证为本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v2nat.top",
+                "end": 23,
+                "expanded_url": "http://v2nat.top",
+                "start": 0,
+                "url": "https://t.co/HkduNUfDNi"
+              }
+            ]
+          }
+        },
+        "id": "1642822790658285569",
+        "location": "看反差点主页亮点",
+        "name": "安绯kk",
+        "pinned_tweet_id": "2032844159359529393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887496384749748225/wLGdixz5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9893,
+          "following_count": 4,
+          "like_count": 80,
+          "listed_count": 15,
+          "media_count": 253,
+          "tweet_count": 853
+        },
+        "url": "https://t.co/HkduNUfDNi",
+        "username": "anfei9527",
+        "verified": true
+      }
+    ]
+  }
+}

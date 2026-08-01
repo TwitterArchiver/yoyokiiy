@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2071982704548102337",
+    "created_at": "2026-06-30T15:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071982704548102337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1738574376457646080",
+          "start": 3,
+          "username": "pofCat2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071982704548102337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071620321963061473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pofCat2: 我是那种真的会因为几千块钱就感动的掉眼泪的赔钱货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2071982704548102337",
+        "created_at": "2026-06-30T15:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071982704548102337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1738574376457646080",
+              "start": 3,
+              "username": "pofCat2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071982704548102337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071620321963061473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pofCat2: 我是那种真的会因为几千块钱就感动的掉眼泪的赔钱货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738574376457646080",
+        "conversation_id": "2071620321963061473",
+        "created_at": "2026-06-29T15:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071620321963061473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071620321963061473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 66477,
+          "like_count": 593,
+          "quote_count": 20,
+          "reply_count": 171,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我是那种真的会因为几千块钱就感动的掉眼泪的赔钱货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜苦笑面对世界中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 212,
+          "like_count": 3007,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T14:57:00.000Z",
+        "description": "平静一些幸福一些ovo",
+        "id": "1738574376457646080",
+        "name": "泡芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056425564060434432/gFxd3q7E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 27,
+          "like_count": 3081,
+          "listed_count": 7,
+          "media_count": 32,
+          "tweet_count": 855
+        },
+        "url": "",
+        "username": "pofCat2",
+        "verified": false
+      }
+    ]
+  }
+}

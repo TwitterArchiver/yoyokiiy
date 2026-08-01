@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2077771242464305294",
+    "created_at": "2026-07-16T15:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077771713606250863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "754133965",
+          "start": 0,
+          "username": "realmattschell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077771713606250863",
+    "in_reply_to_user_id": "754133965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077771353097171178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realmattschell 是 雄性魅力属于全人类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2077771242464305294",
+        "created_at": "2026-07-16T15:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077771713606250863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "754133965",
+              "start": 0,
+              "username": "realmattschell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077771713606250863",
+        "in_reply_to_user_id": "754133965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077771353097171178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realmattschell 是 雄性魅力属于全人类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "754133965",
+        "conversation_id": "2077771242464305294",
+        "created_at": "2026-07-16T15:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077771353097171178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077771353097171178",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077771242464305294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 确实，帅是不分国界的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CV",
+              "full_name": "Cape Verde",
+              "geo": {
+                "coordinates": [
+                  -24.0,
+                  16.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "06｜sub｜永远不要停止感受｜皮肤飢渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "天涯海角。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 160,
+          "like_count": 3316,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 976
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-13T01:15:56.000Z",
+        "description": "银狐VPN，先下载，后安心。免费2天，邀请再送5天。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/tfrggm689S"
+              }
+            ]
+          }
+        },
+        "id": "754133965",
+        "name": "银狐VPN安全通道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077474981601013761/eO_O2zAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 104,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/tfrggm689S",
+        "username": "realmattschell",
+        "verified": false
+      }
+    ]
+  }
+}

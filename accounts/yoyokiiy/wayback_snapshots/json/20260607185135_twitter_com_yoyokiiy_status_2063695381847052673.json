@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2063397069419864511",
+    "created_at": "2026-06-07T18:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063695381847052673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1748715635238895616",
+          "start": 0,
+          "username": "kermitshh"
+        },
+        {
+          "end": 22,
+          "id": "845646991094956032",
+          "start": 11,
+          "username": "katiopolis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063695381847052673",
+    "in_reply_to_user_id": "1748715635238895616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063511441140002822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kermitshh @katiopolis 哲学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2063397069419864511",
+        "created_at": "2026-06-07T18:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063695381847052673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1748715635238895616",
+              "start": 0,
+              "username": "kermitshh"
+            },
+            {
+              "end": 22,
+              "id": "845646991094956032",
+              "start": 11,
+              "username": "katiopolis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063695381847052673",
+        "in_reply_to_user_id": "1748715635238895616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063511441140002822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kermitshh @katiopolis 哲学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748715635238895616",
+        "conversation_id": "2063397069419864511",
+        "created_at": "2026-06-07T06:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063511441140002822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "845646991094956032",
+              "start": 0,
+              "username": "katiopolis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063511441140002822",
+        "in_reply_to_user_id": "845646991094956032",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 36498,
+          "like_count": 919,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063397069419864511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@katiopolis Plane descended you ascended"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2058222485959475215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 215,
+          "like_count": 2674,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T14:34:55.000Z",
+        "description": "if it has wheels (or seals) im probably watching it :D \n💜💙\ndiscord: @ dumbas.s",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "geoguessr.com/native-app/dl/…",
+                "end": 23,
+                "expanded_url": "https://www.geoguessr.com/native-app/dl/user/5fe71eee383ae4000175425c",
+                "start": 0,
+                "url": "https://t.co/RmkOBvKxFs"
+              }
+            ]
+          }
+        },
+        "id": "1748715635238895616",
+        "location": "Goa",
+        "name": "Dumbass #CHAMPIONS💜💙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057291689883238400/M1qhIqfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 535,
+          "like_count": 78681,
+          "listed_count": 3,
+          "media_count": 431,
+          "tweet_count": 4782
+        },
+        "url": "https://t.co/RmkOBvKxFs",
+        "username": "kermitshh",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-25T14:42:08.000Z",
+        "description": "",
+        "id": "845646991094956032",
+        "name": "miss katie",
+        "pinned_tweet_id": "1990236872690573356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037752943240445952/8DlqYUHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3820,
+          "following_count": 901,
+          "like_count": 194812,
+          "listed_count": 7,
+          "media_count": 3878,
+          "tweet_count": 32291
+        },
+        "username": "katiopolis",
+        "verified": false
+      }
+    ]
+  }
+}

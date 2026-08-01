@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1974336043760693270",
+    "created_at": "2025-10-04T04:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T05:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974336043760693270"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1974336043760693270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在家走亲戚都没衣服穿。上身穿韩系下身睡裤谁敢看。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1974336043760693270",
+        "created_at": "2025-10-04T04:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T05:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974336043760693270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974336043760693270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在家走亲戚都没衣服穿。上身穿韩系下身睡裤谁敢看。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "这里大概有90%的我自己。安分与淫乱二象性。骨科重度爱好者。女宝们都来和我互动好不好🥺",
+        "id": "1897445432365821952",
+        "name": "其实我是gay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972538448977461248/340Iphsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 148,
+          "like_count": 974,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 84
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

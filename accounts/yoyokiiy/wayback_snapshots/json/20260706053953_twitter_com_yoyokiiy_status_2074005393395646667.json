@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2073815199862132963",
+    "created_at": "2026-07-06T05:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074005393395646667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1655030598497607682",
+          "start": 0,
+          "username": "JcoderH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074005393395646667",
+    "in_reply_to_user_id": "1655030598497607682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073988125949653492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JcoderH 其实我看到有韵味的姐姐妹妹也移不开眼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2073815199862132963",
+        "created_at": "2026-07-06T05:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074005393395646667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1655030598497607682",
+              "start": 0,
+              "username": "JcoderH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074005393395646667",
+        "in_reply_to_user_id": "1655030598497607682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073988125949653492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JcoderH 其实我看到有韵味的姐姐妹妹也移不开眼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655030598497607682",
+        "conversation_id": "2073815199862132963",
+        "created_at": "2026-07-06T04:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073988125949653492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073988125949653492",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073815199862132963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 一样，遇到建模好的妹纸，我也是行注目礼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 200,
+          "like_count": 3088,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T02:04:00.000Z",
+        "description": "马斯克信徒！\n一个十年经验的暴躁程序员老哥。\n朋友圈熟人太多，还是这能自我，发点职场、理财日常。",
+        "id": "1655030598497607682",
+        "name": "Gjsob",
+        "pinned_tweet_id": "2054221473901076540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993347801627979776/jhd6EMgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 742,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1176
+        },
+        "url": "",
+        "username": "JcoderH",
+        "verified": true
+      }
+    ]
+  }
+}

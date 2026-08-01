@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1974860276983029798",
+    "created_at": "2025-10-06T07:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T08:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975098973175398825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913884589724258304",
+          "start": 0,
+          "username": "321Tttjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975098973175398825",
+    "in_reply_to_user_id": "1913884589724258304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974860276983029798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@321Tttjj 我现在就在上钢琴课。。同在恨小时候为啥不学😭畏惧钢琴老师ing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1974860276983029798",
+        "created_at": "2025-10-06T07:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975098973175398825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913884589724258304",
+              "start": 0,
+              "username": "321Tttjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975098973175398825",
+        "in_reply_to_user_id": "1913884589724258304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974860276983029798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@321Tttjj 我现在就在上钢琴课。。同在恨小时候为啥不学😭畏惧钢琴老师ing"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913884589724258304",
+        "conversation_id": "1974860276983029798",
+        "created_at": "2025-10-05T15:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974860276983029798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/its_u_n_me/sta…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/its_u_n_me/status/1974444266576605653",
+              "start": 48,
+              "url": "https://t.co/NEGefw3CkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974860276983029798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2763,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974444266576605653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果回到小时候我一定会听妈妈的话学钢琴而不是吵着要学架子鼓（虽然我也只学了几节课我就不去了…😭 https://t.co/NEGefw3CkE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 161,
+          "like_count": 1045,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 104
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T09:17:16.000Z",
+        "description": "小乖 提起你的成长会流泪的不只有妈妈… /1900年 清朝老奶/ 我哥@alexian89/沈阳名媛@llaynan11/好诡秘@mix1265945",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "alexian89"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "llaynan11"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "mix1265945"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/malala_jiajiaj…",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/malala_jiajiajiajia",
+                "start": 0,
+                "url": "https://t.co/6NnH0ZlELd"
+              }
+            ]
+          }
+        },
+        "id": "1913884589724258304",
+        "location": "锦绣天府 安逸四川",
+        "name": "malala_jiajiajiajia",
+        "pinned_tweet_id": "1969284234884927839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974440028874096641/a2s33rOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 667,
+          "like_count": 25086,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 4524
+        },
+        "url": "https://t.co/6NnH0ZlELd",
+        "username": "321Tttjj",
+        "verified": false
+      }
+    ]
+  }
+}

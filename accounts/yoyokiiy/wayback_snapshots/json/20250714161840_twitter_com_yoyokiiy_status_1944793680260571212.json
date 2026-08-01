@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944793657397391360"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1944793680260571212",
+    "created_at": "2025-07-14T16:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T17:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944793680260571212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jWAZ8lQxRq",
+          "end": 26,
+          "expanded_url": "https://x.com/yoyokiiy/status/1944793680260571212/photo/1",
+          "media_key": "3_1944793657397391360",
+          "start": 3,
+          "url": "https://t.co/jWAZ8lQxRq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944793680260571212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "废片 https://t.co/jWAZ8lQxRq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1944793657397391360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv1LhwaasAA2_PF.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944793657397391360"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1944793680260571212",
+        "created_at": "2025-07-14T16:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T17:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944793680260571212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWAZ8lQxRq",
+              "end": 26,
+              "expanded_url": "https://x.com/yoyokiiy/status/1944793680260571212/photo/1",
+              "media_key": "3_1944793657397391360",
+              "start": 3,
+              "url": "https://t.co/jWAZ8lQxRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944793680260571212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "废片 https://t.co/jWAZ8lQxRq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "成分复杂！",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938145168701710336/xemUP5zZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 100,
+          "like_count": 588,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

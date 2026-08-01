@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named places in the world, like Fenway Park",
+          "id": "13",
+          "name": "Place"
+        },
+        "entity": {
+          "id": "1418291134049120259",
+          "name": "Cafe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1389632176052858882",
+          "name": "Hot springs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1389632176052858882",
+          "name": "Hot springs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418291134049120259",
+          "name": "Cafe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      }
+    ],
+    "conversation_id": "2071941916741042244",
+    "created_at": "2026-06-30T13:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071941916741042244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1281787943472869377",
+          "start": 3,
+          "username": "paya_paya_kun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071941916741042244",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12166
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071740730318762274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paya_paya_kun: 「行きたいな」と思った場所には、1人でさっさと行ってください。水族館、離島、美術館、温泉、映画館、古本屋、喫茶店、知らない町、ずっと気になっていた店。一緒に行ってくれる人を待ってると、それだけで人生が終わってしまうから。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1389632176052858882",
+              "name": "Hot springs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1389632176052858882",
+              "name": "Hot springs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2071941916741042244",
+        "created_at": "2026-06-30T13:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071941916741042244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1281787943472869377",
+              "start": 3,
+              "username": "paya_paya_kun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071941916741042244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12166
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071740730318762274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paya_paya_kun: 「行きたいな」と思った場所には、1人でさっさと行ってください。水族館、離島、美術館、温泉、映画館、古本屋、喫茶店、知らない町、ずっと気になっていた店。一緒に行ってくれる人を待ってると、それだけで人生が終わってしまうから。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1281787943472869377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1389632176052858882",
+              "name": "Hot springs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1389632176052858882",
+              "name": "Hot springs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2071740730318762274",
+        "created_at": "2026-06-29T23:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:37:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071739832532140056",
+          "2071740730318762274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071740730318762274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9276,
+          "impression_count": 2116842,
+          "like_count": 87058,
+          "quote_count": 1185,
+          "reply_count": 332,
+          "retweet_count": 12166
+        },
+        "reply_settings": "everyone",
+        "text": "「行きたいな」と思った場所には、1人でさっさと行ってください。水族館、離島、美術館、温泉、映画館、古本屋、喫茶店、知らない町、ずっと気になっていた店。一緒に行ってくれる人を待ってると、それだけで人生が終わってしまうから。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜苦笑面对世界中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 212,
+          "like_count": 2999,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-11T03:10:42.000Z",
+        "description": "防大→陸自→流浪の民です。清濁併せ呑むタイプです。【著書】陸上自衛隊ますらお日記/飯は食えるときに食っておく寝れるときは寝る/弱さを抱きしめて、生きていく/など お仕事の話や献本はお気軽にDMどうぞ。小説も書いてます。 note→https://t.co/ysRjrKsWJn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/payapayakun",
+                "end": 138,
+                "expanded_url": "https://note.com/payapayakun",
+                "start": 115,
+                "url": "https://t.co/ysRjrKsWJn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/payapayakun/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/payapayakun/",
+                "start": 0,
+                "url": "https://t.co/1o830XJtAD"
+              }
+            ]
+          }
+        },
+        "id": "1281787943472869377",
+        "location": "配信リンクはAmazon Associatesを含みます。",
+        "name": "ぱやぱやくん",
+        "pinned_tweet_id": "1800912903878713414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909819367845773313/WO5A0LAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309438,
+          "following_count": 155,
+          "like_count": 57769,
+          "listed_count": 1570,
+          "media_count": 1877,
+          "tweet_count": 39618
+        },
+        "url": "https://t.co/1o830XJtAD",
+        "username": "paya_paya_kun",
+        "verified": true
+      }
+    ]
+  }
+}

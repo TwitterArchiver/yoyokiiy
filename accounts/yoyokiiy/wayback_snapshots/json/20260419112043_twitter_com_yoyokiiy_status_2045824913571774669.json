@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2045459148373193073",
+    "created_at": "2026-04-19T11:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045824913571774669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007112652255043584",
+          "start": 0,
+          "username": "Allene725746"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045824913571774669",
+    "in_reply_to_user_id": "2007112652255043584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045824300104679884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allene725746 收到！谢谢☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2045824298003423232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQ6XBtbYAA5yK0.jpg",
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2045459148373193073",
+        "created_at": "2026-04-19T11:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045824913571774669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007112652255043584",
+              "start": 0,
+              "username": "Allene725746"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045824913571774669",
+        "in_reply_to_user_id": "2007112652255043584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045824300104679884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allene725746 收到！谢谢☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045824298003423232"
+          ]
+        },
+        "author_id": "2007112652255043584",
+        "conversation_id": "2045459148373193073",
+        "created_at": "2026-04-19T11:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045824300104679884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XiP1LjAmMh",
+              "end": 66,
+              "expanded_url": "https://x.com/Allene725746/status/2045824300104679884/photo/1",
+              "media_key": "3_2045824298003423232",
+              "start": 43,
+              "url": "https://t.co/XiP1LjAmMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045824300104679884",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045459148373193073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 我软路由+路由器了，这样回家开软件联网直接上，电脑什么的都可以😌 https://t.co/XiP1LjAmMh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1992994593131081912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 236,
+          "like_count": 2149,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T15:32:12.000Z",
+        "description": "",
+        "id": "2007112652255043584",
+        "name": "ZeeYu111",
+        "pinned_tweet_id": "2037691725184192734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035720018076561408/WLJDJ7Ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 2544,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "Allene725746",
+        "verified": false
+      }
+    ]
+  }
+}

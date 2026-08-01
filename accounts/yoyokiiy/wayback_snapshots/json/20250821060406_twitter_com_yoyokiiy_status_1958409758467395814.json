@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957456224200556544"
+      ],
+      "media_source_tweet_id": [
+        "1957456226926899665"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1958409758467395814",
+    "created_at": "2025-08-21T06:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T07:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958409758467395814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954846952207900673",
+          "start": 3,
+          "username": "meomo0613"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAKHxhf6Op",
+          "end": 43,
+          "expanded_url": "https://x.com/meomo0613/status/1957456226926899665/photo/1",
+          "media_key": "3_1957456224200556544",
+          "start": 20,
+          "url": "https://t.co/wAKHxhf6Op"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958409758467395814",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 270
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957456226926899665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meomo0613: 🍎🍏 🌊 https://t.co/wAKHxhf6Op"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1096,
+        "media_key": "3_1957456224200556544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GypIEJraAAA4tzy.jpg",
+        "width": 1813
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957456224200556544"
+          ],
+          "media_source_tweet_id": [
+            "1957456226926899665"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1958409758467395814",
+        "created_at": "2025-08-21T06:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T07:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958409758467395814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954846952207900673",
+              "start": 3,
+              "username": "meomo0613"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAKHxhf6Op",
+              "end": 43,
+              "expanded_url": "https://x.com/meomo0613/status/1957456226926899665/photo/1",
+              "media_key": "3_1957456224200556544",
+              "start": 20,
+              "url": "https://t.co/wAKHxhf6Op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958409758467395814",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 270
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957456226926899665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meomo0613: 🍎🍏 🌊 https://t.co/wAKHxhf6Op"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957456224200556544"
+          ]
+        },
+        "author_id": "1954846952207900673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1957456226926899665",
+        "created_at": "2025-08-18T14:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T15:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957456226926899665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAKHxhf6Op",
+              "end": 28,
+              "expanded_url": "https://x.com/meomo0613/status/1957456226926899665/photo/1",
+              "media_key": "3_1957456224200556544",
+              "start": 5,
+              "url": "https://t.co/wAKHxhf6Op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957456226926899665",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 19864,
+          "like_count": 1311,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "🍎🍏 🌊 https://t.co/wAKHxhf6Op"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 129,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 48
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T10:06:55.000Z",
+        "description": "오빠, 제가 아니면 안 돼요.",
+        "id": "1954846952207900673",
+        "location": "🍎",
+        "name": "머모",
+        "pinned_tweet_id": "1954855809474592947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954857161672253440/pvxjhnvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 31,
+          "like_count": 585,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 752
+        },
+        "username": "meomo0613",
+        "verified": false
+      }
+    ]
+  }
+}

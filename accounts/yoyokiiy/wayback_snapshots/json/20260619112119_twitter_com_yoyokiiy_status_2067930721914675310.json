@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067930693699600384",
+        "3_2067930693661769728"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2067930721914675310",
+    "created_at": "2026-06-19T11:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067930721914675310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZZ8mxzgY4C",
+          "end": 63,
+          "expanded_url": "https://x.com/yoyokiiy/status/2067930721914675310/photo/1",
+          "media_key": "3_2067930693699600384",
+          "start": 40,
+          "url": "https://t.co/ZZ8mxzgY4C"
+        },
+        {
+          "display_url": "pic.x.com/ZZ8mxzgY4C",
+          "end": 63,
+          "expanded_url": "https://x.com/yoyokiiy/status/2067930721914675310/photo/1",
+          "media_key": "3_2067930693661769728",
+          "start": 40,
+          "url": "https://t.co/ZZ8mxzgY4C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067930721914675310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好美呀 云雾低低的似乎触手可及 远处是瑰丽的晚霞 动车里的灯映照在窗子上像星星 https://t.co/ZZ8mxzgY4C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067930693699600384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLEAnIXgAApZrL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067930693661769728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLEAm_WQAAmxp3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067930693699600384",
+            "3_2067930693661769728"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2067930721914675310",
+        "created_at": "2026-06-19T11:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067930721914675310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZZ8mxzgY4C",
+              "end": 63,
+              "expanded_url": "https://x.com/yoyokiiy/status/2067930721914675310/photo/1",
+              "media_key": "3_2067930693699600384",
+              "start": 40,
+              "url": "https://t.co/ZZ8mxzgY4C"
+            },
+            {
+              "display_url": "pic.x.com/ZZ8mxzgY4C",
+              "end": 63,
+              "expanded_url": "https://x.com/yoyokiiy/status/2067930721914675310/photo/1",
+              "media_key": "3_2067930693661769728",
+              "start": 40,
+              "url": "https://t.co/ZZ8mxzgY4C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067930721914675310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好美呀 云雾低低的似乎触手可及 远处是瑰丽的晚霞 动车里的灯映照在窗子上像星星 https://t.co/ZZ8mxzgY4C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 215,
+          "like_count": 2827,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

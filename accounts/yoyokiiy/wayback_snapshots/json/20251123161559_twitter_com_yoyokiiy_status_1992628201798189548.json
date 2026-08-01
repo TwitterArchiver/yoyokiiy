@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992628009744965632"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1992628201798189548",
+    "created_at": "2025-11-23T16:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992628201798189548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WjM1uEybg3",
+          "end": 44,
+          "expanded_url": "https://x.com/yoyokiiy/status/1992628201798189548/photo/1",
+          "media_key": "3_1992628009744965632",
+          "start": 21,
+          "url": "https://t.co/WjM1uEybg3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992628201798189548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我本来要换内裤的，但是腿太美了，遂拍之。 https://t.co/WjM1uEybg3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992628009744965632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c8nhJXoAAv8Kv.jpg",
+        "width": 1390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992628009744965632"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1992628201798189548",
+        "created_at": "2025-11-23T16:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992628201798189548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WjM1uEybg3",
+              "end": 44,
+              "expanded_url": "https://x.com/yoyokiiy/status/1992628201798189548/photo/1",
+              "media_key": "3_1992628009744965632",
+              "start": 21,
+              "url": "https://t.co/WjM1uEybg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992628201798189548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我本来要换内裤的，但是腿太美了，遂拍之。 https://t.co/WjM1uEybg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 186,
+          "like_count": 1356,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 203
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

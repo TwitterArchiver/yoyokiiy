@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1973395418563354769",
+    "created_at": "2025-10-03T03:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T04:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973956280483262617"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1973956280483262617",
+    "in_reply_to_user_id": "1897445432365821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973395418563354769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "四时花"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1973395418563354769",
+        "created_at": "2025-10-03T03:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T04:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973956280483262617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973956280483262617",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973395418563354769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "四时花"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1973395418563354769",
+        "created_at": "2025-10-01T14:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T15:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973395418563354769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973395418563354769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了玫瑰庄园现在又想买落雨紫藤杏树rojita蝴蝶结小兔提拉米苏…钱包你任重道远吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "随便分享点 梦到啥说啥 因为挂梯麻烦所以往往一次性发很多。。",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972538448977461248/340Iphsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 149,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 71
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

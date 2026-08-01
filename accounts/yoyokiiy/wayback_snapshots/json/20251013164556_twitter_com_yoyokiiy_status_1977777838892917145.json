@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1977754601269895641",
+    "created_at": "2025-10-13T16:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T17:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977777838892917145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1624681744678150146",
+          "start": 0,
+          "username": "IIIIII12773440"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977777838892917145",
+    "in_reply_to_user_id": "1624681744678150146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977754601269895641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IIIIII12773440 我也特别容易因为手对tony老师花痴。。😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1977754573159706624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JlTkIWsAA9o-e.jpg",
+        "width": 957
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1977754573147181057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JlTkFXkAEfmmG.jpg",
+        "width": 827
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1977754573138788352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JlTkDXgAA2NTn.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1977754601269895641",
+        "created_at": "2025-10-13T16:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T17:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977777838892917145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1624681744678150146",
+              "start": 0,
+              "username": "IIIIII12773440"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977777838892917145",
+        "in_reply_to_user_id": "1624681744678150146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977754601269895641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IIIIII12773440 我也特别容易因为手对tony老师花痴。。😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977754573159706624",
+            "3_1977754573147181057",
+            "3_1977754573138788352"
+          ]
+        },
+        "author_id": "1624681744678150146",
+        "conversation_id": "1977754601269895641",
+        "created_at": "2025-10-13T15:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T16:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977754601269895641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljqfhLgXkT",
+              "end": 53,
+              "expanded_url": "https://x.com/IIIIII12773440/status/1977754601269895641/photo/1",
+              "media_key": "3_1977754573159706624",
+              "start": 30,
+              "url": "https://t.co/ljqfhLgXkT"
+            },
+            {
+              "display_url": "pic.x.com/ljqfhLgXkT",
+              "end": 53,
+              "expanded_url": "https://x.com/IIIIII12773440/status/1977754601269895641/photo/1",
+              "media_key": "3_1977754573147181057",
+              "start": 30,
+              "url": "https://t.co/ljqfhLgXkT"
+            },
+            {
+              "display_url": "pic.x.com/ljqfhLgXkT",
+              "end": 53,
+              "expanded_url": "https://x.com/IIIIII12773440/status/1977754601269895641/photo/1",
+              "media_key": "3_1977754573138788352",
+              "start": 30,
+              "url": "https://t.co/ljqfhLgXkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977754601269895641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3574,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天给我剪头发这个老师手好看的不行……我一直在犯花痴😵‍💫 https://t.co/ljqfhLgXkT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974094973529387348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 187,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 145
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T08:08:31.000Z",
+        "description": "¯꒳¯@2LiZiy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "2LiZiy"
+              }
+            ]
+          }
+        },
+        "id": "1624681744678150146",
+        "location": "纯绿 288|不线下",
+        "name": "🍐IIIIII",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754365199035887616/HxUsmIcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27989,
+          "following_count": 515,
+          "like_count": 32835,
+          "listed_count": 65,
+          "media_count": 94,
+          "tweet_count": 3484
+        },
+        "username": "IIIIII12773440",
+        "verified": false
+      }
+    ]
+  }
+}

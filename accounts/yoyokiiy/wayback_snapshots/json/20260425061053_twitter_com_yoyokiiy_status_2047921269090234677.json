@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2047897778806988941",
+    "created_at": "2026-04-25T06:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047921269090234677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1937548834340745216",
+          "start": 0,
+          "username": "sjhlldxxlh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047921269090234677",
+    "in_reply_to_user_id": "1937548834340745216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047897778806988941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjhlldxxlh 🤝🤝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 725,
+        "media_key": "3_2047897772834361344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuYLJYbEAAIVvX.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2047897778806988941",
+        "created_at": "2026-04-25T06:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047921269090234677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1937548834340745216",
+              "start": 0,
+              "username": "sjhlldxxlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047921269090234677",
+        "in_reply_to_user_id": "1937548834340745216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047897778806988941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjhlldxxlh 🤝🤝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047897772834361344"
+          ]
+        },
+        "author_id": "1937548834340745216",
+        "conversation_id": "2047897778806988941",
+        "created_at": "2026-04-25T04:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047897778806988941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/At9J3B9ufB",
+              "end": 88,
+              "expanded_url": "https://x.com/sjhlldxxlh/status/2047897778806988941/photo/1",
+              "media_key": "3_2047897772834361344",
+              "start": 65,
+              "url": "https://t.co/At9J3B9ufB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047897778806988941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "，，其实就我自己感觉，我觉得推上的环境甚至比抖音私信里的好，，，\n因为在推上我能收到的私信基本就是觉得可以留言夸夸一下 ≡ω≡， https://t.co/At9J3B9ufB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 198,
+          "like_count": 2268,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T16:30:25.000Z",
+        "description": "世界这么大，奇迹的是，我和你在此相遇",
+        "id": "1937548834340745216",
+        "name": "∞",
+        "pinned_tweet_id": "2033267621605585338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040647901496664064/6VQn9viu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 69,
+          "like_count": 11493,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 28
+        },
+        "username": "sjhlldxxlh",
+        "verified": false
+      }
+    ]
+  }
+}

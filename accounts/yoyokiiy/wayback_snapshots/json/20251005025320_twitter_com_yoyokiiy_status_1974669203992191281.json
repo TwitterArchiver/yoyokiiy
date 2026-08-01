@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1974669203992191281",
+    "created_at": "2025-10-05T02:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T03:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974669203992191281"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1974669203992191281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽做梦梦到今天就是八号了。没赶上钢琴课被骂了好恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1974669203992191281",
+        "created_at": "2025-10-05T02:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T03:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974669203992191281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974669203992191281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽做梦梦到今天就是八号了。没赶上钢琴课被骂了好恐怖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "这里大概有90%的我自己。安分与淫乱二象性。骨科重度爱好者。女宝们都来和我互动好不🥺",
+        "id": "1897445432365821952",
+        "name": "乖狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974344824166748160/-4tDGabh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 149,
+          "like_count": 993,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 92
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

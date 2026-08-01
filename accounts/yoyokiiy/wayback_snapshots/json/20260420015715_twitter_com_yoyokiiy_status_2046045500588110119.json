@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2046045500588110119",
+    "created_at": "2026-04-20T01:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T02:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046045500588110119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751497892001685504",
+          "start": 3,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046045500588110119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045852638256971886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @45_206MHz: 🇨🇳大家好！我是来自中国的中国人!\n我是喜欢中国的中国人🇨🇳\n我很高兴，因为这个软件我可以和大家聊天🥰\n我在美国住了0年，我喜欢中国文化，所以自己学习了中文，中文真的真的非常困难对我\n但是我已经不需要翻译器，希望大家多多聊天和我\n很高兴认识你们💞💞…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2046045500588110119",
+        "created_at": "2026-04-20T01:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046045500588110119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751497892001685504",
+              "start": 3,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046045500588110119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045852638256971886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @45_206MHz: 🇨🇳大家好！我是来自中国的中国人!\n我是喜欢中国的中国人🇨🇳\n我很高兴，因为这个软件我可以和大家聊天🥰\n我在美国住了0年，我喜欢中国文化，所以自己学习了中文，中文真的真的非常困难对我\n但是我已经不需要翻译器，希望大家多多聊天和我\n很高兴认识你们💞💞…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2045852638256971886",
+        "created_at": "2026-04-19T13:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045852638256971886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045852638256971886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 47417,
+          "like_count": 721,
+          "quote_count": 4,
+          "reply_count": 100,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "🇨🇳大家好！我是来自中国的中国人!\n我是喜欢中国的中国人🇨🇳\n我很高兴，因为这个软件我可以和大家聊天🥰\n我在美国住了0年，我喜欢中国文化，所以自己学习了中文，中文真的真的非常困难对我\n但是我已经不需要翻译器，希望大家多多聊天和我\n很高兴认识你们💞💞\n爱来自瓷器，还请多多关照💖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 239,
+          "like_count": 2134,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun\n叫我 45 就好啦\nAMAB | gender apathetic（性别冷淡）\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "45_206io"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 122,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 99,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1990,
+          "following_count": 499,
+          "like_count": 33284,
+          "listed_count": 0,
+          "media_count": 615,
+          "tweet_count": 3800
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2071435022297370641",
+    "created_at": "2026-06-29T08:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071505962930667588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996628026776567808",
+          "start": 0,
+          "username": "yu123159129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071505962930667588",
+    "in_reply_to_user_id": "1996628026776567808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071463298240053430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu123159129 🤓智商换的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2071435022297370641",
+        "created_at": "2026-06-29T08:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071505962930667588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996628026776567808",
+              "start": 0,
+              "username": "yu123159129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071505962930667588",
+        "in_reply_to_user_id": "1996628026776567808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071463298240053430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu123159129 🤓智商换的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996628026776567808",
+        "conversation_id": "2071435022297370641",
+        "created_at": "2026-06-29T05:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071463298240053430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071463298240053430",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071435022297370641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 此人吃商极高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜苦笑面对世界中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 210,
+          "like_count": 2981,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T17:09:59.000Z",
+        "description": "没有人会一直陪着我:-P\n傻子离我远点谢谢！\n喜欢🉑️发口令投喂\n祝大家上网愉快🐟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu12321219",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu12321219",
+                "start": 0,
+                "url": "https://t.co/5hkIo9T3eG"
+              }
+            ]
+          }
+        },
+        "id": "1996628026776567808",
+        "location": "🚪128/520",
+        "name": "yu 123@",
+        "pinned_tweet_id": "2064665857956221384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050522158133288960/SUZnHPUO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6896,
+          "following_count": 77,
+          "like_count": 967,
+          "listed_count": 27,
+          "media_count": 44,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/5hkIo9T3eG",
+        "username": "yu123159129",
+        "verified": false
+      }
+    ]
+  }
+}

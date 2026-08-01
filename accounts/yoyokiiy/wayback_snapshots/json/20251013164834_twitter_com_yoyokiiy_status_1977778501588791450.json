@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1977754601269895641",
+    "created_at": "2025-10-13T16:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T17:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977778501588791450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1624681744678150146",
+          "start": 0,
+          "username": "IIIIII12773440"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977778501588791450",
+    "in_reply_to_user_id": "1624681744678150146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977778284302602639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IIIIII12773440 有一次加微聊上了一直傻笑地铁还坐过站了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1977754601269895641",
+        "created_at": "2025-10-13T16:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T17:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977778501588791450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1624681744678150146",
+              "start": 0,
+              "username": "IIIIII12773440"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977778501588791450",
+        "in_reply_to_user_id": "1624681744678150146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977778284302602639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IIIIII12773440 有一次加微聊上了一直傻笑地铁还坐过站了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624681744678150146",
+        "conversation_id": "1977754601269895641",
+        "created_at": "2025-10-13T16:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T17:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977778284302602639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977778284302602639",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977777838892917145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 我还在回味……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974094973529387348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 187,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 146
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T08:08:31.000Z",
+        "description": "¯꒳¯@2LiZiy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "2LiZiy"
+              }
+            ]
+          }
+        },
+        "id": "1624681744678150146",
+        "location": "纯绿 288|不线下",
+        "name": "🍐IIIIII",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754365199035887616/HxUsmIcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27989,
+          "following_count": 515,
+          "like_count": 32837,
+          "listed_count": 65,
+          "media_count": 94,
+          "tweet_count": 3485
+        },
+        "username": "IIIIII12773440",
+        "verified": false
+      }
+    ]
+  }
+}

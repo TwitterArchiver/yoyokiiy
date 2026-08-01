@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2017596224208249218",
+    "created_at": "2026-02-15T15:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T16:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023061320455569903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1755387435804934144",
+          "start": 0,
+          "username": "fvnkgcbm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023061320455569903",
+    "in_reply_to_user_id": "1755387435804934144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022971680478679284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fvnkgcbm 我为此苦恼着！觉得很没有吸引力TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2017596224208249218",
+        "created_at": "2026-02-15T15:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023061320455569903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1755387435804934144",
+              "start": 0,
+              "username": "fvnkgcbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023061320455569903",
+        "in_reply_to_user_id": "1755387435804934144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022971680478679284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fvnkgcbm 我为此苦恼着！觉得很没有吸引力TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755387435804934144",
+        "conversation_id": "2017596224208249218",
+        "created_at": "2026-02-15T09:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022971680478679284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022971680478679284",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017596224208249218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 我也是哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 201,
+          "like_count": 1728,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T00:26:06.000Z",
+        "description": "",
+        "id": "1755387435804934144",
+        "location": "Los Angeles, CA",
+        "name": "zhi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993972476578287616/Q63ut5bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 303,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 243
+        },
+        "username": "fvnkgcbm",
+        "verified": false
+      }
+    ]
+  }
+}

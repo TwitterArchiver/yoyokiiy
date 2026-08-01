@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954797933456683008"
+      ],
+      "media_source_tweet_id": [
+        "1954798033247371456"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1954964248112795733",
+    "created_at": "2025-08-11T17:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T18:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954964248112795733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "700524521036521472",
+          "start": 3,
+          "username": "shinku_yu0226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FNEjoHrLRs",
+          "end": 47,
+          "expanded_url": "https://x.com/shinku_yu0226/status/1954798033247371456/photo/1",
+          "media_key": "3_1954797933456683008",
+          "start": 24,
+          "url": "https://t.co/FNEjoHrLRs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954964248112795733",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 346
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954798033247371456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shinku_yu0226: マヒ主🪂 https://t.co/FNEjoHrLRs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1954797933456683008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDWXQ9acAALSIG.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954797933456683008"
+          ],
+          "media_source_tweet_id": [
+            "1954798033247371456"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1954964248112795733",
+        "created_at": "2025-08-11T17:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T18:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954964248112795733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "700524521036521472",
+              "start": 3,
+              "username": "shinku_yu0226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNEjoHrLRs",
+              "end": 47,
+              "expanded_url": "https://x.com/shinku_yu0226/status/1954798033247371456/photo/1",
+              "media_key": "3_1954797933456683008",
+              "start": 24,
+              "url": "https://t.co/FNEjoHrLRs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954964248112795733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 346
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954798033247371456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shinku_yu0226: マヒ主🪂 https://t.co/FNEjoHrLRs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954797933456683008"
+          ]
+        },
+        "author_id": "700524521036521472",
+        "conversation_id": "1954798033247371456",
+        "created_at": "2025-08-11T06:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T07:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954798033247371456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNEjoHrLRs",
+              "end": 28,
+              "expanded_url": "https://x.com/shinku_yu0226/status/1954798033247371456/photo/1",
+              "media_key": "3_1954797933456683008",
+              "start": 5,
+              "url": "https://t.co/FNEjoHrLRs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954798033247371456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 24322,
+          "like_count": 2028,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 346
+        },
+        "reply_settings": "everyone",
+        "text": "マヒ主🪂 https://t.co/FNEjoHrLRs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 130,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 42
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-19T03:37:15.000Z",
+        "description": "20↑￤illustration￤雑多￤lad🌟🐦‍⬛🍎￤About me→🔗のXfolioへ ￤🗝@shinkuyu_himitu￤🌊📦 https://t.co/D3tlBQKTaz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "shinkuyu_himitu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/culuclqcj…",
+                "end": 93,
+                "expanded_url": "https://wavebox.me/wave/culuclqcjsyyhkrx/",
+                "start": 70,
+                "url": "https://t.co/D3tlBQKTaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/yuyu…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/yuyuyuyu",
+                "start": 0,
+                "url": "https://t.co/VwcAkvF0ve"
+              }
+            ]
+          }
+        },
+        "id": "700524521036521472",
+        "location": "🔞 Do not repost & no AI !",
+        "name": "ゆう",
+        "pinned_tweet_id": "1954563310864494681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945396698525646848/bnnP_aAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3355,
+          "following_count": 81,
+          "like_count": 6880,
+          "listed_count": 21,
+          "media_count": 793,
+          "tweet_count": 16582
+        },
+        "url": "https://t.co/VwcAkvF0ve",
+        "username": "shinku_yu0226",
+        "verified": false
+      }
+    ]
+  }
+}

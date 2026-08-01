@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WEGO",
+          "id": "1035223802358054912",
+          "name": "WEGO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      }
+    ],
+    "conversation_id": "2041212325185663396",
+    "created_at": "2026-04-06T17:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T18:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041212325185663396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wmy072011/stat…",
+          "end": 178,
+          "expanded_url": "https://twitter.com/wmy072011/status/2040851783447384239",
+          "start": 155,
+          "url": "https://t.co/6hyaqO8zCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041212325185663396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040851783447384239",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "按这个思路整理一下\n我没什么想吃的 只想要每天早点睡 想买的话特别多呀 想买switch打日乙 还有特别多lolita rojita lizlisa和一系列wego…数不清。还有想给身体再塑塑形，想简历再丰富些，做点有意义的研究，去欧洲或者香港读研，想去遍各大洲。想窝在男朋友怀里。不想明天上早九，不想弹琴。 https://t.co/6hyaqO8zCN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WEGO",
+              "id": "1035223802358054912",
+              "name": "WEGO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          }
+        ],
+        "conversation_id": "2041212325185663396",
+        "created_at": "2026-04-06T17:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041212325185663396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wmy072011/stat…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/wmy072011/status/2040851783447384239",
+              "start": 155,
+              "url": "https://t.co/6hyaqO8zCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041212325185663396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040851783447384239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "按这个思路整理一下\n我没什么想吃的 只想要每天早点睡 想买的话特别多呀 想买switch打日乙 还有特别多lolita rojita lizlisa和一系列wego…数不清。还有想给身体再塑塑形，想简历再丰富些，做点有意义的研究，去欧洲或者香港读研，想去遍各大洲。想窝在男朋友怀里。不想明天上早九，不想弹琴。 https://t.co/6hyaqO8zCN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2040851783447384239",
+        "created_at": "2026-04-05T17:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040851783447384239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040851783447384239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1943,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想吃普瑞 想抽白利 想吃无骨鸡爪 椒麻大杂烩 海松茸 想买三星s25u 谷歌Pixel9 想买lizlisa 想数学上90分 想瘦到100斤 想买公路车 想换电脑 想上师大附中 想有和睦的家庭 想有人能陪我打羽球 想去广西 南京 温州 北欧玩 想要哈苏x2d 想哭 想死 想要被抱进怀里 想要被爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 229,
+          "like_count": 2052,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过的顺利",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 308,
+          "like_count": 36095,
+          "listed_count": 1,
+          "media_count": 1337,
+          "tweet_count": 12513
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

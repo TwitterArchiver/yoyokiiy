@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1936808634836750615",
+    "created_at": "2025-06-23T06:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T07:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937038405571166534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882792714296836096",
+          "start": 0,
+          "username": "kunjiao_tkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937038405571166534",
+    "in_reply_to_user_id": "1882792714296836096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936808634836750615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kunjiao_tkk 我今年一定要练成这样。😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_1936808604713058304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDtKhHXgAAm3T4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1936808634836750615",
+        "created_at": "2025-06-23T06:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T07:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937038405571166534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882792714296836096",
+              "start": 0,
+              "username": "kunjiao_tkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937038405571166534",
+        "in_reply_to_user_id": "1882792714296836096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936808634836750615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunjiao_tkk 我今年一定要练成这样。😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936808604713058304"
+          ]
+        },
+        "author_id": "1882792714296836096",
+        "conversation_id": "1936808634836750615",
+        "created_at": "2025-06-22T15:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T16:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936808634836750615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0S6QPhAF7N",
+              "end": 38,
+              "expanded_url": "https://x.com/kunjiao_tkk/status/1936808634836750615/photo/1",
+              "media_key": "3_1936808604713058304",
+              "start": 15,
+              "url": "https://t.co/0S6QPhAF7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936808634836750615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 17935,
+          "like_count": 357,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此女又在翻相册 马甲线美美滴 https://t.co/0S6QPhAF7N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "成分复杂！",
+        "id": "1897445432365821952",
+        "name": "夏未夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933924237728980992/IyPy4m_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 92,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T14:09:16.000Z",
+        "description": "nothing -无🚪/【私信已关】不闲聊/不出任何/不约🫧/不交友/拒绝所有不礼貌/不要给我发鸡谢谢/不接推广 纯分享而已 谢谢喜欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkunjiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kkunjiao",
+                "start": 0,
+                "url": "https://t.co/ffxGtZmx0f"
+              }
+            ]
+          }
+        },
+        "id": "1882792714296836096",
+        "location": "lalaland 挑着回👉",
+        "name": "想困觉了诶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894626958144933888/ZbRXGEzq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9301,
+          "following_count": 6,
+          "like_count": 158,
+          "listed_count": 39,
+          "media_count": 58,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/ffxGtZmx0f",
+        "username": "kunjiao_tkk",
+        "verified": false
+      }
+    ]
+  }
+}

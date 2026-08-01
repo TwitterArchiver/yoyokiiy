@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2071185658148745361",
+    "created_at": "2026-06-28T11:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071189825625915894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877992679453454336",
+          "start": 0,
+          "username": "BladeStarr0714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071189825625915894",
+    "in_reply_to_user_id": "1877992679453454336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071189144374767983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BladeStarr0714 摸摸小蛙🫳🏻🫳🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2071185658148745361",
+        "created_at": "2026-06-28T11:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071189825625915894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877992679453454336",
+              "start": 0,
+              "username": "BladeStarr0714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071189825625915894",
+        "in_reply_to_user_id": "1877992679453454336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071189144374767983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BladeStarr0714 摸摸小蛙🫳🏻🫳🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877992679453454336",
+        "conversation_id": "2071185658148745361",
+        "created_at": "2026-06-28T11:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071189144374767983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071189144374767983",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071185658148745361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 好美天呐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜苦笑面对世界中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 210,
+          "like_count": 2966,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T08:15:31.000Z",
+        "description": "这里是小蛙墙外的发疯撒泼标记点，宣泄压抑负能量的垃圾桶，但是也会因为喜欢大家而努力用自己最美好的一面来感染喜欢的大家。\n 有时候会因为太过可爱所以让大家搞混性别其实蛙是男生哦~这么可爱真是抱歉！@Frogly2887是t已经停更暴露狂蛙的黄色废料小号没什么好看的但也只过互关！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "Frogly2887"
+              }
+            ]
+          }
+        },
+        "id": "1877992679453454336",
+        "name": "ff",
+        "pinned_tweet_id": "2031031420953735469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924760681330704384/xQ-xUWFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 1138,
+          "like_count": 48091,
+          "listed_count": 10,
+          "media_count": 768,
+          "tweet_count": 39915
+        },
+        "url": "",
+        "username": "BladeStarr0714",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076307399967977472"
+      ],
+      "media_source_tweet_id": [
+        "2076307410998989073"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2076347668130054349",
+    "created_at": "2026-07-12T16:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076347668130054349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1624681744678150146",
+          "start": 3,
+          "username": "IIIIII12773440"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aQsoFUMrkh",
+          "end": 51,
+          "expanded_url": "https://x.com/IIIIII12773440/status/2076307410998989073/photo/1",
+          "media_key": "3_2076307399967977472",
+          "start": 28,
+          "url": "https://t.co/aQsoFUMrkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076347668130054349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076307410998989073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IIIIII12773440: 别让我哭了呗。 https://t.co/aQsoFUMrkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2076307399967977472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCGlFubMAAWNSF.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076307399967977472"
+          ],
+          "media_source_tweet_id": [
+            "2076307410998989073"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2076347668130054349",
+        "created_at": "2026-07-12T16:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076347668130054349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1624681744678150146",
+              "start": 3,
+              "username": "IIIIII12773440"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQsoFUMrkh",
+              "end": 51,
+              "expanded_url": "https://x.com/IIIIII12773440/status/2076307410998989073/photo/1",
+              "media_key": "3_2076307399967977472",
+              "start": 28,
+              "url": "https://t.co/aQsoFUMrkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076347668130054349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076307410998989073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IIIIII12773440: 别让我哭了呗。 https://t.co/aQsoFUMrkh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076307399967977472"
+          ]
+        },
+        "author_id": "1624681744678150146",
+        "conversation_id": "2076307410998989073",
+        "created_at": "2026-07-12T14:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076307410998989073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQsoFUMrkh",
+              "end": 31,
+              "expanded_url": "https://x.com/IIIIII12773440/status/2076307410998989073/photo/1",
+              "media_key": "3_2076307399967977472",
+              "start": 8,
+              "url": "https://t.co/aQsoFUMrkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076307410998989073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1284,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "别让我哭了呗。 https://t.co/aQsoFUMrkh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受｜皮肤飢渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "夢想是浪跡天涯。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 191,
+          "like_count": 3214,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 949
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-12T08:08:31.000Z",
+        "description": "你好我好大家好",
+        "id": "1624681744678150146",
+        "name": "🍐IIIIII",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754365199035887616/HxUsmIcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37180,
+          "following_count": 531,
+          "like_count": 44287,
+          "listed_count": 88,
+          "media_count": 162,
+          "tweet_count": 5187
+        },
+        "url": "",
+        "username": "IIIIII12773440",
+        "verified": false
+      }
+    ]
+  }
+}

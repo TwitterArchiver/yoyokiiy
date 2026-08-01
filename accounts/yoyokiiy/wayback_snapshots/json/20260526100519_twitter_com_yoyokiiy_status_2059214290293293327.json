@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2058930649432723466",
+    "created_at": "2026-05-26T10:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059214290293293327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1660461383463624705",
+          "start": 0,
+          "username": "Magg13_77iuj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059214290293293327",
+    "in_reply_to_user_id": "1660461383463624705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058930649432723466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magg13_77iuj 对就是这样我没忍住上了211（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2058930649432723466",
+        "created_at": "2026-05-26T10:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059214290293293327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1660461383463624705",
+              "start": 0,
+              "username": "Magg13_77iuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059214290293293327",
+        "in_reply_to_user_id": "1660461383463624705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058930649432723466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magg13_77iuj 对就是这样我没忍住上了211（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660461383463624705",
+        "conversation_id": "2058930649432723466",
+        "created_at": "2026-05-25T15:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058930649432723466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058930649432723466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 182769,
+          "like_count": 1253,
+          "quote_count": 10,
+          "reply_count": 154,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "排卵期还能忍住自慰的女孩可以考上985"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 215,
+          "like_count": 2546,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T01:43:50.000Z",
+        "description": "不回私信",
+        "id": "1660461383463624705",
+        "name": "Magg13_77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025977736242814982/WEF_2VSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 262,
+          "like_count": 761,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 329
+        },
+        "username": "Magg13_77iuj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1976284467997360603",
+    "created_at": "2025-10-10T17:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T18:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976695189906530619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1624681744678150146",
+          "start": 0,
+          "username": "IIIIII12773440"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976695189906530619",
+    "in_reply_to_user_id": "1624681744678150146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976284467997360603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IIIIII12773440 小宝宝你还是太好说话了！扇死他卧槽！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1616,
+        "media_key": "3_1976284455783239681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20sPeIWEAEUDRE.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1976284467997360603",
+        "created_at": "2025-10-10T17:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976695189906530619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1624681744678150146",
+              "start": 0,
+              "username": "IIIIII12773440"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976695189906530619",
+        "in_reply_to_user_id": "1624681744678150146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976284467997360603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IIIIII12773440 小宝宝你还是太好说话了！扇死他卧槽！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976284455783239681"
+          ]
+        },
+        "author_id": "1624681744678150146",
+        "conversation_id": "1976284467997360603",
+        "created_at": "2025-10-09T13:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976284467997360603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zk3m1MVAKS",
+              "end": 40,
+              "expanded_url": "https://x.com/IIIIII12773440/status/1976284467997360603/photo/1",
+              "media_key": "3_1976284455783239681",
+              "start": 17,
+              "url": "https://t.co/zk3m1MVAKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976284467997360603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 346110,
+          "like_count": 612,
+          "quote_count": 0,
+          "reply_count": 183,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "把我当臭狗一样玩耍 o(╥﹏╥) https://t.co/zk3m1MVAKS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 171,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 133
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T08:08:31.000Z",
+        "description": "¯꒳¯@2LiZiy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "2LiZiy"
+              }
+            ]
+          }
+        },
+        "id": "1624681744678150146",
+        "location": "纯绿 288|不线下",
+        "name": "🍐IIIIII",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754365199035887616/HxUsmIcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27909,
+          "following_count": 513,
+          "like_count": 32231,
+          "listed_count": 65,
+          "media_count": 92,
+          "tweet_count": 3398
+        },
+        "username": "IIIIII12773440",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2047899674116567477",
+    "created_at": "2026-04-25T10:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047983130649428242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1763885220879880192",
+          "start": 0,
+          "username": "lmzz66ff"
+        },
+        {
+          "end": 21,
+          "id": "1944994854637068288",
+          "start": 10,
+          "username": "milkkkstra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047983130649428242",
+    "in_reply_to_user_id": "1763885220879880192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047982160695722337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmzz66ff @milkkkstra 老师你圈到了吗 你圈我也圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2047899674116567477",
+        "created_at": "2026-04-25T10:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047983130649428242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1763885220879880192",
+              "start": 0,
+              "username": "lmzz66ff"
+            },
+            {
+              "end": 21,
+              "id": "1944994854637068288",
+              "start": 10,
+              "username": "milkkkstra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047983130649428242",
+        "in_reply_to_user_id": "1763885220879880192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047982160695722337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmzz66ff @milkkkstra 老师你圈到了吗 你圈我也圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763885220879880192",
+        "conversation_id": "2047899674116567477",
+        "created_at": "2026-04-25T10:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047982160695722337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            },
+            {
+              "end": 21,
+              "id": "1944994854637068288",
+              "start": 10,
+              "username": "milkkkstra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047982160695722337",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047978645915120008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy @milkkkstra 别逗你推特笑了，你鸟哥都开始圈钱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 199,
+          "like_count": 2275,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T11:13:18.000Z",
+        "description": "🚪52\nhttps://t.co/xdt3cL5ENx提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xn16530",
+                "end": 27,
+                "expanded_url": "https://ngl.link/xn16530",
+                "start": 4,
+                "url": "https://t.co/xdt3cL5ENx"
+              }
+            ]
+          }
+        },
+        "id": "1763885220879880192",
+        "name": "小鸟",
+        "pinned_tweet_id": "2046138279054188874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043919420691554305/IHowGNqa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 1,
+          "like_count": 1592,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1767
+        },
+        "username": "lmzz66ff",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:38:27.000Z",
+        "description": "1903生人♒️｜老奶奶自嗨来的\n无🚪不约不线下不加v｜想发啥发啥别管我\n没有陪聊的义务｜有礼貌的私信会回^ω^",
+        "id": "1944994854637068288",
+        "location": "喜欢我给我给钱。",
+        "name": "milkkk",
+        "pinned_tweet_id": "2034620342417907825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011089208216367104/XB4Y1zL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 48,
+          "like_count": 1422,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 669
+        },
+        "username": "milkkkstra",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2069295872186458539",
+    "created_at": "2026-06-23T05:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069295872186458539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1278414600946552832",
+          "start": 3,
+          "username": "zizinho2janeiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069295872186458539",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5633
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069001649964593152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zizinho2janeiro: Le manque de but personnel mène a des obsessions romantiques"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2069295872186458539",
+        "created_at": "2026-06-23T05:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069295872186458539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1278414600946552832",
+              "start": 3,
+              "username": "zizinho2janeiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069295872186458539",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5633
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069001649964593152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zizinho2janeiro: Le manque de but personnel mène a des obsessions romantiques"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1278414600946552832",
+        "conversation_id": "2069001649964593152",
+        "created_at": "2026-06-22T10:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069001649964593152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069001649964593152",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5212,
+          "impression_count": 598781,
+          "like_count": 35136,
+          "quote_count": 508,
+          "reply_count": 123,
+          "retweet_count": 5633
+        },
+        "reply_settings": "everyone",
+        "text": "Le manque de but personnel mène a des obsessions romantiques"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜只想长大｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2066923167218880519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 212,
+          "like_count": 2934,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-01T19:46:18.000Z",
+        "description": "certified loser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/h8DpT",
+                "end": 23,
+                "expanded_url": "https://boxd.it/h8DpT",
+                "start": 0,
+                "url": "https://t.co/uaKnfge1Do"
+              }
+            ]
+          }
+        },
+        "id": "1278414600946552832",
+        "name": "isaac",
+        "pinned_tweet_id": "2033485601127665888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068431746958327808/RObXsl2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 423,
+          "like_count": 62715,
+          "listed_count": 1,
+          "media_count": 1957,
+          "tweet_count": 15751
+        },
+        "url": "https://t.co/uaKnfge1Do",
+        "username": "zizinho2janeiro",
+        "verified": false
+      }
+    ]
+  }
+}

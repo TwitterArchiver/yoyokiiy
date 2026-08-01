@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1973696304359600472",
+    "created_at": "2025-10-03T03:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T04:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973957214038864336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1886028249849044992",
+          "start": 0,
+          "username": "qikiteen"
+        },
+        {
+          "end": 25,
+          "id": "1817903432344240128",
+          "start": 10,
+          "username": "sumingbai71221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973957214038864336",
+    "in_reply_to_user_id": "1886028249849044992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973721521559597138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikiteen @sumingbai71221 行我今晚就去蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1973696304359600472",
+        "created_at": "2025-10-03T03:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T04:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973957214038864336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886028249849044992",
+              "start": 0,
+              "username": "qikiteen"
+            },
+            {
+              "end": 25,
+              "id": "1817903432344240128",
+              "start": 10,
+              "username": "sumingbai71221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973957214038864336",
+        "in_reply_to_user_id": "1886028249849044992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973721521559597138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikiteen @sumingbai71221 行我今晚就去蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886028249849044992",
+        "conversation_id": "1973696304359600472",
+        "created_at": "2025-10-02T12:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T13:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973721521559597138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817903432344240128",
+              "start": 0,
+              "username": "sumingbai71221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973721521559597138",
+        "in_reply_to_user_id": "1817903432344240128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11964,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973696304359600472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumingbai71221 维密 小熊 显大利器 但是我有点穿不懂 而且 现在dy那种啵啵间的基础款真的巨便宜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "随便分享点 梦到啥说啥 因为挂梯麻烦所以往往一次性发很多。。",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972538448977461248/340Iphsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 149,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 72
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T12:26:07.000Z",
+        "description": "如果你也看我的碎碎念៸៸᳐ᴗ.ᴗ៸៸᳐ ᶻᶻᶻ",
+        "id": "1886028249849044992",
+        "name": "卖萌被肘击",
+        "pinned_tweet_id": "1938593094469136708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964730385201537024/_6YxYilD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 22,
+          "like_count": 648,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 301
+        },
+        "username": "qikiteen",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T12:42:19.000Z",
+        "description": "可以叫我小狸花/小刃呀 06女大 switch 清水推|这里有大量性欲大爆发宣泄|废话|做饭日常|写一点字|塔斯汀忠实拥护者|提问箱放下面了记得给我塞点啥！👇🏻|军训结束 强势回归",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sumingbai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sumingbai",
+                "start": 0,
+                "url": "https://t.co/1Pz4w1ngJs"
+              }
+            ]
+          }
+        },
+        "id": "1817903432344240128",
+        "name": "梨花刃（主理人版）",
+        "pinned_tweet_id": "1955842553405956573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824817551995457538/JltAQtin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 769,
+          "like_count": 30055,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 6440
+        },
+        "url": "https://t.co/1Pz4w1ngJs",
+        "username": "sumingbai71221",
+        "verified": false
+      }
+    ]
+  }
+}

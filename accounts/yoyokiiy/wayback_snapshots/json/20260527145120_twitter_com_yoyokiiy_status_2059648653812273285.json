@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2059296204077600797",
+    "created_at": "2026-05-27T14:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059648653812273285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513898402366439427",
+          "start": 0,
+          "username": "tired_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059648653812273285",
+    "in_reply_to_user_id": "1513898402366439427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059296204077600797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tired_8964 谁家哈士奇化人形了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059296195936477184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQW-sYbYAAHWRX.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2059296204077600797",
+        "created_at": "2026-05-27T14:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059648653812273285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513898402366439427",
+              "start": 0,
+              "username": "tired_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059648653812273285",
+        "in_reply_to_user_id": "1513898402366439427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059296204077600797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tired_8964 谁家哈士奇化人形了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059296195936477184"
+          ]
+        },
+        "author_id": "1513898402366439427",
+        "conversation_id": "2059296204077600797",
+        "created_at": "2026-05-26T15:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059296204077600797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51zbIjrNtN",
+              "end": 38,
+              "expanded_url": "https://x.com/tired_8964/status/2059296204077600797/photo/1",
+              "media_key": "3_2059296195936477184",
+              "start": 15,
+              "url": "https://t.co/51zbIjrNtN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059296204077600797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 25163,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 83,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁给纸人点睛了？没给我吓死😹 https://t.co/51zbIjrNtN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 214,
+          "like_count": 2554,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:14:50.000Z",
+        "description": "你哭什么，苦海无边；苦海无边，你哭什么？\n匿名问答：https://t.co/02AmJFCDEU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amaya_ovo",
+                "end": 49,
+                "expanded_url": "https://ngl.link/amaya_ovo",
+                "start": 26,
+                "url": "https://t.co/02AmJFCDEU"
+              }
+            ]
+          }
+        },
+        "id": "1513898402366439427",
+        "name": "烦烦",
+        "pinned_tweet_id": "2050236261441642895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004997128914149376/V6jWbjSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 310,
+          "like_count": 9517,
+          "listed_count": 4,
+          "media_count": 392,
+          "tweet_count": 4459
+        },
+        "username": "tired_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064852573606014976"
+      ],
+      "media_source_tweet_id": [
+        "2064852576613396637"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2065117864831451148",
+    "created_at": "2026-06-11T17:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065117864831451148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1766440422673387521",
+          "start": 3,
+          "username": "couplefrill"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HHS8rDBv1i",
+          "end": 40,
+          "expanded_url": "https://x.com/couplefrill/status/2064852576613396637/photo/1",
+          "media_key": "3_2064852573606014976",
+          "start": 17,
+          "url": "https://t.co/HHS8rDBv1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065117864831451148",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064852576613396637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @couplefrill: https://t.co/HHS8rDBv1i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2064852573606014976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKfUecNWcAADj6m.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064852573606014976"
+          ],
+          "media_source_tweet_id": [
+            "2064852576613396637"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2065117864831451148",
+        "created_at": "2026-06-11T17:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065117864831451148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1766440422673387521",
+              "start": 3,
+              "username": "couplefrill"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHS8rDBv1i",
+              "end": 40,
+              "expanded_url": "https://x.com/couplefrill/status/2064852576613396637/photo/1",
+              "media_key": "3_2064852573606014976",
+              "start": 17,
+              "url": "https://t.co/HHS8rDBv1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065117864831451148",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064852576613396637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @couplefrill: https://t.co/HHS8rDBv1i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064852573606014976"
+          ]
+        },
+        "author_id": "1766440422673387521",
+        "conversation_id": "2064852576613396637",
+        "created_at": "2026-06-10T23:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T00:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064852576613396637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHS8rDBv1i",
+              "end": 23,
+              "expanded_url": "https://x.com/couplefrill/status/2064852576613396637/photo/1",
+              "media_key": "3_2064852573606014976",
+              "start": 0,
+              "url": "https://t.co/HHS8rDBv1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064852576613396637",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 31637,
+          "like_count": 2371,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HHS8rDBv1i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很隨意。一天可能发很多。慎关",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 215,
+          "like_count": 2708,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T12:26:43.000Z",
+        "description": "19",
+        "id": "1766440422673387521",
+        "name": "َ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063356255763156992/xk2TF66p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 23,
+          "like_count": 8182,
+          "listed_count": 6,
+          "media_count": 127,
+          "tweet_count": 563
+        },
+        "username": "couplefrill",
+        "verified": true
+      }
+    ]
+  }
+}

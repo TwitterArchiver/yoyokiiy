@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2056187543050215787",
+    "created_at": "2026-05-18T02:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T03:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056207975170138457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2021326722315264000",
+          "start": 0,
+          "username": "Tonynoe123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056207975170138457",
+    "in_reply_to_user_id": "2021326722315264000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056194195480826042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tonynoe123 有人鸟你不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2056187543050215787",
+        "created_at": "2026-05-18T02:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056207975170138457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2021326722315264000",
+              "start": 0,
+              "username": "Tonynoe123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056207975170138457",
+        "in_reply_to_user_id": "2021326722315264000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056194195480826042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tonynoe123 有人鸟你不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021326722315264000",
+        "conversation_id": "2056187543050215787",
+        "created_at": "2026-05-18T02:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056194195480826042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056194195480826042",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056187543050215787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 聊天吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "乱涂乱画的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 210,
+          "like_count": 2501,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 669
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T20:54:50.000Z",
+        "description": "",
+        "id": "2021326722315264000",
+        "name": "Tony",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042413938407849984/81mpL0st_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 104,
+          "like_count": 1818,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 257
+        },
+        "username": "Tonynoe123",
+        "verified": true
+      }
+    ]
+  }
+}

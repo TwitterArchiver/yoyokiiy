@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2072308435836678588",
+    "created_at": "2026-07-01T13:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072308435836678588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luvqq00/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/luvqq00/status/2071965436036407320",
+          "start": 8,
+          "url": "https://t.co/NbIPPRlTS9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072308435836678588",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071965436036407320",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小处男你在哪。 https://t.co/NbIPPRlTS9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2072308435836678588",
+        "created_at": "2026-07-01T13:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072308435836678588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luvqq00/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/luvqq00/status/2071965436036407320",
+              "start": 8,
+              "url": "https://t.co/NbIPPRlTS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072308435836678588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071965436036407320",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小处男你在哪。 https://t.co/NbIPPRlTS9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978990119639224322",
+        "conversation_id": "2071965436036407320",
+        "created_at": "2026-06-30T14:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071965436036407320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071965436036407320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 68050,
+          "like_count": 376,
+          "quote_count": 3,
+          "reply_count": 238,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "感觉小处男才是最压抑的群体，脑子里想的比谁都黄，个个都想着要把女生凿服。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜苦笑面对世界中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 213,
+          "like_count": 3021,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 858
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T01:03:08.000Z",
+        "description": "s  私信想回就回看心情♥",
+        "id": "1978990119639224322",
+        "name": "Luv",
+        "pinned_tweet_id": "2066423331172090062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988881219325685762/AhxooMZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8799,
+          "following_count": 4,
+          "like_count": 119,
+          "listed_count": 15,
+          "media_count": 197,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "Luvqq00",
+        "verified": false
+      }
+    ]
+  }
+}

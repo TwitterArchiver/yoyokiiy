@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1952374500101918739",
+    "created_at": "2025-08-05T17:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T18:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952787660600426512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1743195498390196224",
+          "start": 0,
+          "username": "lnyng161941"
+        },
+        {
+          "end": 24,
+          "id": "1842423358216142849",
+          "start": 13,
+          "username": "keeganlike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952787660600426512",
+    "in_reply_to_user_id": "1743195498390196224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952697300653932564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnyng161941 @keeganlike 我也觉得性别在文娱作品中其实并不需要过多的接社会现实 既然都是虚构作品了那你看这些是想放松还是带入现实斤斤计较就看你咯 反正我glblbg都吃 只雷文笔和某些xp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1952374500101918739",
+        "created_at": "2025-08-05T17:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T18:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952787660600426512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1743195498390196224",
+              "start": 0,
+              "username": "lnyng161941"
+            },
+            {
+              "end": 24,
+              "id": "1842423358216142849",
+              "start": 13,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952787660600426512",
+        "in_reply_to_user_id": "1743195498390196224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952697300653932564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnyng161941 @keeganlike 我也觉得性别在文娱作品中其实并不需要过多的接社会现实 既然都是虚构作品了那你看这些是想放松还是带入现实斤斤计较就看你咯 反正我glblbg都吃 只雷文笔和某些xp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743195498390196224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "1952374500101918739",
+        "created_at": "2025-08-05T11:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T12:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952697300653932564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842423358216142849",
+              "start": 0,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952697300653932564",
+        "in_reply_to_user_id": "1842423358216142849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2763,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952374500101918739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keeganlike 这个评论区。怎么会有性别对立的话啊。不是在聊小说之类的吗，bl和gl我觉得只要能吃都是好的，这不算是xp方面的问题吗。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 127,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 33
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T08:59:40.000Z",
+        "description": "底层COSER，主活跃在武汉北京重庆 ‖ 抽象，无恶意 ‖ 小号经营，大号找不到了 ‖ 问答:https://t.co/P3ybZQ71B7 ‖ 色色群:https://t.co/vQXLHuRZn9 ‖ 可以一起玩（颜控/线下丑拒） ‖ 🚪200w正常人88（涨涨价，有私信看到回，能正常聊天）‖ 高中已毕业",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lanyinging",
+                "end": 70,
+                "expanded_url": "https://ngl.link/lanyinging",
+                "start": 47,
+                "url": "https://t.co/P3ybZQ71B7"
+              },
+              {
+                "display_url": "t.me/lanyingm",
+                "end": 100,
+                "expanded_url": "https://t.me/lanyingm",
+                "start": 77,
+                "url": "https://t.co/vQXLHuRZn9"
+              }
+            ]
+          }
+        },
+        "id": "1743195498390196224",
+        "location": "距离你100m的东土大唐",
+        "name": "弱智儿童",
+        "pinned_tweet_id": "1942570549793943904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950191863174184960/eFTzV8IV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 19,
+          "like_count": 203,
+          "listed_count": 3,
+          "media_count": 216,
+          "tweet_count": 1241
+        },
+        "username": "lnyng161941",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:36:02.000Z",
+        "description": "🫧istp 一个丑逼罢了 经常会打错字，请见谅。",
+        "id": "1842423358216142849",
+        "name": "泡啊",
+        "pinned_tweet_id": "1933176446195016087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939713975027163136/nI9UOskh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22069,
+          "following_count": 449,
+          "like_count": 9589,
+          "listed_count": 17,
+          "media_count": 286,
+          "tweet_count": 6277
+        },
+        "username": "keeganlike",
+        "verified": false
+      }
+    ]
+  }
+}

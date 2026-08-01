@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060024168087961898",
+    "created_at": "2026-05-29T08:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060278487861117272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1907814971830157312",
+          "start": 0,
+          "username": "dntjgms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060278487861117272",
+    "in_reply_to_user_id": "1907814971830157312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060024168087961898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dntjgms 什么中剧让韩国人觉得好看呢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060024168087961898",
+        "created_at": "2026-05-29T08:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060278487861117272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1907814971830157312",
+              "start": 0,
+              "username": "dntjgms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060278487861117272",
+        "in_reply_to_user_id": "1907814971830157312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060024168087961898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dntjgms 什么中剧让韩国人觉得好看呢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907814971830157312",
+        "conversation_id": "2060024168087961898",
+        "created_at": "2026-05-28T15:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060024168087961898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060024168087961898",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 21397,
+          "like_count": 85,
+          "quote_count": 3,
+          "reply_count": 144,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "중드보다가 중문과까지 가게된분들있나요"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 213,
+          "like_count": 2563,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T15:18:39.000Z",
+        "description": "#虞书欣",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "虞书欣"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/dntjgms",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/dntjgms",
+                "start": 0,
+                "url": "https://t.co/Np4E0bFz5W"
+              }
+            ]
+          }
+        },
+        "id": "1907814971830157312",
+        "location": "苍兰诀",
+        "name": "3",
+        "pinned_tweet_id": "1930983794070426055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907818279277834241/Kg6_77Mr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 126,
+          "like_count": 1468,
+          "listed_count": 1,
+          "media_count": 334,
+          "tweet_count": 1030
+        },
+        "url": "https://t.co/Np4E0bFz5W",
+        "username": "dntjgms",
+        "verified": false
+      }
+    ]
+  }
+}

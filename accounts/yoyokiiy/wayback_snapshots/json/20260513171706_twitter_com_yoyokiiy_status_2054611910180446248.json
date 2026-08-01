@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2054400593561887059",
+    "created_at": "2026-05-13T17:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054611910180446248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2044820163493523457",
+          "start": 0,
+          "username": "wenwen91732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054611910180446248",
+    "in_reply_to_user_id": "2044820163493523457",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054400593561887059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenwen91732 🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2054400593561887059",
+        "created_at": "2026-05-13T17:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054611910180446248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2044820163493523457",
+              "start": 0,
+              "username": "wenwen91732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054611910180446248",
+        "in_reply_to_user_id": "2044820163493523457",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054400593561887059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenwen91732 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044820163493523457",
+        "conversation_id": "2054400593561887059",
+        "created_at": "2026-05-13T03:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054400593561887059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054400593561887059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 131640,
+          "like_count": 1010,
+          "quote_count": 2,
+          "reply_count": 421,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "自慰高潮完有点自我厌弃，感觉自己这么做不对，很委屈想哭，感觉高潮时发出的声音太羞耻了，而且玩的有点狠高了以后小肚子还疼，平时清醒时不觉得满足自己的欲望有什么错，但是今天自慰完清理身体的时候好讨厌这样的自己，可能这就是Aftercare的意义吧，但我没有Aftercare"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "乱涂乱画的日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 210,
+          "like_count": 2458,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T16:48:36.000Z",
+        "description": "发点碎碎念随便玩玩 不约  不接线下 私信随缘回",
+        "id": "2044820163493523457",
+        "name": "优栗猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050634409079185408/_6DbSMWB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259,
+          "following_count": 48,
+          "like_count": 171,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 207
+        },
+        "username": "wenwen91732",
+        "verified": false
+      }
+    ]
+  }
+}

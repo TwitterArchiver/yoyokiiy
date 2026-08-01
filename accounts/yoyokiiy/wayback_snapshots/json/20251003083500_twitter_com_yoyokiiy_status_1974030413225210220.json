@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973863200014598144"
+      ],
+      "media_source_tweet_id": [
+        "1973863209368211577"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1974030413225210220",
+    "created_at": "2025-10-03T08:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T09:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974030413225210220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1872523308538982400",
+          "start": 3,
+          "username": "XXRD_02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/luGWOOfDKg",
+          "end": 44,
+          "expanded_url": "https://x.com/XXRD_02/status/1973863209368211577/photo/1",
+          "media_key": "3_1973863200014598144",
+          "start": 21,
+          "url": "https://t.co/luGWOOfDKg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974030413225210220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 207
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973863209368211577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XXRD_02: (*｀へ´*) https://t.co/luGWOOfDKg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973863200014598144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2SSH1gWAAAnthh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973863200014598144"
+          ],
+          "media_source_tweet_id": [
+            "1973863209368211577"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1974030413225210220",
+        "created_at": "2025-10-03T08:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T09:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974030413225210220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1872523308538982400",
+              "start": 3,
+              "username": "XXRD_02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/luGWOOfDKg",
+              "end": 44,
+              "expanded_url": "https://x.com/XXRD_02/status/1973863209368211577/photo/1",
+              "media_key": "3_1973863200014598144",
+              "start": 21,
+              "url": "https://t.co/luGWOOfDKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974030413225210220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973863209368211577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XXRD_02: (*｀へ´*) https://t.co/luGWOOfDKg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973863200014598144"
+          ]
+        },
+        "author_id": "1872523308538982400",
+        "conversation_id": "1973863209368211577",
+        "created_at": "2025-10-02T21:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T22:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973863209368211577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/luGWOOfDKg",
+              "end": 31,
+              "expanded_url": "https://x.com/XXRD_02/status/1973863209368211577/photo/1",
+              "media_key": "3_1973863200014598144",
+              "start": 8,
+              "url": "https://t.co/luGWOOfDKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973863209368211577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 10491,
+          "like_count": 1585,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "(*｀へ´*) https://t.co/luGWOOfDKg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "梦到啥说啥",
+        "id": "1897445432365821952",
+        "name": "其实我是gay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972538448977461248/340Iphsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 150,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 72
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T06:02:13.000Z",
+        "description": "🍎哥哥回家❌转载禁止📕XXR缎✒️マヒ主",
+        "id": "1872523308538982400",
+        "location": "FY-26🛩️",
+        "name": "🐾·˖✶*✧🦴",
+        "pinned_tweet_id": "1890353555581669579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883941189579096064/C6V4_0RH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9071,
+          "following_count": 20,
+          "like_count": 204,
+          "listed_count": 16,
+          "media_count": 18,
+          "tweet_count": 19
+        },
+        "username": "XXRD_02",
+        "verified": false
+      }
+    ]
+  }
+}

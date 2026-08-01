@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1976155158007644494",
+    "created_at": "2025-10-10T04:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T05:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976511965909671978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1580562777739235328",
+          "start": 0,
+          "username": "coolboatdying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976511965909671978",
+    "in_reply_to_user_id": "1580562777739235328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976155158007644494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coolboatdying 很用心的😭我接吧。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1779,
+        "media_key": "3_1976155147446452224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2y2ovCbAAALR3a.jpg",
+        "width": 837
+      },
+      {
+        "height": 1921,
+        "media_key": "3_1976155147442208768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2y2ovBaQAAQMY_.jpg",
+        "width": 829
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1976155158007644494",
+        "created_at": "2025-10-10T04:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T05:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976511965909671978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1580562777739235328",
+              "start": 0,
+              "username": "coolboatdying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976511965909671978",
+        "in_reply_to_user_id": "1580562777739235328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976155158007644494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coolboatdying 很用心的😭我接吧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976155147446452224",
+            "3_1976155147442208768"
+          ]
+        },
+        "author_id": "1580562777739235328",
+        "conversation_id": "1976155158007644494",
+        "created_at": "2025-10-09T05:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T06:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976155158007644494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j8bGgKJGW0",
+              "end": 162,
+              "expanded_url": "https://x.com/coolboatdying/status/1976155158007644494/photo/1",
+              "media_key": "3_1976155147446452224",
+              "start": 139,
+              "url": "https://t.co/j8bGgKJGW0"
+            },
+            {
+              "display_url": "pic.x.com/j8bGgKJGW0",
+              "end": 162,
+              "expanded_url": "https://x.com/coolboatdying/status/1976155158007644494/photo/1",
+              "media_key": "3_1976155147442208768",
+              "start": 139,
+              "url": "https://t.co/j8bGgKJGW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976155158007644494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 127123,
+          "like_count": 354,
+          "quote_count": 3,
+          "reply_count": 53,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这个门哥真的让我流泪很多次。之前逛街给他拍jellycat，他就给我送了其中一款。我经常用一个想喝可乐的表情包，他就给我送了墨西哥的可乐，说是听说是最好喝的可乐。面基逛miniso有两个挂件很喜欢，但是有点贵没舍得买，他说他给我买我也不要，我走了之后他又回到店里买下来寄给我。 https://t.co/j8bGgKJGW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 171,
+          "like_count": 1111,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 129
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T14:15:18.000Z",
+        "description": "if you fall asleep down by the water，baby i'll carry you all the way home.",
+        "id": "1580562777739235328",
+        "name": "blue",
+        "pinned_tweet_id": "1976248595679752558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972310973949284354/XHqhEfKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15180,
+          "following_count": 256,
+          "like_count": 8010,
+          "listed_count": 20,
+          "media_count": 1319,
+          "tweet_count": 6776
+        },
+        "username": "coolboatdying",
+        "verified": false
+      }
+    ]
+  }
+}

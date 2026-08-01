@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2013194255636873594",
+    "created_at": "2026-01-19T10:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T11:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013194685511078374"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013194685511078374",
+    "in_reply_to_user_id": "1897445432365821952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013194255636873594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是伪骨人设所以本身就是哥哥（好美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1664,
+        "media_key": "3_2013194241191690240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_BNfvoXwAASmbw.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2013194255636873594",
+        "created_at": "2026-01-19T10:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T11:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013194685511078374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013194685511078374",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013194255636873594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是伪骨人设所以本身就是哥哥（好美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013194241191690240"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013194255636873594",
+        "created_at": "2026-01-19T10:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T11:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013194255636873594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qEvKvDVclT",
+              "end": 43,
+              "expanded_url": "https://x.com/yoyokiiy/status/2013194255636873594/photo/1",
+              "media_key": "3_2013194241191690240",
+              "start": 20,
+              "url": "https://t.co/qEvKvDVclT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013194255636873594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这太会了…起因是我主人哥哥爸爸混着喊， https://t.co/qEvKvDVclT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 197,
+          "like_count": 1549,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

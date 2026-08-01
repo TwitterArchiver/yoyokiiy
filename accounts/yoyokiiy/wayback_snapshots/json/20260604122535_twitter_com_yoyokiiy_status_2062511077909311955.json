@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2062511077909311955",
+    "created_at": "2026-06-04T12:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062511077909311955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795353581844877312",
+          "start": 3,
+          "username": "woyaohekeleV"
+        },
+        {
+          "end": 30,
+          "id": "1581937806435573760",
+          "start": 18,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062511077909311955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062040005175124048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woyaohekeleV: @fadai202202 其实我特别喜欢那种带点养胃感的健身男😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2062511077909311955",
+        "created_at": "2026-06-04T12:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062511077909311955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795353581844877312",
+              "start": 3,
+              "username": "woyaohekeleV"
+            },
+            {
+              "end": 30,
+              "id": "1581937806435573760",
+              "start": 18,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062511077909311955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062040005175124048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woyaohekeleV: @fadai202202 其实我特别喜欢那种带点养胃感的健身男😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795353581844877312",
+        "conversation_id": "2061974953059320173",
+        "created_at": "2026-06-03T05:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062040005175124048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581937806435573760",
+              "start": 0,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062040005175124048",
+        "in_reply_to_user_id": "1581937806435573760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3581,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061974953059320173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fadai202202 其实我特别喜欢那种带点养胃感的健身男😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2058222485959475215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 211,
+          "like_count": 2631,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T07:17:13.000Z",
+        "description": "我们只是网友 你要是讨厌我 那你就去死吧",
+        "id": "1795353581844877312",
+        "name": "vvvvvvv",
+        "pinned_tweet_id": "2061322835956781235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868295416560615424/YvUIT0Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 15,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 97
+        },
+        "username": "woyaohekeleV",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "",
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17858,
+          "following_count": 1,
+          "like_count": 1265,
+          "listed_count": 14,
+          "media_count": 160,
+          "tweet_count": 1218
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

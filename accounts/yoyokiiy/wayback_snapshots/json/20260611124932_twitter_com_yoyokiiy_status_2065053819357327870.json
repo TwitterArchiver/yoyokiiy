@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2065053819357327870",
+    "created_at": "2026-06-11T12:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065053819357327870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1899860500672110592",
+          "start": 3,
+          "username": "FrenchFriequq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065053819357327870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 285
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064780061719564764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FrenchFriequq: 好想谈骚货男人，会打单边耳钉，会自己剃毛，会在路边问我可不可以亲亲，会把我拽进树丛里深吻，会在房间里突然问我能不能给我口，然后直接在我腿中间干活的内种，还会一边打游戏一边冲我吐舌头勾引我，白天陪我打打游戏，晚上哼唧着求我坐重一点，要射了，想…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2065053819357327870",
+        "created_at": "2026-06-11T12:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065053819357327870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1899860500672110592",
+              "start": 3,
+              "username": "FrenchFriequq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065053819357327870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064780061719564764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FrenchFriequq: 好想谈骚货男人，会打单边耳钉，会自己剃毛，会在路边问我可不可以亲亲，会把我拽进树丛里深吻，会在房间里突然问我能不能给我口，然后直接在我腿中间干活的内种，还会一边打游戏一边冲我吐舌头勾引我，白天陪我打打游戏，晚上哼唧着求我坐重一点，要射了，想…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899860500672110592",
+        "conversation_id": "2064780061719564764",
+        "created_at": "2026-06-10T18:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064780061719564764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064780061719564764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 327,
+          "impression_count": 72792,
+          "like_count": 3308,
+          "quote_count": 87,
+          "reply_count": 128,
+          "retweet_count": 285
+        },
+        "reply_settings": "everyone",
+        "text": "好想谈骚货男人，会打单边耳钉，会自己剃毛，会在路边问我可不可以亲亲，会把我拽进树丛里深吻，会在房间里突然问我能不能给我口，然后直接在我腿中间干活的内种，还会一边打游戏一边冲我吐舌头勾引我，白天陪我打打游戏，晚上哼唧着求我坐重一点，要射了，想想爽的不行了都"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2058222485959475215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 216,
+          "like_count": 2696,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T16:31:15.000Z",
+        "description": "",
+        "id": "1899860500672110592",
+        "name": "linna k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899860751109808128/5MD_0_oH_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 159,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 350
+        },
+        "username": "FrenchFriequq",
+        "verified": false
+      }
+    ]
+  }
+}

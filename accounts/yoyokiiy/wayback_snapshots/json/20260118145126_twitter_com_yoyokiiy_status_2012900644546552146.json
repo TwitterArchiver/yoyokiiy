@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2012433716048474404",
+    "created_at": "2026-01-18T14:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012900644546552146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1964265669362667520",
+          "start": 0,
+          "username": "zuiaiyiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012900644546552146",
+    "in_reply_to_user_id": "1964265669362667520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012433716048474404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuiaiyiyi 我不活了。巨畏惧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2012433716048474404",
+        "created_at": "2026-01-18T14:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012900644546552146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964265669362667520",
+              "start": 0,
+              "username": "zuiaiyiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012900644546552146",
+        "in_reply_to_user_id": "1964265669362667520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012433716048474404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuiaiyiyi 我不活了。巨畏惧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964265669362667520",
+        "conversation_id": "2012433716048474404",
+        "created_at": "2026-01-17T07:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012433716048474404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012433716048474404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 129314,
+          "like_count": 1665,
+          "quote_count": 24,
+          "reply_count": 65,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "16句女孩听了全身上下酥酥麻麻的情话快分享给你的那个她吧\n1.会有一点酸\n2.你这烂神经了啊\n3.只能做根管了\n4.待会疼的话就举手\n5.你这牙龈都肿了\n6.你这个智齿长歪了\n7.嘴张大点\n8.嘴尽量放松\n9.有点疼啊\n10.你这牙齿有点坏啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 196,
+          "like_count": 1542,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 253
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T09:53:43.000Z",
+        "description": "止于推，只聊天。\n如果关注我，我很开心。\n回复看心情没礼貌我不回。\n只是一个会为五斗米折腰的资本主义受害者。\n标签纯引流，当真的那你这辈子有了。\n不加墙内联系方式，没有门槛，给一百万也不加vq\nx唯一亲友@羊奇羊https://t.co/uLfKv4ONH9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/cuteyangqi",
+                "end": 129,
+                "expanded_url": "https://x.com/cuteyangqi",
+                "start": 106,
+                "url": "https://t.co/uLfKv4ONH9"
+              }
+            ]
+          }
+        },
+        "id": "1964265669362667520",
+        "location": "亚特兰蒂斯",
+        "name": "熠熠舞",
+        "pinned_tweet_id": "2007684559379566659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004200904413925379/m3cu8rDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10710,
+          "following_count": 8,
+          "like_count": 10,
+          "listed_count": 25,
+          "media_count": 176,
+          "tweet_count": 540
+        },
+        "username": "zuiaiyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

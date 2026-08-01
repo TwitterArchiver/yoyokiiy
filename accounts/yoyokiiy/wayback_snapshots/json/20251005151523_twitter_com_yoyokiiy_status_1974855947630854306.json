@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1974510670055121041",
+    "created_at": "2025-10-05T15:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T16:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974855947630854306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783130866950213632",
+          "start": 0,
+          "username": "Ifeelsobad04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974855947630854306",
+    "in_reply_to_user_id": "1783130866950213632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974510670055121041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ifeelsobad04 我爱吃的覆面😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1974510670055121041",
+        "created_at": "2025-10-05T15:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974855947630854306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783130866950213632",
+              "start": 0,
+              "username": "Ifeelsobad04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974855947630854306",
+        "in_reply_to_user_id": "1783130866950213632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974510670055121041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ifeelsobad04 我爱吃的覆面😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783130866950213632",
+        "conversation_id": "1974510670055121041",
+        "created_at": "2025-10-04T16:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T17:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974510670055121041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kujiji1220/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/kujiji1220/status/1974480050482471247",
+              "start": 10,
+              "url": "https://t.co/q4ElCxlvS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974510670055121041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9086,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974480050482471247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求你们吃一下这个饭 https://t.co/q4ElCxlvS9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 153,
+          "like_count": 1015,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 96
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T13:48:28.000Z",
+        "description": "我想在哪在哪我的唤水剑｜直男｜switch｜不加v不聊s不线下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%9D%8F%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%9D%8F%E5%92%96%E5%95%A11",
+                "start": 0,
+                "url": "https://t.co/LyDKZxayem"
+              }
+            ]
+          }
+        },
+        "id": "1783130866950213632",
+        "name": "坏咖啡",
+        "pinned_tweet_id": "1971469594805326322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974546479948935170/858Zraa7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 542,
+          "like_count": 15475,
+          "listed_count": 4,
+          "media_count": 45,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/LyDKZxayem",
+        "username": "Ifeelsobad04",
+        "verified": false
+      }
+    ]
+  }
+}

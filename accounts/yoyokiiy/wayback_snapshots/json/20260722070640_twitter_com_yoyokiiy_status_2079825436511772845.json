@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1726936088298786816"
+      ],
+      "media_source_tweet_id": [
+        "1727201492044505277"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2079825436511772845",
+    "created_at": "2026-07-22T07:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079825436511772845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hpj1Kc0klL",
+          "end": 32,
+          "expanded_url": "https://x.com/WarpsiwaAV/status/1727201492044505277/video/1",
+          "media_key": "7_1726936088298786816",
+          "start": 9,
+          "url": "https://t.co/hpj1Kc0klL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079825436511772845",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "体型差我一生之求 https://t.co/hpj1Kc0klL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 579712,
+        "height": 720,
+        "media_key": "7_1726936088298786816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1726936088298786816/pu/img/g7ji-0PhQqMr3Ebk.jpg",
+        "public_metrics": {
+          "view_count": 1464298
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1726936088298786816/pu/vid/avc1/480x270/1HfQSRHXuDPbXIlc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1726936088298786816/pu/vid/avc1/640x360/SOSOxJiJXXh9AiLQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1726936088298786816/pu/vid/avc1/1280x720/6OcqG6l8QIqQMZKt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1726936088298786816/pu/pl/gn5fuDOHVcnhQxlR.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1726936088298786816"
+          ]
+        },
+        "author_id": "1229838335520231424",
+        "conversation_id": "1727201492044505277",
+        "created_at": "2023-11-22T05:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2023-11-22T06:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1727201492044505277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Click here if you cannot submit the button. ouo.io is a URL shortening service that allows users to get paid whenever they share links and someone clicks. We pay for ALL legitimate visitor you bring to your links and payout at least $1.5 per 1000 views. Multiple views from the same viewer are also counted thus you will be benefiting from all your traffic. Signup for an account in just 2 minutes. Once you've completed your registration just start creating short URLs and sharing the links with your family",
+              "display_url": "ouo.io/At314Nm",
+              "end": 46,
+              "expanded_url": "https://ouo.io/At314Nm",
+              "start": 23,
+              "status": 200,
+              "title": "Earn money on short links. Make short links and earn the biggest money - ouo.io",
+              "unwound_url": "https://ouo.io/At314Nm",
+              "url": "https://t.co/4CfTRQ2SDu"
+            },
+            {
+              "description": "เดิมพัน pkvip เว็บตรง จ่ายจริง ฝาก-ถอนออโต้",
+              "display_url": "bit.ly/3wRojqn",
+              "end": 239,
+              "expanded_url": "http://bit.ly/3wRojqn",
+              "images": [
+                {
+                  "height": 498,
+                  "url": "https://pbs.twimg.com/news_img/2077302201748209664/xjTVSAAM?format=png&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2077302201748209664/xjTVSAAM?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 216,
+              "status": 500,
+              "title": "pkvip เดิมพันกีฬาเว็บตรง",
+              "unwound_url": "https://pakyokvip.io/",
+              "url": "https://t.co/z3urv4YdNF"
+            },
+            {
+              "display_url": "pic.x.com/HOL7y7sWb7",
+              "end": 263,
+              "expanded_url": "https://x.com/WarpsiwaAV/status/1727201492044505277/video/1",
+              "media_key": "7_1726936088298786816",
+              "start": 240,
+              "url": "https://t.co/HOL7y7sWb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1727201492044505277",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1903,
+          "impression_count": 755800,
+          "like_count": 4530,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 957
+        },
+        "reply_settings": "everyone",
+        "text": "Momo Sakura\nFull Movie https://t.co/4CfTRQ2SDu\n\n〉〉〉 Pakyokvip พักยกVIP 〈〈〈\n✔️ มวย บอล หวย จบครบในที่เดียว\n✔️ คาสิโน บาคาร่า Slot ครบทุกค่าย\n✔️ ระบบออโต้ รวดเร็วทันใจ\n✔️ เว็บตรง การเงินมั่นคง 100%\n✔️สมัครเลย &gt;&gt; https://t.co/z3urv4YdNF https://t.co/HOL7y7sWb7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1726936088298786816"
+          ],
+          "media_source_tweet_id": [
+            "1727201492044505277"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2079825436511772845",
+        "created_at": "2026-07-22T07:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079825436511772845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hpj1Kc0klL",
+              "end": 32,
+              "expanded_url": "https://x.com/WarpsiwaAV/status/1727201492044505277/video/1",
+              "media_key": "7_1726936088298786816",
+              "start": 9,
+              "url": "https://t.co/hpj1Kc0klL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079825436511772845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "体型差我一生之求 https://t.co/hpj1Kc0klL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我只是有些好奇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "0.2km",
+        "name": "江莉央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078847646689837057/WRJFX8c0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 156,
+          "like_count": 3327,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 965
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      }
+    ]
+  }
+}

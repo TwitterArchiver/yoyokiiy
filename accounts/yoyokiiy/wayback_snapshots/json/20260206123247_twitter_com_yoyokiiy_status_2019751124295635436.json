@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2019385617772343742",
+    "created_at": "2026-02-06T12:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T13:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019751124295635436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1604154566206926848",
+          "start": 0,
+          "username": "OoRe02086112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019751124295635436",
+    "in_reply_to_user_id": "1604154566206926848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019385617772343742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoRe02086112 我最吃道德感高哥和主动妹了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2019385617772343742",
+        "created_at": "2026-02-06T12:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T13:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019751124295635436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1604154566206926848",
+              "start": 0,
+              "username": "OoRe02086112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019751124295635436",
+        "in_reply_to_user_id": "1604154566206926848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019385617772343742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoRe02086112 我最吃道德感高哥和主动妹了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604154566206926848",
+        "conversation_id": "2019385617772343742",
+        "created_at": "2026-02-05T12:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T13:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019385617772343742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019385617772343742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 15642,
+          "like_count": 508,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "虽然很老套，但我真的觉得那种骨科文里妹妹不停撩拨，哥哥明明早就硬得不行，还在克制着自己“我是你哥哥…你知道自己在做什么吗”一边压抑却又忍不住去碰对方，贪恋对方的身体，最后猛猛do“你本来就应该是我的”特别香😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2012548014359916750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 201,
+          "like_count": 1630,
+          "listed_count": 3,
+          "media_count": 28,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T16:40:47.000Z",
+        "description": "叫我小o就好了☺️｜随便写写✍️不喜欢直接屏蔽，骂我会爽🖕🏻｜偶尔写点抽象奖励自己｜录制前请先授权！发布请@ ｜接定制！！｜看置顶🔝",
+        "id": "1604154566206926848",
+        "name": "OO",
+        "pinned_tweet_id": "1917263464080498744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004584541370134528/SWX7TSmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99965,
+          "following_count": 270,
+          "like_count": 5516,
+          "listed_count": 133,
+          "media_count": 323,
+          "tweet_count": 2204
+        },
+        "username": "OoRe02086112",
+        "verified": false
+      }
+    ]
+  }
+}

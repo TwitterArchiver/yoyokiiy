@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2052188701602762785",
+    "created_at": "2026-05-07T07:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052284475971960967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2015385805062332416",
+          "start": 0,
+          "username": "Begonia_522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052284475971960967",
+    "in_reply_to_user_id": "2015385805062332416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052188701602762785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Begonia_522 我哭了呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2052188701602762785",
+        "created_at": "2026-05-07T07:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052284475971960967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2015385805062332416",
+              "start": 0,
+              "username": "Begonia_522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052284475971960967",
+        "in_reply_to_user_id": "2015385805062332416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052188701602762785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Begonia_522 我哭了呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015385805062332416",
+        "conversation_id": "2052188701602762785",
+        "created_at": "2026-05-07T00:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052188701602762785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052188701602762785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 964,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直都知道大多数人只是想要一个能回应欲望 提供情绪价值 但不占用理解能力的飞机杯 我的存在也只是一系列功能的集合。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 208,
+          "like_count": 2392,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 619
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T11:26:52.000Z",
+        "description": "168 105 本科在读 没有🚪不聊骚不线下 喜欢我的可以给我直接打钱。",
+        "id": "2015385805062332416",
+        "name": "士多啤梨zzz_",
+        "pinned_tweet_id": "2031974484107018534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039224363938131968/jbICU6b-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 146,
+          "like_count": 3620,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 877
+        },
+        "url": "",
+        "username": "Begonia_522",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060963646293844129",
+    "created_at": "2026-05-31T05:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060963646293844129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "109274193",
+          "start": 3,
+          "username": "armygl33girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060963646293844129",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19381
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060683425091334349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @armygl33girl: ชอบการเดินทางคนเดียวจัง คงจะดีกว่านี้ถ้าโลกนี้ไม่อันตรายสำหรับผู้หญิง"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060963646293844129",
+        "created_at": "2026-05-31T05:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060963646293844129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "109274193",
+              "start": 3,
+              "username": "armygl33girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060963646293844129",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19381
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060683425091334349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @armygl33girl: ชอบการเดินทางคนเดียวจัง คงจะดีกว่านี้ถ้าโลกนี้ไม่อันตรายสำหรับผู้หญิง"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "109274193",
+        "conversation_id": "2060683425091334349",
+        "created_at": "2026-05-30T11:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060683425091334349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060683425091334349",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 756,
+          "impression_count": 535858,
+          "like_count": 29459,
+          "quote_count": 146,
+          "reply_count": 157,
+          "retweet_count": 19381
+        },
+        "reply_settings": "everyone",
+        "text": "ชอบการเดินทางคนเดียวจัง คงจะดีกว่านี้ถ้าโลกนี้ไม่อันตรายสำหรับผู้หญิง"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "幸福就在我手心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 213,
+          "like_count": 2593,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-28T14:28:23.000Z",
+        "description": "𓂃` 𝑴𝒂𝒊𝒏𝒍𝒚 𝒘𝒊𝒕𝒉 BTS RVV 1D Polycat Tilly Birds TAYLOR SWIFT DAY6 IU WOODZ ⋆⁺ Haruma Miura Bella Ranee Yada Mikeyyy ✨ #LFC #Barca #MESSI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "LFC"
+              },
+              {
+                "end": 127,
+                "start": 121,
+                "tag": "Barca"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "MESSI"
+              }
+            ]
+          }
+        },
+        "id": "109274193",
+        "location": "V, IRENE, ZAYN ",
+        "name": "⁺ ◟ 𝘻𝘪𝘮𝘣𝘢𝘻𝘢𝘭𝘢𝘣𝘪𝘮 ⁷ ♫♪",
+        "pinned_tweet_id": "1604550507304869888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883831751002460160/mVrgqAsT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4694,
+          "following_count": 2486,
+          "like_count": 211428,
+          "listed_count": 7,
+          "media_count": 8461,
+          "tweet_count": 346462
+        },
+        "username": "armygl33girl",
+        "verified": false
+      }
+    ]
+  }
+}

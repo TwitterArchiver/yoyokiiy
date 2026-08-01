@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1933906096894390665",
+    "created_at": "2025-06-14T17:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T18:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933936097496797361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1808909597245329408",
+          "start": 0,
+          "username": "itsmehwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933936097496797361",
+    "in_reply_to_user_id": "1808909597245329408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933906096894390665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsmehwi 帅成啥了。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933906086064701441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtadVsjaQAEPzPj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1933906096894390665",
+        "created_at": "2025-06-14T17:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T18:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933936097496797361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1808909597245329408",
+              "start": 0,
+              "username": "itsmehwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933936097496797361",
+        "in_reply_to_user_id": "1808909597245329408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933906096894390665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsmehwi 帅成啥了。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933906086064701441"
+          ]
+        },
+        "author_id": "1808909597245329408",
+        "conversation_id": "1933906096894390665",
+        "created_at": "2025-06-14T15:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933906096894390665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tsc9OSnYwy",
+              "end": 23,
+              "expanded_url": "https://x.com/itsmehwi/status/1933906096894390665/photo/1",
+              "media_key": "3_1933906086064701441",
+              "start": 0,
+              "url": "https://t.co/Tsc9OSnYwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933906096894390665",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 7423,
+          "like_count": 552,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Tsc9OSnYwy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "成分复杂！",
+        "id": "1897445432365821952",
+        "name": "夏未夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933924237728980992/IyPy4m_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 72,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T17:03:59.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hwixxz",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hwixxz",
+                "start": 0,
+                "url": "https://t.co/8DMGBokEbE"
+              }
+            ]
+          }
+        },
+        "id": "1808909597245329408",
+        "name": "hwi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909973933698519041/_j2aRlFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4873,
+          "following_count": 38,
+          "like_count": 3636,
+          "listed_count": 7,
+          "media_count": 15,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/8DMGBokEbE",
+        "username": "itsmehwi",
+        "verified": false
+      }
+    ]
+  }
+}

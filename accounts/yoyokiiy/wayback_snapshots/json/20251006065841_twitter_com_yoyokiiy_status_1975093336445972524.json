@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975093292632338432",
+        "3_1975093292628103168",
+        "3_1975093292632248321",
+        "3_1975093292464590848"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1975093336445972524",
+    "created_at": "2025-10-06T06:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T07:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975093336445972524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tGfGYUnwuu",
+          "end": 30,
+          "expanded_url": "https://x.com/yoyokiiy/status/1975093336445972524/photo/1",
+          "media_key": "3_1975093292632338432",
+          "start": 7,
+          "url": "https://t.co/tGfGYUnwuu"
+        },
+        {
+          "display_url": "pic.x.com/tGfGYUnwuu",
+          "end": 30,
+          "expanded_url": "https://x.com/yoyokiiy/status/1975093336445972524/photo/1",
+          "media_key": "3_1975093292628103168",
+          "start": 7,
+          "url": "https://t.co/tGfGYUnwuu"
+        },
+        {
+          "display_url": "pic.x.com/tGfGYUnwuu",
+          "end": 30,
+          "expanded_url": "https://x.com/yoyokiiy/status/1975093336445972524/photo/1",
+          "media_key": "3_1975093292632248321",
+          "start": 7,
+          "url": "https://t.co/tGfGYUnwuu"
+        },
+        {
+          "display_url": "pic.x.com/tGfGYUnwuu",
+          "end": 30,
+          "expanded_url": "https://x.com/yoyokiiy/status/1975093336445972524/photo/1",
+          "media_key": "3_1975093292464590848",
+          "start": 7,
+          "url": "https://t.co/tGfGYUnwuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975093336445972524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃掉一颗大梨 https://t.co/tGfGYUnwuu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975093292632338432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jw4pmbcAA020O.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975093292628103168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jw4pla0AAK3es.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975093292632248321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jw4pmaEAEUfy9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975093292464590848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jw4o-b0AAwouQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975093292632338432",
+            "3_1975093292628103168",
+            "3_1975093292632248321",
+            "3_1975093292464590848"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1975093336445972524",
+        "created_at": "2025-10-06T06:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T07:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975093336445972524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGfGYUnwuu",
+              "end": 30,
+              "expanded_url": "https://x.com/yoyokiiy/status/1975093336445972524/photo/1",
+              "media_key": "3_1975093292632338432",
+              "start": 7,
+              "url": "https://t.co/tGfGYUnwuu"
+            },
+            {
+              "display_url": "pic.x.com/tGfGYUnwuu",
+              "end": 30,
+              "expanded_url": "https://x.com/yoyokiiy/status/1975093336445972524/photo/1",
+              "media_key": "3_1975093292628103168",
+              "start": 7,
+              "url": "https://t.co/tGfGYUnwuu"
+            },
+            {
+              "display_url": "pic.x.com/tGfGYUnwuu",
+              "end": 30,
+              "expanded_url": "https://x.com/yoyokiiy/status/1975093336445972524/photo/1",
+              "media_key": "3_1975093292632248321",
+              "start": 7,
+              "url": "https://t.co/tGfGYUnwuu"
+            },
+            {
+              "display_url": "pic.x.com/tGfGYUnwuu",
+              "end": 30,
+              "expanded_url": "https://x.com/yoyokiiy/status/1975093336445972524/photo/1",
+              "media_key": "3_1975093292464590848",
+              "start": 7,
+              "url": "https://t.co/tGfGYUnwuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975093336445972524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃掉一颗大梨 https://t.co/tGfGYUnwuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 159,
+          "like_count": 1041,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 100
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

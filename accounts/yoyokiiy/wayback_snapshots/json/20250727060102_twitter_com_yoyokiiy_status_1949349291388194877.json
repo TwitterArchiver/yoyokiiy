@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1942228743071645788",
+    "created_at": "2025-07-27T06:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T07:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949349291388194877"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 97,
+          "normalized_text": "Xiaohongshu",
+          "probability": 0.529,
+          "start": 87,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1484322954380935175",
+          "start": 0,
+          "username": "schmellows"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949349291388194877",
+    "in_reply_to_user_id": "1484322954380935175",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942228743071645788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@schmellows Interesting picture！😍Can the great painter quote it on my mainland Chinese Xiaohongshu account (I will indicate the source if you agree～)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1942228717750648832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQuunoXAAAEbqo.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1942228743071645788",
+        "created_at": "2025-07-27T06:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T07:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949349291388194877"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 97,
+              "normalized_text": "Xiaohongshu",
+              "probability": 0.529,
+              "start": 87,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1484322954380935175",
+              "start": 0,
+              "username": "schmellows"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949349291388194877",
+        "in_reply_to_user_id": "1484322954380935175",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942228743071645788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@schmellows Interesting picture！😍Can the great painter quote it on my mainland Chinese Xiaohongshu account (I will indicate the source if you agree～)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942228717750648832"
+          ]
+        },
+        "author_id": "1484322954380935175",
+        "conversation_id": "1942228743071645788",
+        "created_at": "2025-07-07T14:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942228743071645788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCEZDMD1lk",
+              "end": 35,
+              "expanded_url": "https://x.com/schmellows/status/1942228743071645788/photo/1",
+              "media_key": "3_1942228717750648832",
+              "start": 12,
+              "url": "https://t.co/bCEZDMD1lk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942228743071645788",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 735,
+          "impression_count": 144791,
+          "like_count": 11752,
+          "quote_count": 30,
+          "reply_count": 20,
+          "retweet_count": 1580
+        },
+        "reply_settings": "everyone",
+        "text": "hey pips :) https://t.co/bCEZDMD1lk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "成分复杂！",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945477368782483456/43biKAkG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 103,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 31
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T00:32:30.000Z",
+        "description": "fandom/ spam acc!! \n\nFarming sim enthusiast + CEO of F!MC x All \nlads🍎⭐· mm 💐· sdv🐸 \n\ni: @nyi2ko !💚💚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 89,
+                "username": "nyi2ko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "schmellows.straw.page",
+                "end": 23,
+                "expanded_url": "https://schmellows.straw.page",
+                "start": 0,
+                "url": "https://t.co/1Z1GFLQsvw"
+              }
+            ]
+          }
+        },
+        "id": "1484322954380935175",
+        "location": "mdni/ adni.",
+        "name": "💫 Lily of the valley 🍎🍏",
+        "pinned_tweet_id": "1913345632246370486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941456758880321536/F-BBzmmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3675,
+          "following_count": 553,
+          "like_count": 13633,
+          "listed_count": 13,
+          "media_count": 679,
+          "tweet_count": 8166
+        },
+        "url": "https://t.co/1Z1GFLQsvw",
+        "username": "schmellows",
+        "verified": false
+      }
+    ]
+  }
+}

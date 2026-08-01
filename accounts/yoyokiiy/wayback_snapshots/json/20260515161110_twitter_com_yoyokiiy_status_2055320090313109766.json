@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2055307556604801311",
+    "created_at": "2026-05-15T16:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055320090313109766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1643285777798025218",
+          "start": 0,
+          "username": "l_yanhuo_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055320090313109766",
+    "in_reply_to_user_id": "1643285777798025218",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055307556604801311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l_yanhuo_l 我靠我埋！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3010,
+        "media_key": "3_2055307545485676544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXrUrjakAAIM71.jpg",
+        "width": 2224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2055307556604801311",
+        "created_at": "2026-05-15T16:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055320090313109766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643285777798025218",
+              "start": 0,
+              "username": "l_yanhuo_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055320090313109766",
+        "in_reply_to_user_id": "1643285777798025218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055307556604801311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l_yanhuo_l 我靠我埋！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055307545485676544"
+          ]
+        },
+        "author_id": "1643285777798025218",
+        "conversation_id": "2055307556604801311",
+        "created_at": "2026-05-15T15:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055307556604801311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KlnLOsE0qM",
+              "end": 35,
+              "expanded_url": "https://x.com/l_yanhuo_l/status/2055307556604801311/photo/1",
+              "media_key": "3_2055307545485676544",
+              "start": 12,
+              "url": "https://t.co/KlnLOsE0qM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055307556604801311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7749,
+          "like_count": 392,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "尺度最大一张（应该吧） https://t.co/KlnLOsE0qM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "乱涂乱画的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 210,
+          "like_count": 2483,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T16:14:26.000Z",
+        "description": "🐰兔子全肯定🐰不接广 不接合作 🈚️🚪不约 不约拍 不加v 不想认识你 会看私信 可能会回好笑的私信 发勾吧一律不回 不玩游戏 不回哈喽 不找主  |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yanhuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yanhuo",
+                "start": 0,
+                "url": "https://t.co/JcYpaX9HgH"
+              }
+            ]
+          }
+        },
+        "id": "1643285777798025218",
+        "location": "⬇️匿名⬇️｜⁺✞ʚ粗口重度依赖ɞ✟₊ ｜",
+        "name": "不是胭火",
+        "pinned_tweet_id": "2018279307156861055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001197636758724609/uT0vhkmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15346,
+          "following_count": 428,
+          "like_count": 11224,
+          "listed_count": 25,
+          "media_count": 999,
+          "tweet_count": 14187
+        },
+        "url": "https://t.co/JcYpaX9HgH",
+        "username": "l_yanhuo_l",
+        "verified": false
+      }
+    ]
+  }
+}

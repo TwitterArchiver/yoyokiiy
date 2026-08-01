@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933924610543910912"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1933924630781481443",
+    "created_at": "2025-06-14T16:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T17:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933924630781481443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yA0uagxZRP",
+          "end": 33,
+          "expanded_url": "https://x.com/yoyokiiy/status/1933924630781481443/photo/1",
+          "media_key": "3_1933924610543910912",
+          "start": 10,
+          "url": "https://t.co/yA0uagxZRP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933924630781481443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "需要p才好看的刘海 https://t.co/yA0uagxZRP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_1933924610543910912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtauL9nbAAAKSrW.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933924610543910912"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1933924630781481443",
+        "created_at": "2025-06-14T16:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933924630781481443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yA0uagxZRP",
+              "end": 33,
+              "expanded_url": "https://x.com/yoyokiiy/status/1933924630781481443/photo/1",
+              "media_key": "3_1933924610543910912",
+              "start": 10,
+              "url": "https://t.co/yA0uagxZRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933924630781481443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "需要p才好看的刘海 https://t.co/yA0uagxZRP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "成分复杂！",
+        "id": "1897445432365821952",
+        "name": "夏未夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933924237728980992/IyPy4m_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 65,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 9
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

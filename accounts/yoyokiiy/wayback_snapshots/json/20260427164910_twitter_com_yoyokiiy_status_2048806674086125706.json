@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2048800865738522691",
+    "created_at": "2026-04-27T16:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048806674086125706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1616490653218918400",
+          "start": 0,
+          "username": "MathewsSemela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048806674086125706",
+    "in_reply_to_user_id": "1616490653218918400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048804717342408837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MathewsSemela 畏惧中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2048800865738522691",
+        "created_at": "2026-04-27T16:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048806674086125706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1616490653218918400",
+              "start": 0,
+              "username": "MathewsSemela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048806674086125706",
+        "in_reply_to_user_id": "1616490653218918400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048804717342408837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MathewsSemela 畏惧中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616490653218918400",
+        "conversation_id": "2048800865738522691",
+        "created_at": "2026-04-27T16:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048804717342408837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048804717342408837",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048800865738522691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 我今天刚跑完一千，对于一个大学生来说快死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 207,
+          "like_count": 2352,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-20T17:40:12.000Z",
+        "description": "这里什么都没有",
+        "id": "1616490653218918400",
+        "location": "China",
+        "name": "semela mathews",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360332142739456/c9SQ2Eb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 404,
+          "like_count": 3111,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2719
+        },
+        "username": "MathewsSemela",
+        "verified": false
+      }
+    ]
+  }
+}

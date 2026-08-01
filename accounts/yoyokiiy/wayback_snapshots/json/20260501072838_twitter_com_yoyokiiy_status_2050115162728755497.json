@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2049503627656753654",
+    "created_at": "2026-05-01T07:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T08:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050115162728755497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1531574905619107841",
+          "start": 0,
+          "username": "huixu24751250"
+        },
+        {
+          "end": 25,
+          "id": "2004574270916268033",
+          "start": 15,
+          "username": "Nssymwhsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050115162728755497",
+    "in_reply_to_user_id": "1531574905619107841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049811460864524289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huixu24751250 @Nssymwhsg 停停停牙龈萎缩了跟老太太一样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2049503627656753654",
+        "created_at": "2026-05-01T07:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050115162728755497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1531574905619107841",
+              "start": 0,
+              "username": "huixu24751250"
+            },
+            {
+              "end": 25,
+              "id": "2004574270916268033",
+              "start": 15,
+              "username": "Nssymwhsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050115162728755497",
+        "in_reply_to_user_id": "1531574905619107841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049811460864524289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huixu24751250 @Nssymwhsg 停停停牙龈萎缩了跟老太太一样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531574905619107841",
+        "conversation_id": "2049503627656753654",
+        "created_at": "2026-04-30T11:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049811460864524289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2004574270916268033",
+              "start": 0,
+              "username": "Nssymwhsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049811460864524289",
+        "in_reply_to_user_id": "2004574270916268033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 151194,
+          "like_count": 351,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049503627656753654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nssymwhsg 那些喜欢玩幼瘦的选择拔掉八颗牙，平时戴牙套"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 207,
+          "like_count": 2376,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T09:55:06.000Z",
+        "description": "安安心心本本分分做个智障儿，欢乐多。不看不破，不听不说",
+        "id": "1531574905619107841",
+        "location": "Republic of the Philippines",
+        "name": "enrico徐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609801694065623041/t4REon0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 63,
+          "like_count": 49,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 4394
+        },
+        "username": "huixu24751250",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T15:26:29.000Z",
+        "description": "什么都发。不加v（女生来者不拒）",
+        "id": "2004574270916268033",
+        "name": "Nssymw",
+        "pinned_tweet_id": "2022014103930515555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004574891719507968/kUdZI6nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 412,
+          "like_count": 7220,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 2993
+        },
+        "username": "Nssymwhsg",
+        "verified": false
+      }
+    ]
+  }
+}

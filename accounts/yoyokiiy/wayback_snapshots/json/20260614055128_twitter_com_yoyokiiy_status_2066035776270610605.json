@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2066035776270610605",
+    "created_at": "2026-06-14T05:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066035776270610605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1711390613797830656",
+          "start": 3,
+          "username": "marywhalls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066035776270610605",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 720
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065787746686517608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marywhalls: am i a freak or do i sexualize myself cause being lusted over is the closest i'll ever feel to being loved"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2066035776270610605",
+        "created_at": "2026-06-14T05:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066035776270610605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1711390613797830656",
+              "start": 3,
+              "username": "marywhalls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066035776270610605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 720
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065787746686517608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marywhalls: am i a freak or do i sexualize myself cause being lusted over is the closest i'll ever feel to being loved"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711390613797830656",
+        "conversation_id": "2065787746686517608",
+        "created_at": "2026-06-13T13:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065787746686517608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065787746686517608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 436,
+          "impression_count": 78767,
+          "like_count": 5003,
+          "quote_count": 92,
+          "reply_count": 12,
+          "retweet_count": 720
+        },
+        "reply_settings": "everyone",
+        "text": "am i a freak or do i sexualize myself cause being lusted over is the closest i'll ever feel to being loved"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很隨意。一天可能发很多。慎关",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 216,
+          "like_count": 2751,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T14:38:42.000Z",
+        "description": "judas iscariot pre-biblical times 🍂 MCFC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/49rJn",
+                "end": 23,
+                "expanded_url": "https://boxd.it/49rJn",
+                "start": 0,
+                "url": "https://t.co/cAgbs0kNDT"
+              }
+            ]
+          }
+        },
+        "id": "1711390613797830656",
+        "location": "she / her || 23 || mdni 🙏",
+        "name": "mary",
+        "pinned_tweet_id": "2064902661158347177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062911326469644288/WEjDWlgn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 722,
+          "like_count": 13237,
+          "listed_count": 10,
+          "media_count": 494,
+          "tweet_count": 5878
+        },
+        "url": "https://t.co/cAgbs0kNDT",
+        "username": "marywhalls",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039377650318495744"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2039377664268472669",
+    "created_at": "2026-04-01T16:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039377664268472669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G4oIWDx9FV",
+          "end": 52,
+          "expanded_url": "https://x.com/yoyokiiy/status/2039377664268472669/photo/1",
+          "media_key": "3_2039377650318495744",
+          "start": 29,
+          "url": "https://t.co/G4oIWDx9FV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039377664268472669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "单穿就看起来挺萌的\n要不要再配个黄色马甲饱和度更高一点呢 https://t.co/G4oIWDx9FV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039377650318495744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1TKvoa0AAKU56.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039377650318495744"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2039377664268472669",
+        "created_at": "2026-04-01T16:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039377664268472669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4oIWDx9FV",
+              "end": 52,
+              "expanded_url": "https://x.com/yoyokiiy/status/2039377664268472669/photo/1",
+              "media_key": "3_2039377650318495744",
+              "start": 29,
+              "url": "https://t.co/G4oIWDx9FV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039377664268472669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "单穿就看起来挺萌的\n要不要再配个黄色马甲饱和度更高一点呢 https://t.co/G4oIWDx9FV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症 重度恋哥癖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 220,
+          "like_count": 1991,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

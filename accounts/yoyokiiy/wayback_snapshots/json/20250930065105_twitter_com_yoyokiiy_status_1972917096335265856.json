@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1972917096335265856",
+    "created_at": "2025-09-30T06:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T07:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972917096335265856"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1972917096335265856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今晚宿舍就一个人我要狠狠用大震动棒🚬从家大老远带过来一次都没用上馋死我了🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1972917096335265856",
+        "created_at": "2025-09-30T06:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T07:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972917096335265856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972917096335265856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚宿舍就一个人我要狠狠用大震动棒🚬从家大老远带过来一次都没用上馋死我了🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "随便分享点",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972538448977461248/340Iphsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 148,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 60
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

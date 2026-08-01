@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971243314189135872"
+      ],
+      "media_source_tweet_id": [
+        "1971243321264927160"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1971972409013293268",
+    "created_at": "2025-09-27T16:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T17:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971972409013293268"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "恋与深空"
+        },
+        {
+          "end": 58,
+          "start": 41,
+          "tag": "LoveandDeepspace"
+        },
+        {
+          "end": 64,
+          "start": 60,
+          "tag": "夏以昼"
+        },
+        {
+          "end": 72,
+          "start": 66,
+          "tag": "Caleb"
+        },
+        {
+          "end": 78,
+          "start": 73,
+          "tag": "恋と深空"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "902043522093776896",
+          "start": 3,
+          "username": "Lxlijin0808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mGTsEsXR6b",
+          "end": 102,
+          "expanded_url": "https://x.com/Lxlijin0808/status/1971243321264927160/photo/1",
+          "media_key": "3_1971243314189135872",
+          "start": 79,
+          "url": "https://t.co/mGTsEsXR6b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971972409013293268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 489
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971243321264927160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lxlijin0808: Sex before.\n亲手拆解。\n#恋与深空 #LoveandDeepspace \n#夏以昼  #Caleb #恋と深空 https://t.co/mGTsEsXR6b"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1971972409013293268].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1971972409013293268",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1971972409013293268"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_1971243314189135872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1tDWaQbcAAzFaN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971243314189135872"
+          ]
+        },
+        "author_id": "902043522093776896",
+        "conversation_id": "1971243321264927160",
+        "created_at": "2025-09-25T16:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T17:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971243321264927160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "恋与深空"
+            },
+            {
+              "end": 41,
+              "start": 24,
+              "tag": "LoveandDeepspace"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "夏以昼"
+            },
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "Caleb"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "恋と深空"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mGTsEsXR6b",
+              "end": 85,
+              "expanded_url": "https://x.com/Lxlijin0808/status/1971243321264927160/photo/1",
+              "media_key": "3_1971243314189135872",
+              "start": 62,
+              "url": "https://t.co/mGTsEsXR6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971243321264927160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 448,
+          "impression_count": 34189,
+          "like_count": 3311,
+          "quote_count": 10,
+          "reply_count": 28,
+          "retweet_count": 489
+        },
+        "reply_settings": "everyone",
+        "text": "Sex before.\n亲手拆解。\n#恋与深空 #LoveandDeepspace \n#夏以昼  #Caleb #恋と深空 https://t.co/mGTsEsXR6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 146,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 75
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-28T05:41:49.000Z",
+        "description": "isfp。从不擦边，只做最真实的自己。",
+        "id": "902043522093776896",
+        "location": "中华人民共和国",
+        "name": "橘花椒_",
+        "pinned_tweet_id": "1966064126746374347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971594304021024768/CfHzPHRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35770,
+          "following_count": 220,
+          "like_count": 9625,
+          "listed_count": 58,
+          "media_count": 487,
+          "tweet_count": 2728
+        },
+        "username": "Lxlijin0808",
+        "verified": false
+      }
+    ]
+  }
+}

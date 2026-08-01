@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048300319269101568"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2048300328752435468",
+    "created_at": "2026-04-26T07:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048300328752435468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TCsq2MxS9o",
+          "end": 36,
+          "expanded_url": "https://x.com/yoyokiiy/status/2048300328752435468/photo/1",
+          "media_key": "3_2048300319269101568",
+          "start": 13,
+          "url": "https://t.co/TCsq2MxS9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048300328752435468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "謝謝Kevin的誇贊🥺🥺 https://t.co/TCsq2MxS9o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1459,
+        "media_key": "3_2048300319269101568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0GSbtaoAAHL4V.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048300319269101568"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2048300328752435468",
+        "created_at": "2026-04-26T07:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048300328752435468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCsq2MxS9o",
+              "end": 36,
+              "expanded_url": "https://x.com/yoyokiiy/status/2048300328752435468/photo/1",
+              "media_key": "3_2048300319269101568",
+              "start": 13,
+              "url": "https://t.co/TCsq2MxS9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048300328752435468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "謝謝Kevin的誇贊🥺🥺 https://t.co/TCsq2MxS9o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "纯绿清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 205,
+          "like_count": 2308,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

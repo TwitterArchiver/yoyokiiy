@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079119896756260864",
+        "3_2079119896764669952"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2079119909263651324",
+    "created_at": "2026-07-20T08:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T09:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079119909263651324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nGAaDZRI0u",
+          "end": 23,
+          "expanded_url": "https://x.com/yoyokiiy/status/2079119909263651324/photo/1",
+          "media_key": "3_2079119896756260864",
+          "start": 0,
+          "url": "https://t.co/nGAaDZRI0u"
+        },
+        {
+          "display_url": "pic.x.com/nGAaDZRI0u",
+          "end": 23,
+          "expanded_url": "https://x.com/yoyokiiy/status/2079119909263651324/photo/1",
+          "media_key": "3_2079119896764669952",
+          "start": 0,
+          "url": "https://t.co/nGAaDZRI0u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079119909263651324",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/nGAaDZRI0u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079119896756260864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqEh8uakAASb5Y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079119896764669952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqEh8wa4AA-yVZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079119896756260864",
+            "3_2079119896764669952"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2079119909263651324",
+        "created_at": "2026-07-20T08:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079119909263651324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGAaDZRI0u",
+              "end": 23,
+              "expanded_url": "https://x.com/yoyokiiy/status/2079119909263651324/photo/1",
+              "media_key": "3_2079119896756260864",
+              "start": 0,
+              "url": "https://t.co/nGAaDZRI0u"
+            },
+            {
+              "display_url": "pic.x.com/nGAaDZRI0u",
+              "end": 23,
+              "expanded_url": "https://x.com/yoyokiiy/status/2079119909263651324/photo/1",
+              "media_key": "3_2079119896764669952",
+              "start": 0,
+              "url": "https://t.co/nGAaDZRI0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079119909263651324",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nGAaDZRI0u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "或許我們都低估了萍水相逢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "0.2km",
+        "name": "江莉央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078847646689837057/WRJFX8c0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 155,
+          "like_count": 3300,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 952
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1952747231326441511",
+    "created_at": "2025-09-03T02:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T03:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963073438157021270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1912460889762197505",
+          "start": 0,
+          "username": "Coinny1712041"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963073438157021270",
+    "in_reply_to_user_id": "1912460889762197505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952747231326441511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coinny1712041 老师不用打码😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2002,
+        "media_key": "3_1952746058079207425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmMMZhbAAELlEn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2002,
+        "media_key": "3_1952746058108555264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmMMZoa0AAN07w.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2002,
+        "media_key": "3_1952746058121109504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmMMZraYAA7tcl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1952747231326441511",
+        "created_at": "2025-09-03T02:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T03:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963073438157021270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1912460889762197505",
+              "start": 0,
+              "username": "Coinny1712041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963073438157021270",
+        "in_reply_to_user_id": "1912460889762197505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952747231326441511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coinny1712041 老师不用打码😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952746058079207425",
+            "3_1952746058108555264",
+            "3_1952746058121109504"
+          ]
+        },
+        "author_id": "1912460889762197505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "1952747231326441511",
+        "created_at": "2025-08-05T15:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T16:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952747231326441511"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "逆爱"
+            },
+            {
+              "end": 43,
+              "start": 30,
+              "tag": "RevengedLove"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "吴所谓"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "池骋"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "BL"
+            },
+            {
+              "end": 66,
+              "start": 57,
+              "tag": "boysLove"
+            },
+            {
+              "end": 76,
+              "start": 67,
+              "tag": "Chicheng"
+            },
+            {
+              "end": 86,
+              "start": 77,
+              "tag": "Wusuowei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZQGWkPTHZ",
+              "end": 110,
+              "expanded_url": "https://x.com/Coinny1712041/status/1952747231326441511/photo/1",
+              "media_key": "3_1952746058079207425",
+              "start": 87,
+              "url": "https://t.co/DZQGWkPTHZ"
+            },
+            {
+              "display_url": "pic.x.com/DZQGWkPTHZ",
+              "end": 110,
+              "expanded_url": "https://x.com/Coinny1712041/status/1952747231326441511/photo/1",
+              "media_key": "3_1952746058108555264",
+              "start": 87,
+              "url": "https://t.co/DZQGWkPTHZ"
+            },
+            {
+              "display_url": "pic.x.com/DZQGWkPTHZ",
+              "end": 110,
+              "expanded_url": "https://x.com/Coinny1712041/status/1952747231326441511/photo/1",
+              "media_key": "3_1952746058121109504",
+              "start": 87,
+              "url": "https://t.co/DZQGWkPTHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952747231326441511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 958,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "花絮…大黄龙是用来献祭的吧，杀着杀着就杀到床上去了\n#逆爱 #RevengedLove #吴所谓 #池骋 #BL #boysLove #Chicheng #Wusuowei https://t.co/DZQGWkPTHZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 141,
+          "like_count": 821,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 73
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T11:00:05.000Z",
+        "description": "🇨🇳一个喜欢画同人、bl的小画师 /转发标明出处",
+        "id": "1912460889762197505",
+        "name": "Coinny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912461367497342976/bW9ZYnkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 13,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 6
+        },
+        "username": "Coinny1712041",
+        "verified": false
+      }
+    ]
+  }
+}

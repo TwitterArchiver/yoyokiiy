@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2024024509624267047",
+    "created_at": "2026-02-18T07:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024024509624267047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1890821171341647872",
+          "start": 3,
+          "username": "RPdUkr4M9845che"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024024509624267047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023733148576780574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RPdUkr4M9845che: 1、喜欢哥哥，不以其身形高大而畏惧之，是为仁\n2、喜欢哥哥，不以其成熟稳重而疏远之，是为义\n3、喜欢哥哥，不以其肩膀宽厚而怯步之，是为诚\n4、喜欢哥哥，不以其手掌粗糙而退缩之，是为恒\n5、喜欢哥哥，不以其默默守护而忽视之，是为智\n\n故而…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2024024509624267047",
+        "created_at": "2026-02-18T07:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024024509624267047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1890821171341647872",
+              "start": 3,
+              "username": "RPdUkr4M9845che"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024024509624267047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023733148576780574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RPdUkr4M9845che: 1、喜欢哥哥，不以其身形高大而畏惧之，是为仁\n2、喜欢哥哥，不以其成熟稳重而疏远之，是为义\n3、喜欢哥哥，不以其肩膀宽厚而怯步之，是为诚\n4、喜欢哥哥，不以其手掌粗糙而退缩之，是为恒\n5、喜欢哥哥，不以其默默守护而忽视之，是为智\n\n故而…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890821171341647872",
+        "conversation_id": "2023733148576780574",
+        "created_at": "2026-02-17T12:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023733148576780574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023733148576780574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 13444,
+          "like_count": 340,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "1、喜欢哥哥，不以其身形高大而畏惧之，是为仁\n2、喜欢哥哥，不以其成熟稳重而疏远之，是为义\n3、喜欢哥哥，不以其肩膀宽厚而怯步之，是为诚\n4、喜欢哥哥，不以其手掌粗糙而退缩之，是为恒\n5、喜欢哥哥，不以其默默守护而忽视之，是为智\n\n故而君子五德：仁、义、诚、恒、智"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 203,
+          "like_count": 1791,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T17:51:46.000Z",
+        "description": "从不回头看，除非高壮男‖大家都快来夸奖这个小女孩好吗ww ‖ 不加墙内/私信回粉丝（礼貌）‖ 主页随机掉落照片‖碎碎念每一天                                         \n匿名提问：https://t.co/EcFAImuIrd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dokidoki62057",
+                "end": 132,
+                "expanded_url": "https://ngl.link/dokidoki62057",
+                "start": 109,
+                "url": "https://t.co/EcFAImuIrd"
+              }
+            ]
+          }
+        },
+        "id": "1890821171341647872",
+        "name": "doki doki〃∀〃",
+        "pinned_tweet_id": "1994187433575919850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915432937434341381/TBjoayF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 72,
+          "like_count": 695,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 963
+        },
+        "username": "RPdUkr4M9845che",
+        "verified": false
+      }
+    ]
+  }
+}

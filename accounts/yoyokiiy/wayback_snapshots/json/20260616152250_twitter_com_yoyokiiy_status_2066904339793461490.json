@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2066670981733859652",
+    "created_at": "2026-06-16T15:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066904339793461490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "905046785357254656",
+          "start": 0,
+          "username": "chuu__lian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066904339793461490",
+    "in_reply_to_user_id": "905046785357254656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066670981733859652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuu__lian 喜欢caleb太有品了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2066670918618030080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5KQDPboAAoOMt.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2066670918584455168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5KQDHbUAAl_9h.jpg",
+        "width": 1280
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2066670918592839680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5KQDJbQAAwvat.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2066670918592872448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5KQDJbwAA3oOR.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2066670981733859652",
+        "created_at": "2026-06-16T15:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066904339793461490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "905046785357254656",
+              "start": 0,
+              "username": "chuu__lian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066904339793461490",
+        "in_reply_to_user_id": "905046785357254656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066670981733859652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuu__lian 喜欢caleb太有品了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066670918618030080",
+            "3_2066670918584455168",
+            "3_2066670918592839680",
+            "3_2066670918592872448"
+          ]
+        },
+        "author_id": "905046785357254656",
+        "conversation_id": "2066670981733859652",
+        "created_at": "2026-06-15T23:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066670981733859652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQfaEKzeFp",
+              "end": 35,
+              "expanded_url": "https://x.com/chuu__lian/status/2066670981733859652/photo/1",
+              "media_key": "3_2066670918618030080",
+              "start": 12,
+              "url": "https://t.co/IQfaEKzeFp"
+            },
+            {
+              "display_url": "pic.x.com/IQfaEKzeFp",
+              "end": 35,
+              "expanded_url": "https://x.com/chuu__lian/status/2066670981733859652/photo/1",
+              "media_key": "3_2066670918584455168",
+              "start": 12,
+              "url": "https://t.co/IQfaEKzeFp"
+            },
+            {
+              "display_url": "pic.x.com/IQfaEKzeFp",
+              "end": 35,
+              "expanded_url": "https://x.com/chuu__lian/status/2066670981733859652/photo/1",
+              "media_key": "3_2066670918592839680",
+              "start": 12,
+              "url": "https://t.co/IQfaEKzeFp"
+            },
+            {
+              "display_url": "pic.x.com/IQfaEKzeFp",
+              "end": 35,
+              "expanded_url": "https://x.com/chuu__lian/status/2066670981733859652/photo/1",
+              "media_key": "3_2066670918592872448",
+              "start": 12,
+              "url": "https://t.co/IQfaEKzeFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066670981733859652",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 29898,
+          "like_count": 448,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "중국으로 다시 보내줘 https://t.co/IQfaEKzeFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜碎碎念多一些偶尔丢几张图片｜苦笑面对世界中｜关注我你只会看到一个普通女孩每天都在想什么𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 213,
+          "like_count": 2768,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-05T12:35:43.000Z",
+        "description": "김쮸렌 チューレン\n#NIKKE #恋与深空 #ラブライブ #μʼs\n @Garr__net 👈 얘는 지휘관",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 10,
+                "tag": "NIKKE"
+              },
+              {
+                "end": 22,
+                "start": 17,
+                "tag": "恋与深空"
+              },
+              {
+                "end": 29,
+                "start": 23,
+                "tag": "ラブライブ"
+              },
+              {
+                "end": 34,
+                "start": 30,
+                "tag": "μʼs"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Garr__net"
+              }
+            ]
+          }
+        },
+        "id": "905046785357254656",
+        "name": "츄렌 九莲",
+        "pinned_tweet_id": "2061000049845543373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062194116818345984/GSmaMQQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4338,
+          "following_count": 418,
+          "like_count": 3355,
+          "listed_count": 22,
+          "media_count": 1796,
+          "tweet_count": 13803
+        },
+        "username": "chuu__lian",
+        "verified": false
+      }
+    ]
+  }
+}

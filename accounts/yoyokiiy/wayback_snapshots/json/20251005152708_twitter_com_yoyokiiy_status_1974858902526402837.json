@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1974819795217609038",
+    "created_at": "2025-10-05T15:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T16:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974858902526402837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1619021081238732802",
+          "start": 0,
+          "username": "love__bbh__lks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974858902526402837",
+    "in_reply_to_user_id": "1619021081238732802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974819795217609038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love__bbh__lks 对啊大家绝大多数都是普通人呀 有一点点小漂亮的地方对我们来说就是弥足珍贵的 难道只有漂亮的惊为天人才值得被夸吗说出那些言论的人也难免太傲慢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1974819795217609038",
+        "created_at": "2025-10-05T15:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974858902526402837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1619021081238732802",
+              "start": 0,
+              "username": "love__bbh__lks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974858902526402837",
+        "in_reply_to_user_id": "1619021081238732802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974819795217609038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love__bbh__lks 对啊大家绝大多数都是普通人呀 有一点点小漂亮的地方对我们来说就是弥足珍贵的 难道只有漂亮的惊为天人才值得被夸吗说出那些言论的人也难免太傲慢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619021081238732802",
+        "conversation_id": "1974819795217609038",
+        "created_at": "2025-10-05T12:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974819795217609038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974819795217609038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3981,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啥叫溺爱普男普女啊，那男的选妃我上赶着捧着他算，那女的不论发点啥我都无脑吹算，如果是那小男生小女生没招谁没惹谁发点自拍，也没无牌大耍，也没干点其他有伤道德的事情，底下网友们夸夸，咋就叫溺爱普男普女了？\n嗯世界什么时候能承认普通人原谅普通人包容普通人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 153,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 98
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T17:14:49.000Z",
+        "description": "清水碎碎念，别骚扰我。问隐私打钱发口令，可以喊我小柳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/love__bbh__lks",
+                "end": 23,
+                "expanded_url": "https://ngl.link/love__bbh__lks",
+                "start": 0,
+                "url": "https://t.co/oiNSPSRA4t"
+              }
+            ]
+          }
+        },
+        "id": "1619021081238732802",
+        "location": "匿名信箱👉🏻",
+        "name": "珏",
+        "pinned_tweet_id": "1891429284020957559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891325267286900736/PG6jOCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 250,
+          "like_count": 18182,
+          "listed_count": 4,
+          "media_count": 1616,
+          "tweet_count": 11960
+        },
+        "url": "https://t.co/oiNSPSRA4t",
+        "username": "love__bbh__lks",
+        "verified": false
+      }
+    ]
+  }
+}

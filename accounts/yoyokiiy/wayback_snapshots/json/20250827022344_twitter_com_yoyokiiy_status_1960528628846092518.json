@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960282272088969216"
+      ],
+      "media_source_tweet_id": [
+        "1960282279336378790"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1960528628846092518",
+    "created_at": "2025-08-27T02:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T03:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960528628846092518"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "恋と深空二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1930545065556082688",
+          "start": 3,
+          "username": "gYGfaW14aW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y4l7ZBED6T",
+          "end": 53,
+          "expanded_url": "https://x.com/gYGfaW14aW/status/1960282279336378790/photo/1",
+          "media_key": "3_1960282272088969216",
+          "start": 30,
+          "url": "https://t.co/y4l7ZBED6T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960528628846092518",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 729
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960282279336378790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gYGfaW14aW: マヒ主 #恋と深空二次創作 https://t.co/y4l7ZBED6T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960282272088969216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRSVydb0AAIc0p.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960282272088969216"
+          ],
+          "media_source_tweet_id": [
+            "1960282279336378790"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1960528628846092518",
+        "created_at": "2025-08-27T02:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T03:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960528628846092518"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "恋と深空二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1930545065556082688",
+              "start": 3,
+              "username": "gYGfaW14aW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4l7ZBED6T",
+              "end": 53,
+              "expanded_url": "https://x.com/gYGfaW14aW/status/1960282279336378790/photo/1",
+              "media_key": "3_1960282272088969216",
+              "start": 30,
+              "url": "https://t.co/y4l7ZBED6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960528628846092518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 729
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960282279336378790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gYGfaW14aW: マヒ主 #恋と深空二次創作 https://t.co/y4l7ZBED6T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960282272088969216"
+          ]
+        },
+        "author_id": "1930545065556082688",
+        "conversation_id": "1960282279336378790",
+        "created_at": "2025-08-26T10:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960282279336378790"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 4,
+              "tag": "恋と深空二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4l7ZBED6T",
+              "end": 37,
+              "expanded_url": "https://x.com/gYGfaW14aW/status/1960282279336378790/photo/1",
+              "media_key": "3_1960282272088969216",
+              "start": 14,
+              "url": "https://t.co/y4l7ZBED6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960282279336378790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 380,
+          "impression_count": 45573,
+          "like_count": 4694,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 729
+        },
+        "reply_settings": "everyone",
+        "text": "マヒ主 #恋と深空二次創作 https://t.co/y4l7ZBED6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 135,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 59
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T08:39:58.000Z",
+        "description": "萌えすぎて",
+        "id": "1930545065556082688",
+        "location": "こいしん男女カプ 25↑🔰",
+        "name": "気絶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930546638722043904/00pXJq7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 11,
+          "like_count": 394,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 53
+        },
+        "username": "gYGfaW14aW",
+        "verified": false
+      }
+    ]
+  }
+}

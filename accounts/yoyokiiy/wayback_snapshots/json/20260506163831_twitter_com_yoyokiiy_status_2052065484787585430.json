@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2052065484787585430",
+    "created_at": "2026-05-06T16:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052065484787585430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/phoenixyin13/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/phoenixyin13/status/2051806530031308918",
+          "start": 16,
+          "url": "https://t.co/vFo33LfGwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052065484787585430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051806530031308918",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "行就这么带着滤镜神化我们钢琴女 https://t.co/vFo33LfGwe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2052065484787585430",
+        "created_at": "2026-05-06T16:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052065484787585430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/phoenixyin13/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/phoenixyin13/status/2051806530031308918",
+              "start": 16,
+              "url": "https://t.co/vFo33LfGwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052065484787585430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051806530031308918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "行就这么带着滤镜神化我们钢琴女 https://t.co/vFo33LfGwe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924212425332813824",
+        "conversation_id": "2051806530031308918",
+        "created_at": "2026-05-05T23:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T00:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051806530031308918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051806530031308918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "别和艺术生谈恋爱，尤其是学钢琴的女生。谈之后你将起飞，精神意义上的。\n\n她从四岁开始练琴，每天六小时，巴赫平均律是她的童年阴影，也是肌肉记忆。\n这意味着什么？\n意味着她的时间感是用节拍器校准的，你迟到三分钟，在她身体里等于失拍三十二次，会让她有生理性的不适。\n\n你以为你在谈恋爱，其实你在被一个被来自古典音乐的灵魂温柔地审判。\n在你的审美无法跟上她的时候，她会轻轻地叹一口气，然后一脸无奈地看着你。\n\n学琴的人手几乎都好看，修长、骨节分明、指尖带薄茧，当她向你伸出手的时候，你会失神很长时间，并且将对其他人的手彻底祛魅。\n\n没有任何一种乐器比钢琴更像修道院。\n小提琴需要乐队，吉他可以围炉，钢琴是你一个人坐下，关门，跟一架黑白相间的庞然大物较劲十几年。\n她习惯了那种孤独，甚至依赖那种孤独。所以当你以为你们已经灵魂靠近时，她还是会在某个深夜走向琴房，背影中，响彻起你听不懂的德彪西。\n\n总之，切记切记，别和弹钢琴的女生谈恋爱。如果一定要谈，让我替你谈。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 298,
+          "impression_count": 389147,
+          "like_count": 850,
+          "quote_count": 12,
+          "reply_count": 947,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "别和艺术生谈恋爱，尤其是学钢琴的女生。谈之后你将起飞，精神意义上的。\n\n她从四岁开始练琴，每天六小时，巴赫平均律是她的童年阴影，也是肌肉记忆。\n这意味着什么？\n意味着她的时间感是用节拍器校准的，你迟到三分钟，在她身体里等于失拍三十二次，会让她有生理性的不适。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 208,
+          "like_count": 2378,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T21:16:21.000Z",
+        "description": "🇺🇸 04美本 | 计算机科学&认知科学\n⚙️AI, cognition, crypto, and the future of intelligence.\n✨相信好奇心驱动。相信人永远可塑。",
+        "id": "1924212425332813824",
+        "location": "Beverly Hills, CA",
+        "name": "Phoenix Yin",
+        "pinned_tweet_id": "2051806530031308918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028337523773038592/1kSOtKBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3500,
+          "following_count": 1298,
+          "like_count": 4590,
+          "listed_count": 14,
+          "media_count": 225,
+          "tweet_count": 2823
+        },
+        "username": "Phoenixyin13",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1977378559049040293",
+    "created_at": "2025-10-12T16:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T17:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977407057327505657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1197408879136497664",
+          "start": 0,
+          "username": "kuailexiaogou_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977407057327505657",
+    "in_reply_to_user_id": "1197408879136497664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977378559049040293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuailexiaogou_1 好美萌我蹲个睫毛🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_1977378547343003648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3EPT-zbkAAUG3P.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1977378559049040293",
+        "created_at": "2025-10-12T16:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T17:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977407057327505657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1197408879136497664",
+              "start": 0,
+              "username": "kuailexiaogou_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977407057327505657",
+        "in_reply_to_user_id": "1197408879136497664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977378559049040293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuailexiaogou_1 好美萌我蹲个睫毛🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977378547343003648"
+          ]
+        },
+        "author_id": "1197408879136497664",
+        "conversation_id": "1977378559049040293",
+        "created_at": "2025-10-12T14:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T15:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977378559049040293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhxkuM7YON",
+              "end": 77,
+              "expanded_url": "https://x.com/kuailexiaogou_1/status/1977378559049040293/photo/1",
+              "media_key": "3_1977378547343003648",
+              "start": 54,
+              "url": "https://t.co/bhxkuM7YON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977378559049040293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4661,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不是当坏女人的料 无论我怎么装坏 都会透露出一股可爱呆萌无辜水灵大方俏丽感 我一直都是一个很好的宝宝 https://t.co/bhxkuM7YON"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974094973529387348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 187,
+          "like_count": 1207,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 144
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-21T06:58:38.000Z",
+        "description": "碎碎念的地方 ▏只有这一个号 没有电报 被别的号骗了别来找我 不搞黄 不约 不线下 私信发生殖器骚扰我的我会拉黑▏置顶锁评推广自辨 置顶锁评推广自辨！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "a1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://a1.xn--hv1a41u.com/#/register?code=2hfLLAPI",
+                "start": 0,
+                "url": "https://t.co/A0V4vJ51OI"
+              }
+            ]
+          }
+        },
+        "id": "1197408879136497664",
+        "location": "推荐我自己长期使用的加速器 高速稳定⬇️",
+        "name": "我还有事先睡了",
+        "pinned_tweet_id": "1976872274558173255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930638667116425216/4DUIUUY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42191,
+          "following_count": 305,
+          "like_count": 2112,
+          "listed_count": 118,
+          "media_count": 207,
+          "tweet_count": 2788
+        },
+        "url": "https://t.co/A0V4vJ51OI",
+        "username": "kuailexiaogou_1",
+        "verified": false
+      }
+    ]
+  }
+}

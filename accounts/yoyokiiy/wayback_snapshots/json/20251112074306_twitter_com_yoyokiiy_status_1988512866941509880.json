@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988512830979461121"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1988512866941509880",
+    "created_at": "2025-11-12T07:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T08:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988512866941509880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2C28O2aiTS",
+          "end": 32,
+          "expanded_url": "https://x.com/yoyokiiy/status/1988512866941509880/photo/1",
+          "media_key": "3_1988512830979461121",
+          "start": 9,
+          "url": "https://t.co/2C28O2aiTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988512866941509880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宿舍终于没人了。 https://t.co/2C28O2aiTS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1988512830979461121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5id4lnWUAEZFNw.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988512830979461121"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1988512866941509880",
+        "created_at": "2025-11-12T07:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988512866941509880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2C28O2aiTS",
+              "end": 32,
+              "expanded_url": "https://x.com/yoyokiiy/status/1988512866941509880/photo/1",
+              "media_key": "3_1988512830979461121",
+              "start": 9,
+              "url": "https://t.co/2C28O2aiTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988512866941509880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宿舍终于没人了。 https://t.co/2C28O2aiTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 176,
+          "like_count": 1321,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 185
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

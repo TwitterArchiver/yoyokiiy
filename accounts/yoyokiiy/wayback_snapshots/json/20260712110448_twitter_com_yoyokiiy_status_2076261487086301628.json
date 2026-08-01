@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076261380349718528",
+        "3_2076261380366446592"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2076261487086301628",
+    "created_at": "2026-07-12T11:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076261487086301628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qAVO5yAbP7",
+          "end": 33,
+          "expanded_url": "https://x.com/yoyokiiy/status/2076261487086301628/photo/1",
+          "media_key": "3_2076261380349718528",
+          "start": 10,
+          "url": "https://t.co/qAVO5yAbP7"
+        },
+        {
+          "display_url": "pic.x.com/qAVO5yAbP7",
+          "end": 33,
+          "expanded_url": "https://x.com/yoyokiiy/status/2076261487086301628/photo/1",
+          "media_key": "3_2076261380366446592",
+          "start": 10,
+          "url": "https://t.co/qAVO5yAbP7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076261487086301628",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "the green https://t.co/qAVO5yAbP7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1996,
+        "media_key": "3_2076261380349718528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBcuZSbcAATPp-.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1998,
+        "media_key": "3_2076261380366446592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBcuZWasAAUn1K.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076261380349718528",
+            "3_2076261380366446592"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2076261487086301628",
+        "created_at": "2026-07-12T11:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076261487086301628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAVO5yAbP7",
+              "end": 33,
+              "expanded_url": "https://x.com/yoyokiiy/status/2076261487086301628/photo/1",
+              "media_key": "3_2076261380349718528",
+              "start": 10,
+              "url": "https://t.co/qAVO5yAbP7"
+            },
+            {
+              "display_url": "pic.x.com/qAVO5yAbP7",
+              "end": 33,
+              "expanded_url": "https://x.com/yoyokiiy/status/2076261487086301628/photo/1",
+              "media_key": "3_2076261380366446592",
+              "start": 10,
+              "url": "https://t.co/qAVO5yAbP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076261487086301628",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "the green https://t.co/qAVO5yAbP7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 190,
+          "like_count": 3203,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 944
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      }
+    ]
+  }
+}

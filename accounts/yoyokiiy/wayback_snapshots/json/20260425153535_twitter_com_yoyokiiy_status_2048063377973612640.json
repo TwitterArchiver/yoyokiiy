@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2046894820866826651",
+    "created_at": "2026-04-25T15:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048063377973612640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1832639056720863232",
+          "start": 0,
+          "username": "NiceTaoli"
+        },
+        {
+          "end": 23,
+          "id": "1975073935528992768",
+          "start": 11,
+          "username": "sjwdrzds444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048063377973612640",
+    "in_reply_to_user_id": "1832639056720863232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048057207749837051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NiceTaoli @sjwdrzds444 之前去过啦再去是三刷了hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2046894820866826651",
+        "created_at": "2026-04-25T15:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048063377973612640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832639056720863232",
+              "start": 0,
+              "username": "NiceTaoli"
+            },
+            {
+              "end": 23,
+              "id": "1975073935528992768",
+              "start": 11,
+              "username": "sjwdrzds444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048063377973612640",
+        "in_reply_to_user_id": "1832639056720863232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048057207749837051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NiceTaoli @sjwdrzds444 之前去过啦再去是三刷了hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832639056720863232",
+        "conversation_id": "2046894820866826651",
+        "created_at": "2026-04-25T15:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048057207749837051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            },
+            {
+              "end": 22,
+              "id": "1975073935528992768",
+              "start": 10,
+              "username": "sjwdrzds444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048057207749837051",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046918658698391557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy @sjwdrzds444 可以去新开的碧海蓝天汤乐汇。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 199,
+          "like_count": 2276,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T04:36:42.000Z",
+        "description": "//100%纯黄推//男女通吃//\n//想尝试第一次线下//\n第二个朋友圈//吃快餐//\n欢迎投稿\n\n卷起来！不当细狗！",
+        "id": "1832639056720863232",
+        "location": "In the most expensive house.",
+        "name": "🦌了吗？",
+        "pinned_tweet_id": "1948057964579115230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897176402459525120/ZqnE64EO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 25,
+          "like_count": 4698,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 300
+        },
+        "username": "NiceTaoli",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T05:41:51.000Z",
+        "description": "宇宙什么时候爆炸？",
+        "id": "1975073935528992768",
+        "name": "cad",
+        "pinned_tweet_id": "2043745357595848962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029520046318342144/Reuz1Okr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3443,
+          "following_count": 79,
+          "like_count": 65,
+          "listed_count": 6,
+          "media_count": 3,
+          "tweet_count": 76
+        },
+        "username": "sjwdrzds444",
+        "verified": false
+      }
+    ]
+  }
+}

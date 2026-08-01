@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1976282669676962177",
+    "created_at": "2025-10-11T08:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T09:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976924662669136307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1853087949359058944",
+          "start": 0,
+          "username": "xizhou_03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976924662669136307",
+    "in_reply_to_user_id": "1853087949359058944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976282669676962177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xizhou_03 无名之火🔥🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1976282669676962177",
+        "created_at": "2025-10-11T08:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976924662669136307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1853087949359058944",
+              "start": 0,
+              "username": "xizhou_03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976924662669136307",
+        "in_reply_to_user_id": "1853087949359058944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976282669676962177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xizhou_03 无名之火🔥🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853087949359058944",
+        "conversation_id": "1976282669676962177",
+        "created_at": "2025-10-09T13:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976282669676962177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976282669676962177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 273,
+          "impression_count": 180654,
+          "like_count": 2942,
+          "quote_count": 11,
+          "reply_count": 53,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "知道你想要，所以故意逗你玩。知道你想被操到喷，就把脸贴在你大腿根对视，引导你念出求主人插进来。知道你想被惩罚，就让你决定惩罚的形式和内容，再增加到你承受极限的额度，主动挑衅就在等待这样的结果吧。知道你想要看我生气，把你锁在床头掐紧脖子玩你，捏着乳头扇奶，调情式暴力让你湿透了对吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 179,
+          "like_count": 1169,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 136
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T14:53:07.000Z",
+        "description": "le/dom1",
+        "id": "1853087949359058944",
+        "name": "燕西洲",
+        "pinned_tweet_id": "1932469642381123670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905700366668513280/LFkDX-mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9440,
+          "following_count": 20,
+          "like_count": 1250,
+          "listed_count": 10,
+          "media_count": 64,
+          "tweet_count": 398
+        },
+        "username": "xizhou_03",
+        "verified": false
+      }
+    ]
+  }
+}

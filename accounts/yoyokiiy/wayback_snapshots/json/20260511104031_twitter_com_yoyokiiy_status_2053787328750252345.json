@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2053751342921842857",
+    "created_at": "2026-05-11T10:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053787328750252345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1349398275938373639",
+          "start": 0,
+          "username": "glueckgruene"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053787328750252345",
+    "in_reply_to_user_id": "1349398275938373639",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053751342921842857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@glueckgruene 我朋友分手后美的要死了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2053751342921842857",
+        "created_at": "2026-05-11T10:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053787328750252345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1349398275938373639",
+              "start": 0,
+              "username": "glueckgruene"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053787328750252345",
+        "in_reply_to_user_id": "1349398275938373639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053751342921842857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@glueckgruene 我朋友分手后美的要死了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1349398275938373639",
+        "conversation_id": "2053751342921842857",
+        "created_at": "2026-05-11T08:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053751342921842857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053751342921842857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2534,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女孩一旦分手了就开始变瘦变美然后疯狂发ig story，不要太明显了😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 207,
+          "like_count": 2403,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-13T16:50:06.000Z",
+        "description": "我就是会过得很好，十分美丽，十分聪明，十分富有，十分健康，十分被爱，十分幸福",
+        "id": "1349398275938373639",
+        "location": "Napoli, Campania",
+        "name": "randomomo",
+        "pinned_tweet_id": "1631292695162376195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035022145248518144/AVrVDnnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3527,
+          "following_count": 415,
+          "like_count": 10609,
+          "listed_count": 16,
+          "media_count": 531,
+          "tweet_count": 7793
+        },
+        "username": "glueckgruene",
+        "verified": false
+      }
+    ]
+  }
+}

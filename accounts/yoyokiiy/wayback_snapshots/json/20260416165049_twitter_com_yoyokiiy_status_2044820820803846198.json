@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2044820820803846198",
+    "created_at": "2026-04-16T16:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044820820803846198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1713713115270139904",
+          "start": 3,
+          "username": "shirochankawa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044820820803846198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 336
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044305766790901768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shirochankawa1: 其实我床上经验很丰富的，也有过很多床伴，比如我的小棉被，我的空调被，我的夏凉被，我的小毛毯，我的决明子枕头，我的记忆棉枕头，我的靠枕，和我的毛绒玩具。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2044820820803846198",
+        "created_at": "2026-04-16T16:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044820820803846198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1713713115270139904",
+              "start": 3,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044820820803846198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 336
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044305766790901768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shirochankawa1: 其实我床上经验很丰富的，也有过很多床伴，比如我的小棉被，我的空调被，我的夏凉被，我的小毛毯，我的决明子枕头，我的记忆棉枕头，我的靠枕，和我的毛绒玩具。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2044305766790901768",
+        "created_at": "2026-04-15T06:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044305766790901768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044305766790901768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 51698,
+          "like_count": 2444,
+          "quote_count": 15,
+          "reply_count": 57,
+          "retweet_count": 336
+        },
+        "reply_settings": "everyone",
+        "text": "其实我床上经验很丰富的，也有过很多床伴，比如我的小棉被，我的空调被，我的夏凉被，我的小毛毯，我的决明子枕头，我的记忆棉枕头，我的靠枕，和我的毛绒玩具。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 231,
+          "like_count": 2089,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 436
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 2050,
+          "like_count": 68455,
+          "listed_count": 8,
+          "media_count": 1653,
+          "tweet_count": 11098
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

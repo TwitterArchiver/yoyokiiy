@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2079204284797947974",
+    "created_at": "2026-07-20T17:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079251124411117808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938108852752502784",
+          "start": 0,
+          "username": "520Seulgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079251124411117808",
+    "in_reply_to_user_id": "1938108852752502784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079204284797947974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Seulgi 好韩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079204273355890689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrRRUDaIAEx7O1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079204273385291776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrRRUKawAAVXmn.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2079204284797947974",
+        "created_at": "2026-07-20T17:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079251124411117808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938108852752502784",
+              "start": 0,
+              "username": "520Seulgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079251124411117808",
+        "in_reply_to_user_id": "1938108852752502784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079204284797947974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Seulgi 好韩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079204273355890689",
+            "3_2079204273385291776"
+          ]
+        },
+        "author_id": "1938108852752502784",
+        "conversation_id": "2079204284797947974",
+        "created_at": "2026-07-20T13:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079204284797947974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubCR84GhZP",
+              "end": 34,
+              "expanded_url": "https://x.com/520Seulgi/status/2079204284797947974/photo/1",
+              "media_key": "3_2079204273355890689",
+              "start": 11,
+              "url": "https://t.co/ubCR84GhZP"
+            },
+            {
+              "display_url": "pic.x.com/ubCR84GhZP",
+              "end": 34,
+              "expanded_url": "https://x.com/520Seulgi/status/2079204284797947974/photo/1",
+              "media_key": "3_2079204273385291776",
+              "start": 11,
+              "url": "https://t.co/ubCR84GhZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079204284797947974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2709,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天穿的还是这一身 https://t.co/ubCR84GhZP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我只是有些好奇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "0.2km",
+        "name": "江莉央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078847646689837057/WRJFX8c0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 155,
+          "like_count": 3305,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 955
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "我的生活需要 音乐 美食 和姜涩琪\n恋人：@Moguchaozhurou\ndy🎵：520Seulgi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "Moguchaozhurou"
+              }
+            ]
+          }
+        },
+        "id": "1938108852752502784",
+        "location": "≦10m",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "2065064205238321443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016692815770890240/wMgnuoLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5037,
+          "following_count": 427,
+          "like_count": 13301,
+          "listed_count": 2,
+          "media_count": 2592,
+          "tweet_count": 8550
+        },
+        "url": "",
+        "username": "520Seulgi",
+        "verified": true
+      }
+    ]
+  }
+}

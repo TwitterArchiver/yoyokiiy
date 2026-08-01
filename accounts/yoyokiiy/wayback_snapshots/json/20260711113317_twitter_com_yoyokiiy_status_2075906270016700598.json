@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075906240061030400",
+        "3_2075906240061014017"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2075906270016700598",
+    "created_at": "2026-07-11T11:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075906270016700598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ouAXhHkuP",
+          "end": 43,
+          "expanded_url": "https://x.com/yoyokiiy/status/2075906270016700598/photo/1",
+          "media_key": "3_2075906240061030400",
+          "start": 20,
+          "url": "https://t.co/0ouAXhHkuP"
+        },
+        {
+          "display_url": "pic.x.com/0ouAXhHkuP",
+          "end": 43,
+          "expanded_url": "https://x.com/yoyokiiy/status/2075906270016700598/photo/1",
+          "media_key": "3_2075906240061014017",
+          "start": 20,
+          "url": "https://t.co/0ouAXhHkuP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075906270016700598",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "CMU雨后初晴后等日落 预感晚霞会很美 https://t.co/0ouAXhHkuP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075906240061030400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8ZugnawAAPQt5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075906240061014017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8ZugnagAEU3Bn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075906240061030400",
+            "3_2075906240061014017"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2075906270016700598",
+        "created_at": "2026-07-11T11:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075906270016700598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ouAXhHkuP",
+              "end": 43,
+              "expanded_url": "https://x.com/yoyokiiy/status/2075906270016700598/photo/1",
+              "media_key": "3_2075906240061030400",
+              "start": 20,
+              "url": "https://t.co/0ouAXhHkuP"
+            },
+            {
+              "display_url": "pic.x.com/0ouAXhHkuP",
+              "end": 43,
+              "expanded_url": "https://x.com/yoyokiiy/status/2075906270016700598/photo/1",
+              "media_key": "3_2075906240061014017",
+              "start": 20,
+              "url": "https://t.co/0ouAXhHkuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075906270016700598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "CMU雨后初晴后等日落 预感晚霞会很美 https://t.co/0ouAXhHkuP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 190,
+          "like_count": 3183,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      }
+    ]
+  }
+}

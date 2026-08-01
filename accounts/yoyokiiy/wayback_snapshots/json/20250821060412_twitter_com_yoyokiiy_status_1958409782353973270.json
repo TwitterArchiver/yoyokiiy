@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957101835996852224"
+      ],
+      "media_source_tweet_id": [
+        "1957101839779774722"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1958409782353973270",
+    "created_at": "2025-08-21T06:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T07:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958409782353973270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954846952207900673",
+          "start": 3,
+          "username": "meomo0613"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uFpFUBIKAm",
+          "end": 53,
+          "expanded_url": "https://x.com/meomo0613/status/1957101839779774722/photo/1",
+          "media_key": "3_1957101835996852224",
+          "start": 30,
+          "url": "https://t.co/uFpFUBIKAm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958409782353973270",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2343
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957101839779774722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meomo0613: 비행기 태워주는 오빠 🍎🍏 https://t.co/uFpFUBIKAm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957101835996852224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GykFwCvbcAAN3zO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957101835996852224"
+          ],
+          "media_source_tweet_id": [
+            "1957101839779774722"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1958409782353973270",
+        "created_at": "2025-08-21T06:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T07:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958409782353973270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954846952207900673",
+              "start": 3,
+              "username": "meomo0613"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFpFUBIKAm",
+              "end": 53,
+              "expanded_url": "https://x.com/meomo0613/status/1957101839779774722/photo/1",
+              "media_key": "3_1957101835996852224",
+              "start": 30,
+              "url": "https://t.co/uFpFUBIKAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958409782353973270",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2343
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957101839779774722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meomo0613: 비행기 태워주는 오빠 🍎🍏 https://t.co/uFpFUBIKAm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957101835996852224"
+          ]
+        },
+        "author_id": "1954846952207900673",
+        "conversation_id": "1957101839779774722",
+        "created_at": "2025-08-17T15:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T16:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957101839779774722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFpFUBIKAm",
+              "end": 38,
+              "expanded_url": "https://x.com/meomo0613/status/1957101839779774722/photo/1",
+              "media_key": "3_1957101835996852224",
+              "start": 15,
+              "url": "https://t.co/uFpFUBIKAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957101839779774722",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1400,
+          "impression_count": 299596,
+          "like_count": 10579,
+          "quote_count": 223,
+          "reply_count": 9,
+          "retweet_count": 2343
+        },
+        "reply_settings": "everyone",
+        "text": "비행기 태워주는 오빠 🍎🍏 https://t.co/uFpFUBIKAm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 129,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T10:06:55.000Z",
+        "description": "오빠, 제가 아니면 안 돼요.",
+        "id": "1954846952207900673",
+        "location": "🍎",
+        "name": "머모",
+        "pinned_tweet_id": "1954855809474592947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954857161672253440/pvxjhnvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 31,
+          "like_count": 585,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 752
+        },
+        "username": "meomo0613",
+        "verified": false
+      }
+    ]
+  }
+}

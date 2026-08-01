@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2071633511480463742",
+    "created_at": "2026-06-30T05:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071821150607343849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1320392255241216001",
+          "start": 0,
+          "username": "6UCwUjP6TEOf4Or"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071821150607343849",
+    "in_reply_to_user_id": "1320392255241216001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071634420017279219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6UCwUjP6TEOf4Or 我打死它。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2071633511480463742",
+        "created_at": "2026-06-30T05:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071821150607343849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1320392255241216001",
+              "start": 0,
+              "username": "6UCwUjP6TEOf4Or"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071821150607343849",
+        "in_reply_to_user_id": "1320392255241216001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071634420017279219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6UCwUjP6TEOf4Or 我打死它。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320392255241216001",
+        "conversation_id": "2071633511480463742",
+        "created_at": "2026-06-29T16:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071634420017279219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071634420017279219",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071633511480463742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 航空公司的这个真的令人生气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜苦笑面对世界中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 212,
+          "like_count": 2985,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-25T15:50:29.000Z",
+        "description": "睡觉中 ENFP\n\nhttps://t.co/aPPoOew8ct",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/le6ronme7o",
+                "end": 33,
+                "expanded_url": "https://ngl.link/le6ronme7o",
+                "start": 10,
+                "url": "https://t.co/aPPoOew8ct"
+              }
+            ]
+          }
+        },
+        "id": "1320392255241216001",
+        "location": "即将沉没的Japen",
+        "name": "居正",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568142139594543107/xCjZ3F1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 223,
+          "like_count": 848,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "6UCwUjP6TEOf4Or",
+        "verified": false
+      }
+    ]
+  }
+}

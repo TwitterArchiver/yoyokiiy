@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2022577125023453388",
+    "created_at": "2026-02-15T04:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022888753136648212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749364804664594432",
+          "start": 0,
+          "username": "Angel7x_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022888753136648212",
+    "in_reply_to_user_id": "1749364804664594432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022577125023453388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angel7x_X 额我啥时候能玩上。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1843,
+        "media_key": "3_2022577111480098816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGjKrSbYAAOWon.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2022577125023453388",
+        "created_at": "2026-02-15T04:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022888753136648212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749364804664594432",
+              "start": 0,
+              "username": "Angel7x_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022888753136648212",
+        "in_reply_to_user_id": "1749364804664594432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022577125023453388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angel7x_X 额我啥时候能玩上。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022577111480098816"
+          ]
+        },
+        "author_id": "1749364804664594432",
+        "conversation_id": "2022577125023453388",
+        "created_at": "2026-02-14T07:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022577125023453388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQEaS8uERP",
+              "end": 38,
+              "expanded_url": "https://x.com/Angel7x_X/status/2022577125023453388/photo/1",
+              "media_key": "3_2022577111480098816",
+              "start": 15,
+              "url": "https://t.co/lQEaS8uERP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022577125023453388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 403805,
+          "like_count": 1388,
+          "quote_count": 3,
+          "reply_count": 75,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "买了锁也管不住家狗了呢^_^ https://t.co/lQEaS8uERP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 200,
+          "like_count": 1716,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T09:34:23.000Z",
+        "description": "4i不1i｜S&dom｜日常🧩｜Me：@Devil7x_X ｜家狗：@Evil7o_X",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "Devil7x_X"
+              },
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Evil7o_X"
+              }
+            ]
+          }
+        },
+        "id": "1749364804664594432",
+        "location": "盗我图的替我挡灾",
+        "name": "Angel",
+        "pinned_tweet_id": "2022651494110203945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014345389382803456/9e8DoqYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7406,
+          "following_count": 74,
+          "like_count": 2197,
+          "listed_count": 13,
+          "media_count": 70,
+          "tweet_count": 513
+        },
+        "username": "Angel7x_X",
+        "verified": false
+      }
+    ]
+  }
+}

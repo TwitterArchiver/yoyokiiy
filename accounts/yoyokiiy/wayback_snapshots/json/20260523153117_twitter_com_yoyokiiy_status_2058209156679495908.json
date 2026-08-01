@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2058073654408425637",
+    "created_at": "2026-05-23T15:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058209156679495908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1964185626590449665",
+          "start": 0,
+          "username": "cat2233333"
+        },
+        {
+          "end": 21,
+          "id": "1779161991333998592",
+          "start": 12,
+          "username": "243668bg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058209156679495908",
+    "in_reply_to_user_id": "1964185626590449665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058138294400016681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cat2233333 @243668bg 加一…推荐啥我买啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2058073654408425637",
+        "created_at": "2026-05-23T15:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058209156679495908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1964185626590449665",
+              "start": 0,
+              "username": "cat2233333"
+            },
+            {
+              "end": 21,
+              "id": "1779161991333998592",
+              "start": 12,
+              "username": "243668bg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058209156679495908",
+        "in_reply_to_user_id": "1964185626590449665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058138294400016681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cat2233333 @243668bg 加一…推荐啥我买啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964185626590449665",
+        "conversation_id": "2058073654408425637",
+        "created_at": "2026-05-23T10:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058138294400016681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779161991333998592",
+              "start": 0,
+              "username": "243668bg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058138294400016681",
+        "in_reply_to_user_id": "1779161991333998592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 976,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058073654408425637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@243668bg 我现在看到推上的推荐就是无脑全肯定…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 213,
+          "like_count": 2528,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T04:35:29.000Z",
+        "description": "我只是一个还在读书的小女孩除了上学我的全世界就是你",
+        "id": "1964185626590449665",
+        "location": "🚪88",
+        "name": "娥好困",
+        "pinned_tweet_id": "2050959627857326095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050274171096014848/mpX3iQaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2608,
+          "following_count": 176,
+          "like_count": 2611,
+          "listed_count": 15,
+          "media_count": 94,
+          "tweet_count": 1591
+        },
+        "username": "cat2233333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:57:39.000Z",
+        "description": "爱看肌肉男 不聊黄 不线下 🈲️发生殖器",
+        "id": "1779161991333998592",
+        "name": "草莓殿下",
+        "pinned_tweet_id": "2035193081314910626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004054203678052354/sWGJsbjS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 78,
+          "like_count": 4599,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 430
+        },
+        "username": "243668bg",
+        "verified": false
+      }
+    ]
+  }
+}

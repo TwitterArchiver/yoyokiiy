@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2045706448206958656",
+    "created_at": "2026-04-19T04:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T05:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045720221797773740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757634899002216448",
+          "start": 0,
+          "username": "haohaochifantt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045720221797773740",
+    "in_reply_to_user_id": "1757634899002216448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045706448206958656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaochifantt 很考验朋友的耐心和愿意程度"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045706439512231936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPPKwnbEAA52Vh.jpg",
+        "width": 943
+      },
+      {
+        "height": 1392,
+        "media_key": "3_2045706439529041920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPPKwrbkAAPhs_.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2045706448206958656",
+        "created_at": "2026-04-19T04:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045720221797773740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045720221797773740",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045706448206958656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt 很考验朋友的耐心和愿意程度"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045706439512231936",
+            "3_2045706439529041920"
+          ]
+        },
+        "author_id": "1757634899002216448",
+        "conversation_id": "2045706448206958656",
+        "created_at": "2026-04-19T03:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045706448206958656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lu7p5hMPaG",
+              "end": 118,
+              "expanded_url": "https://x.com/haohaochifantt/status/2045706448206958656/photo/1",
+              "media_key": "3_2045706439512231936",
+              "start": 95,
+              "url": "https://t.co/lu7p5hMPaG"
+            },
+            {
+              "display_url": "pic.x.com/lu7p5hMPaG",
+              "end": 118,
+              "expanded_url": "https://x.com/haohaochifantt/status/2045706448206958656/photo/1",
+              "media_key": "3_2045706439529041920",
+              "start": 95,
+              "url": "https://t.co/lu7p5hMPaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045706448206958656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 562,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上睡醒刷到淡季去杭州的实拍看完嘎巴一下就死了 然后我就紧急去搜拍照攻略了。。我不能接受去了以后一张照片都拍不出来，一会再去学一学怎么p图 不过我朋友能不能认真学明白了给我拍还是个问题啊🚬 https://t.co/lu7p5hMPaG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1992994593131081912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 235,
+          "like_count": 2137,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "07 直男直男直男 大量碎碎念中夹杂着一点点喘 喜欢请多多找我玩 互关/过🚪@TTian0515 NGL👉🏻 https://t.co/E1HexE88AE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "TTian0515"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 78,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 55,
+                "url": "https://t.co/E1HexE88AE"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "location": "过🚪解锁陪玩定制等🫶",
+        "name": "宁宴",
+        "pinned_tweet_id": "2037013459133505536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027245230358241280/W3VyRDIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7552,
+          "following_count": 230,
+          "like_count": 17750,
+          "listed_count": 10,
+          "media_count": 1151,
+          "tweet_count": 7197
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      }
+    ]
+  }
+}

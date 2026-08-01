@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2047995264078860402",
+    "created_at": "2026-04-25T15:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048067661037457903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1936734981755404288",
+          "start": 0,
+          "username": "xxxx147495"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048067661037457903",
+    "in_reply_to_user_id": "1936734981755404288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047995264078860402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxx147495 看样子法力无边！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1694,
+        "media_key": "3_2047995185850974209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvwxVJbgAEWO7N.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1862,
+        "media_key": "3_2047995185817354240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvwxVBagAAGX2E.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047995185871855616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvwxVOaIAA7jgg.jpg",
+        "width": 1506
+      },
+      {
+        "duration_ms": 8518,
+        "height": 1280,
+        "media_key": "13_2047995185863536640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047995185863536640/img/j-CCj8UJDpRRfVdA.jpg",
+        "public_metrics": {
+          "view_count": 1115
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047995185863536640/vid/avc1/320x568/caofDEOCctYNXSiQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047995185863536640/vid/avc1/480x852/GrEMk2SOplkgevNZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047995185863536640/vid/avc1/720x1280/jykq88_y9R_z1Mmn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047995185863536640/pl/AYuxiJZPE3hvqY0D.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2047995264078860402",
+        "created_at": "2026-04-25T15:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048067661037457903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1936734981755404288",
+              "start": 0,
+              "username": "xxxx147495"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048067661037457903",
+        "in_reply_to_user_id": "1936734981755404288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047995264078860402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxx147495 看样子法力无边！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047995185850974209",
+            "3_2047995185817354240",
+            "3_2047995185871855616",
+            "13_2047995185863536640"
+          ]
+        },
+        "author_id": "1936734981755404288",
+        "conversation_id": "2047995264078860402",
+        "created_at": "2026-04-25T11:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047995264078860402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFm2e5Dmc8",
+              "end": 28,
+              "expanded_url": "https://x.com/xxxx147495/status/2047995264078860402/video/1",
+              "media_key": "3_2047995185850974209",
+              "start": 5,
+              "url": "https://t.co/zFm2e5Dmc8"
+            },
+            {
+              "display_url": "pic.x.com/zFm2e5Dmc8",
+              "end": 28,
+              "expanded_url": "https://x.com/xxxx147495/status/2047995264078860402/video/1",
+              "media_key": "3_2047995185817354240",
+              "start": 5,
+              "url": "https://t.co/zFm2e5Dmc8"
+            },
+            {
+              "display_url": "pic.x.com/zFm2e5Dmc8",
+              "end": 28,
+              "expanded_url": "https://x.com/xxxx147495/status/2047995264078860402/video/1",
+              "media_key": "3_2047995185871855616",
+              "start": 5,
+              "url": "https://t.co/zFm2e5Dmc8"
+            },
+            {
+              "display_url": "pic.x.com/zFm2e5Dmc8",
+              "end": 28,
+              "expanded_url": "https://x.com/xxxx147495/status/2047995264078860402/video/1",
+              "media_key": "13_2047995185863536640",
+              "start": 5,
+              "url": "https://t.co/zFm2e5Dmc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047995264078860402",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3865,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "ootd https://t.co/zFm2e5Dmc8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 199,
+          "like_count": 2278,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 543
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T10:36:28.000Z",
+        "description": "苹果只做苹果事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9E%97%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%9E%97%E6%AA%8E",
+                "start": 0,
+                "url": "https://t.co/n0Z3zfQM3z"
+              }
+            ]
+          }
+        },
+        "id": "1936734981755404288",
+        "location": "置顶推广自辨",
+        "name": "林檎",
+        "pinned_tweet_id": "2043591457316171879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030888005209407488/Swz_X1Rs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29675,
+          "following_count": 117,
+          "like_count": 1243,
+          "listed_count": 41,
+          "media_count": 142,
+          "tweet_count": 1494
+        },
+        "url": "https://t.co/n0Z3zfQM3z",
+        "username": "xxxx147495",
+        "verified": false
+      }
+    ]
+  }
+}

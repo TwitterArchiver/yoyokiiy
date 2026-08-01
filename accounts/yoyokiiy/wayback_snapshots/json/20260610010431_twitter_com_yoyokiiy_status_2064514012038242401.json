@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2064514012038242401",
+    "created_at": "2026-06-10T01:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T02:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064514012038242401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1803762329169080320",
+          "start": 3,
+          "username": "SaikiiiiKusuooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064514012038242401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064160776391389232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SaikiiiiKusuooo: 抱歉我不太想回复这些类似于\"报备\"的毫无意义的消息，之前回复只是出于朋友的身份在相处，但前几天你的表达像是我们的相处模式是朋友之上，但我们并不是那种关系，这种关系与模式的不对等让我很不舒服。现在的我更想把重心放在自己的生活上，我相信你对…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2064514012038242401",
+        "created_at": "2026-06-10T01:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064514012038242401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1803762329169080320",
+              "start": 3,
+              "username": "SaikiiiiKusuooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064514012038242401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064160776391389232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SaikiiiiKusuooo: 抱歉我不太想回复这些类似于\"报备\"的毫无意义的消息，之前回复只是出于朋友的身份在相处，但前几天你的表达像是我们的相处模式是朋友之上，但我们并不是那种关系，这种关系与模式的不对等让我很不舒服。现在的我更想把重心放在自己的生活上，我相信你对…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803762329169080320",
+        "conversation_id": "2064160776391389232",
+        "created_at": "2026-06-09T01:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064160776391389232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064160776391389232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 49359,
+          "like_count": 1193,
+          "quote_count": 29,
+          "reply_count": 85,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉我不太想回复这些类似于\"报备\"的毫无意义的消息，之前回复只是出于朋友的身份在相处，但前几天你的表达像是我们的相处模式是朋友之上，但我们并不是那种关系，这种关系与模式的不对等让我很不舒服。现在的我更想把重心放在自己的生活上，我相信你对我只是一时无聊的消遣，所以把好感就到此为止好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2058222485959475215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 215,
+          "like_count": 2679,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T12:10:36.000Z",
+        "description": "",
+        "id": "1803762329169080320",
+        "name": "Kakaroo",
+        "pinned_tweet_id": "1949390169377005981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021377459313311746/0IigS35l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 152,
+          "like_count": 8177,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 4385
+        },
+        "username": "SaikiiiiKusuooo",
+        "verified": false
+      }
+    ]
+  }
+}

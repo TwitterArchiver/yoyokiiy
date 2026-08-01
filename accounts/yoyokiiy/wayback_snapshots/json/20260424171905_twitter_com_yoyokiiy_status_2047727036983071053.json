@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2047710759036059790",
+    "created_at": "2026-04-24T17:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T18:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047727036983071053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1174314848768757760",
+          "start": 0,
+          "username": "shuiluliangqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047727036983071053",
+    "in_reply_to_user_id": "1174314848768757760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047723462710735334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuiluliangqi 🤝🤝🤝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2047710759036059790",
+        "created_at": "2026-04-24T17:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047727036983071053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1174314848768757760",
+              "start": 0,
+              "username": "shuiluliangqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047727036983071053",
+        "in_reply_to_user_id": "1174314848768757760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047723462710735334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiluliangqi 🤝🤝🤝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1174314848768757760",
+        "conversation_id": "2047710759036059790",
+        "created_at": "2026-04-24T17:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047723462710735334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047723462710735334",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047710759036059790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 太有品味了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 253,
+          "like_count": 2248,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-18T13:31:02.000Z",
+        "description": "感兴趣的圈外人",
+        "id": "1174314848768757760",
+        "name": "汉弗莱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721505809891573760/Ll-I4L0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 200,
+          "like_count": 18576,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 3133
+        },
+        "username": "shuiluliangqi",
+        "verified": false
+      }
+    ]
+  }
+}

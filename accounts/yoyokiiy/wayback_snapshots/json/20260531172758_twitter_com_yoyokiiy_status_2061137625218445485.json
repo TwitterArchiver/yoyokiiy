@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060975605466931289",
+    "created_at": "2026-05-31T17:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061137625218445485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638873690472325123",
+          "start": 0,
+          "username": "SmithBob457037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061137625218445485",
+    "in_reply_to_user_id": "1638873690472325123",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060975605466931289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SmithBob457037 傻逼不分种族"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060975605466931289",
+        "created_at": "2026-05-31T17:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061137625218445485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638873690472325123",
+              "start": 0,
+              "username": "SmithBob457037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061137625218445485",
+        "in_reply_to_user_id": "1638873690472325123",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060975605466931289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SmithBob457037 傻逼不分种族"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638873690472325123",
+        "conversation_id": "2060975605466931289",
+        "created_at": "2026-05-31T06:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060975605466931289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060975605466931289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15617,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感谢马斯克\n之前一直以为中国人均素质算是低的\n现在才知道全世界傻逼一样多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 214,
+          "like_count": 2601,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T12:02:12.000Z",
+        "description": "看起来是个人类\n其实是神\n提问箱↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/humanoid68799",
+                "end": 23,
+                "expanded_url": "https://ngl.link/humanoid68799",
+                "start": 0,
+                "url": "https://t.co/gPRpocQv6z"
+              }
+            ]
+          }
+        },
+        "id": "1638873690472325123",
+        "location": "潍坊",
+        "name": "类人生物",
+        "pinned_tweet_id": "2060053263232483601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842288986188021760/ib1ryU4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 597,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 200
+        },
+        "url": "https://t.co/gPRpocQv6z",
+        "username": "SmithBob457037",
+        "verified": false
+      }
+    ]
+  }
+}

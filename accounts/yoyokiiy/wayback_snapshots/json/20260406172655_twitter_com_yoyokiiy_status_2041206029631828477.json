@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2041084828247015765",
+    "created_at": "2026-04-06T17:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T18:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041206029631828477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766388563627905024",
+          "start": 0,
+          "username": "Note473640"
+        },
+        {
+          "end": 23,
+          "id": "1887227093429403648",
+          "start": 12,
+          "username": "jiujiu0528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041206029631828477",
+    "in_reply_to_user_id": "1766388563627905024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041192996587409586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Note473640 @jiujiu0528 有道理的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2041084828247015765",
+        "created_at": "2026-04-06T17:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041206029631828477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766388563627905024",
+              "start": 0,
+              "username": "Note473640"
+            },
+            {
+              "end": 23,
+              "id": "1887227093429403648",
+              "start": 12,
+              "username": "jiujiu0528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041206029631828477",
+        "in_reply_to_user_id": "1766388563627905024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041192996587409586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Note473640 @jiujiu0528 有道理的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766388563627905024",
+        "conversation_id": "2041084828247015765",
+        "created_at": "2026-04-06T16:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041192996587409586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887227093429403648",
+              "start": 0,
+              "username": "jiujiu0528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041192996587409586",
+        "in_reply_to_user_id": "1887227093429403648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041084828247015765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiujiu0528 其实反过来讲是对的，如果在推特上遇到能聊得来且非常真实（有明显优缺点但缺点又不蠢不可怕不难以纠正）且非常正常的人那谈起恋爱来肯定很正常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 227,
+          "like_count": 2049,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T09:00:35.000Z",
+        "description": "",
+        "id": "1766388563627905024",
+        "name": "Note",
+        "pinned_tweet_id": "1867578789687177668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852957917034815488/RA1pxzhv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 3783,
+          "like_count": 13506,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 12534
+        },
+        "username": "Note473640",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T19:49:47.000Z",
+        "description": "碎碎念 有什么想问的可以在这里问我https://t.co/FOk6ztqplg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yao16898",
+                "end": 40,
+                "expanded_url": "https://ngl.link/yao16898",
+                "start": 17,
+                "url": "https://t.co/FOk6ztqplg"
+              }
+            ]
+          }
+        },
+        "id": "1887227093429403648",
+        "name": "yao",
+        "pinned_tweet_id": "1971958377803833680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887227251269246976/IHlbFb_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22217,
+          "following_count": 35,
+          "like_count": 40,
+          "listed_count": 60,
+          "media_count": 219,
+          "tweet_count": 1004
+        },
+        "username": "jiujiu0528",
+        "verified": false
+      }
+    ]
+  }
+}

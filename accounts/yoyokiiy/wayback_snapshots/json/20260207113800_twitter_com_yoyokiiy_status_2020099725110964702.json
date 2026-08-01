@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020099709835321344"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2020099725110964702",
+    "created_at": "2026-02-07T11:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T12:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020099725110964702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/diac9A4D7P",
+          "end": 23,
+          "expanded_url": "https://x.com/yoyokiiy/status/2020099725110964702/photo/1",
+          "media_key": "3_2020099709835321344",
+          "start": 0,
+          "url": "https://t.co/diac9A4D7P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020099725110964702",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/diac9A4D7P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020099709835321344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjV-6-aoAAfGyu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020099709835321344"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2020099725110964702",
+        "created_at": "2026-02-07T11:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020099725110964702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/diac9A4D7P",
+              "end": 23,
+              "expanded_url": "https://x.com/yoyokiiy/status/2020099725110964702/photo/1",
+              "media_key": "3_2020099709835321344",
+              "start": 0,
+              "url": "https://t.co/diac9A4D7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020099725110964702",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/diac9A4D7P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2012548014359916750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 200,
+          "like_count": 1636,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 313
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

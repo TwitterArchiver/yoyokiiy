@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1975108531394318767",
+    "created_at": "2025-10-06T08:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T09:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975110392218321209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786808399214125056",
+          "start": 0,
+          "username": "www1168757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975110392218321209",
+    "in_reply_to_user_id": "1786808399214125056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975108531394318767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@www1168757 我化妆出去90%不出片…."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975108518052265984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2j-u4tagAACzyq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1975108531394318767",
+        "created_at": "2025-10-06T08:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975110392218321209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786808399214125056",
+              "start": 0,
+              "username": "www1168757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975110392218321209",
+        "in_reply_to_user_id": "1786808399214125056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975108531394318767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@www1168757 我化妆出去90%不出片…."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975108518052265984"
+          ]
+        },
+        "author_id": "1786808399214125056",
+        "conversation_id": "1975108531394318767",
+        "created_at": "2025-10-06T07:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975108531394318767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ei0TJF801U",
+              "end": 41,
+              "expanded_url": "https://x.com/www1168757/status/1975108531394318767/photo/1",
+              "media_key": "3_1975108518052265984",
+              "start": 18,
+              "url": "https://t.co/Ei0TJF801U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975108531394318767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧0出片….不知化妆意义何在…. https://t.co/Ei0TJF801U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 161,
+          "like_count": 1051,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 105
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T17:22:03.000Z",
+        "description": "喜欢肌肉男/不加微信 除非给我打钱^ω^",
+        "id": "1786808399214125056",
+        "location": "湘",
+        "name": "戴眼镜的哈喽kitty",
+        "pinned_tweet_id": "1876614863486931133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863948553007374336/PEt-K2eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 250,
+          "like_count": 1165,
+          "listed_count": 5,
+          "media_count": 125,
+          "tweet_count": 552
+        },
+        "username": "www1168757",
+        "verified": false
+      }
+    ]
+  }
+}

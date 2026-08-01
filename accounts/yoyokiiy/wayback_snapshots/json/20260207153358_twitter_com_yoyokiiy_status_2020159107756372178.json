@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2020115033536033251",
+    "created_at": "2026-02-07T15:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T16:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020159107756372178"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "好美",
+          "probability": 0.5388,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1884291717500710912",
+          "start": 0,
+          "username": "waifupupu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020159107756372178",
+    "in_reply_to_user_id": "1884291717500710912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020115033536033251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waifupupu 好美…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2020115028695830528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjj6mLX0AAIhLl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2020115033536033251",
+        "created_at": "2026-02-07T15:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T16:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020159107756372178"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "好美",
+              "probability": 0.5388,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1884291717500710912",
+              "start": 0,
+              "username": "waifupupu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020159107756372178",
+        "in_reply_to_user_id": "1884291717500710912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020115033536033251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waifupupu 好美…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020115028695830528"
+          ]
+        },
+        "author_id": "1884291717500710912",
+        "conversation_id": "2020115033536033251",
+        "created_at": "2026-02-07T12:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T13:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020115033536033251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YTUbddeYme",
+              "end": 26,
+              "expanded_url": "https://x.com/waifupupu/status/2020115033536033251/photo/1",
+              "media_key": "3_2020115028695830528",
+              "start": 3,
+              "url": "https://t.co/YTUbddeYme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020115033536033251",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 42606,
+          "like_count": 950,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "🕯️ https://t.co/YTUbddeYme"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2012548014359916750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 200,
+          "like_count": 1639,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T17:25:44.000Z",
+        "description": "♡You look lonely, I can fix that\n♡‌绿色号@pupuwaifu\n♡‌zfb订阅✨➡️https://t.co/5cC2ulFKMT\n♡‌TG订阅➡️https://t.co/7f2CAylTvb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "pupuwaifu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fansone.co/aheyanlz",
+                "end": 82,
+                "expanded_url": "https://fansone.co/aheyanlz",
+                "start": 59,
+                "url": "https://t.co/5cC2ulFKMT"
+              },
+              {
+                "display_url": "t.me/aheyanlz_bot",
+                "end": 114,
+                "expanded_url": "http://t.me/aheyanlz_bot",
+                "start": 91,
+                "url": "https://t.co/7f2CAylTvb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pupuwaifu",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/pupuwaifu",
+                "start": 0,
+                "url": "https://t.co/ODxkFkoW41"
+              }
+            ]
+          }
+        },
+        "id": "1884291717500710912",
+        "location": "pupuwaifu官方网站 ✨➡️",
+        "name": "♡pupuwaifu♡",
+        "pinned_tweet_id": "2004908292259062216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019545301451771904/vnE3PDT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2899120,
+          "following_count": 50,
+          "like_count": 5516,
+          "listed_count": 4164,
+          "media_count": 175,
+          "tweet_count": 2180
+        },
+        "url": "https://t.co/ODxkFkoW41",
+        "username": "waifupupu",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

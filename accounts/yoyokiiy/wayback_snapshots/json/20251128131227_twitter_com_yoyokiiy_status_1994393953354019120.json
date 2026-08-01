@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1906228496218878229",
+    "created_at": "2025-11-28T13:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T14:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994393953354019120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "797439291752378368",
+          "start": 0,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994393953354019120",
+    "in_reply_to_user_id": "797439291752378368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906228496218878229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lover_ning 我笑死了女的怎么肯再待下去的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 126733,
+        "height": 624,
+        "media_key": "13_1906228393710088193",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1906228393710088193/img/mjn_D4b5PAaB8kCw.jpg",
+        "public_metrics": {
+          "view_count": 276367
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906228393710088193/vid/avc1/320x542/b-7iKN4LYMrFyrKy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906228393710088193/vid/avc1/368x624/Rauu8MLQh6PxYxXf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1906228393710088193/pl/58DKsCJXb0QgyGWY.m3u8?tag=14"
+          }
+        ],
+        "width": 368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1906228496218878229",
+        "created_at": "2025-11-28T13:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T14:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994393953354019120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994393953354019120",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906228496218878229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 我笑死了女的怎么肯再待下去的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1906228393710088193"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "1906228496218878229",
+        "created_at": "2025-03-30T06:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T07:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906228496218878229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FyUR1g7VzB",
+              "end": 29,
+              "expanded_url": "https://x.com/lover_ning/status/1906228496218878229/video/1",
+              "media_key": "13_1906228393710088193",
+              "start": 6,
+              "url": "https://t.co/FyUR1g7VzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906228496218878229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1298,
+          "impression_count": 876200,
+          "like_count": 3879,
+          "quote_count": 135,
+          "reply_count": 287,
+          "retweet_count": 396
+        },
+        "reply_settings": "everyone",
+        "text": "缩阳神功3 https://t.co/FyUR1g7VzB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 188,
+          "like_count": 1395,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 209
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 头像是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1970317413502853194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262238,
+          "following_count": 105,
+          "like_count": 33151,
+          "listed_count": 462,
+          "media_count": 3321,
+          "tweet_count": 28298
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072260183233851392"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2072260261864464735",
+    "created_at": "2026-07-01T10:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072260261864464735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7YitP4WtR2",
+          "end": 33,
+          "expanded_url": "https://x.com/yoyokiiy/status/2072260261864464735/video/1",
+          "media_key": "13_2072260183233851392",
+          "start": 10,
+          "url": "https://t.co/7YitP4WtR2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072260261864464735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素颜金发就如此权威 https://t.co/7YitP4WtR2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6941,
+        "height": 1280,
+        "media_key": "13_2072260183233851392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072260183233851392/img/v-Tlp6RKEdAZnNan.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072260183233851392/vid/avc1/320x568/6CEu1Jp01e4ljDmL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072260183233851392/vid/avc1/480x852/-kUYR6Ju88YsqTfJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072260183233851392/vid/avc1/720x1280/d6UAoX2b4TnE2jmb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072260183233851392/pl/Z20-0RL1Z2dGAKY9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072260183233851392"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2072260261864464735",
+        "created_at": "2026-07-01T10:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072260261864464735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7YitP4WtR2",
+              "end": 33,
+              "expanded_url": "https://x.com/yoyokiiy/status/2072260261864464735/video/1",
+              "media_key": "13_2072260183233851392",
+              "start": 10,
+              "url": "https://t.co/7YitP4WtR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072260261864464735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素颜金发就如此权威 https://t.co/7YitP4WtR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜苦笑面对世界中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 213,
+          "like_count": 3009,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 852
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

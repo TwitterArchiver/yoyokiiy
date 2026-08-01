@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2074504905327571401",
+    "created_at": "2026-07-08T11:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074817660421099674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939704603882504193",
+          "start": 0,
+          "username": "bushi11f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074817660421099674",
+    "in_reply_to_user_id": "1939704603882504193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074504905327571401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bushi11f 我有时候直接扣好才套头穿.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2074504905327571401",
+        "created_at": "2026-07-08T11:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074817660421099674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939704603882504193",
+              "start": 0,
+              "username": "bushi11f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074817660421099674",
+        "in_reply_to_user_id": "1939704603882504193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074504905327571401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushi11f 我有时候直接扣好才套头穿.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939704603882504193",
+        "conversation_id": "2074504905327571401",
+        "created_at": "2026-07-07T14:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074504905327571401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074504905327571401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2020,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直很佩服会单手解内衣的男的。我一女的我都不会 而且我穿内衣我要先在前面扣好再转到后面去…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 191,
+          "like_count": 3141,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-30T15:17:06.000Z",
+        "description": "该用户是个angel https://t.co/3CL6uxUqMB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11f50097",
+                "end": 34,
+                "expanded_url": "https://ngl.link/11f50097",
+                "start": 11,
+                "url": "https://t.co/3CL6uxUqMB"
+              }
+            ]
+          }
+        },
+        "id": "1939704603882504193",
+        "location": "in Kun's heart",
+        "name": "11f",
+        "pinned_tweet_id": "2061665509540790329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939704841112293376/UWwdrnVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 47,
+          "like_count": 521,
+          "listed_count": 3,
+          "media_count": 386,
+          "tweet_count": 2051
+        },
+        "url": "",
+        "username": "bushi11f",
+        "verified": false
+      }
+    ]
+  }
+}

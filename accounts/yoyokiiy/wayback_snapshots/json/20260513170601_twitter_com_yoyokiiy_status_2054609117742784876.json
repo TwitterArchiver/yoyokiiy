@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2054445217793921226",
+    "created_at": "2026-05-13T17:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054609117742784876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1827416305038987264",
+          "start": 0,
+          "username": "candf0131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054609117742784876",
+    "in_reply_to_user_id": "1827416305038987264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054445217793921226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@candf0131 高考加油。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2054445217793921226",
+        "created_at": "2026-05-13T17:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054609117742784876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1827416305038987264",
+              "start": 0,
+              "username": "candf0131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054609117742784876",
+        "in_reply_to_user_id": "1827416305038987264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054445217793921226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@candf0131 高考加油。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827416305038987264",
+        "conversation_id": "2054445217793921226",
+        "created_at": "2026-05-13T06:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054445217793921226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054445217793921226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8437,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，不得了了，最近各种人格测试不是特别火嘛，教育部为了响应这个潮流，准备一个月之后搞一个测测你适合上什么大学的活动，有6份问卷，每份大概90-150分钟，到时候大家记得参加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "乱涂乱画的日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 210,
+          "like_count": 2453,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T18:43:02.000Z",
+        "description": "我只是一个很伤心的小女生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haochi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/haochi2",
+                "start": 0,
+                "url": "https://t.co/AwAYrB3LiA"
+              }
+            ]
+          }
+        },
+        "id": "1827416305038987264",
+        "location": "🚪52000",
+        "name": "土豆泥世界第一",
+        "pinned_tweet_id": "2049019727616540846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003034217345896449/dGaEPoNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10268,
+          "following_count": 118,
+          "like_count": 5879,
+          "listed_count": 12,
+          "media_count": 1039,
+          "tweet_count": 12210
+        },
+        "url": "https://t.co/AwAYrB3LiA",
+        "username": "candf0131",
+        "verified": false
+      }
+    ]
+  }
+}

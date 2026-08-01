@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2058738944297296159",
+    "created_at": "2026-05-25T08:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058834324271600117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018742198356131840",
+          "start": 0,
+          "username": "lilidihv"
+        },
+        {
+          "end": 23,
+          "id": "1781974567701102592",
+          "start": 10,
+          "username": "getthefkoff_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058834324271600117",
+    "in_reply_to_user_id": "2018742198356131840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058765139420324244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilidihv @getthefkoff_ 🤝🤝🤝我前晚激情下单今天已经到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2058738944297296159",
+        "created_at": "2026-05-25T08:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058834324271600117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018742198356131840",
+              "start": 0,
+              "username": "lilidihv"
+            },
+            {
+              "end": 23,
+              "id": "1781974567701102592",
+              "start": 10,
+              "username": "getthefkoff_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058834324271600117",
+        "in_reply_to_user_id": "2018742198356131840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058765139420324244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilidihv @getthefkoff_ 🤝🤝🤝我前晚激情下单今天已经到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018742198356131840",
+        "conversation_id": "2058738944297296159",
+        "created_at": "2026-05-25T04:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058765139420324244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781974567701102592",
+              "start": 0,
+              "username": "getthefkoff_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058765139420324244",
+        "in_reply_to_user_id": "1781974567701102592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 496,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058750082791649494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@getthefkoff_ 我看他们说DR.WU达尔肤杏仁精华这个很好用去闭口的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 214,
+          "like_count": 2540,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 686
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T17:45:43.000Z",
+        "description": "tearsvow｜09 宁性恋\n\n骂我先骂：@aidairo2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "aidairo2009"
+              }
+            ]
+          }
+        },
+        "id": "2018742198356131840",
+        "location": "Amore",
+        "name": "萌狗仆",
+        "pinned_tweet_id": "2045187335147622701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058723791480705024/1OJ-FRaz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 76,
+          "like_count": 2939,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 5073
+        },
+        "username": "lilidihv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T09:15:03.000Z",
+        "description": "XD",
+        "id": "1781974567701102592",
+        "location": "0.1km",
+        "name": "雨季不再來",
+        "pinned_tweet_id": "2038823977037287923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042459174538526720/d915gp7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 87,
+          "like_count": 8734,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 2230
+        },
+        "username": "getthefkoff_",
+        "verified": false
+      }
+    ]
+  }
+}

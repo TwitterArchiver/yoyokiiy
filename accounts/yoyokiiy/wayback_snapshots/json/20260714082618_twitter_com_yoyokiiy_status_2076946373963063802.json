@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076946348600160256",
+        "3_2076946348553994240"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2076946373963063802",
+    "created_at": "2026-07-14T08:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T09:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076946373963063802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ENYQQHg4Dw",
+          "end": 45,
+          "expanded_url": "https://x.com/yoyokiiy/status/2076946373963063802/photo/1",
+          "media_key": "3_2076946348600160256",
+          "start": 22,
+          "url": "https://t.co/ENYQQHg4Dw"
+        },
+        {
+          "display_url": "pic.x.com/ENYQQHg4Dw",
+          "end": 45,
+          "expanded_url": "https://x.com/yoyokiiy/status/2076946373963063802/photo/1",
+          "media_key": "3_2076946348553994240",
+          "start": 22,
+          "url": "https://t.co/ENYQQHg4Dw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076946373963063802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那我就是是在清迈山边小镇教中文的年轻女教师 https://t.co/ENYQQHg4Dw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076946348600160256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLLsy3bcAAPJzd.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076946348553994240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLLsysbAAAU-ws.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076946348600160256",
+            "3_2076946348553994240"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2076946373963063802",
+        "created_at": "2026-07-14T08:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076946373963063802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENYQQHg4Dw",
+              "end": 45,
+              "expanded_url": "https://x.com/yoyokiiy/status/2076946373963063802/photo/1",
+              "media_key": "3_2076946348600160256",
+              "start": 22,
+              "url": "https://t.co/ENYQQHg4Dw"
+            },
+            {
+              "display_url": "pic.x.com/ENYQQHg4Dw",
+              "end": 45,
+              "expanded_url": "https://x.com/yoyokiiy/status/2076946373963063802/photo/1",
+              "media_key": "3_2076946348553994240",
+              "start": 22,
+              "url": "https://t.co/ENYQQHg4Dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076946373963063802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那我就是是在清迈山边小镇教中文的年轻女教师 https://t.co/ENYQQHg4Dw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受｜皮肤飢渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "夢想是浪跡天涯。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 196,
+          "like_count": 3257,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 951
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      }
+    ]
+  }
+}

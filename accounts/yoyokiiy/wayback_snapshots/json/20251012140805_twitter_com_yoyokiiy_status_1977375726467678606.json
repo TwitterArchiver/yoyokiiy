@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977375689583267840"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1977375726467678606",
+    "created_at": "2025-10-12T14:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T15:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977375726467678606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r8qDPq250T",
+          "end": 42,
+          "expanded_url": "https://x.com/yoyokiiy/status/1977375726467678606/photo/1",
+          "media_key": "3_1977375689583267840",
+          "start": 19,
+          "url": "https://t.co/r8qDPq250T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977375726467678606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "傍晚跟我在散布着落叶的秋日校园散步吧 https://t.co/r8qDPq250T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1977375689583267840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3EMto0akAA3EC7.jpg",
+        "width": 535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977375689583267840"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1977375726467678606",
+        "created_at": "2025-10-12T14:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T15:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977375726467678606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8qDPq250T",
+              "end": 42,
+              "expanded_url": "https://x.com/yoyokiiy/status/1977375726467678606/photo/1",
+              "media_key": "3_1977375689583267840",
+              "start": 19,
+              "url": "https://t.co/r8qDPq250T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977375726467678606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傍晚跟我在散布着落叶的秋日校园散步吧 https://t.co/r8qDPq250T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974094973529387348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 181,
+          "like_count": 1191,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 137
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

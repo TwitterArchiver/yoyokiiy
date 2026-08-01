@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077000676379590656",
+        "3_2077000676308324352",
+        "3_2077000676400656384",
+        "3_2077000676308336640"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077000685045100662",
+    "created_at": "2026-07-14T12:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077000685045100662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/auz8blt0N5",
+          "end": 38,
+          "expanded_url": "https://x.com/yoyokiiy/status/2077000685045100662/photo/1",
+          "media_key": "3_2077000676379590656",
+          "start": 15,
+          "url": "https://t.co/auz8blt0N5"
+        },
+        {
+          "display_url": "pic.x.com/auz8blt0N5",
+          "end": 38,
+          "expanded_url": "https://x.com/yoyokiiy/status/2077000685045100662/photo/1",
+          "media_key": "3_2077000676308324352",
+          "start": 15,
+          "url": "https://t.co/auz8blt0N5"
+        },
+        {
+          "display_url": "pic.x.com/auz8blt0N5",
+          "end": 38,
+          "expanded_url": "https://x.com/yoyokiiy/status/2077000685045100662/photo/1",
+          "media_key": "3_2077000676400656384",
+          "start": 15,
+          "url": "https://t.co/auz8blt0N5"
+        },
+        {
+          "display_url": "pic.x.com/auz8blt0N5",
+          "end": 38,
+          "expanded_url": "https://x.com/yoyokiiy/status/2077000685045100662/photo/1",
+          "media_key": "3_2077000676308336640",
+          "start": 15,
+          "url": "https://t.co/auz8blt0N5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077000685045100662",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "住在朋友家隔壁就是大象家hh https://t.co/auz8blt0N5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077000676379590656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL9HFnaAAAEA1b.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077000676308324352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL9HFWakAA1LNP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077000676400656384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL9HFsbcAA3wRN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077000676308336640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL9HFWawAAJrOf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077000676379590656",
+            "3_2077000676308324352",
+            "3_2077000676400656384",
+            "3_2077000676308336640"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077000685045100662",
+        "created_at": "2026-07-14T12:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077000685045100662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/auz8blt0N5",
+              "end": 38,
+              "expanded_url": "https://x.com/yoyokiiy/status/2077000685045100662/photo/1",
+              "media_key": "3_2077000676379590656",
+              "start": 15,
+              "url": "https://t.co/auz8blt0N5"
+            },
+            {
+              "display_url": "pic.x.com/auz8blt0N5",
+              "end": 38,
+              "expanded_url": "https://x.com/yoyokiiy/status/2077000685045100662/photo/1",
+              "media_key": "3_2077000676308324352",
+              "start": 15,
+              "url": "https://t.co/auz8blt0N5"
+            },
+            {
+              "display_url": "pic.x.com/auz8blt0N5",
+              "end": 38,
+              "expanded_url": "https://x.com/yoyokiiy/status/2077000685045100662/photo/1",
+              "media_key": "3_2077000676400656384",
+              "start": 15,
+              "url": "https://t.co/auz8blt0N5"
+            },
+            {
+              "display_url": "pic.x.com/auz8blt0N5",
+              "end": 38,
+              "expanded_url": "https://x.com/yoyokiiy/status/2077000685045100662/photo/1",
+              "media_key": "3_2077000676308336640",
+              "start": 15,
+              "url": "https://t.co/auz8blt0N5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077000685045100662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "住在朋友家隔壁就是大象家hh https://t.co/auz8blt0N5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受｜皮肤飢渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "夢想是浪跡天涯。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 196,
+          "like_count": 3262,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      }
+    ]
+  }
+}

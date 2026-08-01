@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956960607326048256"
+      ],
+      "media_source_tweet_id": [
+        "1956964337928511715"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1958409573926346990",
+    "created_at": "2025-08-21T06:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T07:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958409573926346990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1566245446900940802",
+          "start": 3,
+          "username": "Solmuk0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vSRckKblcf",
+          "end": 57,
+          "expanded_url": "https://x.com/Solmuk0/status/1956964337928511715/photo/1",
+          "media_key": "3_1956960607326048256",
+          "start": 34,
+          "url": "https://t.co/vSRckKblcf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958409573926346990",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 534
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956964337928511715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Solmuk0: 예시로 쓸 그림들 부랴부랴 그리는중😓 https://t.co/vSRckKblcf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2667,
+        "media_key": "3_1956960607326048256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyiFTc8aEAARtZj.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956960607326048256"
+          ],
+          "media_source_tweet_id": [
+            "1956964337928511715"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1958409573926346990",
+        "created_at": "2025-08-21T06:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T07:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958409573926346990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1566245446900940802",
+              "start": 3,
+              "username": "Solmuk0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vSRckKblcf",
+              "end": 57,
+              "expanded_url": "https://x.com/Solmuk0/status/1956964337928511715/photo/1",
+              "media_key": "3_1956960607326048256",
+              "start": 34,
+              "url": "https://t.co/vSRckKblcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958409573926346990",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 534
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956964337928511715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Solmuk0: 예시로 쓸 그림들 부랴부랴 그리는중😓 https://t.co/vSRckKblcf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956960607326048256"
+          ]
+        },
+        "author_id": "1566245446900940802",
+        "conversation_id": "1956964337928511715",
+        "created_at": "2025-08-17T06:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T07:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956964337928511715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vSRckKblcf",
+              "end": 44,
+              "expanded_url": "https://x.com/Solmuk0/status/1956964337928511715/photo/1",
+              "media_key": "3_1956960607326048256",
+              "start": 21,
+              "url": "https://t.co/vSRckKblcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956964337928511715",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 696,
+          "impression_count": 54275,
+          "like_count": 5273,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 534
+        },
+        "reply_settings": "everyone",
+        "text": "예시로 쓸 그림들 부랴부랴 그리는중😓 https://t.co/vSRckKblcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 128,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 46
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T02:03:18.000Z",
+        "description": "그리고 싶은 거 그림/낙서/자캐/BL/그림 스터디\nDo not use my works without permission/No AI/\nCurrently no commission",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/solmuk…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/solmuk.bsky.social",
+                "start": 0,
+                "url": "https://t.co/2x9nQpLDtS"
+              }
+            ]
+          }
+        },
+        "id": "1566245446900940802",
+        "name": "솔묵",
+        "pinned_tweet_id": "1952625528592310287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1566247769517740032/oTKPotWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55435,
+          "following_count": 125,
+          "like_count": 4156,
+          "listed_count": 179,
+          "media_count": 875,
+          "tweet_count": 3881
+        },
+        "url": "https://t.co/2x9nQpLDtS",
+        "username": "Solmuk0",
+        "verified": false
+      }
+    ]
+  }
+}

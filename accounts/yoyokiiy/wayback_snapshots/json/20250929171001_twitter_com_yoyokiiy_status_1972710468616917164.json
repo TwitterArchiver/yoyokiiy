@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1972710468616917164",
+    "created_at": "2025-09-29T17:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T18:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972710468616917164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hsn8086/status/1972226830120952072",
+          "start": 18,
+          "url": "https://t.co/j4EnZ58ubu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972710468616917164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972226830120952072",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨晚我真的梦到了综测绩点。。好压抑 https://t.co/j4EnZ58ubu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1972226822638333952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17B2Iva8AAEhpt.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1972710468616917164",
+        "created_at": "2025-09-29T17:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T18:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972710468616917164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hsn8086/status/1972226830120952072",
+              "start": 18,
+              "url": "https://t.co/j4EnZ58ubu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972710468616917164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972226830120952072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨晚我真的梦到了综测绩点。。好压抑 https://t.co/j4EnZ58ubu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972226822638333952"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1972226830120952072",
+        "created_at": "2025-09-28T09:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T10:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972226830120952072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GQ5NtR9CqJ",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1972226830120952072/photo/1",
+              "media_key": "3_1972226822638333952",
+              "start": 0,
+              "url": "https://t.co/GQ5NtR9CqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972226830120952072",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 36591,
+          "like_count": 737,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GQ5NtR9CqJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "随便分享点",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972538448977461248/340Iphsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 148,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 59
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97676,
+          "following_count": 992,
+          "like_count": 44644,
+          "listed_count": 220,
+          "media_count": 16109,
+          "tweet_count": 23671
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

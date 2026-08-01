@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1980233472964006384",
+    "created_at": "2025-10-20T15:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T16:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980291402602102809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1663516164306382852",
+          "start": 0,
+          "username": "Yooeuh121590"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980291402602102809",
+    "in_reply_to_user_id": "1663516164306382852",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980233472964006384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yooeuh121590 没事我朋友玩了12年上王者了豆包加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1980233472964006384",
+        "created_at": "2025-10-20T15:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980291402602102809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "Yooeuh121590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980291402602102809",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980233472964006384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yooeuh121590 没事我朋友玩了12年上王者了豆包加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663516164306382852",
+        "conversation_id": "1980233472964006384",
+        "created_at": "2025-10-20T11:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T12:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980233472964006384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980233472964006384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1357,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我是王者九年老玩家，但从来没上过星耀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 199,
+          "like_count": 1292,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 169
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "您的虚拟助手 | 就一臭要饭的！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yooeuh121590",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yooeuh121590",
+                "start": 0,
+                "url": "https://t.co/gD29W4tWzj"
+              }
+            ]
+          }
+        },
+        "id": "1663516164306382852",
+        "location": "🚪52",
+        "name": "豆包",
+        "pinned_tweet_id": "1977620444426780996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949456276330860544/XRYr0Aq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5240,
+          "following_count": 97,
+          "like_count": 10009,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 4447
+        },
+        "url": "https://t.co/gD29W4tWzj",
+        "username": "Yooeuh121590",
+        "verified": false
+      }
+    ]
+  }
+}

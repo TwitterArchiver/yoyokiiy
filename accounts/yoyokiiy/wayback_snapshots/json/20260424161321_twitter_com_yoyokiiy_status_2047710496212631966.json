@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2047634019375079673",
+    "created_at": "2026-04-24T16:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047710496212631966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1887110932360572928",
+          "start": 0,
+          "username": "wngh3377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047710496212631966",
+    "in_reply_to_user_id": "1887110932360572928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047634019375079673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngh3377 omg这才是祝周末快乐的最好方式。而不是私我一个周末快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047633996847456256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqoRXQbIAAd0_5.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047633997967327232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqoRbbbAAAGZU5.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2047634019375079673",
+        "created_at": "2026-04-24T16:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047710496212631966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1887110932360572928",
+              "start": 0,
+              "username": "wngh3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047710496212631966",
+        "in_reply_to_user_id": "1887110932360572928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047634019375079673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngh3377 omg这才是祝周末快乐的最好方式。而不是私我一个周末快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047633996847456256",
+            "3_2047633997967327232"
+          ]
+        },
+        "author_id": "1887110932360572928",
+        "conversation_id": "2047634019375079673",
+        "created_at": "2026-04-24T11:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047634019375079673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B5r7BXe0Uv",
+              "end": 52,
+              "expanded_url": "https://x.com/wngh3377/status/2047634019375079673/photo/1",
+              "media_key": "3_2047633996847456256",
+              "start": 29,
+              "url": "https://t.co/B5r7BXe0Uv"
+            },
+            {
+              "display_url": "pic.x.com/B5r7BXe0Uv",
+              "end": 52,
+              "expanded_url": "https://x.com/wngh3377/status/2047634019375079673/photo/1",
+              "media_key": "3_2047633997967327232",
+              "start": 29,
+              "url": "https://t.co/B5r7BXe0Uv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047634019375079673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 27007,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 80,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁啊！！！！！做好事不留名？可以私信我，等我下班再回复你 https://t.co/B5r7BXe0Uv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 253,
+          "like_count": 2248,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T12:08:28.000Z",
+        "description": "（纯绿色，无福利，不约不线下‼️）/置顶关评推广自辨",
+        "id": "1887110932360572928",
+        "location": "绿🚪520➕v",
+        "name": "荔枝水",
+        "pinned_tweet_id": "2038659629383839974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887111161105002496/YN7-peAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18920,
+          "following_count": 148,
+          "like_count": 9596,
+          "listed_count": 40,
+          "media_count": 385,
+          "tweet_count": 6718
+        },
+        "username": "wngh3377",
+        "verified": false
+      }
+    ]
+  }
+}

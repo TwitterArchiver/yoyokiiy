@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2074122353576190151",
+    "created_at": "2026-07-06T15:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074146543423377469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1887110932360572928",
+          "start": 0,
+          "username": "wngh3377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074146543423377469",
+    "in_reply_to_user_id": "1887110932360572928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074122353576190151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngh3377 好好笑。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2074122345657327616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjDSMGa4AAyqQf.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2074122353576190151",
+        "created_at": "2026-07-06T15:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074146543423377469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1887110932360572928",
+              "start": 0,
+              "username": "wngh3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074146543423377469",
+        "in_reply_to_user_id": "1887110932360572928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074122353576190151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngh3377 好好笑。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074122345657327616"
+          ]
+        },
+        "author_id": "1887110932360572928",
+        "conversation_id": "2074122353576190151",
+        "created_at": "2026-07-06T13:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074122353576190151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulBRs4LyBf",
+              "end": 28,
+              "expanded_url": "https://x.com/wngh3377/status/2074122353576190151/photo/1",
+              "media_key": "3_2074122345657327616",
+              "start": 5,
+              "url": "https://t.co/ulBRs4LyBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074122353576190151",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 623,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他咋了？ https://t.co/ulBRs4LyBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 188,
+          "like_count": 3120,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T12:08:28.000Z",
+        "description": "（纯绿色，无福利，不约不线下‼️）/置顶关评推广自辨",
+        "id": "1887110932360572928",
+        "name": "荔枝水",
+        "pinned_tweet_id": "2062219011174408593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887111161105002496/YN7-peAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19085,
+          "following_count": 142,
+          "like_count": 9146,
+          "listed_count": 42,
+          "media_count": 211,
+          "tweet_count": 6430
+        },
+        "url": "",
+        "username": "wngh3377",
+        "verified": false
+      }
+    ]
+  }
+}

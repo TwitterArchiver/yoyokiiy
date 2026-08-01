@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2081999701562495459",
+    "created_at": "2026-07-28T09:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082031356608180612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1858200277243060224",
+          "start": 0,
+          "username": "hang112971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082031356608180612",
+    "in_reply_to_user_id": "1858200277243060224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081999701562495459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hang112971 如果有可退的可以关注下房价跌涨 我之前订的有跌的很厉害的🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081999662740070400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOS_qZAa4AAYywT.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2081999701562495459",
+        "created_at": "2026-07-28T09:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082031356608180612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858200277243060224",
+              "start": 0,
+              "username": "hang112971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082031356608180612",
+        "in_reply_to_user_id": "1858200277243060224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081999701562495459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hang112971 如果有可退的可以关注下房价跌涨 我之前订的有跌的很厉害的🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081999662740070400"
+          ]
+        },
+        "author_id": "1858200277243060224",
+        "conversation_id": "2081999701562495459",
+        "created_at": "2026-07-28T07:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081999701562495459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0EThTaZSEq",
+              "end": 32,
+              "expanded_url": "https://x.com/hang112971/status/2081999701562495459/photo/1",
+              "media_key": "3_2081999662740070400",
+              "start": 9,
+              "url": "https://t.co/0EThTaZSEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081999701562495459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真得崩老头了。 https://t.co/0EThTaZSEq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "友情出演「筋肉父親與棒球運動員兒子禁斷秘密」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "0.2km",
+        "name": "熟睡的妻子",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079909173740118016/ahEmuHyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 158,
+          "like_count": 3384,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 979
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T17:27:34.000Z",
+        "description": "男 22岁已婚孩子一岁\nesfp\n📷📷📷",
+        "id": "1858200277243060224",
+        "location": "Hangzhou",
+        "name": "h-",
+        "pinned_tweet_id": "2058555731096563920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071409423164321793/mgMFgflJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 1292,
+          "like_count": 7033,
+          "listed_count": 1,
+          "media_count": 453,
+          "tweet_count": 1949
+        },
+        "url": "",
+        "username": "hang112971",
+        "verified": false
+      }
+    ]
+  }
+}

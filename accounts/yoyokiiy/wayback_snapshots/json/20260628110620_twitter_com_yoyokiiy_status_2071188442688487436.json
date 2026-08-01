@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2070485585303937097",
+    "created_at": "2026-06-28T11:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071188442688487436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036346188061089792",
+          "start": 0,
+          "username": "Res1st_4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071188442688487436",
+    "in_reply_to_user_id": "2036346188061089792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070485585303937097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Res1st_4 好美味的覆面😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070485579041804288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvXqgtbEAA7nKW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070485579058511872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvXqgxaAAA8Wlv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2070485585303937097",
+        "created_at": "2026-06-28T11:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071188442688487436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036346188061089792",
+              "start": 0,
+              "username": "Res1st_4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071188442688487436",
+        "in_reply_to_user_id": "2036346188061089792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070485585303937097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Res1st_4 好美味的覆面😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070485579041804288",
+            "3_2070485579058511872"
+          ]
+        },
+        "author_id": "2036346188061089792",
+        "conversation_id": "2070485585303937097",
+        "created_at": "2026-06-26T12:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070485585303937097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/952SM8K1Yt",
+              "end": 76,
+              "expanded_url": "https://x.com/Res1st_4/status/2070485585303937097/photo/1",
+              "media_key": "3_2070485579041804288",
+              "start": 53,
+              "url": "https://t.co/952SM8K1Yt"
+            },
+            {
+              "display_url": "pic.x.com/952SM8K1Yt",
+              "end": 76,
+              "expanded_url": "https://x.com/Res1st_4/status/2070485585303937097/photo/1",
+              "media_key": "3_2070485579058511872",
+              "start": 53,
+              "url": "https://t.co/952SM8K1Yt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070485585303937097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 385,
+          "impression_count": 98107,
+          "like_count": 4146,
+          "quote_count": 5,
+          "reply_count": 92,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "戴上头套的是坏人，坏人看到你掉眼泪只会爽，但是脱下头套的是哥哥，哥哥不会伤害你的，看到你的眼泪哥哥会心痛 https://t.co/952SM8K1Yt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜只想长大｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 210,
+          "like_count": 2964,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 822
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T07:36:39.000Z",
+        "description": "186/82 我是直男，就上来发发照片，本人挺装的，但是不卖，谢谢大家",
+        "id": "2036346188061089792",
+        "location": "杭州",
+        "name": "年轻的丈夫",
+        "pinned_tweet_id": "2053321304569491764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036350278639960064/59nN_f4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55576,
+          "following_count": 18,
+          "like_count": 1426,
+          "listed_count": 73,
+          "media_count": 208,
+          "tweet_count": 1161
+        },
+        "url": "",
+        "username": "Res1st_4",
+        "verified": false
+      }
+    ]
+  }
+}

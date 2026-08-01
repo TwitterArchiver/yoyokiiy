@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079250801399406592"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2079250818990301196",
+    "created_at": "2026-07-20T17:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079250818990301196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dpY6hzjBUU",
+          "end": 23,
+          "expanded_url": "https://x.com/yoyokiiy/status/2079250818990301196/photo/1",
+          "media_key": "3_2079250801399406592",
+          "start": 0,
+          "url": "https://t.co/dpY6hzjBUU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079250818990301196",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/dpY6hzjBUU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_2079250801399406592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNr7lmhboAAxrvM.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079250801399406592"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2079250818990301196",
+        "created_at": "2026-07-20T17:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079250818990301196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpY6hzjBUU",
+              "end": 23,
+              "expanded_url": "https://x.com/yoyokiiy/status/2079250818990301196/photo/1",
+              "media_key": "3_2079250801399406592",
+              "start": 0,
+              "url": "https://t.co/dpY6hzjBUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079250818990301196",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dpY6hzjBUU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我只是有些好奇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "0.2km",
+        "name": "江莉央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078847646689837057/WRJFX8c0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 155,
+          "like_count": 3303,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      }
+    ]
+  }
+}

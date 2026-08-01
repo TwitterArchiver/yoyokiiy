@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2048046039970799926",
+    "created_at": "2026-04-26T03:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048243049973883074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "810779795214581760",
+          "start": 0,
+          "username": "0b7cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048243049973883074",
+    "in_reply_to_user_id": "810779795214581760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048046039970799926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0b7cm 真挚的感情在萍水相逢里就足够了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2048046039970799926",
+        "created_at": "2026-04-26T03:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048243049973883074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "810779795214581760",
+              "start": 0,
+              "username": "0b7cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048243049973883074",
+        "in_reply_to_user_id": "810779795214581760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048046039970799926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0b7cm 真挚的感情在萍水相逢里就足够了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "810779795214581760",
+        "conversation_id": "2048046039970799926",
+        "created_at": "2026-04-25T14:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048046039970799926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048046039970799926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "欧美圈有个经典的“夏令营理论”，“你跟一些人在不同的城市演戏，有点像一个family，一个夏令营之类的东西，你远离家人，遇到了一些新朋友，享受了一段美好时光。你们只是偶然的撞进彼此的人生，在一起戏戏的时候，你们要经历一些富含感情的场景，在离家万里的城市，所以可能会表现真挚的感情，但是这样的关系很难保持的。 \"When the summer ends, and you go back to your life. \" summer camp适用于所有短暂而注定结束的亲密关系。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 35158,
+          "like_count": 380,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "欧美圈有个经典的“夏令营理论”，“你跟一些人在不同的城市演戏，有点像一个family，一个夏令营之类的东西，你远离家人，遇到了一些新朋友，享受了一段美好时光。你们只是偶然的撞进彼此的人生，在一起戏戏的时候，你们要经历一些富含感情的场景，在离家万里的城市，所以可能会表现真挚的感情，但是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 204,
+          "like_count": 2295,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2044619934932795749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6949,
+          "following_count": 1067,
+          "like_count": 9955,
+          "listed_count": 9,
+          "media_count": 955,
+          "tweet_count": 11257
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

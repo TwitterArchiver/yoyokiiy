@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923370589005504512"
+      ],
+      "media_source_tweet_id": [
+        "1923370592662593703"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1952230834003714386",
+    "created_at": "2025-08-04T04:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T05:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952230834003714386"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "Xavier"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1072824795723587585",
+          "start": 3,
+          "username": "Orihara0820"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/feJcjSCvGZ",
+          "end": 56,
+          "expanded_url": "https://x.com/Orihara0820/status/1923370592662593703/photo/1",
+          "media_key": "3_1923370589005504512",
+          "start": 33,
+          "url": "https://t.co/feJcjSCvGZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952230834003714386",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1280
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923370592662593703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Orihara0820: #Xavier \nnsfw🤚🏻 https://t.co/feJcjSCvGZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952230834003714386].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952230834003714386",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952230834003714386"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923370589005504512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrEvXDkbYAAe7lQ.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923370589005504512"
+          ]
+        },
+        "author_id": "1072824795723587585",
+        "conversation_id": "1923370592662593703",
+        "created_at": "2025-05-16T13:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T14:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923370592662593703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "Xavier"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/feJcjSCvGZ",
+              "end": 39,
+              "expanded_url": "https://x.com/Orihara0820/status/1923370592662593703/photo/1",
+              "media_key": "3_1923370589005504512",
+              "start": 16,
+              "url": "https://t.co/feJcjSCvGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923370592662593703",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2574,
+          "impression_count": 201865,
+          "like_count": 8372,
+          "quote_count": 87,
+          "reply_count": 28,
+          "retweet_count": 1280
+        },
+        "reply_settings": "everyone",
+        "text": "#Xavier \nnsfw🤚🏻 https://t.co/feJcjSCvGZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 126,
+          "like_count": 653,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-12T12:05:38.000Z",
+        "description": "🇨🇳‖wb：剥壳核桃‖不常上线‖English👌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/3668938362",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/3668938362",
+                "start": 0,
+                "url": "https://t.co/hmSo4v2ATE"
+              }
+            ]
+          }
+        },
+        "id": "1072824795723587585",
+        "location": "乌鲁鲁星",
+        "name": "BOKI核桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789652031764070400/2kPDB51V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16211,
+          "following_count": 307,
+          "like_count": 261,
+          "listed_count": 61,
+          "media_count": 112,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/hmSo4v2ATE",
+        "username": "Orihara0820",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2045409281890205924",
+    "created_at": "2026-04-19T04:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T05:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045724698185539758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574300405026017280",
+          "start": 0,
+          "username": "yantanzhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045724698185539758",
+    "in_reply_to_user_id": "1574300405026017280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045409281890205924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yantanzhang 五一100咋订到的 佩服佩服。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 823,
+        "media_key": "3_2045409126801608704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLAw4daEAA2dSZ.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2044,
+        "media_key": "3_2045409146863046656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLAyDMbUAAg5DX.jpg",
+        "width": 851
+      },
+      {
+        "height": 2193,
+        "media_key": "3_2045409162377744384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLAy8_a0AAvcbQ.jpg",
+        "width": 1009
+      },
+      {
+        "height": 2128,
+        "media_key": "3_2045409185773572096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLA0UJa0AAQBTr.jpg",
+        "width": 851
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2045409281890205924",
+        "created_at": "2026-04-19T04:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045724698185539758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574300405026017280",
+              "start": 0,
+              "username": "yantanzhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045724698185539758",
+        "in_reply_to_user_id": "1574300405026017280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045409281890205924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yantanzhang 五一100咋订到的 佩服佩服。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045409126801608704",
+            "3_2045409146863046656",
+            "3_2045409162377744384",
+            "3_2045409185773572096"
+          ]
+        },
+        "author_id": "1574300405026017280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045409281890205924",
+        "created_at": "2026-04-18T07:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045409281890205924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mt2z8KlDxK",
+              "end": 52,
+              "expanded_url": "https://x.com/yantanzhang/status/2045409281890205924/photo/1",
+              "media_key": "3_2045409126801608704",
+              "start": 29,
+              "url": "https://t.co/mt2z8KlDxK"
+            },
+            {
+              "display_url": "pic.x.com/mt2z8KlDxK",
+              "end": 52,
+              "expanded_url": "https://x.com/yantanzhang/status/2045409281890205924/photo/1",
+              "media_key": "3_2045409146863046656",
+              "start": 29,
+              "url": "https://t.co/mt2z8KlDxK"
+            },
+            {
+              "display_url": "pic.x.com/mt2z8KlDxK",
+              "end": 52,
+              "expanded_url": "https://x.com/yantanzhang/status/2045409281890205924/photo/1",
+              "media_key": "3_2045409162377744384",
+              "start": 29,
+              "url": "https://t.co/mt2z8KlDxK"
+            },
+            {
+              "display_url": "pic.x.com/mt2z8KlDxK",
+              "end": 52,
+              "expanded_url": "https://x.com/yantanzhang/status/2045409281890205924/photo/1",
+              "media_key": "3_2045409185773572096",
+              "start": 29,
+              "url": "https://t.co/mt2z8KlDxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045409281890205924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 576039,
+          "like_count": 489,
+          "quote_count": 10,
+          "reply_count": 494,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "下头男试图在100元的廉价酒店里和集美链接，被集美甩了。 https://t.co/mt2z8KlDxK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1992994593131081912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 236,
+          "like_count": 2143,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T07:30:49.000Z",
+        "description": "自由主义男性，拒绝宏大叙事，热爱新鲜事物，为男性发声超十年《舔狗经济学》《男性自救指南》作者",
+        "id": "1574300405026017280",
+        "name": "颜克权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097044138274817/NdI_xr1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46232,
+          "following_count": 259,
+          "like_count": 3074,
+          "listed_count": 130,
+          "media_count": 4414,
+          "tweet_count": 5395
+        },
+        "username": "yantanzhang",
+        "verified": true
+      }
+    ]
+  }
+}

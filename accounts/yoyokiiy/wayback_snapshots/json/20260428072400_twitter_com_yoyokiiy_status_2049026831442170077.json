@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049026677448282112"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2049026831442170077",
+    "created_at": "2026-04-28T07:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049026831442170077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3IuFfr72Cp",
+          "end": 32,
+          "expanded_url": "https://x.com/yoyokiiy/status/2049026831442170077/video/1",
+          "media_key": "13_2049026677448282112",
+          "start": 9,
+          "url": "https://t.co/3IuFfr72Cp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049026831442170077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "追怀一个雪落之地 https://t.co/3IuFfr72Cp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37600,
+        "height": 946,
+        "media_key": "13_2049026677448282112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049026677448282112/img/n6NTz5W-C7E5M7xQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049026677448282112/vid/avc1/320x420/mX6MJuZ44g4uove7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049026677448282112/vid/avc1/480x630/G9PScQQv3MWMDI3U.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049026677448282112/vid/avc1/720x946/xmyfnlpee_GMmZF0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049026677448282112/pl/h2p6d5ecDZDCBLHM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049026677448282112"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2049026831442170077",
+        "created_at": "2026-04-28T07:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049026831442170077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3IuFfr72Cp",
+              "end": 32,
+              "expanded_url": "https://x.com/yoyokiiy/status/2049026831442170077/video/1",
+              "media_key": "13_2049026677448282112",
+              "start": 9,
+              "url": "https://t.co/3IuFfr72Cp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049026831442170077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "追怀一个雪落之地 https://t.co/3IuFfr72Cp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 207,
+          "like_count": 2360,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

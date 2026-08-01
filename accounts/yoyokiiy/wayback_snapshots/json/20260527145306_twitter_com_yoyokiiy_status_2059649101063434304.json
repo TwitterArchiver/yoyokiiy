@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2059154020523188454",
+    "created_at": "2026-05-27T14:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059649101063434304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2024718499206356992",
+          "start": 0,
+          "username": "FFFWEAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059649101063434304",
+    "in_reply_to_user_id": "2024718499206356992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059154020523188454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FFFWEAR 之前班里还有贩剑的班干拿我们身份证查私人成绩…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2059154020523188454",
+        "created_at": "2026-05-27T14:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059649101063434304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2024718499206356992",
+              "start": 0,
+              "username": "FFFWEAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059649101063434304",
+        "in_reply_to_user_id": "2024718499206356992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059154020523188454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FFFWEAR 之前班里还有贩剑的班干拿我们身份证查私人成绩…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024718499206356992",
+        "conversation_id": "2059154020523188454",
+        "created_at": "2026-05-26T06:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059154020523188454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059154020523188454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 47011,
+          "like_count": 507,
+          "quote_count": 2,
+          "reply_count": 116,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得大学填各种学院信息表完全是隐私泄露。比如我刚刚就在学院共享表格里把我们整个院所有人的实习地点和工资研究了一遍🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 214,
+          "like_count": 2554,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T05:31:33.000Z",
+        "description": "私信已关，因为最近收到的所有私信没任何意义并且发消息的人基本又蠢又贱",
+        "id": "2024718499206356992",
+        "name": "玻璃剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035006605499277313/8gwKuCTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 9,
+          "like_count": 2294,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 353
+        },
+        "username": "FFFWEAR",
+        "verified": true
+      }
+    ]
+  }
+}

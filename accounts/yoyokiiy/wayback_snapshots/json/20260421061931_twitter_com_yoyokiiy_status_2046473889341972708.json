@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2046211641109598369",
+    "created_at": "2026-04-21T06:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T07:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046473889341972708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1800397843569782784",
+          "start": 0,
+          "username": "bitterberry__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046473889341972708",
+    "in_reply_to_user_id": "1800397843569782784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046211641109598369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bitterberry__ 老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046211633920565248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWao8cbYAA2Nzd.jpg",
+        "width": 1536
+      },
+      {
+        "alt_text": "まぶしいのつら過ぎて傾いた",
+        "height": 2048,
+        "media_key": "3_2046211633933111296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWao8fa0AAlvFx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2046211641109598369",
+        "created_at": "2026-04-21T06:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046473889341972708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1800397843569782784",
+              "start": 0,
+              "username": "bitterberry__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046473889341972708",
+        "in_reply_to_user_id": "1800397843569782784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046211641109598369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitterberry__ 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046211633920565248",
+            "3_2046211633933111296"
+          ]
+        },
+        "author_id": "1800397843569782784",
+        "conversation_id": "2046211641109598369",
+        "created_at": "2026-04-20T12:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046211641109598369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8IB3j5y7V",
+              "end": 56,
+              "expanded_url": "https://x.com/bitterberry__/status/2046211641109598369/photo/1",
+              "media_key": "3_2046211633920565248",
+              "start": 33,
+              "url": "https://t.co/L8IB3j5y7V"
+            },
+            {
+              "display_url": "pic.x.com/L8IB3j5y7V",
+              "end": 56,
+              "expanded_url": "https://x.com/bitterberry__/status/2046211641109598369/photo/1",
+              "media_key": "3_2046211633933111296",
+              "start": 33,
+              "url": "https://t.co/L8IB3j5y7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046211641109598369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 722,
+          "impression_count": 222969,
+          "like_count": 11116,
+          "quote_count": 59,
+          "reply_count": 27,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "ネモフィラ見に行けた 🫧⟡˚.⋆\n眩しくて風強かった ⌯ ̫⌯٥ https://t.co/L8IB3j5y7V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 243,
+          "like_count": 2178,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T05:21:20.000Z",
+        "description": "꒷꒦♡ @chimu_ricorico",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "chimu_ricorico"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/__bite_me",
+                "end": 23,
+                "expanded_url": "https://lit.link/__bite_me",
+                "start": 0,
+                "url": "https://t.co/ZzWkRNul12"
+              }
+            ]
+          }
+        },
+        "id": "1800397843569782784",
+        "name": "🍓",
+        "pinned_tweet_id": "2042177846693794226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931577851222032384/fTQQS04r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4394,
+          "following_count": 77,
+          "like_count": 9275,
+          "listed_count": 15,
+          "media_count": 27,
+          "tweet_count": 1199
+        },
+        "url": "https://t.co/ZzWkRNul12",
+        "username": "bitterberry__",
+        "verified": false
+      }
+    ]
+  }
+}

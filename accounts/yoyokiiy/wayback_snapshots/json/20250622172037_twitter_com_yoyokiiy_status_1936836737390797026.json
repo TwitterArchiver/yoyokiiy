@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1936535116098290115",
+    "created_at": "2025-06-22T17:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T18:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936836737390797026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1840149997486043136",
+          "start": 0,
+          "username": "fufu_owo72"
+        },
+        {
+          "end": 24,
+          "id": "1883727989671944192",
+          "start": 12,
+          "username": "linnyii8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936836737390797026",
+    "in_reply_to_user_id": "1840149997486043136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936535116098290115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufu_owo72 @linnyii8964 呕吐袋就在后台我们把她请出来好吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1607,
+        "media_key": "3_1936535102193795072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt_0ak1WAAA1-uD.jpg",
+        "width": 1425
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1936535116098290115",
+        "created_at": "2025-06-22T17:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T18:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936836737390797026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1840149997486043136",
+              "start": 0,
+              "username": "fufu_owo72"
+            },
+            {
+              "end": 24,
+              "id": "1883727989671944192",
+              "start": 12,
+              "username": "linnyii8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936836737390797026",
+        "in_reply_to_user_id": "1840149997486043136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936535116098290115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufu_owo72 @linnyii8964 呕吐袋就在后台我们把她请出来好吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936535102193795072"
+          ]
+        },
+        "author_id": "1840149997486043136",
+        "conversation_id": "1936535116098290115",
+        "created_at": "2025-06-21T21:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T22:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936535116098290115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/trmbBdRB3A",
+              "end": 60,
+              "expanded_url": "https://x.com/fufu_owo72/status/1936535116098290115/photo/1",
+              "media_key": "3_1936535102193795072",
+              "start": 37,
+              "url": "https://t.co/trmbBdRB3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936535116098290115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 39559,
+          "like_count": 693,
+          "quote_count": 12,
+          "reply_count": 39,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "其实我看文的xp就是又娇又馋的妹宝和事事稳重周到无欲无求的年上养胃男。。 https://t.co/trmbBdRB3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "成分复杂！",
+        "id": "1897445432365821952",
+        "name": "夏未夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933924237728980992/IyPy4m_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 89,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T22:02:36.000Z",
+        "description": "06/大学生/infp我很脆弱的不要攻击我/⚠️大量废话预警 想到啥就说啥纯外耗别人 嫌我烦屏蔽我 死incel远离我/纯绿🚪52/ 匿名提问在：https://t.co/IBI0kirRvI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fufu82390",
+                "end": 96,
+                "expanded_url": "https://ngl.link/fufu82390",
+                "start": 73,
+                "url": "https://t.co/IBI0kirRvI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=l3HLXSF5",
+                "start": 0,
+                "url": "https://t.co/L5R0lFx9uU"
+              }
+            ]
+          }
+        },
+        "id": "1840149997486043136",
+        "location": "自用蜂鸟vpn➡️",
+        "name": "芙芙",
+        "pinned_tweet_id": "1936283269802475603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930708920013881344/YRYHwZYE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3886,
+          "following_count": 158,
+          "like_count": 5751,
+          "listed_count": 10,
+          "media_count": 61,
+          "tweet_count": 1678
+        },
+        "url": "https://t.co/L5R0lFx9uU",
+        "username": "fufu_owo72",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:05:33.000Z",
+        "description": "🚪52/188 我要守护的女孩:@jiangqidawang 另一个我:@nidiemasile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "jiangqidawang"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "username": "nidiemasile"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=XQd8EqLh",
+                "start": 0,
+                "url": "https://t.co/ZxG5Lco8Fc"
+              }
+            ]
+          }
+        },
+        "id": "1883727989671944192",
+        "location": "无广告干扰，机场节点随便挑，蜂鸟VPN",
+        "name": "只是爱乱说话",
+        "pinned_tweet_id": "1924039501069856843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883728141543436288/FoLOuEY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 675,
+          "like_count": 8674,
+          "listed_count": 1,
+          "media_count": 598,
+          "tweet_count": 6956
+        },
+        "url": "https://t.co/ZxG5Lco8Fc",
+        "username": "linnyii8964",
+        "verified": false
+      }
+    ]
+  }
+}

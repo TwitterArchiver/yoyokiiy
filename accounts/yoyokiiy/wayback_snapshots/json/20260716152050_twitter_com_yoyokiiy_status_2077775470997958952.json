@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2077775470997958952",
+    "created_at": "2026-07-16T15:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077775470997958952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fuu_r_u/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/fuu_r_u/status/2077597853632143481",
+          "start": 23,
+          "url": "https://t.co/qatFsezF67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077775470997958952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077597853632143481",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果可以，我想要的炮友首先是朋友，其次是打炮 https://t.co/qatFsezF67"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2077775470997958952",
+        "created_at": "2026-07-16T15:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077775470997958952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fuu_r_u/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/fuu_r_u/status/2077597853632143481",
+              "start": 23,
+              "url": "https://t.co/qatFsezF67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077775470997958952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077597853632143481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果可以，我想要的炮友首先是朋友，其次是打炮 https://t.co/qatFsezF67"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782923194632192000",
+        "conversation_id": "2077597853632143481",
+        "created_at": "2026-07-16T03:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077597853632143481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uranyaan/statu…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/uranyaan/status/2077335690401218890",
+              "start": 111,
+              "url": "https://t.co/otMUGvkRIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077597853632143481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2780,
+          "impression_count": 7710049,
+          "like_count": 28722,
+          "quote_count": 498,
+          "reply_count": 350,
+          "retweet_count": 888
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077335690401218890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "セフレやん。\nセフレいたことない人勘違いしがちやけど、セフレはセックスだけしかしない友達じゃないぞ。\nふつうに一緒にいて楽しい友達な上で、セックスもするのがセフレやで。\n少なくともワイはそのパターンのセフレしか経験ない。 https://t.co/otMUGvkRIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受｜皮肤飢渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "天涯海角。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 160,
+          "like_count": 3320,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 977
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-24T00:03:21.000Z",
+        "description": "元お風呂屋さん🛁",
+        "id": "1782923194632192000",
+        "name": "ふぅ。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782926434614546432/wEO02Ryw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 13,
+          "like_count": 3339,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1106
+        },
+        "url": "",
+        "username": "fuu_r_u",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930298168828407808"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1930007583798218778",
+    "created_at": "2025-06-04T16:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930298210742133165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1456345157146603526",
+          "start": 0,
+          "username": "DVWN21"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lPfhOUCX6o",
+          "end": 108,
+          "expanded_url": "https://x.com/yoyokiiy/status/1930298210742133165/photo/1",
+          "media_key": "3_1930298168828407808",
+          "start": 85,
+          "url": "https://t.co/lPfhOUCX6o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930298210742133165",
+    "in_reply_to_user_id": "1456345157146603526",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930007583798218778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DVWN21 Like this!! Baby, could you draw several more pictures similar to this one?🥺 https://t.co/lPfhOUCX6o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930298168828407808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnL9ReasAAbeFe.jpg",
+        "width": 1590
+      },
+      {
+        "height": 1433,
+        "media_key": "3_1930007176082534403",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsjDTRBasAMNNRq.jpg",
+        "width": 2120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930298168828407808"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1930007583798218778",
+        "created_at": "2025-06-04T16:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930298210742133165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1456345157146603526",
+              "start": 0,
+              "username": "DVWN21"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPfhOUCX6o",
+              "end": 108,
+              "expanded_url": "https://x.com/yoyokiiy/status/1930298210742133165/photo/1",
+              "media_key": "3_1930298168828407808",
+              "start": 85,
+              "url": "https://t.co/lPfhOUCX6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930298210742133165",
+        "in_reply_to_user_id": "1456345157146603526",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930007583798218778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DVWN21 Like this!! Baby, could you draw several more pictures similar to this one?🥺 https://t.co/lPfhOUCX6o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930007176082534403"
+          ]
+        },
+        "author_id": "1456345157146603526",
+        "conversation_id": "1930007583798218778",
+        "created_at": "2025-06-03T21:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T22:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930007583798218778"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Caleb",
+              "probability": 0.5575,
+              "start": 31,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "LoveandDeepspace",
+              "probability": 0.8796,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "Caleb"
+            },
+            {
+              "end": 54,
+              "start": 37,
+              "tag": "LoveandDeepspace"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bdgkTNQitg",
+              "end": 78,
+              "expanded_url": "https://x.com/DVWN21/status/1930007583798218778/photo/1",
+              "media_key": "3_1930007176082534403",
+              "start": 55,
+              "url": "https://t.co/bdgkTNQitg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930007583798218778",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 15650,
+          "like_count": 1720,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 317
+        },
+        "reply_settings": "everyone",
+        "text": "( re-upload ) 04' happy uppy🍎 #Caleb #LoveandDeepspace https://t.co/bdgkTNQitg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "成分复杂！颜值/卡面/主线/扩写/剪辑/私设同人",
+        "id": "1897445432365821952",
+        "name": "夏未夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899672913357488128/pA9Kobnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 55,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T19:38:44.000Z",
+        "description": "dobbydvwn ! ( ดอน ) fanarts 80% / oc 15% / nsfw 5% 🏁 multi-fandom 🐾 th / (broken) eng ——- ⓘ love my art,  gimme a ☕️ . 🐦‍⬛🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tipme.in.th/dobbydvwn",
+                "end": 23,
+                "expanded_url": "https://tipme.in.th/dobbydvwn",
+                "start": 0,
+                "url": "https://t.co/UcaiEiuKZ0"
+              }
+            ]
+          }
+        },
+        "id": "1456345157146603526",
+        "location": "do not repost my artworks.⋆ ࣪.",
+        "name": "dvwn⭒",
+        "pinned_tweet_id": "1928532451858534608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907948021486403584/xuatZQCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 218,
+          "like_count": 1648,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2519
+        },
+        "url": "https://t.co/UcaiEiuKZ0",
+        "username": "DVWN21",
+        "verified": false
+      }
+    ]
+  }
+}

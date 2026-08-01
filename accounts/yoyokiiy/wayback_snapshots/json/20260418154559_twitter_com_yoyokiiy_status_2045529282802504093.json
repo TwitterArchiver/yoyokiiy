@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2045391151323291770",
+    "created_at": "2026-04-18T15:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045529282802504093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2004574270916268033",
+          "start": 0,
+          "username": "Nssymwhsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045529282802504093",
+    "in_reply_to_user_id": "2004574270916268033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045391151323291770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nssymwhsg 完全心声。😭老师请不要删贴小女子将一一浏览加购"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2045391151323291770",
+        "created_at": "2026-04-18T15:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045529282802504093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2004574270916268033",
+              "start": 0,
+              "username": "Nssymwhsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045529282802504093",
+        "in_reply_to_user_id": "2004574270916268033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045391151323291770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nssymwhsg 完全心声。😭老师请不要删贴小女子将一一浏览加购"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004574270916268033",
+        "conversation_id": "2045391151323291770",
+        "created_at": "2026-04-18T06:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045391151323291770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045391151323291770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 46344,
+          "like_count": 403,
+          "quote_count": 0,
+          "reply_count": 102,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我好喜欢穿那种很薄很有坠感的t恤，很贴肤贴我的骨架那种，但是又不能紧身，那种t恤到底要怎么找....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1992994593131081912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 235,
+          "like_count": 2128,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T15:26:29.000Z",
+        "description": "什么都发。不加v（女生来者不拒）",
+        "id": "2004574270916268033",
+        "name": "Nssymw",
+        "pinned_tweet_id": "2024476139696378145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004574891719507968/kUdZI6nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 361,
+          "like_count": 6439,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 2697
+        },
+        "username": "Nssymwhsg",
+        "verified": false
+      }
+    ]
+  }
+}

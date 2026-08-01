@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1964171589156778394",
+    "created_at": "2025-09-07T16:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T17:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964732492503720438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "902043522093776896",
+          "start": 0,
+          "username": "Lxlijin0808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964732492503720438",
+    "in_reply_to_user_id": "902043522093776896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964171589156778394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lxlijin0808 女神我要跟随你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964171581938421761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0IjpatbUAEFHUZ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1964171589156778394",
+        "created_at": "2025-09-07T16:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T17:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964732492503720438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "902043522093776896",
+              "start": 0,
+              "username": "Lxlijin0808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964732492503720438",
+        "in_reply_to_user_id": "902043522093776896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964171589156778394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lxlijin0808 女神我要跟随你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964171581938421761"
+          ]
+        },
+        "author_id": "902043522093776896",
+        "conversation_id": "1964171589156778394",
+        "created_at": "2025-09-06T03:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T04:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964171589156778394"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "恋与深空"
+            },
+            {
+              "end": 65,
+              "start": 48,
+              "tag": "LoveandDeepspace"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "夏以昼"
+            },
+            {
+              "end": 79,
+              "start": 73,
+              "tag": "Caleb"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "恋と深空"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gx7HZK4UhK",
+              "end": 109,
+              "expanded_url": "https://x.com/Lxlijin0808/status/1964171589156778394/photo/1",
+              "media_key": "3_1964171581938421761",
+              "start": 86,
+              "url": "https://t.co/gx7HZK4UhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964171589156778394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 21161,
+          "like_count": 2032,
+          "quote_count": 6,
+          "reply_count": 129,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "让夏以昼爽这件事刻不容缓。\n（感觉没啥人看了，做饭没劲。。画完对镜系列我要跑了。）\n#恋与深空 #LoveandDeepspace \n#夏以昼  #Caleb #恋と深空 https://t.co/gx7HZK4UhK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 144,
+          "like_count": 825,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 74
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-28T05:41:49.000Z",
+        "description": "isfp.🍎 从来不画擦边，只做最真实的自己。",
+        "id": "902043522093776896",
+        "location": "中华人民共和国",
+        "name": "橘花椒_",
+        "pinned_tweet_id": "1961007237083918519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946294259990061057/uEcHSAZo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33622,
+          "following_count": 193,
+          "like_count": 8928,
+          "listed_count": 53,
+          "media_count": 468,
+          "tweet_count": 2702
+        },
+        "username": "Lxlijin0808",
+        "verified": false
+      }
+    ]
+  }
+}

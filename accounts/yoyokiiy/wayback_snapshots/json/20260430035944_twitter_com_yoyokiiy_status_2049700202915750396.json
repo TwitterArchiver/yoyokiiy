@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2049527368277188756",
+    "created_at": "2026-04-30T03:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T04:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049700202915750396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697998200366362624",
+          "start": 0,
+          "username": "LOUIELU1666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049700202915750396",
+    "in_reply_to_user_id": "1697998200366362624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049527368277188756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LOUIELU1666 哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1777,
+        "media_key": "3_2049527361042010112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFiRqhaUAAH2nn.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2049527368277188756",
+        "created_at": "2026-04-30T03:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049700202915750396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697998200366362624",
+              "start": 0,
+              "username": "LOUIELU1666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049700202915750396",
+        "in_reply_to_user_id": "1697998200366362624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049527368277188756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LOUIELU1666 哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049527361042010112"
+          ]
+        },
+        "author_id": "1697998200366362624",
+        "conversation_id": "2049527368277188756",
+        "created_at": "2026-04-29T16:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049527368277188756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4w9eo8ky8",
+              "end": 37,
+              "expanded_url": "https://x.com/LOUIELU1666/status/2049527368277188756/photo/1",
+              "media_key": "3_2049527361042010112",
+              "start": 14,
+              "url": "https://t.co/R4w9eo8ky8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049527368277188756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 71562,
+          "like_count": 254,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这种事情终于轮到我了😇😇😇 https://t.co/R4w9eo8ky8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 207,
+          "like_count": 2372,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T15:41:42.000Z",
+        "description": "許願不要再有短暫的人出現打破我平靜的生活          \n            我的世界：好哥哥@petersDavid88｜唯一男神@yuzeh776677｜小天使@kakoice1｜Honey @AGCham1020｜🥵@Bu959Cai｜小动物@Devi114514｜🥰@Randomnewborn｜🧋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "petersDavid88"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "yuzeh776677"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "kakoice1"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "AGCham1020"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "Bu959Cai"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "Devi114514"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Randomnewborn"
+              }
+            ]
+          }
+        },
+        "id": "1697998200366362624",
+        "location": "MOMO的心里",
+        "name": "路易十六",
+        "pinned_tweet_id": "2036991134166376900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033808306331127808/jHO0o-OG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1703,
+          "like_count": 13293,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3672
+        },
+        "username": "LOUIELU1666",
+        "verified": false
+      }
+    ]
+  }
+}

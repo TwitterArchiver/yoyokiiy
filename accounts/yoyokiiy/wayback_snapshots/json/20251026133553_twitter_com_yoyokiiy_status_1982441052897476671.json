@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1980838864127422514",
+    "created_at": "2025-10-26T13:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T14:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982441052897476671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1887110932360572928",
+          "start": 0,
+          "username": "wngh3377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982441052897476671",
+    "in_reply_to_user_id": "1887110932360572928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980838864127422514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngh3377 我又来蹲链接了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980838855285641216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G31acaaXkAAAlJ8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1980838864127422514",
+        "created_at": "2025-10-26T13:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982441052897476671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1887110932360572928",
+              "start": 0,
+              "username": "wngh3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982441052897476671",
+        "in_reply_to_user_id": "1887110932360572928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980838864127422514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngh3377 我又来蹲链接了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980838855285641216"
+          ]
+        },
+        "author_id": "1887110932360572928",
+        "conversation_id": "1980838864127422514",
+        "created_at": "2025-10-22T03:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T04:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980838864127422514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IS94IWWnFp",
+              "end": 48,
+              "expanded_url": "https://x.com/wngh3377/status/1980838864127422514/photo/1",
+              "media_key": "3_1980838855285641216",
+              "start": 25,
+              "url": "https://t.co/IS94IWWnFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980838864127422514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 46361,
+          "like_count": 376,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "如果没有一个人能get 灰色的美，那当我没说…… https://t.co/IS94IWWnFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 175,
+          "like_count": 1290,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 171
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T12:08:28.000Z",
+        "description": "话唠，盗图死m（不线下，不聊骚，过门闲聊）宝宝们可以向我提问https://t.co/Yyio20uoWE /置顶关评推广自辨！！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lzs666",
+                "end": 53,
+                "expanded_url": "https://ngl.link/lzs666",
+                "start": 30,
+                "url": "https://t.co/Yyio20uoWE"
+              }
+            ]
+          }
+        },
+        "id": "1887110932360572928",
+        "location": "➕v绿🚪288.520 .",
+        "name": "荔枝水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887111161105002496/YN7-peAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10118,
+          "following_count": 94,
+          "like_count": 8364,
+          "listed_count": 25,
+          "media_count": 469,
+          "tweet_count": 5467
+        },
+        "username": "wngh3377",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2045532570738442748",
+    "created_at": "2026-04-19T04:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T05:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045723362446418378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2578291055",
+          "start": 0,
+          "username": "Binky_BBear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045723362446418378",
+    "in_reply_to_user_id": "2578291055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045532570738442748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Binky_BBear 做的都让我好想吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045532558864384000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMxBkubgAA6gDI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045532558860189696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMxBktbgAAnP2p.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045532558872784896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMxBkwbsAAusho.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045532558906241024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMxBk4aMAAx7Jd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2045532570738442748",
+        "created_at": "2026-04-19T04:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045723362446418378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2578291055",
+              "start": 0,
+              "username": "Binky_BBear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045723362446418378",
+        "in_reply_to_user_id": "2578291055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045532570738442748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Binky_BBear 做的都让我好想吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045532558864384000",
+            "3_2045532558860189696",
+            "3_2045532558872784896",
+            "3_2045532558906241024"
+          ]
+        },
+        "author_id": "2578291055",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045532570738442748",
+        "created_at": "2026-04-18T15:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045532570738442748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/INUOhtMGZ1",
+              "end": 128,
+              "expanded_url": "https://x.com/Binky_BBear/status/2045532570738442748/photo/1",
+              "media_key": "3_2045532558864384000",
+              "start": 105,
+              "url": "https://t.co/INUOhtMGZ1"
+            },
+            {
+              "display_url": "pic.x.com/INUOhtMGZ1",
+              "end": 128,
+              "expanded_url": "https://x.com/Binky_BBear/status/2045532570738442748/photo/1",
+              "media_key": "3_2045532558860189696",
+              "start": 105,
+              "url": "https://t.co/INUOhtMGZ1"
+            },
+            {
+              "display_url": "pic.x.com/INUOhtMGZ1",
+              "end": 128,
+              "expanded_url": "https://x.com/Binky_BBear/status/2045532570738442748/photo/1",
+              "media_key": "3_2045532558872784896",
+              "start": 105,
+              "url": "https://t.co/INUOhtMGZ1"
+            },
+            {
+              "display_url": "pic.x.com/INUOhtMGZ1",
+              "end": 128,
+              "expanded_url": "https://x.com/Binky_BBear/status/2045532570738442748/photo/1",
+              "media_key": "3_2045532558906241024",
+              "start": 105,
+              "url": "https://t.co/INUOhtMGZ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045532570738442748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1695,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天不做肉夹馒头了做馍，嘿嘿我和本科舍友们认识第七年了，成了很好很好的朋友，大家今年因为各种原因又聚在了北京还一起租了房子，一起给我补过了25岁生日，好幸福，我们宿舍没有撕逼没有矛盾，成为长大后最亲密的朋友。 https://t.co/INUOhtMGZ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1992994593131081912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 236,
+          "like_count": 2142,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-02T19:30:55.000Z",
+        "description": "自媒体｜音乐版权｜工作付费咨询\n当太阳升起时 我们都要比昨天更幸福 （插入广告：VPN，用闪连！点击下方网站链接输入邀请码90019001，获得三天免费试用）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lightningxvpn.com/download?invit…",
+                "end": 23,
+                "expanded_url": "https://lightningxvpn.com/download?inviteCode=90019001&lang=zh-CN",
+                "start": 0,
+                "url": "https://t.co/ziNNeUo3J8"
+              }
+            ]
+          }
+        },
+        "id": "2578291055",
+        "location": "BeiJing",
+        "name": "不知豆",
+        "pinned_tweet_id": "2036039334189826090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009663418098409472/uujOZdNT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 132,
+          "like_count": 599,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/ziNNeUo3J8",
+        "username": "Binky_BBear",
+        "verified": false
+      }
+    ]
+  }
+}

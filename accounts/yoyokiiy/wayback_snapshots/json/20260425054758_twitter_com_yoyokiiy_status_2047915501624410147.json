@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047915475703861249",
+        "3_2047915475724914688",
+        "3_2047915475724861440"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047915501624410147",
+    "created_at": "2026-04-25T05:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T06:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047915501624410147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J75jGl2obo",
+          "end": 42,
+          "expanded_url": "https://x.com/yoyokiiy/status/2047915501624410147/photo/1",
+          "media_key": "3_2047915475703861249",
+          "start": 19,
+          "url": "https://t.co/J75jGl2obo"
+        },
+        {
+          "display_url": "pic.x.com/J75jGl2obo",
+          "end": 42,
+          "expanded_url": "https://x.com/yoyokiiy/status/2047915501624410147/photo/1",
+          "media_key": "3_2047915475724914688",
+          "start": 19,
+          "url": "https://t.co/J75jGl2obo"
+        },
+        {
+          "display_url": "pic.x.com/J75jGl2obo",
+          "end": 42,
+          "expanded_url": "https://x.com/yoyokiiy/status/2047915501624410147/photo/1",
+          "media_key": "3_2047915475724861440",
+          "start": 19,
+          "url": "https://t.co/J75jGl2obo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047915501624410147",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "離住处很近的小店遇到了很和善的老板娘 https://t.co/J75jGl2obo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047915475703861249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuoRltakAEkeEk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047915475724914688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuoRlyb0AAHYlh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047915475724861440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuoRlybAAABpDm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047915475703861249",
+            "3_2047915475724914688",
+            "3_2047915475724861440"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047915501624410147",
+        "created_at": "2026-04-25T05:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047915501624410147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J75jGl2obo",
+              "end": 42,
+              "expanded_url": "https://x.com/yoyokiiy/status/2047915501624410147/photo/1",
+              "media_key": "3_2047915475703861249",
+              "start": 19,
+              "url": "https://t.co/J75jGl2obo"
+            },
+            {
+              "display_url": "pic.x.com/J75jGl2obo",
+              "end": 42,
+              "expanded_url": "https://x.com/yoyokiiy/status/2047915501624410147/photo/1",
+              "media_key": "3_2047915475724914688",
+              "start": 19,
+              "url": "https://t.co/J75jGl2obo"
+            },
+            {
+              "display_url": "pic.x.com/J75jGl2obo",
+              "end": 42,
+              "expanded_url": "https://x.com/yoyokiiy/status/2047915501624410147/photo/1",
+              "media_key": "3_2047915475724861440",
+              "start": 19,
+              "url": "https://t.co/J75jGl2obo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047915501624410147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "離住处很近的小店遇到了很和善的老板娘 https://t.co/J75jGl2obo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 249,
+          "like_count": 2261,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 528
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

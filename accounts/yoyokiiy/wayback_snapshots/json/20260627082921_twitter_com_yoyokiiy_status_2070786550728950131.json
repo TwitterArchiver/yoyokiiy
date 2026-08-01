@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070786517732384768"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2070786550728950131",
+    "created_at": "2026-06-27T08:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070786550728950131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x3dusws7en",
+          "end": 99,
+          "expanded_url": "https://x.com/yoyokiiy/status/2070786550728950131/photo/1",
+          "media_key": "3_2070786517732384768",
+          "start": 76,
+          "url": "https://t.co/x3dusws7en"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070786550728950131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我提前声明一下，我和猫共用一个账号，如果这个账号发了不好的言论，那都是猫发的，对不起，我家猫刚学上网请大家见谅，骂人的都是猫，猫四个爪子，比我打字快。 https://t.co/x3dusws7en"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070786517732384768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzpXcsbYAA-K-b.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070786517732384768"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2070786550728950131",
+        "created_at": "2026-06-27T08:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070786550728950131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x3dusws7en",
+              "end": 99,
+              "expanded_url": "https://x.com/yoyokiiy/status/2070786550728950131/photo/1",
+              "media_key": "3_2070786517732384768",
+              "start": 76,
+              "url": "https://t.co/x3dusws7en"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070786550728950131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我提前声明一下，我和猫共用一个账号，如果这个账号发了不好的言论，那都是猫发的，对不起，我家猫刚学上网请大家见谅，骂人的都是猫，猫四个爪子，比我打字快。 https://t.co/x3dusws7en"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜只想长大｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 210,
+          "like_count": 2959,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

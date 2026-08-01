@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2048147736734941425",
+    "created_at": "2026-04-25T21:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T22:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048147736734941425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1721454967419195392",
+          "start": 3,
+          "username": "Cybercaketest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048147736734941425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047871737908625679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cybercaketest: 有好感的性欲和爱里的性欲是两种东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2048147736734941425",
+        "created_at": "2026-04-25T21:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T22:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048147736734941425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1721454967419195392",
+              "start": 3,
+              "username": "Cybercaketest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048147736734941425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047871737908625679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cybercaketest: 有好感的性欲和爱里的性欲是两种东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721454967419195392",
+        "conversation_id": "2047871737908625679",
+        "created_at": "2026-04-25T02:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047871737908625679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047871737908625679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4872,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "有好感的性欲和爱里的性欲是两种东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 204,
+          "like_count": 2295,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 558
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T09:10:41.000Z",
+        "description": "保存不当极易变质",
+        "id": "1721454967419195392",
+        "location": "网络超市",
+        "name": "Cybercake",
+        "pinned_tweet_id": "1836618844221386840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848799175393349633/CNqSB7lY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 26,
+          "like_count": 892,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1218
+        },
+        "username": "Cybercaketest",
+        "verified": false
+      }
+    ]
+  }
+}

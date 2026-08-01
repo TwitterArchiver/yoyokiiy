@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2081079487694061894",
+    "created_at": "2026-07-27T14:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081751947355541906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1490407367078395906",
+          "start": 0,
+          "username": "wdp66281167"
+        },
+        {
+          "end": 26,
+          "id": "1931712345375694848",
+          "start": 13,
+          "username": "mianjiangUvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081751947355541906",
+    "in_reply_to_user_id": "1490407367078395906",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081079487694061894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdp66281167 @mianjiangUvU 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2081079403342360576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF6sPmacAA4ZYx.jpg",
+        "width": 3781
+      },
+      {
+        "height": 4093,
+        "media_key": "3_2081079438813589504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF6uTvacAAli76.jpg",
+        "width": 3665
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2081079487694061894",
+        "created_at": "2026-07-27T14:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081751947355541906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1490407367078395906",
+              "start": 0,
+              "username": "wdp66281167"
+            },
+            {
+              "end": 26,
+              "id": "1931712345375694848",
+              "start": 13,
+              "username": "mianjiangUvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081751947355541906",
+        "in_reply_to_user_id": "1490407367078395906",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081079487694061894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdp66281167 @mianjiangUvU 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081079403342360576",
+            "3_2081079438813589504"
+          ]
+        },
+        "author_id": "1490407367078395906",
+        "conversation_id": "2081079487694061894",
+        "created_at": "2026-07-25T18:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081079487694061894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d0DcQVnf0H",
+              "end": 26,
+              "expanded_url": "https://x.com/wdp66281167/status/2081079487694061894/photo/1",
+              "media_key": "3_2081079403342360576",
+              "start": 3,
+              "url": "https://t.co/d0DcQVnf0H"
+            },
+            {
+              "display_url": "pic.x.com/d0DcQVnf0H",
+              "end": 26,
+              "expanded_url": "https://x.com/wdp66281167/status/2081079487694061894/photo/1",
+              "media_key": "3_2081079438813589504",
+              "start": 3,
+              "url": "https://t.co/d0DcQVnf0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081079487694061894",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2054,
+          "impression_count": 39136,
+          "like_count": 7267,
+          "quote_count": 14,
+          "reply_count": 21,
+          "retweet_count": 687
+        },
+        "reply_settings": "everyone",
+        "text": "🍿🌭 https://t.co/d0DcQVnf0H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "友情出演「筋肉父親與棒球運動員兒子禁斷秘密」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "0.2km",
+        "name": "熟睡的妻子",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079909173740118016/ahEmuHyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 157,
+          "like_count": 3372,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T19:29:52.000Z",
+        "description": "I'm fine 3Q and you\n🇨🇳\nthey/them||24||chainsmoker||alien",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wdp662…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/wdp6628.bsky.social",
+                "start": 0,
+                "url": "https://t.co/CKBSqCP25Y"
+              }
+            ]
+          }
+        },
+        "id": "1490407367078395906",
+        "location": "Mars",
+        "name": "🔥w/dp🔞",
+        "pinned_tweet_id": "1729518094404788461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702253786444759040/hlyIyN2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45999,
+          "following_count": 621,
+          "like_count": 8865,
+          "listed_count": 123,
+          "media_count": 322,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/CKBSqCP25Y",
+        "username": "wdp66281167",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T13:58:25.000Z",
+        "description": "邪恶杂食党，什么都吃一口/什么都产出一点。有梦女属性，坚定的一户一梦拥护者。不拒同价，乙向友情向腐向百合向都吃的津津有味，如果有雷到你请善用拉黑。",
+        "id": "1931712345375694848",
+        "name": "棉酱",
+        "pinned_tweet_id": "2066245555786072574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022943069931556864/qncTdFSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6362,
+          "following_count": 105,
+          "like_count": 964,
+          "listed_count": 7,
+          "media_count": 82,
+          "tweet_count": 356
+        },
+        "url": "",
+        "username": "mianjiangUvU",
+        "verified": false
+      }
+    ]
+  }
+}

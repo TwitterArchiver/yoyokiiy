@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2067432750945374393",
+    "created_at": "2026-06-18T14:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067608324246286399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1621623520466698242",
+          "start": 0,
+          "username": "Baekhyun5673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067608324246286399",
+    "in_reply_to_user_id": "1621623520466698242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067432750945374393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baekhyun5673 卧槽。一样😭✋✋🤝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_2067432739465515008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLD_H3Da0AA8SEf.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2067432750945374393",
+        "created_at": "2026-06-18T14:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067608324246286399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1621623520466698242",
+              "start": 0,
+              "username": "Baekhyun5673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067608324246286399",
+        "in_reply_to_user_id": "1621623520466698242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067432750945374393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baekhyun5673 卧槽。一样😭✋✋🤝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067432739465515008"
+          ]
+        },
+        "author_id": "1621623520466698242",
+        "conversation_id": "2067432750945374393",
+        "created_at": "2026-06-18T02:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067432750945374393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rs8B6OaXcU",
+              "end": 30,
+              "expanded_url": "https://x.com/Baekhyun5673/status/2067432750945374393/photo/1",
+              "media_key": "3_2067432739465515008",
+              "start": 7,
+              "url": "https://t.co/Rs8B6OaXcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067432750945374393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被自己蠢哭了 https://t.co/Rs8B6OaXcU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 215,
+          "like_count": 2809,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T21:36:12.000Z",
+        "description": "",
+        "id": "1621623520466698242",
+        "name": "最终章",
+        "pinned_tweet_id": "2066848489339039829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066848722575937536/VK8bZ7QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 88,
+          "like_count": 562,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "Baekhyun5673",
+        "verified": false
+      }
+    ]
+  }
+}

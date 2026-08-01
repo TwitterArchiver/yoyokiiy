@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2076860579470524841",
+    "created_at": "2026-07-14T05:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076902552843715033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1944994854637068288",
+          "start": 0,
+          "username": "1emje2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076902552843715033",
+    "in_reply_to_user_id": "1944994854637068288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076860579470524841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1emje2 诡秘说给我听听（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2076860579470524841",
+        "created_at": "2026-07-14T05:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076902552843715033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1944994854637068288",
+              "start": 0,
+              "username": "1emje2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076902552843715033",
+        "in_reply_to_user_id": "1944994854637068288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076860579470524841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1emje2 诡秘说给我听听（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944994854637068288",
+        "conversation_id": "2076860579470524841",
+        "created_at": "2026-07-14T02:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076860579470524841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076860579470524841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说粤语的时候感觉自己像大佐。\n说得我自己都想笑。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受｜皮肤飢渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "夢想是浪跡天涯。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 196,
+          "like_count": 3255,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 948
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-15T05:38:27.000Z",
+        "description": "我們不要在這裡，跟我回去十八歲，躲到台大校園杜鵑花叢下，不要被命運找到。",
+        "id": "1944994854637068288",
+        "name": "一滴淚的重量💧",
+        "pinned_tweet_id": "2034620342417907825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073196191345770496/uSMmuJ-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 58,
+          "like_count": 3105,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1462
+        },
+        "url": "",
+        "username": "1emje2",
+        "verified": false
+      }
+    ]
+  }
+}

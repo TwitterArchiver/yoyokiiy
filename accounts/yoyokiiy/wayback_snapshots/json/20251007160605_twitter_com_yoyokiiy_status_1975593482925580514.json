@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1975559868791857646",
+    "created_at": "2025-10-07T16:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T17:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975593482925580514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1935372590060843008",
+          "start": 0,
+          "username": "luobotoujunior"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975593482925580514",
+    "in_reply_to_user_id": "1935372590060843008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975559868791857646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobotoujunior 我就是因为这条关注你的🫰🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1975559868791857646",
+        "created_at": "2025-10-07T16:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975593482925580514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1935372590060843008",
+              "start": 0,
+              "username": "luobotoujunior"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975593482925580514",
+        "in_reply_to_user_id": "1935372590060843008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975559868791857646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobotoujunior 我就是因为这条关注你的🫰🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935372590060843008",
+        "conversation_id": "1975559868791857646",
+        "created_at": "2025-10-07T13:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T14:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975559868791857646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luobotoujunior…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/luobotoujunior/status/1975555215245135950",
+              "start": 15,
+              "url": "https://t.co/9m1Ck5s0Ja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975559868791857646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 955,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975555215245135950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真求你们了，能不能别赞这条 https://t.co/9m1Ck5s0Ja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 167,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 112
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T16:22:54.000Z",
+        "description": "萝卜头被砍成萝卜片了。爸爸主人老公爹@luobotou0808 ，自用蜂鸟VPN：https://t.co/AW9ZRmIABQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "luobotou0808"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 64,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=MjvYc25r",
+                "start": 41,
+                "url": "https://t.co/AW9ZRmIABQ"
+              }
+            ]
+          }
+        },
+        "id": "1935372590060843008",
+        "location": "🇸🇬",
+        "name": "老奶萝卜片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966026053954256897/2Q74jPaC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3142,
+          "following_count": 162,
+          "like_count": 636,
+          "listed_count": 8,
+          "media_count": 75,
+          "tweet_count": 337
+        },
+        "username": "luobotoujunior",
+        "verified": false
+      }
+    ]
+  }
+}

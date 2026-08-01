@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082118526052225025"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2082118537406230689",
+    "created_at": "2026-07-28T14:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082118537406230689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c7vCk1ai5x",
+          "end": 31,
+          "expanded_url": "https://x.com/yoyokiiy/status/2082118537406230689/photo/1",
+          "media_key": "3_2082118526052225025",
+          "start": 8,
+          "url": "https://t.co/c7vCk1ai5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082118537406230689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推特未开智用户 https://t.co/c7vCk1ai5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1284,
+        "media_key": "3_2082118526052225025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUrxJWaUAECFfb.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082118526052225025"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2082118537406230689",
+        "created_at": "2026-07-28T14:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082118537406230689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7vCk1ai5x",
+              "end": 31,
+              "expanded_url": "https://x.com/yoyokiiy/status/2082118537406230689/photo/1",
+              "media_key": "3_2082118526052225025",
+              "start": 8,
+              "url": "https://t.co/c7vCk1ai5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082118537406230689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特未开智用户 https://t.co/c7vCk1ai5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "友情出演「筋肉父親與棒球運動員兒子禁斷秘密」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "0.2km",
+        "name": "熟睡的妻子",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079909173740118016/ahEmuHyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 160,
+          "like_count": 3388,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

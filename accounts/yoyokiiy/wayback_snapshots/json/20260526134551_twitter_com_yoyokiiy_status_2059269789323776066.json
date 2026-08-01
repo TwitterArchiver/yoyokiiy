@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2059220258590969939",
+    "created_at": "2026-05-26T13:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059269789323776066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944994854637068288",
+          "start": 0,
+          "username": "hellomilkkyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059269789323776066",
+    "in_reply_to_user_id": "1944994854637068288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059220258590969939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hellomilkkyy 小牛奶第三条是系统发的啦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2059220251531935744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPR6JbaAAAkAnP.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1087,
+        "media_key": "3_2059220251573878784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPR6JlaAAAE_4K.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1046,
+        "media_key": "3_2059220251578097665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPR6JmaYAE7uJ1.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2059220258590969939",
+        "created_at": "2026-05-26T13:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059269789323776066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944994854637068288",
+              "start": 0,
+              "username": "hellomilkkyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059269789323776066",
+        "in_reply_to_user_id": "1944994854637068288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059220258590969939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hellomilkkyy 小牛奶第三条是系统发的啦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059220251531935744",
+            "3_2059220251573878784",
+            "3_2059220251578097665"
+          ]
+        },
+        "author_id": "1944994854637068288",
+        "conversation_id": "2059220258590969939",
+        "created_at": "2026-05-26T10:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059220258590969939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MjGoxb2Q4w",
+              "end": 137,
+              "expanded_url": "https://x.com/hellomilkkyy/status/2059220258590969939/photo/1",
+              "media_key": "3_2059220251531935744",
+              "start": 114,
+              "url": "https://t.co/MjGoxb2Q4w"
+            },
+            {
+              "display_url": "pic.x.com/MjGoxb2Q4w",
+              "end": 137,
+              "expanded_url": "https://x.com/hellomilkkyy/status/2059220258590969939/photo/1",
+              "media_key": "3_2059220251573878784",
+              "start": 114,
+              "url": "https://t.co/MjGoxb2Q4w"
+            },
+            {
+              "display_url": "pic.x.com/MjGoxb2Q4w",
+              "end": 137,
+              "expanded_url": "https://x.com/hellomilkkyy/status/2059220258590969939/photo/1",
+              "media_key": "3_2059220251578097665",
+              "start": 114,
+              "url": "https://t.co/MjGoxb2Q4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059220258590969939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.目前不谈恋爱，很难喜欢上别人，很不会处理亲密关系，没机会\n2.谢谢！其实也是努力装作自信，装着装着就真的能自信了\n3.看来是故人……时光一去不复返，我也偶尔会怀念和熟悉的推友畅聊的日子，也许就是因为只是网友所以断联也更容易 https://t.co/MjGoxb2Q4w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 215,
+          "like_count": 2549,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:38:27.000Z",
+        "description": "自嗨来的想发什么别管我^ω^\n提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miukkkeii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miukkkeii",
+                "start": 0,
+                "url": "https://t.co/fAOiSkT7bu"
+              }
+            ]
+          }
+        },
+        "id": "1944994854637068288",
+        "name": "hellomilk🍢",
+        "pinned_tweet_id": "2034620342417907825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053972278514417664/EvMVouya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 59,
+          "like_count": 2050,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/fAOiSkT7bu",
+        "username": "hellomilkkyy",
+        "verified": true
+      }
+    ]
+  }
+}

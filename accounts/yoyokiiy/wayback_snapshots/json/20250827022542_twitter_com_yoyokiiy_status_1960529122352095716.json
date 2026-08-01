@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1960387818263343484",
+    "created_at": "2025-08-27T02:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T03:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960529122352095716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1424145433966776323",
+          "start": 0,
+          "username": "glmslmgun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960529122352095716",
+    "in_reply_to_user_id": "1424145433966776323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960387818263343484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@glmslmgun 哈哈哈哈哈哈哈好国际化"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_1960387803902304260",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSyUjGa4AQDila.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1960387818263343484",
+        "created_at": "2025-08-27T02:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T03:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960529122352095716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1424145433966776323",
+              "start": 0,
+              "username": "glmslmgun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960529122352095716",
+        "in_reply_to_user_id": "1424145433966776323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960387818263343484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@glmslmgun 哈哈哈哈哈哈哈好国际化"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960387803902304260"
+          ]
+        },
+        "author_id": "1424145433966776323",
+        "conversation_id": "1960387818263343484",
+        "created_at": "2025-08-26T17:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960387818263343484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eA5MEitNCN",
+              "end": 134,
+              "expanded_url": "https://x.com/glmslmgun/status/1960387818263343484/photo/1",
+              "media_key": "3_1960387803902304260",
+              "start": 111,
+              "url": "https://t.co/eA5MEitNCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960387818263343484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5065,
+          "like_count": 244,
+          "quote_count": 0,
+          "reply_count": 145,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "您好！\n请问您是否愿意于2025年8月28日，一起庆祝初初小朋友一周岁的生日，我们将度过美好又难忘的夜晚，包括但不限于美貌、拥抱贴贴和drink，希望我们秉承着对彼此满满的爱意，增进感情！\n同意请回复初初0828生日快乐 https://t.co/eA5MEitNCN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 135,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 60
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-07T23:08:41.000Z",
+        "description": "glm slm都滚",
+        "id": "1424145433966776323",
+        "name": "脆冰冰（出家军 即将被zcp开户版）",
+        "pinned_tweet_id": "1953728238175559983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958453160135266304/7wGCHdK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17175,
+          "following_count": 145,
+          "like_count": 204,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 2585
+        },
+        "username": "glmslmgun",
+        "verified": false
+      }
+    ]
+  }
+}

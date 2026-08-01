@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1992170391079698827",
+    "created_at": "2025-11-22T16:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992275273753215085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1604154566206926848",
+          "start": 0,
+          "username": "OoRe02086112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992275273753215085",
+    "in_reply_to_user_id": "1604154566206926848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992170391079698827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoRe02086112 我天呢我也是，，看到一些东西就想跟后男友复合做起。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1992170391079698827",
+        "created_at": "2025-11-22T16:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992275273753215085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1604154566206926848",
+              "start": 0,
+              "username": "OoRe02086112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992275273753215085",
+        "in_reply_to_user_id": "1604154566206926848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992170391079698827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoRe02086112 我天呢我也是，，看到一些东西就想跟后男友复合做起。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604154566206926848",
+        "conversation_id": "1992170391079698827",
+        "created_at": "2025-11-22T09:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992170391079698827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992170391079698827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 72434,
+          "like_count": 444,
+          "quote_count": 12,
+          "reply_count": 48,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "不敢想我要是谈恋爱了会有多淫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974865196893315195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 186,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 200
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T16:40:47.000Z",
+        "description": "叫我小o就好了☺️｜随便写写✍️｜偶尔写点抽象奖励自己｜录制前请先授权！发布请@ ｜接定制｜看置顶🔝",
+        "id": "1604154566206926848",
+        "name": "OO",
+        "pinned_tweet_id": "1917263464080498744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750602471830097921/4Mtu7c9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77734,
+          "following_count": 268,
+          "like_count": 5480,
+          "listed_count": 113,
+          "media_count": 274,
+          "tweet_count": 2058
+        },
+        "username": "OoRe02086112",
+        "verified": false
+      }
+    ]
+  }
+}

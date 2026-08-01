@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2010698327348936947",
+    "created_at": "2026-01-12T17:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T18:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010762106568917484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1040062430171344897",
+          "start": 0,
+          "username": "lizisu2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010762106568917484",
+    "in_reply_to_user_id": "1040062430171344897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010698327348936947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizisu2000 我也。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2010698327348936947",
+        "created_at": "2026-01-12T17:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T18:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010762106568917484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1040062430171344897",
+              "start": 0,
+              "username": "lizisu2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010762106568917484",
+        "in_reply_to_user_id": "1040062430171344897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010698327348936947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizisu2000 我也。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1040062430171344897",
+        "conversation_id": "2010698327348936947",
+        "created_at": "2026-01-12T13:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T14:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010698327348936947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010698327348936947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14793,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刷那么多推文好像只有我没有性生活…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1992994593131081912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 192,
+          "like_count": 1509,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 238
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-13T02:19:41.000Z",
+        "description": "讨好型人格",
+        "id": "1040062430171344897",
+        "location": "🚪66",
+        "name": "栗子酥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885784306506924032/b6XBEVGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159855,
+          "following_count": 26,
+          "like_count": 1198,
+          "listed_count": 225,
+          "media_count": 384,
+          "tweet_count": 738
+        },
+        "username": "lizisu2000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2066073247314215115",
+    "created_at": "2026-06-14T08:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066073247314215115"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066073247314215115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我梦到你了。梦中的我像一只摇尾乞怜的猫，却不小心挠伤你了，你不愿搭理我了。\n\n我想我们之间是欲望和互相不用负责的轻松感。没名没分的舒坦感。这种感觉来多了，也就麻木了，食之无味弃之可惜。我害怕你有天感觉反胃，再寂寞的时候都不会来找我这盘无味的菜了。而你呢，你恐怕都不会想这么多吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2066073247314215115",
+        "created_at": "2026-06-14T08:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066073247314215115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066073247314215115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我梦到你了。梦中的我像一只摇尾乞怜的猫，却不小心挠伤你了，你不愿搭理我了。\n\n我想我们之间是欲望和互相不用负责的轻松感。没名没分的舒坦感。这种感觉来多了，也就麻木了，食之无味弃之可惜。我害怕你有天感觉反胃，再寂寞的时候都不会来找我这盘无味的菜了。而你呢，你恐怕都不会想这么多吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很隨意。一天可能发很多。慎关",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 215,
+          "like_count": 2753,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

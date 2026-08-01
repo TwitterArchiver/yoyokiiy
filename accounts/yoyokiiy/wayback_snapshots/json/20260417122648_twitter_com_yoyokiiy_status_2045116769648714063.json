@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2044976511279607907",
+    "created_at": "2026-04-17T12:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045116769648714063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2042252028941086720",
+          "start": 0,
+          "username": "Lqlrit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045116769648714063",
+    "in_reply_to_user_id": "2042252028941086720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044984915188699550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lqlrit 哎哟谢谢！我和你都荣幸hh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044984904661053440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGE-751bsAAEjg7.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2044976511279607907",
+        "created_at": "2026-04-17T12:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045116769648714063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2042252028941086720",
+              "start": 0,
+              "username": "Lqlrit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045116769648714063",
+        "in_reply_to_user_id": "2042252028941086720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044984915188699550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lqlrit 哎哟谢谢！我和你都荣幸hh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044984904661053440"
+          ]
+        },
+        "author_id": "2042252028941086720",
+        "conversation_id": "2044976511279607907",
+        "created_at": "2026-04-17T03:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T04:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044984915188699550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xCUxxsSuWv",
+              "end": 39,
+              "expanded_url": "https://x.com/Lqlrit/status/2044984915188699550/photo/1",
+              "media_key": "3_2044984904661053440",
+              "start": 16,
+              "url": "https://t.co/xCUxxsSuWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044984915188699550",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044976511279607907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 现在是我了 https://t.co/xCUxxsSuWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 231,
+          "like_count": 2094,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T14:45:38.000Z",
+        "description": "",
+        "id": "2042252028941086720",
+        "location": "广东东莞",
+        "name": "林七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044965331324817408/DDgVHsgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 420,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "Lqlrit",
+        "verified": false
+      }
+    ]
+  }
+}

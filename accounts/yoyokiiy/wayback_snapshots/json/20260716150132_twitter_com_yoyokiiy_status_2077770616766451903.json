@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077770607018835968",
+        "3_2077770606926553088"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2077770616766451903",
+    "created_at": "2026-07-16T15:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077770616766451903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KUk1b7qfkW",
+          "end": 30,
+          "expanded_url": "https://x.com/yoyokiiy/status/2077770616766451903/photo/1",
+          "media_key": "3_2077770607018835968",
+          "start": 7,
+          "url": "https://t.co/KUk1b7qfkW"
+        },
+        {
+          "display_url": "pic.x.com/KUk1b7qfkW",
+          "end": 30,
+          "expanded_url": "https://x.com/yoyokiiy/status/2077770616766451903/photo/1",
+          "media_key": "3_2077770606926553088",
+          "start": 7,
+          "url": "https://t.co/KUk1b7qfkW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077770616766451903",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "輸出文化中。 https://t.co/KUk1b7qfkW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077770607018835968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNW5W8wbAAArWv8.jpg",
+        "width": 946
+      },
+      {
+        "height": 1774,
+        "media_key": "3_2077770606926553088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNW5W8aa4AAXa8A.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077770607018835968",
+            "3_2077770606926553088"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2077770616766451903",
+        "created_at": "2026-07-16T15:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077770616766451903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KUk1b7qfkW",
+              "end": 30,
+              "expanded_url": "https://x.com/yoyokiiy/status/2077770616766451903/photo/1",
+              "media_key": "3_2077770607018835968",
+              "start": 7,
+              "url": "https://t.co/KUk1b7qfkW"
+            },
+            {
+              "display_url": "pic.x.com/KUk1b7qfkW",
+              "end": 30,
+              "expanded_url": "https://x.com/yoyokiiy/status/2077770616766451903/photo/1",
+              "media_key": "3_2077770606926553088",
+              "start": 7,
+              "url": "https://t.co/KUk1b7qfkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077770616766451903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "輸出文化中。 https://t.co/KUk1b7qfkW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CV",
+              "full_name": "Cape Verde",
+              "geo": {
+                "coordinates": [
+                  -24.0,
+                  16.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "06｜sub｜永远不要停止感受｜皮肤飢渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "天涯海角。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 160,
+          "like_count": 3313,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 974
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      }
+    ]
+  }
+}

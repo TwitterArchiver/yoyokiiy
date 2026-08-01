@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060696838978593112",
+    "created_at": "2026-05-30T19:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060808882880967033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "821294263828762626",
+          "start": 0,
+          "username": "youguwutong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060808882880967033",
+    "in_reply_to_user_id": "821294263828762626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060804120517484896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youguwutong 我高中英语高考144….没有说不想好好学的意思…就是要再花时间学啊很难理解吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060696838978593112",
+        "created_at": "2026-05-30T19:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060808882880967033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "821294263828762626",
+              "start": 0,
+              "username": "youguwutong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060808882880967033",
+        "in_reply_to_user_id": "821294263828762626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060804120517484896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youguwutong 我高中英语高考144….没有说不想好好学的意思…就是要再花时间学啊很难理解吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "821294263828762626",
+        "conversation_id": "2060696838978593112",
+        "created_at": "2026-05-30T19:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060804120517484896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060804120517484896",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060696838978593112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 高中英语课好好学也一样的……印度朋友告诉我他们甚至初中才开始学英语，中国小学就开始了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "幸福就在我手心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 213,
+          "like_count": 2569,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 721
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-17T09:53:06.000Z",
+        "description": "Civil Engineer/Writer/CV/Coser\n山梨県に住んでいます/with English Teaching Certificate/JLPT N2\n母语：中文，吴语/学习中： English,日本語,русский язык 正乙江南清微道士",
+        "id": "821294263828762626",
+        "location": "Kofu-shi, Yamanashi",
+        "name": "竹雨糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1191726408340426753/G4eQUv7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 502,
+          "like_count": 1721,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1024
+        },
+        "username": "youguwutong",
+        "verified": true
+      }
+    ]
+  }
+}

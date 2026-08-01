@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061403312272871424"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2061403323354243311",
+    "created_at": "2026-06-01T11:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061403323354243311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nYGQ87ezxy",
+          "end": 28,
+          "expanded_url": "https://x.com/yoyokiiy/status/2061403323354243311/photo/1",
+          "media_key": "3_2061403312272871424",
+          "start": 5,
+          "url": "https://t.co/nYGQ87ezxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061403323354243311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现况： https://t.co/nYGQ87ezxy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2061403312272871424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuTZAbWkAA-D5O.jpg",
+        "width": 748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061403312272871424"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2061403323354243311",
+        "created_at": "2026-06-01T11:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061403323354243311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYGQ87ezxy",
+              "end": 28,
+              "expanded_url": "https://x.com/yoyokiiy/status/2061403323354243311/photo/1",
+              "media_key": "3_2061403312272871424",
+              "start": 5,
+              "url": "https://t.co/nYGQ87ezxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061403323354243311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现况： https://t.co/nYGQ87ezxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 215,
+          "like_count": 2602,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

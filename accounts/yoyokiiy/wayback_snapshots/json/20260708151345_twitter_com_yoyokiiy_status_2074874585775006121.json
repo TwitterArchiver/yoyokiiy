@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2074817046869856648",
+    "created_at": "2026-07-08T15:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074874585775006121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2034586230881722368",
+          "start": 0,
+          "username": "hgds03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074874585775006121",
+    "in_reply_to_user_id": "2034586230881722368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074817046869856648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds03 如果是还是在暧昧期…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2074817046869856648",
+        "created_at": "2026-07-08T15:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074874585775006121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2034586230881722368",
+              "start": 0,
+              "username": "hgds03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074874585775006121",
+        "in_reply_to_user_id": "2034586230881722368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074817046869856648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds03 如果是还是在暧昧期…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034586230881722368",
+        "conversation_id": "2074817046869856648",
+        "created_at": "2026-07-08T11:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074817046869856648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074817046869856648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 11977,
+          "like_count": 254,
+          "quote_count": 6,
+          "reply_count": 45,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "啊......比亲吻更亲密更暧昧的是亲吻之前问询“我可以亲你吗”这一句啊......好暧昧....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 191,
+          "like_count": 3153,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 924
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2074193099224760826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5744,
+          "following_count": 626,
+          "like_count": 6808,
+          "listed_count": 6,
+          "media_count": 107,
+          "tweet_count": 964
+        },
+        "url": "",
+        "username": "hgds03",
+        "verified": true
+      }
+    ]
+  }
+}

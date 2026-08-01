@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2075196687874994487",
+    "created_at": "2026-07-10T06:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075474142397419844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766595057463996416",
+          "start": 0,
+          "username": "Aaa_NekozakiYuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075474142397419844",
+    "in_reply_to_user_id": "1766595057463996416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075384457046196433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aaa_NekozakiYuk 谢谢这个萌萌吸酱！😚😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2075196687874994487",
+        "created_at": "2026-07-10T06:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075474142397419844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766595057463996416",
+              "start": 0,
+              "username": "Aaa_NekozakiYuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075474142397419844",
+        "in_reply_to_user_id": "1766595057463996416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075384457046196433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aaa_NekozakiYuk 谢谢这个萌萌吸酱！😚😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766595057463996416",
+        "conversation_id": "2075196687874994487",
+        "created_at": "2026-07-10T00:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T01:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075384457046196433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075384457046196433",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075196687874994487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 好萌呀🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 191,
+          "like_count": 3168,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 930
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-09T22:41:23.000Z",
+        "description": "小号什么都发   sw/brat\n很喜欢聊天欢迎私信QwQ\nhttps://t.co/LQEoawbAmL这个是我的提问箱^^看到都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sharkteeth23242",
+                "end": 53,
+                "expanded_url": "https://ngl.link/sharkteeth23242",
+                "start": 30,
+                "url": "https://t.co/LQEoawbAmL"
+              }
+            ]
+          }
+        },
+        "id": "1766595057463996416",
+        "name": "吸酱QwQ",
+        "pinned_tweet_id": "2073200306029273223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021580219321352192/fG-i_wl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 201,
+          "like_count": 2205,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "Aaa_NekozakiYuk",
+        "verified": false
+      }
+    ]
+  }
+}

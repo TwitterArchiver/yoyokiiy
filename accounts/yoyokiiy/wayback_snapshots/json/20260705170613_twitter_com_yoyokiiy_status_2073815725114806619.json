@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2073770006006132770",
+    "created_at": "2026-07-05T17:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073815725114806619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1944994854637068288",
+          "start": 0,
+          "username": "1emje2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073815725114806619",
+    "in_reply_to_user_id": "1944994854637068288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073770006006132770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1emje2 没有承诺觉得轻浮 有了承诺也是轻浮  哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2073770006006132770",
+        "created_at": "2026-07-05T17:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073815725114806619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1944994854637068288",
+              "start": 0,
+              "username": "1emje2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073815725114806619",
+        "in_reply_to_user_id": "1944994854637068288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073770006006132770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1emje2 没有承诺觉得轻浮 有了承诺也是轻浮  哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944994854637068288",
+        "conversation_id": "2073770006006132770",
+        "created_at": "2026-07-05T14:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073770006006132770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073770006006132770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是一个矛盾的人，我讨厌别人承诺永远，但我又想听到答应我永远，这样会给我一种略微安心的感觉。\n不承诺会让我觉得在做好某一天走开的准备，承诺虽然让我怀疑，但我觉得也许在说出口的那一瞬间是想过永远陪着我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 200,
+          "like_count": 3075,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 894
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:38:27.000Z",
+        "description": "保持安全距離",
+        "id": "1944994854637068288",
+        "name": "一滴淚的重量💧",
+        "pinned_tweet_id": "2034620342417907825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073196191345770496/uSMmuJ-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 54,
+          "like_count": 2962,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1386
+        },
+        "url": "",
+        "username": "1emje2",
+        "verified": false
+      }
+    ]
+  }
+}

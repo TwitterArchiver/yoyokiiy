@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1974336043760693270",
+    "created_at": "2025-10-05T15:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T16:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974861153135472881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833770186715127808",
+          "start": 0,
+          "username": "Sfqt9UC2bH10496"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974861153135472881",
+    "in_reply_to_user_id": "1833770186715127808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974357604513325225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sfqt9UC2bH10496 就是我回老家走亲戚去的意思hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1974336043760693270",
+        "created_at": "2025-10-05T15:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974861153135472881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1833770186715127808",
+              "start": 0,
+              "username": "Sfqt9UC2bH10496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974861153135472881",
+        "in_reply_to_user_id": "1833770186715127808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974357604513325225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sfqt9UC2bH10496 就是我回老家走亲戚去的意思hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833770186715127808",
+        "conversation_id": "1974336043760693270",
+        "created_at": "2025-10-04T06:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T07:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974357604513325225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974357604513325225",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974336043760693270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 有点没读懂，在家走亲戚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 154,
+          "like_count": 1024,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 99
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T07:31:12.000Z",
+        "description": "男研在读",
+        "id": "1833770186715127808",
+        "location": "Hong Kong",
+        "name": "需不需曜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928754110620381187/lzoNAWpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "Sfqt9UC2bH10496",
+        "verified": false
+      }
+    ]
+  }
+}

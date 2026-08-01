@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2074960062519693683",
+    "created_at": "2026-07-08T21:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T22:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074968503212495128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1728602295565418496",
+          "start": 0,
+          "username": "logcabinlog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074968503212495128",
+    "in_reply_to_user_id": "1728602295565418496",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074967794475827455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@logcabinlog 🇹🇭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2074960062519693683",
+        "created_at": "2026-07-08T21:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074968503212495128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1728602295565418496",
+              "start": 0,
+              "username": "logcabinlog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074968503212495128",
+        "in_reply_to_user_id": "1728602295565418496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074967794475827455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@logcabinlog 🇹🇭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728602295565418496",
+        "conversation_id": "2074960062519693683",
+        "created_at": "2026-07-08T21:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074967794475827455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074967794475827455",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074960062519693683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 到日本了嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 191,
+          "like_count": 3162,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 926
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-26T02:31:25.000Z",
+        "description": "天蝎｜人类｜想哭\n#摄影 #露营 #胶片",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 9,
+                "tag": "摄影"
+              },
+              {
+                "end": 16,
+                "start": 13,
+                "tag": "露营"
+              },
+              {
+                "end": 20,
+                "start": 17,
+                "tag": "胶片"
+              }
+            ]
+          }
+        },
+        "id": "1728602295565418496",
+        "location": "长沙",
+        "name": "Blues",
+        "pinned_tweet_id": "2050158624769552776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034951181181886465/lOfUgy27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11840,
+          "following_count": 275,
+          "like_count": 3514,
+          "listed_count": 33,
+          "media_count": 341,
+          "tweet_count": 2540
+        },
+        "url": "",
+        "username": "logcabinlog",
+        "verified": false
+      }
+    ]
+  }
+}

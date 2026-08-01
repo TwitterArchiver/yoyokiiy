@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1960512223065051506",
+    "created_at": "2025-08-27T18:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T19:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960772543729820067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1788278289024557058",
+          "start": 0,
+          "username": "aaaaaa635903"
+        },
+        {
+          "end": 29,
+          "id": "1803642368949886976",
+          "start": 14,
+          "username": "xiaoguai041003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960772543729820067",
+    "in_reply_to_user_id": "1788278289024557058",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960609085507953031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaaaa635903 @xiaoguai041003 我笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1960512223065051506",
+        "created_at": "2025-08-27T18:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T19:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960772543729820067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1788278289024557058",
+              "start": 0,
+              "username": "aaaaaa635903"
+            },
+            {
+              "end": 29,
+              "id": "1803642368949886976",
+              "start": 14,
+              "username": "xiaoguai041003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960772543729820067",
+        "in_reply_to_user_id": "1788278289024557058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960609085507953031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaaaa635903 @xiaoguai041003 我笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788278289024557058",
+        "conversation_id": "1960512223065051506",
+        "created_at": "2025-08-27T07:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T08:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960609085507953031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803642368949886976",
+              "start": 0,
+              "username": "xiaoguai041003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960609085507953031",
+        "in_reply_to_user_id": "1803642368949886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2710,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960512223065051506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoguai041003 这两天我莫名其妙在看她俩的CP文....他俩CP名叫虞香肉思我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 136,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 66
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T18:42:34.000Z",
+        "description": "漫宅/双性恋/碎碎念/精神病/绿.",
+        "id": "1788278289024557058",
+        "location": "死亡",
+        "name": "儿媳爱上婆婆.",
+        "pinned_tweet_id": "1929215415630356496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960603652328185857/M3XBjWAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 100,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 222
+        },
+        "username": "aaaaaa635903",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:14:02.000Z",
+        "description": "毛儿的日记本|属性brat  星座天秤 |🚪52/188（没有区别就是想圈钱）纯绿 |日常and碎碎念|不线下不约 |推广自辨不是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=vnxE36SC",
+                "start": 0,
+                "url": "https://t.co/NtKvOP3zLM"
+              }
+            ]
+          }
+        },
+        "id": "1803642368949886976",
+        "location": " Tokyo 无广告干扰，机场节点随便挑，蜂鸟VPN",
+        "name": "小毛米",
+        "pinned_tweet_id": "1943236739839246835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941726080655593472/ydrsm3AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11616,
+          "following_count": 278,
+          "like_count": 40189,
+          "listed_count": 17,
+          "media_count": 388,
+          "tweet_count": 8960
+        },
+        "url": "https://t.co/NtKvOP3zLM",
+        "username": "xiaoguai041003",
+        "verified": false
+      }
+    ]
+  }
+}

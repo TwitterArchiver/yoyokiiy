@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2072264392222163435",
+    "created_at": "2026-07-01T12:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072293795173974399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2071195188211621888",
+          "start": 0,
+          "username": "panv427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072293795173974399",
+    "in_reply_to_user_id": "2071195188211621888",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072284638014509454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@panv427 💋💋💋🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2072264392222163435",
+        "created_at": "2026-07-01T12:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072293795173974399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2071195188211621888",
+              "start": 0,
+              "username": "panv427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072293795173974399",
+        "in_reply_to_user_id": "2071195188211621888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072284638014509454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@panv427 💋💋💋🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071195188211621888",
+        "conversation_id": "2072264392222163435",
+        "created_at": "2026-07-01T11:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072284638014509454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072284638014509454",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072264392222163435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 真的很美吧！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜苦笑面对世界中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 213,
+          "like_count": 3013,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 855
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-28T11:34:21.000Z",
+        "description": "无聊啊啊啊啊啊啊啊啊啊",
+        "id": "2071195188211621888",
+        "location": "窝里",
+        "name": "pan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071591428946636800/eMWY8dIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 227,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "panv427",
+        "verified": false
+      }
+    ]
+  }
+}

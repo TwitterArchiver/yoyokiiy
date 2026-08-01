@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2032835885713268821",
+    "created_at": "2026-03-15T12:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T13:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033166115891986825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1930163125258702848",
+          "start": 0,
+          "username": "A_Alkali0325"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033166115891986825",
+    "in_reply_to_user_id": "1930163125258702848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032835885713268821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A_Alkali0325 严肃参加。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2032835885713268821",
+        "created_at": "2026-03-15T12:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033166115891986825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1930163125258702848",
+              "start": 0,
+              "username": "A_Alkali0325"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033166115891986825",
+        "in_reply_to_user_id": "1930163125258702848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032835885713268821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_Alkali0325 严肃参加。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930163125258702848",
+        "conversation_id": "2032835885713268821",
+        "created_at": "2026-03-14T15:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032835885713268821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032835885713268821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 858,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想给大家抽点东西，但不知道该抽什么。\n叠纸心意下次上新时200以内的夏以昼周边如何。\n定到200是因为满赠是188，但刚好188的话又有点比较难凑，所以弹性一下\n参与抽奖的条件是什么我又没想好，我本人是双推，所以也不会限制只有单推才能参加，但是好感度呢，这个又让我觉得比较难以把控"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症 重度恋哥癖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 204,
+          "like_count": 1886,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T07:23:05.000Z",
+        "description": "记得每天真心夸赞“世界上最好的夏以昼”三次，然后向他换取一个爱的拥抱。",
+        "id": "1930163125258702848",
+        "location": "夏以昼怀里",
+        "name": "A_Alkali（画饼大王养胃中🍪）",
+        "pinned_tweet_id": "2033113847964557802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965464213075423232/SPrUCWd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 100,
+          "like_count": 5389,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 1000
+        },
+        "username": "A_Alkali0325",
+        "verified": false
+      }
+    ]
+  }
+}

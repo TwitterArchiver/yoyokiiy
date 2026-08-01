@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2032403763194143194",
+    "created_at": "2026-03-14T10:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032772168506044599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1585285886752673793",
+          "start": 0,
+          "username": "eatgege1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032772168506044599",
+    "in_reply_to_user_id": "1585285886752673793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032403763194143194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eatgege1111 燥候🔥🔥夏以昼想不想要妹妹的大粉钻抽你🫦🫦🫦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1051,
+        "media_key": "3_2032403753379438592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSMchBaIAA2wTH.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2032403763194143194",
+        "created_at": "2026-03-14T10:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032772168506044599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1585285886752673793",
+              "start": 0,
+              "username": "eatgege1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032772168506044599",
+        "in_reply_to_user_id": "1585285886752673793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032403763194143194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eatgege1111 燥候🔥🔥夏以昼想不想要妹妹的大粉钻抽你🫦🫦🫦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032403753379438592"
+          ]
+        },
+        "author_id": "1585285886752673793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WEGO",
+              "id": "1035223802358054912",
+              "name": "WEGO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          }
+        ],
+        "conversation_id": "2032403763194143194",
+        "created_at": "2026-03-13T10:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032403763194143194"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "夏以昼"
+            },
+            {
+              "end": 124,
+              "start": 118,
+              "tag": "Caleb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PemZsrbV0e",
+              "end": 148,
+              "expanded_url": "https://x.com/eatgege1111/status/2032403763194143194/photo/1",
+              "media_key": "3_2032403753379438592",
+              "start": 125,
+              "url": "https://t.co/PemZsrbV0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032403763194143194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7568,
+          "like_count": 163,
+          "quote_count": 4,
+          "reply_count": 166,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "夏以昼新日抽奖\n\n橙色wego丝带痛✖️1（包邮，特殊邮寄需要提供给我邮寄方式）\n\n满足以下所有条件\n1.解锁新日卡搭档身份\n2.哥推（非丐帮）\n\n方式：\n评论区评论，我点赞或评论为收到\n\n截止时间：\n哥新日池子结束截止\n#夏以昼   #Caleb https://t.co/PemZsrbV0e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 204,
+          "like_count": 1882,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T15:03:42.000Z",
+        "description": "爱哥哥、有很多好玩的存档、已和疯子相看两厌 、喜欢和正常人交流、154好感度以下的丐帮别来对话截图我（此条仅针对丐帮，以丐治丐）",
+        "id": "1585285886752673793",
+        "name": "什么时候吃哥哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021058754557689856/FImZBe0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 124,
+          "like_count": 4682,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 2156
+        },
+        "username": "eatgege1111",
+        "verified": false
+      }
+    ]
+  }
+}

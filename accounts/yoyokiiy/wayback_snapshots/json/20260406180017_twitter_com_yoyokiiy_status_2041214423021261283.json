@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2041214423021261283",
+    "created_at": "2026-04-06T18:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T19:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041214423021261283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aichijiandanxy…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/aichijiandanxyz/status/2040872024235782545",
+          "start": 16,
+          "url": "https://t.co/iFzilU2S5g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041214423021261283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040872024235782545",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "与性相关的内容只是生活的一部分 https://t.co/iFzilU2S5g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2041214423021261283",
+        "created_at": "2026-04-06T18:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T19:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041214423021261283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aichijiandanxy…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/aichijiandanxyz/status/2040872024235782545",
+              "start": 16,
+              "url": "https://t.co/iFzilU2S5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041214423021261283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040872024235782545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "与性相关的内容只是生活的一部分 https://t.co/iFzilU2S5g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421851995355369477",
+        "conversation_id": "2040872024235782545",
+        "created_at": "2026-04-05T19:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T20:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040872024235782545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040872024235782545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 128955,
+          "like_count": 1145,
+          "quote_count": 7,
+          "reply_count": 31,
+          "retweet_count": 46
+        },
+        "reply_settings": "following",
+        "text": "众所不周知，推特（X）只是一个限制较少、开放度较高、内容边界更宽的综合性社交平台，不是每个人上来都是搞色情内容的好吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 229,
+          "like_count": 2057,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 411
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "思维补丁，本体是🥚\n\n@eggyyybaby\n#煎蛋不想说话就唱歌吧\n#蛋喘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 23,
+                "tag": "煎蛋不想说话就唱歌吧"
+              },
+              {
+                "end": 38,
+                "start": 35,
+                "tag": "蛋喘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cmespeed.com/#/register?code=qnpQSfop",
+                "start": 0,
+                "url": "https://t.co/NEXqoJ99mw"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳🪜→",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922277650879676418/p7_qBFWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20792,
+          "following_count": 329,
+          "like_count": 162367,
+          "listed_count": 58,
+          "media_count": 8251,
+          "tweet_count": 77401
+        },
+        "url": "https://t.co/NEXqoJ99mw",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2045543159921529090",
+    "created_at": "2026-04-19T12:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045844049643376880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "968381271163449344",
+          "start": 0,
+          "username": "asiangirl0con"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045844049643376880",
+    "in_reply_to_user_id": "968381271163449344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045543159921529090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asiangirl0con 我隆胸去了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1351,
+        "media_key": "3_2045543123384938496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGM6ogoaMAAxssH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2045543123347296256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGM6ogfb0AAjIHY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2045543123376652288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGM6ogmbwAAx165.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1351,
+        "media_key": "3_2045543123385028608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGM6ogobkAAlfvy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2045543159921529090",
+        "created_at": "2026-04-19T12:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045844049643376880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "968381271163449344",
+              "start": 0,
+              "username": "asiangirl0con"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045844049643376880",
+        "in_reply_to_user_id": "968381271163449344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045543159921529090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asiangirl0con 我隆胸去了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045543123384938496",
+            "3_2045543123347296256",
+            "3_2045543123376652288",
+            "3_2045543123385028608"
+          ]
+        },
+        "author_id": "968381271163449344",
+        "conversation_id": "2045543159921529090",
+        "created_at": "2026-04-18T16:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045543159921529090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V4wGQojGN6",
+              "end": 40,
+              "expanded_url": "https://x.com/asiangirl0con/status/2045543159921529090/photo/1",
+              "media_key": "3_2045543123384938496",
+              "start": 17,
+              "url": "https://t.co/V4wGQojGN6"
+            },
+            {
+              "display_url": "pic.x.com/V4wGQojGN6",
+              "end": 40,
+              "expanded_url": "https://x.com/asiangirl0con/status/2045543159921529090/photo/1",
+              "media_key": "3_2045543123347296256",
+              "start": 17,
+              "url": "https://t.co/V4wGQojGN6"
+            },
+            {
+              "display_url": "pic.x.com/V4wGQojGN6",
+              "end": 40,
+              "expanded_url": "https://x.com/asiangirl0con/status/2045543159921529090/photo/1",
+              "media_key": "3_2045543123376652288",
+              "start": 17,
+              "url": "https://t.co/V4wGQojGN6"
+            },
+            {
+              "display_url": "pic.x.com/V4wGQojGN6",
+              "end": 40,
+              "expanded_url": "https://x.com/asiangirl0con/status/2045543159921529090/photo/1",
+              "media_key": "3_2045543123385028608",
+              "start": 17,
+              "url": "https://t.co/V4wGQojGN6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045543159921529090",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6179,
+          "impression_count": 1011114,
+          "like_count": 20980,
+          "quote_count": 35,
+          "reply_count": 116,
+          "retweet_count": 734
+        },
+        "reply_settings": "everyone",
+        "text": "lost in Viet Nam https://t.co/V4wGQojGN6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1992994593131081912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 237,
+          "like_count": 2157,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 487
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-27T07:04:21.000Z",
+        "description": "embrace beautiful women🥰🥰 dm for removal",
+        "id": "968381271163449344",
+        "name": "Annie Pham",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040651787963969536/aBoHSQEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16650,
+          "following_count": 1616,
+          "like_count": 12638,
+          "listed_count": 34,
+          "media_count": 535,
+          "tweet_count": 2385
+        },
+        "username": "asiangirl0con",
+        "verified": true
+      }
+    ]
+  }
+}

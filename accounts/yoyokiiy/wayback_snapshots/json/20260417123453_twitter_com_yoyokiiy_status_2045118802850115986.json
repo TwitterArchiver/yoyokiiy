@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2045063211524018543",
+    "created_at": "2026-04-17T12:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045118802850115986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1330581604645830657",
+          "start": 0,
+          "username": "LiuLeiMaoMaotou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045118802850115986",
+    "in_reply_to_user_id": "1330581604645830657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045063211524018543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuLeiMaoMaotou 女神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_2045062712229761024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGFs5naEAApVLZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2045063211524018543",
+        "created_at": "2026-04-17T12:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045118802850115986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1330581604645830657",
+              "start": 0,
+              "username": "LiuLeiMaoMaotou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045118802850115986",
+        "in_reply_to_user_id": "1330581604645830657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045063211524018543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuLeiMaoMaotou 女神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045062712229761024"
+          ]
+        },
+        "author_id": "1330581604645830657",
+        "conversation_id": "2045063211524018543",
+        "created_at": "2026-04-17T08:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045063211524018543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mhPhpmyoEy",
+              "end": 43,
+              "expanded_url": "https://x.com/LiuLeiMaoMaotou/status/2045063211524018543/photo/1",
+              "media_key": "3_2045062712229761024",
+              "start": 20,
+              "url": "https://t.co/mhPhpmyoEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045063211524018543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1235,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张把自己美爆了，就这样把新内衣拍到烂 https://t.co/mhPhpmyoEy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 232,
+          "like_count": 2099,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 452
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-22T18:39:24.000Z",
+        "description": "很长很长一串简介",
+        "id": "1330581604645830657",
+        "location": "火锅九宫格中间那格",
+        "name": "百香凤梨最好喝",
+        "pinned_tweet_id": "1404367397591478278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717594476930375681/eDo2YIKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 196,
+          "like_count": 6516,
+          "listed_count": 8,
+          "media_count": 47,
+          "tweet_count": 816
+        },
+        "username": "LiuLeiMaoMaotou",
+        "verified": false
+      }
+    ]
+  }
+}

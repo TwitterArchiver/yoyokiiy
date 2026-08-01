@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2065469099594158434",
+    "created_at": "2026-06-12T16:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065469099594158434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pehirzatperhat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/pehirzatperhat/status/2065364331177595265",
+          "start": 18,
+          "url": "https://t.co/juPC4EBkNW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065469099594158434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065364331177595265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "慾望的慾望對我來說是他勾著我的指節 https://t.co/juPC4EBkNW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2065469099594158434",
+        "created_at": "2026-06-12T16:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065469099594158434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pehirzatperhat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/pehirzatperhat/status/2065364331177595265",
+              "start": 18,
+              "url": "https://t.co/juPC4EBkNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065469099594158434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065364331177595265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "慾望的慾望對我來說是他勾著我的指節 https://t.co/juPC4EBkNW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922879057425010688",
+        "conversation_id": "2065364331177595265",
+        "created_at": "2026-06-12T09:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065364331177595265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cloud022520/st…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/cloud022520/status/2065361328433135907",
+              "start": 66,
+              "url": "https://t.co/kmbvvk5FA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065364331177595265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1888,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065361328433135907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直在想那句话：欲望是低级的，欲望的欲望是高级的。\n对我来说，如果欲望是阴道和乳房，欲望的欲望就是微微隆起的小腹和俏挑的锁骨肩。 https://t.co/kmbvvk5FA4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很隨意。一天可能发很多。慎关",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 216,
+          "like_count": 2717,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 759
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T04:57:57.000Z",
+        "description": "赋予客观事实最深刻的主观意义为我所用",
+        "id": "1922879057425010688",
+        "location": "Shanghai",
+        "name": "Phr_Hahalife",
+        "pinned_tweet_id": "2065124625881977170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062144231385575424/96M9hFcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 46,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 213
+        },
+        "username": "PehirzatPerhat",
+        "verified": false
+      }
+    ]
+  }
+}

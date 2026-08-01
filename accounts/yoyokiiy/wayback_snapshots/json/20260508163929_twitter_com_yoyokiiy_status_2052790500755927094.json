@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2052525274940780630",
+    "created_at": "2026-05-08T16:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052790500755927094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1679520705694822401",
+          "start": 0,
+          "username": "BJZM64"
+        },
+        {
+          "end": 17,
+          "id": "2028027034556088320",
+          "start": 8,
+          "username": "nocule00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052790500755927094",
+    "in_reply_to_user_id": "1679520705694822401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052772020598038660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BJZM64 @nocule00 要调休 还能保住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2052525274940780630",
+        "created_at": "2026-05-08T16:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052790500755927094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1679520705694822401",
+              "start": 0,
+              "username": "BJZM64"
+            },
+            {
+              "end": 17,
+              "id": "2028027034556088320",
+              "start": 8,
+              "username": "nocule00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052790500755927094",
+        "in_reply_to_user_id": "1679520705694822401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052772020598038660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BJZM64 @nocule00 要调休 还能保住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679520705694822401",
+        "conversation_id": "2052525274940780630",
+        "created_at": "2026-05-08T15:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052772020598038660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2028027034556088320",
+              "start": 0,
+              "username": "nocule00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052772020598038660",
+        "in_reply_to_user_id": "2028027034556088320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 950,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052525274940780630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nocule00 今天周五，保不住你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 208,
+          "like_count": 2400,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T15:59:00.000Z",
+        "description": "Rythem game player. Mainly play 4k and phigros . Malody 4k course v3 ex4 dan(stream ex5 dan) OSU mania 9354pp Phigros rks 16.41",
+        "id": "1679520705694822401",
+        "name": "BJZM",
+        "pinned_tweet_id": "1845661319355105535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857099337253126145/OMMLiNIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 333,
+          "like_count": 24449,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 1083
+        },
+        "username": "BJZM64",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T08:38:32.000Z",
+        "description": "所有问我闹够了没的人 我告诉你们 我还没开始闹",
+        "id": "2028027034556088320",
+        "name": "Done.",
+        "pinned_tweet_id": "2031798757432705262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028027529358163969/o0Z7KwNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2823,
+          "following_count": 27,
+          "like_count": 1316,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2887
+        },
+        "username": "nocule00",
+        "verified": false
+      }
+    ]
+  }
+}

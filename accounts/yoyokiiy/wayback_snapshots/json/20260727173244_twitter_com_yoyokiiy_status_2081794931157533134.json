@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2081763240804278608",
+    "created_at": "2026-07-27T17:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081794931157533134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1993940545706819584",
+          "start": 0,
+          "username": "ovo3oi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081794931157533134",
+    "in_reply_to_user_id": "1993940545706819584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081763240804278608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovo3oi 哎 要是大家都有这样的意识就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2081763240804278608",
+        "created_at": "2026-07-27T17:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081794931157533134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1993940545706819584",
+              "start": 0,
+              "username": "ovo3oi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081794931157533134",
+        "in_reply_to_user_id": "1993940545706819584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081763240804278608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovo3oi 哎 要是大家都有这样的意识就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993940545706819584",
+        "conversation_id": "2081763240804278608",
+        "created_at": "2026-07-27T15:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081763240804278608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081763240804278608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2245,
+          "like_count": 65,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不在推特上主动要别人微信，即使我对对方很有好感，也不敢主动提出，我太害怕被拒绝了。因为在我看来推特是一个有点特殊的、与现实隔离开来的社交软件。并不是所有人都愿意让一个临时消遣突然闯入自己的日常生活。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "友情出演「筋肉父親與棒球運動員兒子禁斷秘密」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "0.2km",
+        "name": "熟睡的妻子",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079909173740118016/ahEmuHyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 158,
+          "like_count": 3376,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 972
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T07:10:54.000Z",
+        "description": "如果你觉得欺负一个很笨拙，很心酸，很用力，很崩溃的活着的女孩，会让你觉得特别有成就感的话，那么请排便\n一碎片我@dntjunjun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "dntjunjun"
+              }
+            ]
+          }
+        },
+        "id": "1993940545706819584",
+        "name": "苹什猫",
+        "pinned_tweet_id": "2050522324697571616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038625208815476736/_OyzoErq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 68,
+          "like_count": 2141,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 873
+        },
+        "url": "",
+        "username": "ovo3oi",
+        "verified": false
+      }
+    ]
+  }
+}

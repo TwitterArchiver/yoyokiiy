@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1960964977453608960"
+      ],
+      "media_source_tweet_id": [
+        "1960969344663294132"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1961007926824595803",
+    "created_at": "2025-08-28T10:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T11:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961007926824595803"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "恋与深空"
+        },
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "夏以昼"
+        },
+        {
+          "end": 52,
+          "start": 30,
+          "tag": "CalebLoveandDeepspace"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "マヒル"
+        },
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "恋と深空"
+        },
+        {
+          "end": 81,
+          "start": 64,
+          "tag": "LoveandDeepspace"
+        },
+        {
+          "end": 91,
+          "start": 82,
+          "tag": "러브앤딥스페이스"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1151104742162149377",
+          "start": 3,
+          "username": "Kei_Qupa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4B7XQAEPZu",
+          "end": 115,
+          "expanded_url": "https://x.com/Kei_Qupa/status/1960969344663294132/video/1",
+          "media_key": "13_1960964977453608960",
+          "start": 92,
+          "url": "https://t.co/4B7XQAEPZu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961007926824595803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 399
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960969344663294132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kei_Qupa: 回忆同频\n#恋与深空 #夏以昼 #CalebLoveandDeepspace #マヒル #恋と深空 #LoveandDeepspace #러브앤딥스페이스 https://t.co/4B7XQAEPZu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21000,
+        "height": 1080,
+        "media_key": "13_1960964977453608960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960964977453608960/img/e1Dhk9eQPOWMTc-l.jpg",
+        "public_metrics": {
+          "view_count": 3625
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960964977453608960/vid/avc1/320x320/yIwxSmwYsf2KYQrY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960964977453608960/vid/avc1/540x540/NWG_DiP3WJ41i1WS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960964977453608960/vid/avc1/720x720/L1-cTqzVv1buXEAY.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960964977453608960/pl/Hk4K9PXyG2Nz1m2G.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960964977453608960"
+          ],
+          "media_source_tweet_id": [
+            "1960969344663294132"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1961007926824595803",
+        "created_at": "2025-08-28T10:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T11:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961007926824595803"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "恋与深空"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "夏以昼"
+            },
+            {
+              "end": 52,
+              "start": 30,
+              "tag": "CalebLoveandDeepspace"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "マヒル"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "恋と深空"
+            },
+            {
+              "end": 81,
+              "start": 64,
+              "tag": "LoveandDeepspace"
+            },
+            {
+              "end": 91,
+              "start": 82,
+              "tag": "러브앤딥스페이스"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1151104742162149377",
+              "start": 3,
+              "username": "Kei_Qupa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4B7XQAEPZu",
+              "end": 115,
+              "expanded_url": "https://x.com/Kei_Qupa/status/1960969344663294132/video/1",
+              "media_key": "13_1960964977453608960",
+              "start": 92,
+              "url": "https://t.co/4B7XQAEPZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961007926824595803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 399
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960969344663294132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kei_Qupa: 回忆同频\n#恋与深空 #夏以昼 #CalebLoveandDeepspace #マヒル #恋と深空 #LoveandDeepspace #러브앤딥스페이스 https://t.co/4B7XQAEPZu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960964977453608960"
+          ]
+        },
+        "author_id": "1151104742162149377",
+        "conversation_id": "1960969344663294132",
+        "created_at": "2025-08-28T07:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T08:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960969344663294132"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "恋与深空"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "夏以昼"
+            },
+            {
+              "end": 38,
+              "start": 16,
+              "tag": "CalebLoveandDeepspace"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "マヒル"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "恋と深空"
+            },
+            {
+              "end": 67,
+              "start": 50,
+              "tag": "LoveandDeepspace"
+            },
+            {
+              "end": 77,
+              "start": 68,
+              "tag": "러브앤딥스페이스"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4B7XQAEPZu",
+              "end": 101,
+              "expanded_url": "https://x.com/Kei_Qupa/status/1960969344663294132/video/1",
+              "media_key": "13_1960964977453608960",
+              "start": 78,
+              "url": "https://t.co/4B7XQAEPZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960969344663294132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 10538,
+          "like_count": 1063,
+          "quote_count": 48,
+          "reply_count": 16,
+          "retweet_count": 399
+        },
+        "reply_settings": "everyone",
+        "text": "回忆同频\n#恋与深空 #夏以昼 #CalebLoveandDeepspace #マヒル #恋と深空 #LoveandDeepspace #러브앤딥스페이스 https://t.co/4B7XQAEPZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 136,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 68
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-16T12:22:11.000Z",
+        "description": "2D animator",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/12234838",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/12234838",
+                "start": 0,
+                "url": "https://t.co/uiun6mBqZ1"
+              }
+            ]
+          }
+        },
+        "id": "1151104742162149377",
+        "name": "虫柚Qupa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1466259279321591812/m3UkRhzG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 48,
+          "like_count": 18,
+          "listed_count": 7,
+          "media_count": 24,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/uiun6mBqZ1",
+        "username": "Kei_Qupa",
+        "verified": false
+      }
+    ]
+  }
+}

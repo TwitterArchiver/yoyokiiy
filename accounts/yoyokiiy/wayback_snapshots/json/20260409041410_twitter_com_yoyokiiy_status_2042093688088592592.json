@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2042085094006124579",
+    "created_at": "2026-04-09T04:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042093688088592592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1936734981755404288",
+          "start": 0,
+          "username": "xxxx147495"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042093688088592592",
+    "in_reply_to_user_id": "1936734981755404288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042085094006124579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxx147495 万赞里有我一个😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2042085094006124579",
+        "created_at": "2026-04-09T04:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042093688088592592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1936734981755404288",
+              "start": 0,
+              "username": "xxxx147495"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042093688088592592",
+        "in_reply_to_user_id": "1936734981755404288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042085094006124579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxx147495 万赞里有我一个😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936734981755404288",
+        "conversation_id": "2042085094006124579",
+        "created_at": "2026-04-09T03:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042085094006124579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxxx147495/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/xxxx147495/status/2041189301229396141",
+              "start": 19,
+              "url": "https://t.co/MGlNp6AOhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042085094006124579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1407,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041189301229396141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的第一条点赞过w的帖子 我将铭记🥹 https://t.co/MGlNp6AOhY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 228,
+          "like_count": 2064,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 417
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T10:36:28.000Z",
+        "description": "苹果只做苹果事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9E%97%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%9E%97%E6%AA%8E",
+                "start": 0,
+                "url": "https://t.co/n0Z3zfQM3z"
+              }
+            ]
+          }
+        },
+        "id": "1936734981755404288",
+        "location": "置顶推广自辨",
+        "name": "林檎",
+        "pinned_tweet_id": "2041914190361985373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030888005209407488/Swz_X1Rs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12326,
+          "following_count": 110,
+          "like_count": 899,
+          "listed_count": 13,
+          "media_count": 94,
+          "tweet_count": 1071
+        },
+        "url": "https://t.co/n0Z3zfQM3z",
+        "username": "xxxx147495",
+        "verified": false
+      }
+    ]
+  }
+}

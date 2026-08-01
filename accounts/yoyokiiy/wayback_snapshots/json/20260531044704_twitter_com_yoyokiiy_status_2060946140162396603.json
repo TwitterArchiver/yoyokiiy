@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060696838978593112",
+    "created_at": "2026-05-31T04:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060946140162396603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1533345010833182720",
+          "start": 0,
+          "username": "kfusing"
+        },
+        {
+          "end": 21,
+          "id": "821294263828762626",
+          "start": 9,
+          "username": "youguwutong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060946140162396603",
+    "in_reply_to_user_id": "1533345010833182720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060941727402463710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kfusing @youguwutong 我低認知發言就這樣："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060696838978593112",
+        "created_at": "2026-05-31T04:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060946140162396603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1533345010833182720",
+              "start": 0,
+              "username": "kfusing"
+            },
+            {
+              "end": 21,
+              "id": "821294263828762626",
+              "start": 9,
+              "username": "youguwutong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060946140162396603",
+        "in_reply_to_user_id": "1533345010833182720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060941727402463710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kfusing @youguwutong 我低認知發言就這樣："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533345010833182720",
+        "conversation_id": "2060696838978593112",
+        "created_at": "2026-05-31T04:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060941727402463710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "821294263828762626",
+              "start": 0,
+              "username": "youguwutong"
+            },
+            {
+              "end": 22,
+              "id": "1897445432365821952",
+              "start": 13,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060941727402463710",
+        "in_reply_to_user_id": "821294263828762626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060809756210811130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youguwutong @yoyokiiy 你听她吹牛逼，144在省状元里都过得去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "幸福就在我手心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 213,
+          "like_count": 2574,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 724
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T07:08:50.000Z",
+        "description": "hihihi",
+        "id": "1533345010833182720",
+        "name": "Rowan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992799357029232640/xpl2ib9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 135
+        },
+        "username": "kfusing",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-17T09:53:06.000Z",
+        "description": "Civil Engineer/Writer/CV/Coser\n山梨県に住んでいます/with English Teaching Certificate/JLPT N2\n母语：中文，吴语/学习中： English,日本語,русский язык 正乙江南清微道士",
+        "id": "821294263828762626",
+        "location": "Kofu-shi, Yamanashi",
+        "name": "竹雨糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1191726408340426753/G4eQUv7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 520,
+          "like_count": 1788,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1041
+        },
+        "username": "youguwutong",
+        "verified": true
+      }
+    ]
+  }
+}

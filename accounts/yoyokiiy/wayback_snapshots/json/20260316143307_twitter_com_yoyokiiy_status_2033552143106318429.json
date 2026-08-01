@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022515082790604802"
+      ],
+      "media_source_tweet_id": [
+        "2022515090097135675"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2033552143106318429",
+    "created_at": "2026-03-16T14:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033552143106318429"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Caleb",
+          "probability": 0.6865,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "Caleb"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1929770604389191681",
+          "start": 3,
+          "username": "LLL_Lijin0808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yoa7NGq6Ox",
+          "end": 59,
+          "expanded_url": "https://x.com/LLL_Lijin0808/status/2022515090097135675/photo/1",
+          "media_key": "3_2022515082790604802",
+          "start": 36,
+          "url": "https://t.co/Yoa7NGq6Ox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033552143106318429",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022515090097135675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LLL_Lijin0808: Oh lover.\n#Caleb https://t.co/Yoa7NGq6Ox"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033552143106318429].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033552143106318429",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033552143106318429"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022515082790604802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBFqwIaakAILoIA.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022515082790604802"
+          ]
+        },
+        "author_id": "1929770604389191681",
+        "conversation_id": "2022515090097135675",
+        "created_at": "2026-02-14T03:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T04:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022515090097135675"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Caleb",
+              "probability": 0.6425,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "Caleb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yoa7NGq6Ox",
+              "end": 40,
+              "expanded_url": "https://x.com/LLL_Lijin0808/status/2022515090097135675/photo/1",
+              "media_key": "3_2022515082790604802",
+              "start": 17,
+              "url": "https://t.co/Yoa7NGq6Ox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022515090097135675",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 565,
+          "impression_count": 40126,
+          "like_count": 2563,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 297
+        },
+        "reply_settings": "everyone",
+        "text": "Oh lover.\n#Caleb https://t.co/Yoa7NGq6Ox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症 重度恋哥癖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 205,
+          "like_count": 1888,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T05:22:32.000Z",
+        "description": "🇮🇹🇯🇵学习中。🇨🇳CN。ISFP猫派。夏以昼日配全肯定。",
+        "id": "1929770604389191681",
+        "name": "我是橘花椒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028537049528315904/WcocwDpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7964,
+          "following_count": 23,
+          "like_count": 330,
+          "listed_count": 10,
+          "media_count": 31,
+          "tweet_count": 62
+        },
+        "username": "LLL_Lijin0808",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060391294715740165",
+        "3_2060391294732541953"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060391329029374162",
+    "created_at": "2026-05-29T16:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060391329029374162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BTstKPbtTO",
+          "end": 34,
+          "expanded_url": "https://x.com/yoyokiiy/status/2060391329029374162/photo/1",
+          "media_key": "3_2060391294715740165",
+          "start": 11,
+          "url": "https://t.co/BTstKPbtTO"
+        },
+        {
+          "display_url": "pic.x.com/BTstKPbtTO",
+          "end": 34,
+          "expanded_url": "https://x.com/yoyokiiy/status/2060391329029374162/photo/1",
+          "media_key": "3_2060391294732541953",
+          "start": 11,
+          "url": "https://t.co/BTstKPbtTO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060391329029374162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的坏 也照单全收吗 https://t.co/BTstKPbtTO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1461,
+        "media_key": "3_2060391294715740165",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJf691PWwAU-1_P.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1023,
+        "media_key": "3_2060391294732541953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJf691TXIAEBQNr.jpg",
+        "width": 817
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060391294715740165",
+            "3_2060391294732541953"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060391329029374162",
+        "created_at": "2026-05-29T16:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060391329029374162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BTstKPbtTO",
+              "end": 34,
+              "expanded_url": "https://x.com/yoyokiiy/status/2060391329029374162/photo/1",
+              "media_key": "3_2060391294715740165",
+              "start": 11,
+              "url": "https://t.co/BTstKPbtTO"
+            },
+            {
+              "display_url": "pic.x.com/BTstKPbtTO",
+              "end": 34,
+              "expanded_url": "https://x.com/yoyokiiy/status/2060391329029374162/photo/1",
+              "media_key": "3_2060391294732541953",
+              "start": 11,
+              "url": "https://t.co/BTstKPbtTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060391329029374162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的坏 也照单全收吗 https://t.co/BTstKPbtTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "幸福就在我手心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 214,
+          "like_count": 2565,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

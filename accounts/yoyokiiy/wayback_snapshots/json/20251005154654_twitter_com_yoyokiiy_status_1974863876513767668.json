@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1974857484151197879",
+    "created_at": "2025-10-05T15:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T16:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974863876513767668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1883727989671944192",
+          "start": 0,
+          "username": "nimasilehiahia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974863876513767668",
+    "in_reply_to_user_id": "1883727989671944192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974857484151197879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nimasilehiahia 蛮协调的了（比我好多了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18666,
+        "height": 1280,
+        "media_key": "13_1974857400403582976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974857400403582976/img/O9Mx5YDvGEV_ZiND.jpg",
+        "public_metrics": {
+          "view_count": 121
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974857400403582976/vid/avc1/320x568/RwnuJFiqF2PRTsRx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974857400403582976/vid/avc1/480x852/ShWFwothdI4oF1px.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974857400403582976/vid/avc1/720x1280/Qpu3prIeowHaxCEA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974857400403582976/pl/9J5mbV0w1F-4PGaF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1974857484151197879",
+        "created_at": "2025-10-05T15:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974863876513767668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1883727989671944192",
+              "start": 0,
+              "username": "nimasilehiahia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974863876513767668",
+        "in_reply_to_user_id": "1883727989671944192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974857484151197879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nimasilehiahia 蛮协调的了（比我好多了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974857400403582976"
+          ]
+        },
+        "author_id": "1883727989671944192",
+        "conversation_id": "1974857484151197879",
+        "created_at": "2025-10-05T15:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974857484151197879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3BVlurVkt",
+              "end": 31,
+              "expanded_url": "https://x.com/nimasilehiahia/status/1974857484151197879/video/1",
+              "media_key": "13_1974857400403582976",
+              "start": 8,
+              "url": "https://t.co/H3BVlurVkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974857484151197879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 341,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完不笑是这个 https://t.co/H3BVlurVkt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 154,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 100
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:05:33.000Z",
+        "description": "关我屁事，关你屁事？  | 推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=ngr2J6c5",
+                "start": 0,
+                "url": "https://t.co/y74iEgGmI5"
+              }
+            ]
+          }
+        },
+        "id": "1883727989671944192",
+        "location": "蜂鸟vpn",
+        "name": "讨厌的人死了爹妈",
+        "pinned_tweet_id": "1974763735052156962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883728141543436288/FoLOuEY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10832,
+          "following_count": 1030,
+          "like_count": 17084,
+          "listed_count": 17,
+          "media_count": 1236,
+          "tweet_count": 12125
+        },
+        "url": "https://t.co/y74iEgGmI5",
+        "username": "nimasilehiahia",
+        "verified": false
+      }
+    ]
+  }
+}

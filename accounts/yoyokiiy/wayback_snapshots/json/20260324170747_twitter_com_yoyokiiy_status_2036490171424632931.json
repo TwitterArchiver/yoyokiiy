@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2036490171424632931",
+    "created_at": "2026-03-24T17:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T18:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036490171424632931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893651075389083648",
+          "start": 3,
+          "username": "PUTAOYOU66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036490171424632931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035781440097705998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PUTAOYOU66: 以及好想和肌肉男做爱，其实也不是非要做爱，就是想被很大块的人拥抱包裹着，也许会很安心，但是我从来没体验过………………………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2036490171424632931",
+        "created_at": "2026-03-24T17:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T18:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036490171424632931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893651075389083648",
+              "start": 3,
+              "username": "PUTAOYOU66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036490171424632931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035781440097705998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PUTAOYOU66: 以及好想和肌肉男做爱，其实也不是非要做爱，就是想被很大块的人拥抱包裹着，也许会很安心，但是我从来没体验过………………………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893651075389083648",
+        "conversation_id": "2035781440097705998",
+        "created_at": "2026-03-22T18:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T19:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035781440097705998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035781440097705998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 197366,
+          "like_count": 1793,
+          "quote_count": 28,
+          "reply_count": 95,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "以及好想和肌肉男做爱，其实也不是非要做爱，就是想被很大块的人拥抱包裹着，也许会很安心，但是我从来没体验过………………………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症 重度恋哥癖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 223,
+          "like_count": 1956,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T13:16:22.000Z",
+        "description": "双性恋｜废话很多｜请小宝多多和我贴贴（请礼貌谢谢☺️",
+        "id": "1893651075389083648",
+        "location": "我没有被调我有我自己的节奏",
+        "name": "葡萄柚",
+        "pinned_tweet_id": "2016548240804741520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893651269727997952/lns_94zO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 75,
+          "like_count": 1120,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 322
+        },
+        "username": "PUTAOYOU66",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2061285972105363545",
+    "created_at": "2026-06-01T03:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061285972105363545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1648639500350791682",
+          "start": 3,
+          "username": "femiiiszn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061285972105363545",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6946
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061118114096427420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @femiiiszn: unfortunately, im not nonchalant or mysterious, im just naturally an awkward person who becomes talkative once im comfortabl…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2061285972105363545",
+        "created_at": "2026-06-01T03:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061285972105363545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1648639500350791682",
+              "start": 3,
+              "username": "femiiiszn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061285972105363545",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6946
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061118114096427420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @femiiiszn: unfortunately, im not nonchalant or mysterious, im just naturally an awkward person who becomes talkative once im comfortabl…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648639500350791682",
+        "conversation_id": "2061118114096427420",
+        "created_at": "2026-05-31T16:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061118114096427420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061118114096427420",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1481,
+          "impression_count": 313285,
+          "like_count": 29957,
+          "quote_count": 94,
+          "reply_count": 34,
+          "retweet_count": 6946
+        },
+        "reply_settings": "everyone",
+        "text": "unfortunately, im not nonchalant or mysterious, im just naturally an awkward person who becomes talkative once im comfortable."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 215,
+          "like_count": 2605,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T10:47:54.000Z",
+        "description": "20 | DM for promos | korty stan",
+        "id": "1648639500350791682",
+        "name": "femiiiiii.",
+        "pinned_tweet_id": "1833893399436652594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744113564086870016/neLJdw8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27258,
+          "following_count": 9381,
+          "like_count": 29771,
+          "listed_count": 29,
+          "media_count": 1723,
+          "tweet_count": 40753
+        },
+        "username": "femiiiszn",
+        "verified": false
+      }
+    ]
+  }
+}

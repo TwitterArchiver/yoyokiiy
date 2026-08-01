@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1999013317051036052",
+    "created_at": "2025-12-11T16:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T17:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999154678425424023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817903432344240128",
+          "start": 0,
+          "username": "sumingbai71221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999154678425424023",
+    "in_reply_to_user_id": "1817903432344240128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999013317051036052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sumingbai71221 互关安全🤝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1999013317051036052",
+        "created_at": "2025-12-11T16:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999154678425424023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817903432344240128",
+              "start": 0,
+              "username": "sumingbai71221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999154678425424023",
+        "in_reply_to_user_id": "1817903432344240128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999013317051036052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumingbai71221 互关安全🤝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817903432344240128",
+        "conversation_id": "1999013317051036052",
+        "created_at": "2025-12-11T07:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T08:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999013317051036052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999013317051036052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17220,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操。我互关怎么都炸了。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1992994593131081912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 186,
+          "like_count": 1460,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 221
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T12:42:19.000Z",
+        "description": "你好呀 可以叫我小梨花/小刃呀  switch |这里有大量性欲大爆发宣泄|废话|乱七八糟写一点短打代餐|塔斯汀忠实拥护者|不聊骚不线下 回就是养胃了|提问箱放下面了记得给我塞点啥！👇🏻|来个人陪我打王者好吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sumingbai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sumingbai",
+                "start": 0,
+                "url": "https://t.co/1Pz4w1nOz0"
+              }
+            ]
+          }
+        },
+        "id": "1817903432344240128",
+        "name": "梨花刃",
+        "pinned_tweet_id": "1994254059578982400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997489910488727553/lY6LveC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 1132,
+          "like_count": 44126,
+          "listed_count": 3,
+          "media_count": 459,
+          "tweet_count": 9672
+        },
+        "url": "https://t.co/1Pz4w1nOz0",
+        "username": "sumingbai71221",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1992629579824128247",
+    "created_at": "2025-11-23T16:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992629579824128247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drunk4111/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/drunk4111/status/1992411887330570648",
+          "start": 10,
+          "url": "https://t.co/flJbWvVApl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992629579824128247",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992411887330570648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "服务型男友你在哪。 https://t.co/flJbWvVApl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1992629579824128247",
+        "created_at": "2025-11-23T16:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992629579824128247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drunk4111/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/drunk4111/status/1992411887330570648",
+              "start": 10,
+              "url": "https://t.co/flJbWvVApl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992629579824128247",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992411887330570648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "服务型男友你在哪。 https://t.co/flJbWvVApl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922168679569227777",
+        "conversation_id": "1992411887330570648",
+        "created_at": "2025-11-23T01:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992411887330570648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992411887330570648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 50895,
+          "like_count": 590,
+          "quote_count": 8,
+          "reply_count": 26,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "被男人舔逼的时候，如果感觉他舔得舒服，不用害羞，使劲用手按头、用大腿根夹头，爱舔逼的男生会很喜欢这种反馈的。\n女孩子坐脸被舔逼的时候，别坐下去光坐着不动，记得前后扭动腰胯，用逼在男人嘴唇和鼻尖使劲前后来回蹭，这时候两瓣阴唇越大男人被蹭的感觉越好，爱舔的男人只会爽死到更卖力地舔你🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 186,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 199
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T05:55:08.000Z",
+        "description": "碎碎念 记事本",
+        "id": "1922168679569227777",
+        "name": "Drunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946803980605997057/7bqhlHBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "Drunk4111",
+        "verified": false
+      }
+    ]
+  }
+}

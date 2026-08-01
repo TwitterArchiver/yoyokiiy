@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2073771231787020763",
+    "created_at": "2026-07-08T09:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074783414314799171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1958074539474305024",
+          "start": 0,
+          "username": "miyagiizumi777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074783414314799171",
+    "in_reply_to_user_id": "1958074539474305024",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074632800062550230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyagiizumi777 🥺🥺💋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2073771231787020763",
+        "created_at": "2026-07-08T09:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074783414314799171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1958074539474305024",
+              "start": 0,
+              "username": "miyagiizumi777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074783414314799171",
+        "in_reply_to_user_id": "1958074539474305024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074632800062550230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyagiizumi777 🥺🥺💋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958074539474305024",
+        "conversation_id": "2073771231787020763",
+        "created_at": "2026-07-07T23:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074632800062550230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074632800062550230",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073771231787020763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 我也喜欢🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 191,
+          "like_count": 3135,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-20T07:52:13.000Z",
+        "description": "🚹 東京 🇨🇳｜🔞音声 直男 裏垢男子 ｜ 第五世｜超级老鼠转世的奇妙河童｜爆裂魔法操作使|滥性滥情 承認欲求の塊| 不要对我有太多占有欲 ｜裏垢@Miyagiinside 52R \n提问箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Miyagiinside"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiwenbako.vercel.app",
+                "end": 23,
+                "expanded_url": "https://tiwenbako.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/JR672Y71Ij"
+              }
+            ]
+          }
+        },
+        "id": "1958074539474305024",
+        "location": "日本 東京",
+        "name": "宮城いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005620306237607936/bbssjMu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4649,
+          "following_count": 86,
+          "like_count": 10445,
+          "listed_count": 7,
+          "media_count": 143,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/JR672Y71Ij",
+        "username": "miyagiizumi777",
+        "verified": false
+      }
+    ]
+  }
+}

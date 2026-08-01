@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2077448575165087860",
+    "created_at": "2026-07-15T17:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T18:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077448575165087860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1682023562553749505",
+          "start": 3,
+          "username": "wizsharonxyuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077448575165087860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077333867653210597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wizsharonxyuu: 注定在逼最嫩奶最挺的年纪过上出家般的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2077448575165087860",
+        "created_at": "2026-07-15T17:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T18:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077448575165087860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1682023562553749505",
+              "start": 3,
+              "username": "wizsharonxyuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077448575165087860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077333867653210597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wizsharonxyuu: 注定在逼最嫩奶最挺的年纪过上出家般的生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682023562553749505",
+        "conversation_id": "2077333867653210597",
+        "created_at": "2026-07-15T10:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077333867653210597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077333867653210597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 50170,
+          "like_count": 581,
+          "quote_count": 4,
+          "reply_count": 140,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "注定在逼最嫩奶最挺的年纪过上出家般的生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CV",
+              "full_name": "Cape Verde",
+              "geo": {
+                "coordinates": [
+                  -24.0,
+                  16.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "06｜sub｜永远不要停止感受｜皮肤飢渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "天涯海角。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 161,
+          "like_count": 3304,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-20T13:44:16.000Z",
+        "description": "我很萌｜小号防炸@JiaowoXiaotiano｜不线下｜现生朋友勿认｜提问箱https://t.co/JFprdIey9J",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "JiaowoXiaotiano"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/wizsharonxyuu1",
+                "end": 62,
+                "expanded_url": "https://ngl.link/wizsharonxyuu1",
+                "start": 39,
+                "url": "https://t.co/JFprdIey9J"
+              }
+            ]
+          }
+        },
+        "id": "1682023562553749505",
+        "name": "不甜糯几",
+        "pinned_tweet_id": "2048771597092483416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014680574418690048/CClq-Nh-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7001,
+          "following_count": 87,
+          "like_count": 11936,
+          "listed_count": 17,
+          "media_count": 334,
+          "tweet_count": 4838
+        },
+        "url": "",
+        "username": "wizsharonxyuu",
+        "verified": true
+      }
+    ]
+  }
+}

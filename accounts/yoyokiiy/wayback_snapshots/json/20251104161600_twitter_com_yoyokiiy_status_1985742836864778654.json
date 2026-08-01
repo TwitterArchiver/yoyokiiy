@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985742816421822468"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1985742836864778654",
+    "created_at": "2025-11-04T16:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985742836864778654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tsR3M7cBuR",
+          "end": 45,
+          "expanded_url": "https://x.com/yoyokiiy/status/1985742836864778654/photo/1",
+          "media_key": "3_1985742816421822468",
+          "start": 22,
+          "url": "https://t.co/tsR3M7cBuR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985742836864778654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给我一辈子花不完的钱和遗产（最好马上就死了 https://t.co/tsR3M7cBuR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 785,
+        "media_key": "3_1985742816421822468",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47GkhQbQAQDynt.jpg",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985742816421822468"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "1985742836864778654",
+        "created_at": "2025-11-04T16:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985742836864778654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsR3M7cBuR",
+              "end": 45,
+              "expanded_url": "https://x.com/yoyokiiy/status/1985742836864778654/photo/1",
+              "media_key": "3_1985742816421822468",
+              "start": 22,
+              "url": "https://t.co/tsR3M7cBuR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985742836864778654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我一辈子花不完的钱和遗产（最好马上就死了 https://t.co/tsR3M7cBuR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 175,
+          "like_count": 1294,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 176
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

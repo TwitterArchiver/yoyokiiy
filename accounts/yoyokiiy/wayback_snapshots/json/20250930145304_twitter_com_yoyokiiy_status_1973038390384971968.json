@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1972979370605351348",
+    "created_at": "2025-09-30T14:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T15:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973038390384971968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1930585988696539136",
+          "start": 0,
+          "username": "shsh11i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973038390384971968",
+    "in_reply_to_user_id": "1930585988696539136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972979370605351348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shsh11i 可爱屎我还想知道你平时吃啥身材咋这么完美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1972979370605351348",
+        "created_at": "2025-09-30T14:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T15:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973038390384971968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1930585988696539136",
+              "start": 0,
+              "username": "shsh11i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973038390384971968",
+        "in_reply_to_user_id": "1930585988696539136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972979370605351348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shsh11i 可爱屎我还想知道你平时吃啥身材咋这么完美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930585988696539136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "1972979370605351348",
+        "created_at": "2025-09-30T10:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T11:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972979370605351348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972979370605351348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1283,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或许有人想看我的美妆好物分享吗！我感觉我每个化妆品都很好用😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "随便分享点",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972538448977461248/340Iphsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 148,
+          "like_count": 926,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 61
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T11:23:05.000Z",
+        "description": "发点边角料 小号@sssshishi22互关宝宝可以找我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "sssshishi22"
+              }
+            ]
+          }
+        },
+        "id": "1930585988696539136",
+        "location": "🚪520",
+        "name": "可爱的屎",
+        "pinned_tweet_id": "1969028846289670307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930587135482159104/b6i23TjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8625,
+          "following_count": 100,
+          "like_count": 2077,
+          "listed_count": 13,
+          "media_count": 95,
+          "tweet_count": 871
+        },
+        "username": "shsh11i",
+        "verified": false
+      }
+    ]
+  }
+}

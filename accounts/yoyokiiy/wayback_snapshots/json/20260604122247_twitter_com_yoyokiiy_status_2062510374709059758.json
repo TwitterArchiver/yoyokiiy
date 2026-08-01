@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2062400888891916589",
+    "created_at": "2026-06-04T12:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062510374709059758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018974257842356226",
+          "start": 0,
+          "username": "gong711805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062510374709059758",
+    "in_reply_to_user_id": "2018974257842356226",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062400888891916589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gong711805 2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2062400888891916589",
+        "created_at": "2026-06-04T12:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062510374709059758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018974257842356226",
+              "start": 0,
+              "username": "gong711805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062510374709059758",
+        "in_reply_to_user_id": "2018974257842356226",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062400888891916589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gong711805 2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018974257842356226",
+        "conversation_id": "2062400888891916589",
+        "created_at": "2026-06-04T05:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062400888891916589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062400888891916589",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 216683,
+          "like_count": 817,
+          "quote_count": 953,
+          "reply_count": 40,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "연락 잘 되는데 애정표현 안 하는 사람 \n                    vs \n연락 뜸한데 표현 확실한 사람\n\n누가 더 좋아?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2058222485959475215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 211,
+          "like_count": 2629,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T09:06:18.000Z",
+        "description": "공놀이하자⚽️🏀🏐🎾🍩🍪🧶🤙 | 독파 앰배서더 9기 | contact : DM or gongaji.log@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gongaji.log",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gongaji.log",
+                "start": 0,
+                "url": "https://t.co/EuzTrSZz8K"
+              }
+            ]
+          }
+        },
+        "id": "2018974257842356226",
+        "location": "📚독서•여행•일상💭",
+        "name": "공",
+        "pinned_tweet_id": "2059567982616162806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039351583998451712/5UC9XWq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2613,
+          "following_count": 1648,
+          "like_count": 23789,
+          "listed_count": 55,
+          "media_count": 1428,
+          "tweet_count": 28193
+        },
+        "url": "https://t.co/EuzTrSZz8K",
+        "username": "gong711805",
+        "verified": true
+      }
+    ]
+  }
+}

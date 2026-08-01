@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2046273703676387488",
+    "created_at": "2026-04-21T06:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T07:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046479603670155618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1771433925635874816",
+          "start": 0,
+          "username": "cxl331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046479603670155618",
+    "in_reply_to_user_id": "1771433925635874816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046273703676387488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxl331 像幾米写的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2046273703676387488",
+        "created_at": "2026-04-21T06:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046479603670155618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1771433925635874816",
+              "start": 0,
+              "username": "cxl331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046479603670155618",
+        "in_reply_to_user_id": "1771433925635874816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046273703676387488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxl331 像幾米写的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771433925635874816",
+        "conversation_id": "2046273703676387488",
+        "created_at": "2026-04-20T17:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046273703676387488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046273703676387488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1373,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要一个死心塌地爱我的恋人…\n我需要一个可以谈论生活理想的恋人…\n我需要一个完全接纳包容懂我的恋人…\n我需要一个在遇到事情的时候\n坚定的站在我身边的恋人…\n如果反过来，我也会做到…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 244,
+          "like_count": 2183,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T07:09:05.000Z",
+        "description": "白羊座｜Enfj｜喜欢女生｜喜欢善良的人！｜我是心理委员！请狠狠的给我发私信🙇我会认真回复的～｜谁陪我打永劫无间，俺是市标季莹莹大王🤤🤤🤤｜一百零八线配音演员",
+        "id": "1771433925635874816",
+        "location": "成都",
+        "name": "Spoil",
+        "pinned_tweet_id": "1905458608466526238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043334847528329216/XW-TRUy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 708,
+          "like_count": 4671,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 820
+        },
+        "username": "cxl331",
+        "verified": false
+      }
+    ]
+  }
+}

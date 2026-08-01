@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2033570574077976965",
+    "created_at": "2026-03-16T18:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T19:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033605418769953142"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 118,
+          "normalized_text": "Caleb",
+          "probability": 0.8584,
+          "start": 114,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1393681494279802884",
+          "start": 0,
+          "username": "P0KER_FACE0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033605418769953142",
+    "in_reply_to_user_id": "1393681494279802884",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033570574077976965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@P0KER_FACE0 Why can't I have my childhood friend, my brother, and my husband all at once? I love all versions of Caleb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2033570574077976965",
+        "created_at": "2026-03-16T18:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033605418769953142"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 118,
+              "normalized_text": "Caleb",
+              "probability": 0.8584,
+              "start": 114,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1393681494279802884",
+              "start": 0,
+              "username": "P0KER_FACE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033605418769953142",
+        "in_reply_to_user_id": "1393681494279802884",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033570574077976965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P0KER_FACE0 Why can't I have my childhood friend, my brother, and my husband all at once? I love all versions of Caleb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2033570572698107904"
+          ]
+        },
+        "author_id": "1393681494279802884",
+        "conversation_id": "2033570574077976965",
+        "created_at": "2026-03-16T15:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033570574077976965"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Caleb",
+              "probability": 0.7911,
+              "start": 0,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033570574077976965",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 460,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Caleb is your"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症 重度恋哥癖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 217,
+          "like_count": 1899,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T21:35:53.000Z",
+        "description": "️ ️️\nㅤ\n ️\n\n ️\n ️ ️️\nㅤ\n ️\n\n ️\n ️ ️️\nㅤ\n ️\n\n ️\n ️ ️️\nㅤ\n ️\n\n ️\n\n ️\n#XIAYIZHOU\n ️\n\n ️\n ️ ️️\nᴍᴀʏʙᴇ ɪᴛ's ʙᴇᴄᴀᴜsᴇ ᯓ ✈ ɪ ʟᴏᴠᴇ ʏᴏᴜ ᴀ ʟɪᴛᴛʟᴇ ᴍᴏʀᴇ ᴛʜᴀɴ ʏᴏᴜ ʀᴇᴀʟɪᴢᴇ.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 63,
+                "tag": "XIAYIZHOU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "p00kerfa0e.straw.page",
+                "end": 23,
+                "expanded_url": "https://p00kerfa0e.straw.page",
+                "start": 0,
+                "url": "https://t.co/JdVScdBqP1"
+              }
+            ]
+          }
+        },
+        "id": "1393681494279802884",
+        "location": "FAN ACCOUNT ",
+        "name": "𓆩ᵣ𓆪",
+        "pinned_tweet_id": "2022911309298459091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032072405703933952/DnirXwqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 484,
+          "like_count": 53395,
+          "listed_count": 6,
+          "media_count": 2648,
+          "tweet_count": 18242
+        },
+        "url": "https://t.co/JdVScdBqP1",
+        "username": "P0KER_FACE0",
+        "verified": false
+      }
+    ]
+  }
+}

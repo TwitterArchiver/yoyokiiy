@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1973567238952349753",
+    "created_at": "2025-10-03T12:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T13:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974083984465482185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833770186715127808",
+          "start": 0,
+          "username": "Sfqt9UC2bH10496"
+        },
+        {
+          "end": 29,
+          "id": "1596072436910370816",
+          "start": 17,
+          "username": "sss07225733"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974083984465482185",
+    "in_reply_to_user_id": "1833770186715127808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974045688318308394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sfqt9UC2bH10496 @sss07225733 我不太规律明年可能会提前点hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1973567238952349753",
+        "created_at": "2025-10-03T12:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T13:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974083984465482185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1833770186715127808",
+              "start": 0,
+              "username": "Sfqt9UC2bH10496"
+            },
+            {
+              "end": 29,
+              "id": "1596072436910370816",
+              "start": 17,
+              "username": "sss07225733"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974083984465482185",
+        "in_reply_to_user_id": "1833770186715127808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974045688318308394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sfqt9UC2bH10496 @sss07225733 我不太规律明年可能会提前点hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833770186715127808",
+        "conversation_id": "1973567238952349753",
+        "created_at": "2025-10-03T09:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974045688318308394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            },
+            {
+              "end": 22,
+              "id": "1596072436910370816",
+              "start": 10,
+              "username": "sss07225733"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974045688318308394",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974034737338724367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy @sss07225733 那岂不是每年国庆都这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "梦到啥说啥。这里大概有90%的我自己。安分与淫乱二象性。火鸡面酸辣粉梦女。骨科重度爱好者。女宝们都来和我互动好不好🥺",
+        "id": "1897445432365821952",
+        "name": "其实我是gay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972538448977461248/340Iphsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 150,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 79
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T07:31:12.000Z",
+        "description": "男研在读",
+        "id": "1833770186715127808",
+        "location": "Hong Kong",
+        "name": "需不需曜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928754110620381187/lzoNAWpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "Sfqt9UC2bH10496",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T09:25:04.000Z",
+        "description": "恭喜发财",
+        "id": "1596072436910370816",
+        "name": "咬口小狗饼干",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854539609952378880/N1x_Vfbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35942,
+          "following_count": 135,
+          "like_count": 627,
+          "listed_count": 111,
+          "media_count": 190,
+          "tweet_count": 1417
+        },
+        "username": "sss07225733",
+        "verified": false
+      }
+    ]
+  }
+}

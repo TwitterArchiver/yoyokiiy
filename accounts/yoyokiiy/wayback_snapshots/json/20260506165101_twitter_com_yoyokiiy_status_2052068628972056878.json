@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2051945706773246368",
+    "created_at": "2026-05-06T16:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052068628972056878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1887110932360572928",
+          "start": 0,
+          "username": "wngh3377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052068628972056878",
+    "in_reply_to_user_id": "1887110932360572928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051945706773246368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngh3377 姐姐我埋！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2051945696388157440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHn5vTubkAAd6Sq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2051945706773246368",
+        "created_at": "2026-05-06T16:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052068628972056878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1887110932360572928",
+              "start": 0,
+              "username": "wngh3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052068628972056878",
+        "in_reply_to_user_id": "1887110932360572928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051945706773246368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngh3377 姐姐我埋！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051945696388157440"
+          ]
+        },
+        "author_id": "1887110932360572928",
+        "conversation_id": "2051945706773246368",
+        "created_at": "2026-05-06T08:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051945706773246368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JMo8ypz4Y6",
+              "end": 23,
+              "expanded_url": "https://x.com/wngh3377/status/2051945706773246368/photo/1",
+              "media_key": "3_2051945696388157440",
+              "start": 0,
+              "url": "https://t.co/JMo8ypz4Y6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051945706773246368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 559,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JMo8ypz4Y6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 208,
+          "like_count": 2386,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 618
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T12:08:28.000Z",
+        "description": "（纯绿色，无福利，不约不线下‼️）/置顶关评推广自辨",
+        "id": "1887110932360572928",
+        "location": "绿🚪520➕v",
+        "name": "荔枝水",
+        "pinned_tweet_id": "2038659629383839974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887111161105002496/YN7-peAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19418,
+          "following_count": 153,
+          "like_count": 9482,
+          "listed_count": 44,
+          "media_count": 358,
+          "tweet_count": 6698
+        },
+        "username": "wngh3377",
+        "verified": false
+      }
+    ]
+  }
+}

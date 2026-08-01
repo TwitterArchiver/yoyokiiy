@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2045885572867097044",
+    "created_at": "2026-04-20T14:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046234522556027371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1681979688733020160",
+          "start": 0,
+          "username": "Rrrr_0630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046234522556027371",
+    "in_reply_to_user_id": "1681979688733020160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045885572867097044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rrrr_0630 虽然你没有做到，但做的时候怎么能直接甩手走。。不应该哄你到能说出来吗 ？如果是你们是认真的话就沟通清楚，沟通不好这段关系也不要勉强 抱抱宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2045885572867097044",
+        "created_at": "2026-04-20T14:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046234522556027371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1681979688733020160",
+              "start": 0,
+              "username": "Rrrr_0630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046234522556027371",
+        "in_reply_to_user_id": "1681979688733020160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045885572867097044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rrrr_0630 虽然你没有做到，但做的时候怎么能直接甩手走。。不应该哄你到能说出来吗 ？如果是你们是认真的话就沟通清楚，沟通不好这段关系也不要勉强 抱抱宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681979688733020160",
+        "conversation_id": "2045885572867097044",
+        "created_at": "2026-04-19T15:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045885572867097044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045885572867097044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 29262,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很真心的想问一个问题\n我和他在做的时候 \n\n他让我一些s话 讲了好几次\n我说不出来 他就不做了\n表情冷了 直接拔了套扔了出去 \n我完全愣住了 \n\n我的视角：因为我不讲s话 就不做了\n他的视角：我答应了他讲 但是说了好几次我都没讲 \n\n他认为这只是调情 开个玩笑 \n他没有问题 是我答应了他的事没做到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 241,
+          "like_count": 2164,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T10:50:03.000Z",
+        "description": "Isfp ｜碎碎念 有老公^",
+        "id": "1681979688733020160",
+        "name": "^^",
+        "pinned_tweet_id": "1996558245071360262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954026080991686658/EHWWYJu2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6068,
+          "following_count": 34,
+          "like_count": 932,
+          "listed_count": 7,
+          "media_count": 236,
+          "tweet_count": 2483
+        },
+        "username": "Rrrr_0630",
+        "verified": false
+      }
+    ]
+  }
+}

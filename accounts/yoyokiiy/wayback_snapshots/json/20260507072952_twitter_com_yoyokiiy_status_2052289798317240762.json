@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2052120738673443023",
+    "created_at": "2026-05-07T07:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052289798317240762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926470312289304576",
+          "start": 0,
+          "username": "raxx945"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052289798317240762",
+    "in_reply_to_user_id": "1926470312289304576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052120738673443023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raxx945 我靠世另我😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2052120738673443023",
+        "created_at": "2026-05-07T07:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052289798317240762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926470312289304576",
+              "start": 0,
+              "username": "raxx945"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052289798317240762",
+        "in_reply_to_user_id": "1926470312289304576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052120738673443023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raxx945 我靠世另我😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926470312289304576",
+        "conversation_id": "2052120738673443023",
+        "created_at": "2026-05-06T20:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T21:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052120738673443023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052120738673443023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1682,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好难过，其实我毕业了想gap想去swt或者whv的项目，或者到处去打工换宿，但我一直对我爸有愧疚所以我又只能找着他给我铺的路走，我大四就要去他的设计院实习然后就职，我感觉我自由的心渐渐被磨灭了，一直找着这个路走我真的感觉自己的人生到头了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 208,
+          "like_count": 2397,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T02:48:17.000Z",
+        "description": "这里是我的日记本 成分复杂什么都发谨慎关注 主现生偶尔产出    🚪+v 88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/esinenard?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/esinenard?igsh=NzNnZ3h2MTBuY2R5&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/8Oq3QcqJyS"
+              }
+            ]
+          }
+        },
+        "id": "1926470312289304576",
+        "name": "不顾一切的活下去",
+        "pinned_tweet_id": "2038924053600178393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045175559257530368/SrZQdhgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3078,
+          "following_count": 130,
+          "like_count": 939,
+          "listed_count": 6,
+          "media_count": 125,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/8Oq3QcqJyS",
+        "username": "raxx945",
+        "verified": false
+      }
+    ]
+  }
+}

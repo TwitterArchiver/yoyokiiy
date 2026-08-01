@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1987017821902283117",
+    "created_at": "2025-11-08T18:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T19:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987230123557286343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1977031348415246336",
+          "start": 0,
+          "username": "Estherishere_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987230123557286343",
+    "in_reply_to_user_id": "1977031348415246336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987017821902283117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Estherishere_ 太便宜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1987017821902283117",
+        "created_at": "2025-11-08T18:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T19:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987230123557286343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977031348415246336",
+              "start": 0,
+              "username": "Estherishere_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987230123557286343",
+        "in_reply_to_user_id": "1977031348415246336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987017821902283117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estherishere_ 太便宜了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977031348415246336",
+        "conversation_id": "1987017821902283117",
+        "created_at": "2025-11-08T04:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987017821902283117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987017821902283117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 73239,
+          "like_count": 177,
+          "quote_count": 3,
+          "reply_count": 90,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近推特上面老是刷到那个5000块钱包养女大学生的，这是真的假的？这么便宜吗？感觉有点像意淫的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 177,
+          "like_count": 1320,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 184
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T15:19:53.000Z",
+        "description": "骂死过人 \n\n儿子@Wojiang38562",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "Wojiang38562"
+              }
+            ]
+          }
+        },
+        "id": "1977031348415246336",
+        "name": "你让让我吧不行吗",
+        "pinned_tweet_id": "1977035167161335905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977035658100457485/T6F8oWZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 224,
+          "like_count": 2798,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2036
+        },
+        "username": "Estherishere_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2052007901519376580",
+    "created_at": "2026-05-06T16:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052067859728367670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906886232711614464",
+          "start": 0,
+          "username": "Xuan122523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052067859728367670",
+    "in_reply_to_user_id": "1906886232711614464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052007901519376580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuan122523 农民歌手你火了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2052007892199649281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoyTlLbsAEKt33.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2052007901519376580",
+        "created_at": "2026-05-06T16:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052067859728367670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906886232711614464",
+              "start": 0,
+              "username": "Xuan122523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052067859728367670",
+        "in_reply_to_user_id": "1906886232711614464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052007901519376580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuan122523 农民歌手你火了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052007892199649281"
+          ]
+        },
+        "author_id": "1906886232711614464",
+        "conversation_id": "2052007901519376580",
+        "created_at": "2026-05-06T12:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052007901519376580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uD8UyBAPuh",
+              "end": 31,
+              "expanded_url": "https://x.com/Xuan122523/status/2052007901519376580/photo/1",
+              "media_key": "3_2052007892199649281",
+              "start": 8,
+              "url": "https://t.co/uD8UyBAPuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052007901519376580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 8959,
+          "like_count": 507,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "谁大腿流泪了。 https://t.co/uD8UyBAPuh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "大部分清水碎碎念",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 208,
+          "like_count": 2383,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T01:48:11.000Z",
+        "description": "生活就像朱之文 拼尽全力也进不了华语乐坛前二十。",
+        "id": "1906886232711614464",
+        "name": "我是农民歌手朱之文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033930570439528452/n4Dp0deq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 78,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 48
+        },
+        "username": "Xuan122523",
+        "verified": false
+      }
+    ]
+  }
+}

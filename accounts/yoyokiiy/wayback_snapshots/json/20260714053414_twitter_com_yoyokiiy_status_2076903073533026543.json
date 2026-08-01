@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076903056223178752",
+        "3_2076903056277753856"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2076903073533026543",
+    "created_at": "2026-07-14T05:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076903073533026543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GOslPwaBmQ",
+          "end": 35,
+          "expanded_url": "https://x.com/yoyokiiy/status/2076903073533026543/photo/1",
+          "media_key": "3_2076903056223178752",
+          "start": 12,
+          "url": "https://t.co/GOslPwaBmQ"
+        },
+        {
+          "display_url": "pic.x.com/GOslPwaBmQ",
+          "end": 35,
+          "expanded_url": "https://x.com/yoyokiiy/status/2076903073533026543/photo/1",
+          "media_key": "3_2076903056277753856",
+          "start": 12,
+          "url": "https://t.co/GOslPwaBmQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076903073533026543",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "คิดถึง很喜欢哭娃 https://t.co/GOslPwaBmQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076903056223178752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKkU2MbEAAGEiE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076903056277753856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKkU2Zb0AAMo7X.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076903056223178752",
+            "3_2076903056277753856"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2076903073533026543",
+        "created_at": "2026-07-14T05:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076903073533026543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOslPwaBmQ",
+              "end": 35,
+              "expanded_url": "https://x.com/yoyokiiy/status/2076903073533026543/photo/1",
+              "media_key": "3_2076903056223178752",
+              "start": 12,
+              "url": "https://t.co/GOslPwaBmQ"
+            },
+            {
+              "display_url": "pic.x.com/GOslPwaBmQ",
+              "end": 35,
+              "expanded_url": "https://x.com/yoyokiiy/status/2076903073533026543/photo/1",
+              "media_key": "3_2076903056277753856",
+              "start": 12,
+              "url": "https://t.co/GOslPwaBmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076903073533026543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "คิดถึง很喜欢哭娃 https://t.co/GOslPwaBmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受｜皮肤飢渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "夢想是浪跡天涯。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 196,
+          "like_count": 3255,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 949
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      }
+    ]
+  }
+}

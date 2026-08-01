@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1975597441836818506",
+    "created_at": "2025-10-07T16:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T17:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975597441836818506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1948779307045978112",
+          "start": 3,
+          "username": "Wo2luosifen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975597441836818506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975251344350232635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wo2luosifen: 后任你一定要和我一样是色情狂魔。但是不能比我更色。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1975597441836818506",
+        "created_at": "2025-10-07T16:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975597441836818506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1948779307045978112",
+              "start": 3,
+              "username": "Wo2luosifen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975597441836818506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975251344350232635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wo2luosifen: 后任你一定要和我一样是色情狂魔。但是不能比我更色。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948779307045978112",
+        "conversation_id": "1975251344350232635",
+        "created_at": "2025-10-06T17:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T18:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975251344350232635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975251344350232635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8268,
+          "like_count": 164,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "后任你一定要和我一样是色情狂魔。但是不能比我更色。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 169,
+          "like_count": 1081,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 116
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:27.000Z",
+        "description": "超级碎碎念bot 不约不聊不线下不恋不回私信不礼貌回关 @Ffbbgg00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "Ffbbgg00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iuuio16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iuuio16",
+                "start": 0,
+                "url": "https://t.co/oqtlQVhTsI"
+              }
+            ]
+          }
+        },
+        "id": "1948779307045978112",
+        "name": "做饭总被烫",
+        "pinned_tweet_id": "1972603526909186289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963483712278171648/e-95DtmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3062,
+          "following_count": 419,
+          "like_count": 33759,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 14160
+        },
+        "url": "https://t.co/oqtlQVhTsI",
+        "username": "Wo2luosifen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1974326481116647745",
+    "created_at": "2025-10-04T05:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T06:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974349271127433319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783130866950213632",
+          "start": 0,
+          "username": "Ifeelsobad04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974349271127433319",
+    "in_reply_to_user_id": "1783130866950213632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974326481116647745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ifeelsobad04 许愿熊妹妹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974326466512105477",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Y3dfsbMAU99K-.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974326466524688385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Y3dfvbMAE8z9E.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974326466516312064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Y3dftbYAALGTu.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1974326481116647745",
+        "created_at": "2025-10-04T05:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T06:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974349271127433319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783130866950213632",
+              "start": 0,
+              "username": "Ifeelsobad04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974349271127433319",
+        "in_reply_to_user_id": "1783130866950213632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974326481116647745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ifeelsobad04 许愿熊妹妹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974326466512105477",
+            "3_1974326466524688385",
+            "3_1974326466516312064"
+          ]
+        },
+        "author_id": "1783130866950213632",
+        "conversation_id": "1974326481116647745",
+        "created_at": "2025-10-04T04:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T05:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974326481116647745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BiBlbGBDJp",
+              "end": 59,
+              "expanded_url": "https://x.com/Ifeelsobad04/status/1974326481116647745/photo/1",
+              "media_key": "3_1974326466512105477",
+              "start": 36,
+              "url": "https://t.co/BiBlbGBDJp"
+            },
+            {
+              "display_url": "pic.x.com/BiBlbGBDJp",
+              "end": 59,
+              "expanded_url": "https://x.com/Ifeelsobad04/status/1974326481116647745/photo/1",
+              "media_key": "3_1974326466524688385",
+              "start": 36,
+              "url": "https://t.co/BiBlbGBDJp"
+            },
+            {
+              "display_url": "pic.x.com/BiBlbGBDJp",
+              "end": 59,
+              "expanded_url": "https://x.com/Ifeelsobad04/status/1974326481116647745/photo/1",
+              "media_key": "3_1974326466516312064",
+              "start": 36,
+              "url": "https://t.co/BiBlbGBDJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974326481116647745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3969,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一千粉咯 兑现一下承诺\n评论这条抽一个人送一只玩偶（以下自选）\n7号开 https://t.co/BiBlbGBDJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "这里大概有90%的我自己。安分与淫乱二象性。骨科重度爱好者。女宝们都来和我互动好不🥺",
+        "id": "1897445432365821952",
+        "name": "乖狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974344824166748160/-4tDGabh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 149,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 87
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T13:48:28.000Z",
+        "description": "直男 switch 黄推 慎关 不加v 不回非互关私信 不线下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%9D%8F%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%9D%8F%E5%92%96%E5%95%A11",
+                "start": 0,
+                "url": "https://t.co/LyDKZxayem"
+              }
+            ]
+          }
+        },
+        "id": "1783130866950213632",
+        "name": "坏咖啡",
+        "pinned_tweet_id": "1971469594805326322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922341005119934464/zAepbQuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 508,
+          "like_count": 14777,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/LyDKZxayem",
+        "username": "Ifeelsobad04",
+        "verified": false
+      }
+    ]
+  }
+}

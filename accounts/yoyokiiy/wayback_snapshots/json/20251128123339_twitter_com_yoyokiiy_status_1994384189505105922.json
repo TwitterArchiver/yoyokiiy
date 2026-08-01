@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1994384189505105922",
+    "created_at": "2025-11-28T12:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T13:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994384189505105922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1699685199863316480",
+          "start": 3,
+          "username": "caomeix04231621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994384189505105922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993876688950972616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caomeix04231621: 有一个可以尽情对他发骚的伴侣很幸福啊，抱着他手臂或者小腿蹭蹭，他很平静的，做自己的事，见怪不怪。直到勾引似的，让他有感觉了，就放下手上的东西，狠狠草我，满嘴下流话，“不是喜欢这样吗骚货，勾引我就是想被这样对待啊，你躲什么，全部吃下去”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1994384189505105922",
+        "created_at": "2025-11-28T12:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994384189505105922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1699685199863316480",
+              "start": 3,
+              "username": "caomeix04231621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994384189505105922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993876688950972616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caomeix04231621: 有一个可以尽情对他发骚的伴侣很幸福啊，抱着他手臂或者小腿蹭蹭，他很平静的，做自己的事，见怪不怪。直到勾引似的，让他有感觉了，就放下手上的东西，狠狠草我，满嘴下流话，“不是喜欢这样吗骚货，勾引我就是想被这样对待啊，你躲什么，全部吃下去”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699685199863316480",
+        "conversation_id": "1993876688950972616",
+        "created_at": "2025-11-27T02:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993876688950972616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993876688950972616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 75561,
+          "like_count": 1276,
+          "quote_count": 13,
+          "reply_count": 42,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "有一个可以尽情对他发骚的伴侣很幸福啊，抱着他手臂或者小腿蹭蹭，他很平静的，做自己的事，见怪不怪。直到勾引似的，让他有感觉了，就放下手上的东西，狠狠草我，满嘴下流话，“不是喜欢这样吗骚货，勾引我就是想被这样对待啊，你躲什么，全部吃下去”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 187,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 208
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T07:25:18.000Z",
+        "description": "不接推广，不卖置顶，不卖号/文是纯幻想还有一些日常记录/评论区广告不要信/🚪88，纯绿/（没有别的号，就这一个）不要搬运我的内容到其他平台，打码也不行",
+        "id": "1699685199863316480",
+        "name": "椰椰椰椰奶小羊",
+        "pinned_tweet_id": "1986448254595441064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792871309686558720/TBXQXNM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61600,
+          "following_count": 325,
+          "like_count": 8435,
+          "listed_count": 109,
+          "media_count": 451,
+          "tweet_count": 8491
+        },
+        "username": "caomeix04231621",
+        "verified": false
+      }
+    ]
+  }
+}

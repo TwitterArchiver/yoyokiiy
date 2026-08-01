@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2054077328251306162",
+    "created_at": "2026-05-12T06:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054087069215924628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892263580952862720",
+          "start": 0,
+          "username": "a_shark12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054087069215924628",
+    "in_reply_to_user_id": "1892263580952862720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054077328251306162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_shark12138 可能那个女生手腕太细了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2054077328251306162",
+        "created_at": "2026-05-12T06:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054087069215924628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892263580952862720",
+              "start": 0,
+              "username": "a_shark12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054087069215924628",
+        "in_reply_to_user_id": "1892263580952862720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054077328251306162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_shark12138 可能那个女生手腕太细了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892263580952862720",
+        "conversation_id": "2054077328251306162",
+        "created_at": "2026-05-12T05:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054077328251306162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054077328251306162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要讲个尺寸笑话，炮友哥一直对自己的尺寸很焦虑。他朋友之前跟他说自己的和女生手腕差不多粗，炮友哥就真信了，然后开始不停焦虑自己好小\n我：……他骗你的\n炮友哥：你怎么知道，不会吧\n我：……那你去问他买的什么牌子的套不就好了，如果真的是手腕粗只可能用那几个牌子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "乱涂乱画的日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 207,
+          "like_count": 2426,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T17:22:58.000Z",
+        "description": "没有🚪（意思是不加微信）/我只是喜欢碎碎念 / ❌私聊❌线下 / 🈶且仅有炮友哥一个长期",
+        "id": "1892263580952862720",
+        "location": "-20cm",
+        "name": "shark",
+        "pinned_tweet_id": "1954643067132424588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027491256264511488/vzibYSbC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6902,
+          "following_count": 71,
+          "like_count": 7390,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 1132
+        },
+        "username": "a_shark12138",
+        "verified": false
+      }
+    ]
+  }
+}

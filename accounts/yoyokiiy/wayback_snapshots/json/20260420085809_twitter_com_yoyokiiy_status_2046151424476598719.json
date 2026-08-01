@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2046104100564070590",
+    "created_at": "2026-04-20T08:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T09:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046151424476598719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1749848735436427265",
+          "start": 0,
+          "username": "unkmit98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046151424476598719",
+    "in_reply_to_user_id": "1749848735436427265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046104100564070590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unkmit98 暑假超热哪里都人多！我前两天直接抽周中空去的北环.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2046104100564070590",
+        "created_at": "2026-04-20T08:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046151424476598719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749848735436427265",
+              "start": 0,
+              "username": "unkmit98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046151424476598719",
+        "in_reply_to_user_id": "1749848735436427265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046104100564070590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unkmit98 暑假超热哪里都人多！我前两天直接抽周中空去的北环.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749848735436427265",
+        "conversation_id": "2046104100564070590",
+        "created_at": "2026-04-20T05:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046104100564070590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046104100564070590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1043,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来打算和室友昨晚激情订票去南京，结果室友每周两次的组会安排出来了。我哭了。我俩只能暑假去了。暑假她想去环球。我不知道我有没有时间。。。我真的恨死组会了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 239,
+          "like_count": 2154,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T17:37:16.000Z",
+        "description": "泪涔涔也往前进｜碎碎念！纯清水！｜@R79Kx请互关随意选择是否加入^_^这里只有我的心事。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "R79Kx"
+              }
+            ]
+          }
+        },
+        "id": "1749848735436427265",
+        "name": "橙子皮不皮",
+        "pinned_tweet_id": "2044274355568353587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043338886483730432/laZu2BD8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 432,
+          "like_count": 180449,
+          "listed_count": 23,
+          "media_count": 20,
+          "tweet_count": 22073
+        },
+        "username": "unkmit98",
+        "verified": false
+      }
+    ]
+  }
+}

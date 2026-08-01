@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1974859920400122295",
+    "created_at": "2025-10-06T07:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T08:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975095243247857846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1622615522872545281",
+          "start": 0,
+          "username": "mianbaogou04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975095243247857846",
+    "in_reply_to_user_id": "1622615522872545281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974859920400122295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mianbaogou04 我反对。不仅要拍照片还要拍视频😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1974859920400122295",
+        "created_at": "2025-10-06T07:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975095243247857846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1622615522872545281",
+              "start": 0,
+              "username": "mianbaogou04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975095243247857846",
+        "in_reply_to_user_id": "1622615522872545281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974859920400122295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mianbaogou04 我反对。不仅要拍照片还要拍视频😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622615522872545281",
+        "conversation_id": "1974859920400122295",
+        "created_at": "2025-10-05T15:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974859920400122295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974859920400122295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4134,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要是穿个女仆装拍照片的话  谁赞成 谁反对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 159,
+          "like_count": 1042,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 102
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T15:17:52.000Z",
+        "description": "04  直男  1i&4i 可以找我打游戏",
+        "id": "1622615522872545281",
+        "location": "石家庄",
+        "name": "面包狗的咕嘟日记",
+        "pinned_tweet_id": "1796925383142748559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657800547905449984/fQuq4kzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 141,
+          "like_count": 6899,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 190
+        },
+        "username": "mianbaogou04",
+        "verified": false
+      }
+    ]
+  }
+}

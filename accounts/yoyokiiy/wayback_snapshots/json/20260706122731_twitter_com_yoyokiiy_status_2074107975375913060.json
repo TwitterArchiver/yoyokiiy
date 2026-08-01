@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2073772449410228377",
+    "created_at": "2026-07-06T12:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074107975375913060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1876969389762990080",
+          "start": 0,
+          "username": "MegansuareDor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074107975375913060",
+    "in_reply_to_user_id": "1876969389762990080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074087592367403387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MegansuareDor 唉。🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2073772449410228377",
+        "created_at": "2026-07-06T12:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074107975375913060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1876969389762990080",
+              "start": 0,
+              "username": "MegansuareDor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074107975375913060",
+        "in_reply_to_user_id": "1876969389762990080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074087592367403387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MegansuareDor 唉。🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876969389762990080",
+        "conversation_id": "2073772449410228377",
+        "created_at": "2026-07-06T11:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074087592367403387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074087592367403387",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073772449410228377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 唉我能懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 202,
+          "like_count": 3112,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 906
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T12:29:23.000Z",
+        "description": "喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuanyuan_z6742",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuanyuan_z6742",
+                "start": 0,
+                "url": "https://t.co/nRgTdvNJR8"
+              }
+            ]
+          }
+        },
+        "id": "1876969389762990080",
+        "location": " ddlg/sub",
+        "name": "小猪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068033867584606208/eTkSgrLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 20,
+          "like_count": 1862,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/nRgTdvNJR8",
+        "username": "MegansuareDor",
+        "verified": false
+      }
+    ]
+  }
+}

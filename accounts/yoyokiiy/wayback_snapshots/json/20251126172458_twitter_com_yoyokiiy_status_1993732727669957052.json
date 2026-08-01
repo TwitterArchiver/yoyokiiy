@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1993604893358371109",
+    "created_at": "2025-11-26T17:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T18:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993732727669957052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817903432344240128",
+          "start": 0,
+          "username": "sumingbai71221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993732727669957052",
+    "in_reply_to_user_id": "1817903432344240128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993604893358371109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sumingbai71221 向他人倾诉痛苦的时候没有得到安慰而是苦难的比较，特别难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1993604893358371109",
+        "created_at": "2025-11-26T17:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T18:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993732727669957052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817903432344240128",
+              "start": 0,
+              "username": "sumingbai71221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993732727669957052",
+        "in_reply_to_user_id": "1817903432344240128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993604893358371109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumingbai71221 向他人倾诉痛苦的时候没有得到安慰而是苦难的比较，特别难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817903432344240128",
+        "conversation_id": "1993604893358371109",
+        "created_at": "2025-11-26T08:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993604893358371109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993604893358371109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1454,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉不能和舍友抱怨太多吧 可能经历都相似 刚刚搞完一个排版然后弄好了发现已经有一个文件开头是收稿了 我就有点难受跟旁边的妹子说为什么自己总是PlanB 既然不想要我的方案还让我改什么\n对床舍友就来了一句你才知道吗 呵呵我都已经三次这样了做完了都没用我的方案"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 188,
+          "like_count": 1381,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 207
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T12:42:19.000Z",
+        "description": "可以叫我小狸花/小刃呀  switch |这里有大量性欲大爆发宣泄|废话|乱七八糟写一点短打代餐|塔斯汀忠实拥护者|不聊骚不线下 回就是养胃了|提问箱放下面了记得给我塞点啥！👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sumingbai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sumingbai",
+                "start": 0,
+                "url": "https://t.co/1Pz4w1nOz0"
+              }
+            ]
+          }
+        },
+        "id": "1817903432344240128",
+        "name": "梨花刃",
+        "pinned_tweet_id": "1986494224238584243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824817551995457538/JltAQtin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2588,
+          "following_count": 1078,
+          "like_count": 41489,
+          "listed_count": 3,
+          "media_count": 389,
+          "tweet_count": 9005
+        },
+        "url": "https://t.co/1Pz4w1nOz0",
+        "username": "sumingbai71221",
+        "verified": false
+      }
+    ]
+  }
+}

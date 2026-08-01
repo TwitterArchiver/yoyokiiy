@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2061141835527958783",
+    "created_at": "2026-05-31T17:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061141835527958783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1240610586313887744",
+          "start": 3,
+          "username": "macocron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061141835527958783",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 719
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060940727757279243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @macocron: 毎回思うんだけど、彼氏彼女いる人って何がきっかけで付き合ったの？\n\n私は彼氏とか出来る気がしない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2061141835527958783",
+        "created_at": "2026-05-31T17:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061141835527958783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1240610586313887744",
+              "start": 3,
+              "username": "macocron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061141835527958783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 719
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060940727757279243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @macocron: 毎回思うんだけど、彼氏彼女いる人って何がきっかけで付き合ったの？\n\n私は彼氏とか出来る気がしない"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240610586313887744",
+        "conversation_id": "2060940727757279243",
+        "created_at": "2026-05-31T04:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060940727757279243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060940727757279243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2766,
+          "impression_count": 4315451,
+          "like_count": 32922,
+          "quote_count": 369,
+          "reply_count": 401,
+          "retweet_count": 719
+        },
+        "reply_settings": "everyone",
+        "text": "毎回思うんだけど、彼氏彼女いる人って何がきっかけで付き合ったの？\n\n私は彼氏とか出来る気がしない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 215,
+          "like_count": 2603,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-19T12:06:35.000Z",
+        "description": "(01)♀ 雑多垢。ぼざろ、ミセス🍏河瀬茉希さん✨️ RingoJams民(2026.4.29～) 無言フォロー大歓迎だよ✨️ᖛ ̫ ᖛ )",
+        "id": "1240610586313887744",
+        "location": "🇯🇵",
+        "name": "まころん",
+        "pinned_tweet_id": "1985580046040563736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977033834387656704/I4eBmnmm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 1264,
+          "like_count": 46161,
+          "listed_count": 13,
+          "media_count": 2484,
+          "tweet_count": 30756
+        },
+        "username": "macocron",
+        "verified": false
+      }
+    ]
+  }
+}

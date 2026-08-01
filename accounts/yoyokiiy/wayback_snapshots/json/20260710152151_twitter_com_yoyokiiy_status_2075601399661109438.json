@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075601388219121664",
+        "3_2075601388177113089"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075601399661109438",
+    "created_at": "2026-07-10T15:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075601399661109438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0lSnsBY1BW",
+          "end": 64,
+          "expanded_url": "https://x.com/yoyokiiy/status/2075601399661109438/photo/1",
+          "media_key": "3_2075601388219121664",
+          "start": 41,
+          "url": "https://t.co/0lSnsBY1BW"
+        },
+        {
+          "display_url": "pic.x.com/0lSnsBY1BW",
+          "end": 64,
+          "expanded_url": "https://x.com/yoyokiiy/status/2075601399661109438/photo/1",
+          "media_key": "3_2075601388177113089",
+          "start": 41,
+          "url": "https://t.co/0lSnsBY1BW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075601399661109438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和芭堤雅司机英文chat到最后到词汇量范围外了直接同声传译了哈哈哈哈哈哈感谢夸赞 https://t.co/0lSnsBY1BW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075601388219121664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4EdzAbwAANF_3.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2075601388177113089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4Edy2awAEpFXG.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075601388219121664",
+            "3_2075601388177113089"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075601399661109438",
+        "created_at": "2026-07-10T15:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075601399661109438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lSnsBY1BW",
+              "end": 64,
+              "expanded_url": "https://x.com/yoyokiiy/status/2075601399661109438/photo/1",
+              "media_key": "3_2075601388219121664",
+              "start": 41,
+              "url": "https://t.co/0lSnsBY1BW"
+            },
+            {
+              "display_url": "pic.x.com/0lSnsBY1BW",
+              "end": 64,
+              "expanded_url": "https://x.com/yoyokiiy/status/2075601399661109438/photo/1",
+              "media_key": "3_2075601388177113089",
+              "start": 41,
+              "url": "https://t.co/0lSnsBY1BW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075601399661109438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和芭堤雅司机英文chat到最后到词汇量范围外了直接同声传译了哈哈哈哈哈哈感谢夸赞 https://t.co/0lSnsBY1BW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 191,
+          "like_count": 3176,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      }
+    ]
+  }
+}

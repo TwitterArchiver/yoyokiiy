@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060252057626681518",
+    "created_at": "2026-05-29T08:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060277920405270663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2034586230881722368",
+          "start": 0,
+          "username": "hgds03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060277920405270663",
+    "in_reply_to_user_id": "2034586230881722368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060252057626681518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds03 和以前的朋友经常一个多月不联系但是都知道在心里有彼此的分量 很安心😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060252057626681518",
+        "created_at": "2026-05-29T08:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060277920405270663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2034586230881722368",
+              "start": 0,
+              "username": "hgds03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060277920405270663",
+        "in_reply_to_user_id": "2034586230881722368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060252057626681518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds03 和以前的朋友经常一个多月不联系但是都知道在心里有彼此的分量 很安心😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034586230881722368",
+        "conversation_id": "2060252057626681518",
+        "created_at": "2026-05-29T06:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060252057626681518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060252057626681518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1881,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢一些比较有安全感的关系，忙的话互相忙，想发什么就打开聊天界面碎碎念一大堆，然后继续忙，也不担心对方会烦，因为双方都明白自己的话会被认真回复，对方有空一定会回。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 213,
+          "like_count": 2561,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 711
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3754,
+          "following_count": 411,
+          "like_count": 4407,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 491
+        },
+        "username": "hgds03",
+        "verified": false
+      }
+    ]
+  }
+}

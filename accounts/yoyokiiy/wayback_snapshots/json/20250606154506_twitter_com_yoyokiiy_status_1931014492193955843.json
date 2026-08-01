@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1930882991171174776",
+    "created_at": "2025-06-06T15:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T16:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931014492193955843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1869912388558041088",
+          "start": 0,
+          "username": "pinkcrispss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931014492193955843",
+    "in_reply_to_user_id": "1869912388558041088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930882991171174776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pinkcrispss 为什么今天不是8号！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8066,
+        "height": 720,
+        "media_key": "7_1930882971801878528",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1930882971801878528/pu/img/YO0un4SZVHaqys8D.jpg",
+        "public_metrics": {
+          "view_count": 70486
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930882971801878528/pu/vid/avc1/320x320/7fCM0bXzVZLwVU7X.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930882971801878528/pu/vid/avc1/540x540/mIB33RBoXEq10QHP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930882971801878528/pu/vid/avc1/720x720/mA6X69qgOIdIFdPr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1930882971801878528/pu/pl/6yOisaVfFW7hw4O4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1930882991171174776",
+        "created_at": "2025-06-06T15:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T16:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931014492193955843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1869912388558041088",
+              "start": 0,
+              "username": "pinkcrispss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931014492193955843",
+        "in_reply_to_user_id": "1869912388558041088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930882991171174776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinkcrispss 为什么今天不是8号！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1930882971801878528"
+          ]
+        },
+        "author_id": "1869912388558041088",
+        "conversation_id": "1930882991171174776",
+        "created_at": "2025-06-06T07:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T08:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930882991171174776"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "CALEB",
+              "probability": 0.4958,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyTsjlXXY8",
+              "end": 39,
+              "expanded_url": "https://x.com/pinkcrispss/status/1930882991171174776/video/1",
+              "media_key": "7_1930882971801878528",
+              "start": 16,
+              "url": "https://t.co/iyTsjlXXY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930882991171174776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3172,
+          "impression_count": 161321,
+          "like_count": 14078,
+          "quote_count": 542,
+          "reply_count": 48,
+          "retweet_count": 1914
+        },
+        "reply_settings": "everyone",
+        "text": "CALEB IS HUNGRY https://t.co/iyTsjlXXY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "成分复杂！颜值/卡面/主线/扩写/剪辑/私设同人",
+        "id": "1897445432365821952",
+        "name": "夏未夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899672913357488128/pA9Kobnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 57,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T01:07:21.000Z",
+        "description": "love & deepspace | NOT SPOILER FREE | combat head | tiktok @pinkcrispss | 28+ | feel free to DM me abt combat | protocore build available",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "pinkcrispss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pinkcrispss.straw.page",
+                "end": 23,
+                "expanded_url": "https://pinkcrispss.straw.page",
+                "start": 0,
+                "url": "https://t.co/vyy0rnFGXb"
+              }
+            ]
+          }
+        },
+        "id": "1869912388558041088",
+        "location": "zaynie's little moon 🌙",
+        "name": "𝒔𝒖𝒛𝒖",
+        "pinned_tweet_id": "1930828654277533813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919055748270809088/ONgoBbN8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4153,
+          "following_count": 351,
+          "like_count": 23955,
+          "listed_count": 19,
+          "media_count": 1003,
+          "tweet_count": 5215
+        },
+        "url": "https://t.co/vyy0rnFGXb",
+        "username": "pinkcrispss",
+        "verified": false
+      }
+    ]
+  }
+}

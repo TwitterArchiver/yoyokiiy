@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1977695292959883679",
+    "created_at": "2025-10-14T16:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T17:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978129604985360459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1967167200059645952",
+          "start": 0,
+          "username": "aomiao_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978129604985360459",
+    "in_reply_to_user_id": "1967167200059645952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977695292959883679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aomiao_o 嗯对我刷手机没事就从衣领探进去无意义的捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1977695292959883679",
+        "created_at": "2025-10-14T16:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978129604985360459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1967167200059645952",
+              "start": 0,
+              "username": "aomiao_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978129604985360459",
+        "in_reply_to_user_id": "1967167200059645952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977695292959883679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aomiao_o 嗯对我刷手机没事就从衣领探进去无意义的捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967167200059645952",
+        "conversation_id": "1977695292959883679",
+        "created_at": "2025-10-13T11:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T12:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977695292959883679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977695292959883679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 75283,
+          "like_count": 681,
+          "quote_count": 4,
+          "reply_count": 80,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我去你们不觉得扔子很好玩吗因为有两种手感 扔头冰冰凉凉的 扔子软软滑滑的 我去我闲的没事就喜欢玩 这还买什么捏捏啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974094973529387348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 191,
+          "like_count": 1223,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 150
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T10:03:14.000Z",
+        "description": "我重生了哼哼，之前的互关我太久没回关私信我好吗我可能没注意丨防炸备用小号@mimaodemao 都可以关注丨提问箱：https://t.co/G2S19qsaAa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "mimaodemao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lll99265237548…",
+                "end": 81,
+                "expanded_url": "https://ngl.link/lll9926523754861",
+                "start": 58,
+                "url": "https://t.co/G2S19qsaAa"
+              }
+            ]
+          }
+        },
+        "id": "1967167200059645952",
+        "name": "新咪猫",
+        "pinned_tweet_id": "1975641144886501830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976214820681854976/Gma0eFO0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 109,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 353
+        },
+        "username": "aomiao_o",
+        "verified": false
+      }
+    ]
+  }
+}

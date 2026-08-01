@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065500047396007936"
+      ],
+      "media_source_tweet_id": [
+        "2065500116006367302"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2065775668349350339",
+    "created_at": "2026-06-13T12:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065775668349350339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1927334901931503616",
+          "start": 3,
+          "username": "hisyokki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fjy5v4IVgo",
+          "end": 83,
+          "expanded_url": "https://x.com/hisyokki/status/2065500116006367302/video/1",
+          "media_key": "13_2065500047396007936",
+          "start": 60,
+          "url": "https://t.co/fjy5v4IVgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065775668349350339",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 843
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065500116006367302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hisyokki: bana göre bu, bir öpücükten bile daha samimi. https://t.co/fjy5v4IVgo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23613,
+        "height": 398,
+        "media_key": "13_2065500047396007936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065500047396007936/img/x9ipv09SZjs21wKI.jpg",
+        "public_metrics": {
+          "view_count": 35264
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065500047396007936/vid/avc1/390x270/am-v4bclr3YfozvD.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065500047396007936/vid/avc1/576x398/FWI_Gx7xw3aaMC-m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065500047396007936/pl/s3Yj1ZwtyduMDBaF.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065500047396007936"
+          ],
+          "media_source_tweet_id": [
+            "2065500116006367302"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2065775668349350339",
+        "created_at": "2026-06-13T12:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065775668349350339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1927334901931503616",
+              "start": 3,
+              "username": "hisyokki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjy5v4IVgo",
+              "end": 83,
+              "expanded_url": "https://x.com/hisyokki/status/2065500116006367302/video/1",
+              "media_key": "13_2065500047396007936",
+              "start": 60,
+              "url": "https://t.co/fjy5v4IVgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065775668349350339",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 843
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065500116006367302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hisyokki: bana göre bu, bir öpücükten bile daha samimi. https://t.co/fjy5v4IVgo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065500047396007936"
+          ]
+        },
+        "author_id": "1927334901931503616",
+        "conversation_id": "2065500116006367302",
+        "created_at": "2026-06-12T18:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065500116006367302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjy5v4IVgo",
+              "end": 69,
+              "expanded_url": "https://x.com/hisyokki/status/2065500116006367302/video/1",
+              "media_key": "13_2065500047396007936",
+              "start": 46,
+              "url": "https://t.co/fjy5v4IVgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065500116006367302",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 85089,
+          "like_count": 4743,
+          "quote_count": 25,
+          "reply_count": 4,
+          "retweet_count": 843
+        },
+        "reply_settings": "everyone",
+        "text": "bana göre bu, bir öpücükten bile daha samimi. https://t.co/fjy5v4IVgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很隨意。一天可能发很多。慎关",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 214,
+          "like_count": 2740,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 761
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T12:04:02.000Z",
+        "description": "",
+        "id": "1927334901931503616",
+        "location": "Ankara, Türkiye",
+        "name": "naz",
+        "pinned_tweet_id": "2059726021054566795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040144645972258817/ifojxV3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1001,
+          "like_count": 3232,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 67
+        },
+        "username": "hisyokki",
+        "verified": false
+      }
+    ]
+  }
+}

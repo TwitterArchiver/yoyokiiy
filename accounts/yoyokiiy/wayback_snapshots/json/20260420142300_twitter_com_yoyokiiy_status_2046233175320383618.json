@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2045881484595331237",
+    "created_at": "2026-04-20T14:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046233175320383618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1806337857575145472",
+          "start": 0,
+          "username": "TLCYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046233175320383618",
+    "in_reply_to_user_id": "1806337857575145472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045881484595331237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TLCYJ 当是去旅行也值了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2045881426412007424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRuUVnbcAAsStW.jpg",
+        "width": 1037
+      },
+      {
+        "height": 1663,
+        "media_key": "3_2045881453721034752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRuV7WaIAAtkC3.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2045881484595331237",
+        "created_at": "2026-04-20T14:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046233175320383618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1806337857575145472",
+              "start": 0,
+              "username": "TLCYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046233175320383618",
+        "in_reply_to_user_id": "1806337857575145472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045881484595331237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TLCYJ 当是去旅行也值了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045881426412007424",
+            "3_2045881453721034752"
+          ]
+        },
+        "author_id": "1806337857575145472",
+        "conversation_id": "2045881484595331237",
+        "created_at": "2026-04-19T15:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045881484595331237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xz24gChFfr",
+              "end": 37,
+              "expanded_url": "https://x.com/TLCYJ/status/2045881484595331237/photo/1",
+              "media_key": "3_2045881426412007424",
+              "start": 14,
+              "url": "https://t.co/Xz24gChFfr"
+            },
+            {
+              "display_url": "pic.x.com/Xz24gChFfr",
+              "end": 37,
+              "expanded_url": "https://x.com/TLCYJ/status/2045881484595331237/photo/1",
+              "media_key": "3_2045881453721034752",
+              "start": 14,
+              "url": "https://t.co/Xz24gChFfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045881484595331237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 46887,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "起初人们以为只是一句玩笑话 https://t.co/Xz24gChFfr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "很随便的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 241,
+          "like_count": 2164,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 475
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T14:44:58.000Z",
+        "description": "88🚪好友位+回私信\n⚠️内容只有朋友圈和回消息\n把这里当情绪垃圾桶用..发癫的时候别管我",
+        "id": "1806337857575145472",
+        "location": "距离你0.5km",
+        "name": "甜辣脆鱼卷",
+        "pinned_tweet_id": "2040810577220755485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916511594919706624/cPJwMowc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 120,
+          "like_count": 1049,
+          "listed_count": 5,
+          "media_count": 267,
+          "tweet_count": 2127
+        },
+        "username": "TLCYJ",
+        "verified": false
+      }
+    ]
+  }
+}

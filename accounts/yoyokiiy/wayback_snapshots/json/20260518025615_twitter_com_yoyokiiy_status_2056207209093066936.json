@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056207193725190144"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "2056207209093066936",
+    "created_at": "2026-05-18T02:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T03:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056207209093066936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MRGtyEbzKj",
+          "end": 75,
+          "expanded_url": "https://x.com/yoyokiiy/status/2056207209093066936/photo/1",
+          "media_key": "3_2056207193725190144",
+          "start": 52,
+          "url": "https://t.co/MRGtyEbzKj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056207209093066936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢这位kyoto☺️！\n说真的北海道那组真的是人生照片了 但是停留时间不长只拍了一组照 以后还要去！ https://t.co/MRGtyEbzKj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_2056207193725190144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkdjGaXwAAtd5O.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056207193725190144"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2056207209093066936",
+        "created_at": "2026-05-18T02:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056207209093066936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRGtyEbzKj",
+              "end": 75,
+              "expanded_url": "https://x.com/yoyokiiy/status/2056207209093066936/photo/1",
+              "media_key": "3_2056207193725190144",
+              "start": 52,
+              "url": "https://t.co/MRGtyEbzKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056207209093066936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢这位kyoto☺️！\n说真的北海道那组真的是人生照片了 但是停留时间不长只拍了一组照 以后还要去！ https://t.co/MRGtyEbzKj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "乱涂乱画的日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 210,
+          "like_count": 2500,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 668
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

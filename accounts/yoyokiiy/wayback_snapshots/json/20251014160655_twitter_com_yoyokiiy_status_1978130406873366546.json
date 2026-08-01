@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1977942618635223230",
+    "created_at": "2025-10-14T16:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T17:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978130406873366546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1268203516583182337",
+          "start": 0,
+          "username": "Good9t2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978130406873366546",
+    "in_reply_to_user_id": "1268203516583182337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977942618635223230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Good9t2 我突然懂看扔的舒适感了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977942610846384129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3MQUzGbgAEfjkG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1977942618635223230",
+        "created_at": "2025-10-14T16:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978130406873366546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1268203516583182337",
+              "start": 0,
+              "username": "Good9t2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978130406873366546",
+        "in_reply_to_user_id": "1268203516583182337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977942618635223230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Good9t2 我突然懂看扔的舒适感了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977942610846384129"
+          ]
+        },
+        "author_id": "1268203516583182337",
+        "conversation_id": "1977942618635223230",
+        "created_at": "2025-10-14T03:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977942618635223230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMJGceu6vD",
+              "end": 23,
+              "expanded_url": "https://x.com/Good9t2/status/1977942618635223230/photo/1",
+              "media_key": "3_1977942610846384129",
+              "start": 0,
+              "url": "https://t.co/eMJGceu6vD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977942618635223230",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 63341,
+          "like_count": 1481,
+          "quote_count": 2,
+          "reply_count": 43,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eMJGceu6vD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "id": "1897445432365821952",
+        "location": "梦到啥说啥",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "1974094973529387348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 192,
+          "like_count": 1227,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 151
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-03T15:31:03.000Z",
+        "description": "情绪稳定 /白羊 / INFP🦋门永存 / 我很无聊请找我玩 / 喜欢任何形式的小狗 / 麦门 / feeling first / 互关可以➕V / 美女请跟我喝酒接吻做爱 匿名信箱https://t.co/NDC9L75bLb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luvsic2",
+                "end": 114,
+                "expanded_url": "https://ngl.link/luvsic2",
+                "start": 91,
+                "url": "https://t.co/NDC9L75bLb"
+              }
+            ]
+          }
+        },
+        "id": "1268203516583182337",
+        "name": "今晚有點想你",
+        "pinned_tweet_id": "1516254644342706176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516254192758767616/kSYrfwjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3992,
+          "following_count": 292,
+          "like_count": 3464,
+          "listed_count": 10,
+          "media_count": 191,
+          "tweet_count": 2225
+        },
+        "username": "Good9t2",
+        "verified": false
+      }
+    ]
+  }
+}

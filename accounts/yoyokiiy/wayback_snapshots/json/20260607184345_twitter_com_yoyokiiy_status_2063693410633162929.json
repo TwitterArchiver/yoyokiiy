@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063499835781853184",
+        "3_2063499835786006528"
+      ],
+      "media_source_tweet_id": [
+        "2063499843868447044",
+        "2063499843868447044"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2063693410633162929",
+    "created_at": "2026-06-07T18:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T19:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063693410633162929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1938108852752502784",
+          "start": 3,
+          "username": "520Seulgi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xd8fUVvNqp",
+          "end": 52,
+          "expanded_url": "https://x.com/520Seulgi/status/2063499843868447044/photo/1",
+          "media_key": "3_2063499835781853184",
+          "start": 29,
+          "url": "https://t.co/xd8fUVvNqp"
+        },
+        {
+          "display_url": "pic.x.com/xd8fUVvNqp",
+          "end": 52,
+          "expanded_url": "https://x.com/520Seulgi/status/2063499843868447044/photo/1",
+          "media_key": "3_2063499835786006528",
+          "start": 29,
+          "url": "https://t.co/xd8fUVvNqp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063693410633162929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063499843868447044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @520Seulgi: 蒽.... 做爱是啥感觉啊 https://t.co/xd8fUVvNqp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1570,
+        "media_key": "3_2063499835781853184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMGKvHasAAGZFb.jpg",
+        "width": 1206
+      },
+      {
+        "height": 895,
+        "media_key": "3_2063499835786006528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMGKvIaEAAFeyS.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063499835781853184",
+            "3_2063499835786006528"
+          ],
+          "media_source_tweet_id": [
+            "2063499843868447044",
+            "2063499843868447044"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2063693410633162929",
+        "created_at": "2026-06-07T18:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063693410633162929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1938108852752502784",
+              "start": 3,
+              "username": "520Seulgi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xd8fUVvNqp",
+              "end": 52,
+              "expanded_url": "https://x.com/520Seulgi/status/2063499843868447044/photo/1",
+              "media_key": "3_2063499835781853184",
+              "start": 29,
+              "url": "https://t.co/xd8fUVvNqp"
+            },
+            {
+              "display_url": "pic.x.com/xd8fUVvNqp",
+              "end": 52,
+              "expanded_url": "https://x.com/520Seulgi/status/2063499843868447044/photo/1",
+              "media_key": "3_2063499835786006528",
+              "start": 29,
+              "url": "https://t.co/xd8fUVvNqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063693410633162929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063499843868447044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @520Seulgi: 蒽.... 做爱是啥感觉啊 https://t.co/xd8fUVvNqp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063499835781853184",
+            "3_2063499835786006528"
+          ]
+        },
+        "author_id": "1938108852752502784",
+        "conversation_id": "2063499843868447044",
+        "created_at": "2026-06-07T05:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063499843868447044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xd8fUVvNqp",
+              "end": 37,
+              "expanded_url": "https://x.com/520Seulgi/status/2063499843868447044/photo/1",
+              "media_key": "3_2063499835781853184",
+              "start": 14,
+              "url": "https://t.co/xd8fUVvNqp"
+            },
+            {
+              "display_url": "pic.x.com/xd8fUVvNqp",
+              "end": 37,
+              "expanded_url": "https://x.com/520Seulgi/status/2063499843868447044/photo/1",
+              "media_key": "3_2063499835786006528",
+              "start": 14,
+              "url": "https://t.co/xd8fUVvNqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063499843868447044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1807,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "蒽.... 做爱是啥感觉啊 https://t.co/xd8fUVvNqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤飢渴症。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "隨意日記",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2058222485959475215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 215,
+          "like_count": 2672,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "我的生活需要 音乐 美食 和小猫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/520seulgi1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/520seulgi1",
+                "start": 0,
+                "url": "https://t.co/Pqm5wqXK3j"
+              }
+            ]
+          }
+        },
+        "id": "1938108852752502784",
+        "location": "≦10m",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "2029468162404868433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016692815770890240/wMgnuoLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4410,
+          "following_count": 431,
+          "like_count": 13155,
+          "listed_count": 1,
+          "media_count": 2485,
+          "tweet_count": 8184
+        },
+        "url": "https://t.co/Pqm5wqXK3j",
+        "username": "520Seulgi",
+        "verified": true
+      }
+    ]
+  }
+}

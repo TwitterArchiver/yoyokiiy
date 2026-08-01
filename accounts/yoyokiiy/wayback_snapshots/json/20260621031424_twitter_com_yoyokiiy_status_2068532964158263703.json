@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2068532964158263703",
+    "created_at": "2026-06-21T03:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T04:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068532964158263703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1955466922813689856",
+          "start": 3,
+          "username": "LeigheasPian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068532964158263703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068353878828224644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LeigheasPian: 我一直觉得女孩被男的压在身下操很涩情啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2068532964158263703",
+        "created_at": "2026-06-21T03:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068532964158263703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1955466922813689856",
+              "start": 3,
+              "username": "LeigheasPian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068532964158263703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068353878828224644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LeigheasPian: 我一直觉得女孩被男的压在身下操很涩情啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955466922813689856",
+        "conversation_id": "2068353878828224644",
+        "created_at": "2026-06-20T15:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068353878828224644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068353878828224644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 230177,
+          "like_count": 3635,
+          "quote_count": 14,
+          "reply_count": 214,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得女孩被男的压在身下操很涩情啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 215,
+          "like_count": 2868,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 776
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T03:11:20.000Z",
+        "description": "随缘回私信",
+        "id": "1955466922813689856",
+        "location": "Tromsø  Norway",
+        "name": "一个偶尔善良的恶魔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067489689750413312/6qKpuoqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 5,
+          "like_count": 3547,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "LeigheasPian",
+        "verified": false
+      }
+    ]
+  }
+}

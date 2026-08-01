@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2067175769273733243",
+    "created_at": "2026-06-18T08:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067522340745801916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048456934500798464",
+          "start": 0,
+          "username": "YuuzzOuass"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067522340745801916",
+    "in_reply_to_user_id": "2048456934500798464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067444584293290293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuuzzOuass 谢谢这个小宝宝😚😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2067175769273733243",
+        "created_at": "2026-06-18T08:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067522340745801916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048456934500798464",
+              "start": 0,
+              "username": "YuuzzOuass"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067522340745801916",
+        "in_reply_to_user_id": "2048456934500798464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067444584293290293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuuzzOuass 谢谢这个小宝宝😚😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048456934500798464",
+        "conversation_id": "2067175769273733243",
+        "created_at": "2026-06-18T03:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067444584293290293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067444584293290293",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067175769273733243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 有两个萌物！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 214,
+          "like_count": 2789,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T17:40:21.000Z",
+        "description": "我就每天来这发一些乱七八糟的东西",
+        "id": "2048456934500798464",
+        "name": "我说的屁话随风飘走",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048490634303164416/n7eNy7f9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 54,
+          "like_count": 2625,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 942
+        },
+        "username": "YuuzzOuass",
+        "verified": false
+      }
+    ]
+  }
+}

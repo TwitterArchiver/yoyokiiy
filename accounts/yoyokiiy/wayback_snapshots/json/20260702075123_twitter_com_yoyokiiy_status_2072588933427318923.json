@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072588867803262976",
+        "3_2072588867811557376",
+        "3_2072588867815792640"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2072588933427318923",
+    "created_at": "2026-07-02T07:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072588933427318923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RH3F9NP6LY",
+          "end": 38,
+          "expanded_url": "https://x.com/yoyokiiy/status/2072588933427318923/photo/1",
+          "media_key": "3_2072588867803262976",
+          "start": 15,
+          "url": "https://t.co/RH3F9NP6LY"
+        },
+        {
+          "display_url": "pic.x.com/RH3F9NP6LY",
+          "end": 38,
+          "expanded_url": "https://x.com/yoyokiiy/status/2072588933427318923/photo/1",
+          "media_key": "3_2072588867811557376",
+          "start": 15,
+          "url": "https://t.co/RH3F9NP6LY"
+        },
+        {
+          "display_url": "pic.x.com/RH3F9NP6LY",
+          "end": 38,
+          "expanded_url": "https://x.com/yoyokiiy/status/2072588933427318923/photo/1",
+          "media_key": "3_2072588867815792640",
+          "start": 15,
+          "url": "https://t.co/RH3F9NP6LY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072588933427318923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "考完试 多云天 微风和黄丽玲 https://t.co/RH3F9NP6LY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072588867803262976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNQmB7XsAAbjJ0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072588867811557376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNQmB9WQAAKIcU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072588867815792640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNQmB-W4AAqf9O.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072588867803262976",
+            "3_2072588867811557376",
+            "3_2072588867815792640"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2072588933427318923",
+        "created_at": "2026-07-02T07:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072588933427318923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RH3F9NP6LY",
+              "end": 38,
+              "expanded_url": "https://x.com/yoyokiiy/status/2072588933427318923/photo/1",
+              "media_key": "3_2072588867803262976",
+              "start": 15,
+              "url": "https://t.co/RH3F9NP6LY"
+            },
+            {
+              "display_url": "pic.x.com/RH3F9NP6LY",
+              "end": 38,
+              "expanded_url": "https://x.com/yoyokiiy/status/2072588933427318923/photo/1",
+              "media_key": "3_2072588867811557376",
+              "start": 15,
+              "url": "https://t.co/RH3F9NP6LY"
+            },
+            {
+              "display_url": "pic.x.com/RH3F9NP6LY",
+              "end": 38,
+              "expanded_url": "https://x.com/yoyokiiy/status/2072588933427318923/photo/1",
+              "media_key": "3_2072588867815792640",
+              "start": 15,
+              "url": "https://t.co/RH3F9NP6LY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072588933427318923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考完试 多云天 微风和黄丽玲 https://t.co/RH3F9NP6LY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜討厭裝貨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2065779462583812205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 214,
+          "like_count": 3035,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

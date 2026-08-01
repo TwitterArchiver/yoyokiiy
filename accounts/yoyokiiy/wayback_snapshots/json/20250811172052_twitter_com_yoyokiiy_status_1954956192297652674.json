@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954889978624036864"
+      ],
+      "media_source_tweet_id": [
+        "1954889989013254537"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "1954956192297652674",
+    "created_at": "2025-08-11T17:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T18:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954956192297652674"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "恋与深空"
+        },
+        {
+          "end": 59,
+          "start": 42,
+          "tag": "LoveandDeepspace"
+        },
+        {
+          "end": 65,
+          "start": 61,
+          "tag": "夏以昼"
+        },
+        {
+          "end": 73,
+          "start": 67,
+          "tag": "Caleb"
+        },
+        {
+          "end": 79,
+          "start": 74,
+          "tag": "恋と深空"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "902043522093776896",
+          "start": 3,
+          "username": "Lxlijin0808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HpmxNuctF3",
+          "end": 118,
+          "expanded_url": "https://x.com/Lxlijin0808/status/1954889989013254537/photo/1",
+          "media_key": "3_1954889978624036864",
+          "start": 95,
+          "url": "https://t.co/HpmxNuctF3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954956192297652674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954889989013254537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lxlijin0808: 我早已厌倦了和你玩儿这种过家家的游戏\n#恋与深空 #LoveandDeepspace \n#夏以昼  #Caleb #恋と深空\n我们应该做一些成年人该做的事 https://t.co/HpmxNuctF3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954956192297652674].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954956192297652674",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954956192297652674"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1954889978624036864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyEqE_7bUAAGD0Y.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954889978624036864"
+          ]
+        },
+        "author_id": "902043522093776896",
+        "conversation_id": "1954889989013254537",
+        "created_at": "2025-08-11T12:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T13:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954889989013254537"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "恋与深空"
+            },
+            {
+              "end": 42,
+              "start": 25,
+              "tag": "LoveandDeepspace"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "夏以昼"
+            },
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "Caleb"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "恋と深空"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HpmxNuctF3",
+              "end": 101,
+              "expanded_url": "https://x.com/Lxlijin0808/status/1954889989013254537/photo/1",
+              "media_key": "3_1954889978624036864",
+              "start": 78,
+              "url": "https://t.co/HpmxNuctF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954889989013254537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 7273,
+          "like_count": 838,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "我早已厌倦了和你玩儿这种过家家的游戏\n#恋与深空 #LoveandDeepspace \n#夏以昼  #Caleb #恋と深空\n我们应该做一些成年人该做的事 https://t.co/HpmxNuctF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "睡不到那个下一周我很着急",
+        "id": "1897445432365821952",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949886015193468928/yaliWiE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 130,
+          "like_count": 670,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-28T05:41:49.000Z",
+        "description": "isfp.🍎",
+        "id": "902043522093776896",
+        "location": "中华人民共和国",
+        "name": "橘花椒_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946294259990061057/uEcHSAZo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23675,
+          "following_count": 191,
+          "like_count": 7516,
+          "listed_count": 39,
+          "media_count": 445,
+          "tweet_count": 2669
+        },
+        "username": "Lxlijin0808",
+        "verified": false
+      }
+    ]
+  }
+}

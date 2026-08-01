@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2022880683677389300",
+    "created_at": "2026-02-15T03:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T04:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022880683677389300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1832308955852500995",
+          "start": 3,
+          "username": "hikari_11111111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022880683677389300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022634490431181126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hikari_11111111: 妹妹小时候经常被问“喜欢爸爸还是妈妈呀？” 这时候妹妹就会害羞局促地躲到哥哥身后说：“喜欢哥哥。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2022880683677389300",
+        "created_at": "2026-02-15T03:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022880683677389300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1832308955852500995",
+              "start": 3,
+              "username": "hikari_11111111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022880683677389300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022634490431181126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hikari_11111111: 妹妹小时候经常被问“喜欢爸爸还是妈妈呀？” 这时候妹妹就会害羞局促地躲到哥哥身后说：“喜欢哥哥。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832308955852500995",
+        "conversation_id": "2022634490431181126",
+        "created_at": "2026-02-14T11:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022634490431181126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022634490431181126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 66331,
+          "like_count": 1204,
+          "quote_count": 13,
+          "reply_count": 28,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "妹妹小时候经常被问“喜欢爸爸还是妈妈呀？” 这时候妹妹就会害羞局促地躲到哥哥身后说：“喜欢哥哥。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 200,
+          "like_count": 1709,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T06:44:41.000Z",
+        "description": "北京 男 之后可能很少出cos了…如果想入我门直接私信我就好了 想和我聊天也可以私信和我聊 私信都会回的 我话真的特别多 谢谢你们！ 这个是我的提问箱https://t.co/WWRcHh56j3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akira19923",
+                "end": 98,
+                "expanded_url": "https://ngl.link/akira19923",
+                "start": 75,
+                "url": "https://t.co/WWRcHh56j3"
+              }
+            ]
+          }
+        },
+        "id": "1832308955852500995",
+        "name": "明",
+        "pinned_tweet_id": "2015062038540890326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009957760268648448/PFnjP22P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 162,
+          "like_count": 1658,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1252
+        },
+        "username": "hikari_11111111",
+        "verified": false
+      }
+    ]
+  }
+}

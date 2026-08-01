@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2033964592750334074",
+    "created_at": "2026-03-18T16:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T17:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034306058676732109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1986488467468230656",
+          "start": 0,
+          "username": "curiositylasts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034306058676732109",
+    "in_reply_to_user_id": "1986488467468230656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033964592750334074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@curiositylasts 吓死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_2033964578976260096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDoYAhebYAAXIvw.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2033964592750334074",
+        "created_at": "2026-03-18T16:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034306058676732109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1986488467468230656",
+              "start": 0,
+              "username": "curiositylasts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034306058676732109",
+        "in_reply_to_user_id": "1986488467468230656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033964592750334074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@curiositylasts 吓死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033964578976260096"
+          ]
+        },
+        "author_id": "1986488467468230656",
+        "conversation_id": "2033964592750334074",
+        "created_at": "2026-03-17T17:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033964592750334074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gLGf4Gp26",
+              "end": 166,
+              "expanded_url": "https://x.com/curiositylasts/status/2033964592750334074/photo/1",
+              "media_key": "3_2033964578976260096",
+              "start": 143,
+              "url": "https://t.co/0gLGf4Gp26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033964592750334074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1626,
+          "like_count": 38,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特将重点好句重新归纳汇总一版供果果们空瓶用哦～\n\n寂路接管大脑 输出代替思考 昼帝生来就是TOP\n黑豹迅捷 雪豹孤高 猎豹凌锋\n官设即为上上策 天生领袖定晨昏\n\n𝟐𝟎𝟐𝟔唯一绿谱日卡 N边形战士 𝐂𝐚𝐥𝐞𝐛 天生上位者 执棋者\n预告释出引爆千万讨论\n\n畅饮芬达 品味野心家的禁忌滋味！ https://t.co/0gLGf4Gp26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症 重度恋哥癖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 223,
+          "like_count": 1916,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T17:39:07.000Z",
+        "description": "人类社会已经不可能依靠自身的力量解决自己的问题，也不可能凭借自身的力量抑制自身的疯狂。消灭人类暴政，消灭一切暴政。",
+        "id": "1986488467468230656",
+        "name": "ETO统帅(N)",
+        "pinned_tweet_id": "2030257626358165544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033904786509275137/jxLHbDcd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 87,
+          "like_count": 7455,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1318
+        },
+        "username": "curiositylasts",
+        "verified": false
+      }
+    ]
+  }
+}

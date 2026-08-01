@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2081960870859694176",
+    "created_at": "2026-07-28T08:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082026932909301787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1958074539474305024",
+          "start": 0,
+          "username": "miyagiizumi777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082026932909301787",
+    "in_reply_to_user_id": "1958074539474305024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082020607932416501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyagiizumi777 すみません🫳🏻🫳🏻不要对号入座伤害自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2081960870859694176",
+        "created_at": "2026-07-28T08:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082026932909301787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1958074539474305024",
+              "start": 0,
+              "username": "miyagiizumi777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082026932909301787",
+        "in_reply_to_user_id": "1958074539474305024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082020607932416501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyagiizumi777 すみません🫳🏻🫳🏻不要对号入座伤害自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958074539474305024",
+        "conversation_id": "2081960870859694176",
+        "created_at": "2026-07-28T08:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082020607932416501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082020607932416501",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081960870859694176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 对不起😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "友情出演「筋肉父親與棒球運動員兒子禁斷秘密」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "0.2km",
+        "name": "熟睡的妻子",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079909173740118016/ahEmuHyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 158,
+          "like_count": 3378,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 976
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T07:52:13.000Z",
+        "description": "🚹 東京 🇨🇳｜🔞音声 直男 裏垢男子 ｜ 第五世｜超级老鼠转世的奇妙河童｜爆裂魔法操作使|滥性滥情 承認欲求の塊| 不要对我有太多占有欲 ｜裏垢@Miyagiinside 52R | 喜欢我就给我钱or和我做 谢谢！\n提问箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Miyagiinside"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiwenbako.vercel.app",
+                "end": 23,
+                "expanded_url": "https://tiwenbako.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/JR672Y71Ij"
+              }
+            ]
+          }
+        },
+        "id": "1958074539474305024",
+        "location": "日本 東京",
+        "name": "宮城いずみ",
+        "pinned_tweet_id": "2078765108126474591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005620306237607936/bbssjMu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4775,
+          "following_count": 89,
+          "like_count": 10711,
+          "listed_count": 6,
+          "media_count": 149,
+          "tweet_count": 1246
+        },
+        "url": "https://t.co/JR672Y71Ij",
+        "username": "miyagiizumi777",
+        "verified": false
+      }
+    ]
+  }
+}

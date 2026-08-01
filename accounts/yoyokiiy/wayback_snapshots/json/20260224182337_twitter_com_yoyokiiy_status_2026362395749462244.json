@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2000538700309287226",
+    "created_at": "2026-02-24T18:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T19:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026362395749462244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766791677598216192",
+          "start": 0,
+          "username": "OBibabupaop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026362395749462244",
+    "in_reply_to_user_id": "1766791677598216192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000538700309287226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OBibabupaop 我来回味了…代了日系男好对胃…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2000538700309287226",
+        "created_at": "2026-02-24T18:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T19:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026362395749462244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766791677598216192",
+              "start": 0,
+              "username": "OBibabupaop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026362395749462244",
+        "in_reply_to_user_id": "1766791677598216192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000538700309287226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OBibabupaop 我来回味了…代了日系男好对胃…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766791677598216192",
+        "conversation_id": "2000538700309287226",
+        "created_at": "2025-12-15T12:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000538700309287226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000538700309287226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 51953,
+          "like_count": 992,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢那种会温温柔柔说恶劣的话的美人……\nbe like：\n已经学会很享受地被操了吧，吃鸡巴吃得很熟练了不是吗，明明每次都能很放荡地摇着屁股完全吞到底呢。\n但看到我的脸还是会忍不住害羞吗？好纯情的骚宝宝……\n啊，不对。\n原来是一边害羞一边完全湿透了的坏孩子……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 204,
+          "like_count": 1821,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 366
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T11:43:02.000Z",
+        "description": "随机生成一点乙女向R18虚构短篇，本质自娱自乐，仅供18岁以上成年人基于幻想自愿阅读。 ⚠️内容纯属虚构，不鼓励任何现实行为，请勿代入现实。 严禁截图、搬运、存档、AI训练使用。 本人仅此一号，其他平台无任何账号。 进入即视为已成年并接受全部阅读风险。",
+        "id": "1766791677598216192",
+        "name": "677（🚫搬运）",
+        "pinned_tweet_id": "1967517373734564335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988152430442553344/uEayT_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79245,
+          "following_count": 349,
+          "like_count": 226,
+          "listed_count": 67,
+          "media_count": 49,
+          "tweet_count": 1902
+        },
+        "username": "OBibabupaop",
+        "verified": false
+      }
+    ]
+  }
+}

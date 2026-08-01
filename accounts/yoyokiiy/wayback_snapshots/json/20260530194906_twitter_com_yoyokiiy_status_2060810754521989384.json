@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060696838978593112",
+    "created_at": "2026-05-30T19:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060810754521989384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902515991571304448",
+          "start": 0,
+          "username": "Morax_233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060810754521989384",
+    "in_reply_to_user_id": "1902515991571304448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060809186917941746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Morax_233 新加坡马来和hk那边都是这样，和日韩的朋友交流他们的切换都挺自如"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060696838978593112",
+        "created_at": "2026-05-30T19:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060810754521989384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902515991571304448",
+              "start": 0,
+              "username": "Morax_233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060810754521989384",
+        "in_reply_to_user_id": "1902515991571304448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060809186917941746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Morax_233 新加坡马来和hk那边都是这样，和日韩的朋友交流他们的切换都挺自如"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902515991571304448",
+        "conversation_id": "2060696838978593112",
+        "created_at": "2026-05-30T19:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060809186917941746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060809186917941746",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060696838978593112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 这个是真的，我和Singapore的local studentdaily chat 的时候，他们都是中英随意切换的，会和我讲华文，和印度人讲English"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "幸福就在我手心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 213,
+          "like_count": 2572,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T00:22:39.000Z",
+        "description": "男/已成年/如果仅通过对话就能让双方感到一丝慰藉或放松那么我会很开心/二次元阿宅/随便发着玩的/wish have feathers and wing\nChinese and English both of ok",
+        "id": "1902515991571304448",
+        "location": "新加坡",
+        "name": "Levi QIN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060359104514924545/OnoWv0iu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 112,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 142
+        },
+        "username": "Morax_233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2076337611296157983",
+    "created_at": "2026-07-13T13:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076666768454803711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1834449460484857856",
+          "start": 0,
+          "username": "mblcoffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076666768454803711",
+    "in_reply_to_user_id": "1834449460484857856",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076337611296157983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mblcoffee up（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3376,
+        "height": 1280,
+        "media_key": "13_2076337542732103680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076337542732103680/img/xjMHt8Ja1zzJNmF_.jpg",
+        "public_metrics": {
+          "view_count": 14438
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076337542732103680/vid/avc1/320x568/K_tm8k3ujJvinhTm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076337542732103680/vid/avc1/480x852/bmh0HwqKWevxtbl4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076337542732103680/vid/avc1/720x1280/0SlpbPU2CNxk7Zaf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076337542732103680/pl/6zmcEauyKTEcSFk6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2076337611296157983",
+        "created_at": "2026-07-13T13:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076666768454803711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1834449460484857856",
+              "start": 0,
+              "username": "mblcoffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076666768454803711",
+        "in_reply_to_user_id": "1834449460484857856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076337611296157983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mblcoffee up（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076337542732103680"
+          ]
+        },
+        "author_id": "1834449460484857856",
+        "conversation_id": "2076337611296157983",
+        "created_at": "2026-07-12T16:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076337611296157983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWt2qLiaI5",
+              "end": 35,
+              "expanded_url": "https://x.com/mblcoffee/status/2076337611296157983/video/1",
+              "media_key": "13_2076337542732103680",
+              "start": 12,
+              "url": "https://t.co/lWt2qLiaI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076337611296157983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 55335,
+          "like_count": 1796,
+          "quote_count": 1,
+          "reply_count": 57,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我浏览量这么低啊 https://t.co/lWt2qLiaI5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜永远不要停止感受｜皮肤飢渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "夢想是浪跡天涯。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 191,
+          "like_count": 3226,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-13T04:30:16.000Z",
+        "description": "直男 188cm 70kg 05年大三在读 提问箱https://t.co/ELILHpirye",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/junye_liu25",
+                "end": 48,
+                "expanded_url": "https://ngl.link/junye_liu25",
+                "start": 25,
+                "url": "https://t.co/ELILHpirye"
+              }
+            ]
+          }
+        },
+        "id": "1834449460484857856",
+        "location": "福州",
+        "name": "blacoffee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835212512863911936/IO0vsluS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 33,
+          "like_count": 305,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "mblcoffee",
+        "verified": false
+      }
+    ]
+  }
+}

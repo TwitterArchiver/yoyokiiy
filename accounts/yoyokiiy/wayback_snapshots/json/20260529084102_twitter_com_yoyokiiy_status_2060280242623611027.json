@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060188343288127741",
+    "created_at": "2026-05-29T08:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060280242623611027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1740588584292290560",
+          "start": 0,
+          "username": "bloodlettergirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060280242623611027",
+    "in_reply_to_user_id": "1740588584292290560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060188343288127741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bloodlettergirl 老婆你忘记回复了我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060188343288127741",
+        "created_at": "2026-05-29T08:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060280242623611027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1740588584292290560",
+              "start": 0,
+              "username": "bloodlettergirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060280242623611027",
+        "in_reply_to_user_id": "1740588584292290560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060188343288127741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bloodlettergirl 老婆你忘记回复了我！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740588584292290560",
+        "conversation_id": "2060188343288127741",
+        "created_at": "2026-05-29T02:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060188343288127741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060188343288127741",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 26512,
+          "like_count": 190,
+          "quote_count": 0,
+          "reply_count": 100,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "well, i replied to everyone and now my entire feed is in chinese"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 214,
+          "like_count": 2564,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T04:21:07.000Z",
+        "description": "♡ cw-52kg - gw-49kg - bmi 20 ♡\nanorexic - 地雷系 🎀 𓉸ྀི ݁ ˖ִ ࣪ 💉adult ! ! !",
+        "id": "1740588584292290560",
+        "location": "-16 dont dm ₊˚♡ 16+ ifb",
+        "name": "mimi ☠︎︎ 🧠🎀",
+        "pinned_tweet_id": "2054992442332430670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058369970166194176/Go1bsArm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 192,
+          "like_count": 3343,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 544
+        },
+        "username": "bloodlettergirl",
+        "verified": false
+      }
+    ]
+  }
+}

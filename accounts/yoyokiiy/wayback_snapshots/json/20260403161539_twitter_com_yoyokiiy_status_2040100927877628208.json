@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2039596107219767633",
+    "created_at": "2026-04-03T16:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040100927877628208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795050081546354688",
+          "start": 0,
+          "username": "E_bamboo_loveU"
+        },
+        {
+          "end": 32,
+          "id": "1195566448443215872",
+          "start": 16,
+          "username": "maomaomimi71526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040100927877628208",
+    "in_reply_to_user_id": "1795050081546354688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039596107219767633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@E_bamboo_loveU @maomaomimi71526 卧槽爽的要命"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_2039596104787087360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4Z2d8a0AAbvUA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2039596107219767633",
+        "created_at": "2026-04-03T16:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040100927877628208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795050081546354688",
+              "start": 0,
+              "username": "E_bamboo_loveU"
+            },
+            {
+              "end": 32,
+              "id": "1195566448443215872",
+              "start": 16,
+              "username": "maomaomimi71526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040100927877628208",
+        "in_reply_to_user_id": "1795050081546354688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039596107219767633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@E_bamboo_loveU @maomaomimi71526 卧槽爽的要命"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039596104787087360"
+          ]
+        },
+        "author_id": "1795050081546354688",
+        "conversation_id": "2039596107219767633",
+        "created_at": "2026-04-02T06:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039596107219767633"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "夏以昼"
+            },
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "caleb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Wk4UUELcr",
+              "end": 48,
+              "expanded_url": "https://x.com/E_bamboo_loveU/status/2039596107219767633/photo/1",
+              "media_key": "3_2039596104787087360",
+              "start": 25,
+              "url": "https://t.co/8Wk4UUELcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039596107219767633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 714,
+          "impression_count": 21823,
+          "like_count": 3364,
+          "quote_count": 19,
+          "reply_count": 26,
+          "retweet_count": 457
+        },
+        "reply_settings": "everyone",
+        "text": "#夏以昼 #caleb \n洗澡总是一件痛苦的事🥵 https://t.co/8Wk4UUELcr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症 重度恋哥癖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 222,
+          "like_count": 2005,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T11:11:26.000Z",
+        "description": "中文/日本語/English/恋と深空LaD🐦‍⬛🍎/ダンジョン飯🍽️/🚫讨厌乙女腐/🔞20↑/激推看了会死",
+        "id": "1795050081546354688",
+        "name": "竹师傅小火慢炖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022995875702947840/JJWew0AQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 278,
+          "like_count": 3079,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 445
+        },
+        "username": "E_bamboo_loveU",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-16T04:57:16.000Z",
+        "description": "当你打开我主页的那一刻，你就已经输得彻底了，我的观点像利刃一样已经深深扎进了你的心里，你试图反驳我可是你无能为力，所以你焦急地点开我的主页想要以我的国籍或性别或性取向来审判我，可是你输了，因为我关闭了私信，所以你无法反驳只能无能狂怒，你只能轻点“block”来试图找回一点尊严",
+        "id": "1195566448443215872",
+        "location": "CN LADs/DNI: LI haters",
+        "name": "子君的羊皮高跟鞋💜",
+        "pinned_tweet_id": "2019626140890214790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034179876891332611/YGD77rop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 532,
+          "like_count": 34916,
+          "listed_count": 3,
+          "media_count": 1958,
+          "tweet_count": 13025
+        },
+        "username": "maomaomimi71526",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2059660808993345952",
+    "created_at": "2026-05-29T02:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060192950173184413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049620040282935296",
+          "start": 0,
+          "username": "wrongspoonawake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060192950173184413",
+    "in_reply_to_user_id": "2049620040282935296",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059660808993345952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wrongspoonawake 🤝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2059660808993345952",
+        "created_at": "2026-05-29T02:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060192950173184413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049620040282935296",
+              "start": 0,
+              "username": "wrongspoonawake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060192950173184413",
+        "in_reply_to_user_id": "2049620040282935296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059660808993345952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wrongspoonawake 🤝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049620040282935296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          }
+        ],
+        "conversation_id": "2059660808993345952",
+        "created_at": "2026-05-27T15:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059660808993345952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059660808993345952",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 338,
+          "impression_count": 535159,
+          "like_count": 5853,
+          "quote_count": 32,
+          "reply_count": 102,
+          "retweet_count": 354
+        },
+        "reply_settings": "everyone",
+        "text": "sinceramente, nunca coloquei um dedo dentro de mim, só brinco com meu clitóris até gozar 😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 214,
+          "like_count": 2557,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T22:41:18.000Z",
+        "description": "@juju_ninfxx no insta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "juju_ninfxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/julialvessxbot",
+                "end": 23,
+                "expanded_url": "https://t.me/julialvessxbot",
+                "start": 0,
+                "url": "https://t.co/spbxvbegVE"
+              }
+            ]
+          }
+        },
+        "id": "2049620040282935296",
+        "name": "Kim",
+        "pinned_tweet_id": "2058209704308858969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058209222731464704/AX76uvA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/spbxvbegVE",
+        "username": "wrongspoonawake",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080706818582396928",
+        "3_2080706818611834880"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2080706860739424738",
+    "created_at": "2026-07-24T17:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080706860739424738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uy9IW70frE",
+          "end": 30,
+          "expanded_url": "https://x.com/yoyokiiy/status/2080706860739424738/photo/1",
+          "media_key": "3_2080706818582396928",
+          "start": 7,
+          "url": "https://t.co/uy9IW70frE"
+        },
+        {
+          "display_url": "pic.x.com/uy9IW70frE",
+          "end": 30,
+          "expanded_url": "https://x.com/yoyokiiy/status/2080706860739424738/photo/1",
+          "media_key": "3_2080706818611834880",
+          "start": 7,
+          "url": "https://t.co/uy9IW70frE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080706860739424738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雨天 咖啡店 https://t.co/uy9IW70frE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080706818582396928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAn09NWQAAZUcN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1566,
+        "media_key": "3_2080706818611834880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAn09UXcAAkiED.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080706818582396928",
+            "3_2080706818611834880"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080706860739424738",
+        "created_at": "2026-07-24T17:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080706860739424738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uy9IW70frE",
+              "end": 30,
+              "expanded_url": "https://x.com/yoyokiiy/status/2080706860739424738/photo/1",
+              "media_key": "3_2080706818582396928",
+              "start": 7,
+              "url": "https://t.co/uy9IW70frE"
+            },
+            {
+              "display_url": "pic.x.com/uy9IW70frE",
+              "end": 30,
+              "expanded_url": "https://x.com/yoyokiiy/status/2080706860739424738/photo/1",
+              "media_key": "3_2080706818611834880",
+              "start": 7,
+              "url": "https://t.co/uy9IW70frE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080706860739424738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雨天 咖啡店 https://t.co/uy9IW70frE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "友情出演「筋肉父親與棒球運動員兒子禁斷秘密」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "0.2km",
+        "name": "熟睡的妻子",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079909173740118016/ahEmuHyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 156,
+          "like_count": 3345,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 965
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      }
+    ]
+  }
+}

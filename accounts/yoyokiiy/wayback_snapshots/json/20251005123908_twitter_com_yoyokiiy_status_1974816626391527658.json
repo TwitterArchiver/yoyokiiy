@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "1974787241420681498",
+    "created_at": "2025-10-05T12:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T13:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974816626391527658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1121214017941323776",
+          "start": 0,
+          "username": "akf13978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974816626391527658",
+    "in_reply_to_user_id": "1121214017941323776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974787241420681498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akf13978 两人其实各有各的臭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "1974787241420681498",
+        "created_at": "2025-10-05T12:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974816626391527658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1121214017941323776",
+              "start": 0,
+              "username": "akf13978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974816626391527658",
+        "in_reply_to_user_id": "1121214017941323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974787241420681498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akf13978 两人其实各有各的臭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1121214017941323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "1974787241420681498",
+        "created_at": "2025-10-05T10:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T11:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974787241420681498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974787241420681498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 933,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别说什么推特溺爱普男普女了，好歹大家本来都是普通人，娱乐圈明星才更是离谱，虞书欣这么烂的人品和演技都能有这么多粉丝，身上真的没有什么出众的特点，还有赵露思，但凡看一眼她之前演过的电视剧的形象就知道，长相真的普通，是从今年这部剧的才好看起来的，就这样还有将近5000w粉丝……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "梦到啥说啥。安分与淫乱二象性。骨科重度爱好者。女宝们都来和我互动好不🥺",
+        "id": "1897445432365821952",
+        "name": "萌狗教主（61大王）",
+        "pinned_tweet_id": "1974489604280754606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974816223499276288/7Ltm1Krk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 149,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 91
+        },
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-25T00:47:07.000Z",
+        "description": "不常刷推/随口吐槽/碎碎念/会念念感兴趣的本/匿名箱https://t.co/j4ai6uVINK小号@akst7212",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "akst7212"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/alxg137/",
+                "end": 49,
+                "expanded_url": "https://ngl.link/alxg137/",
+                "start": 26,
+                "url": "https://t.co/j4ai6uVINK"
+              }
+            ]
+          }
+        },
+        "id": "1121214017941323776",
+        "location": "Hong Kong",
+        "name": "青由也",
+        "pinned_tweet_id": "1962152922323784161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974799926162010112/RXtPcGB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 761,
+          "like_count": 902,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 1436
+        },
+        "username": "akf13978",
+        "verified": false
+      }
+    ]
+  }
+}

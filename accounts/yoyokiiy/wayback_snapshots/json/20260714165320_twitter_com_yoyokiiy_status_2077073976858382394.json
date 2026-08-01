@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2076934399388758461",
+    "created_at": "2026-07-14T16:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077073976858382394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1622114910133002241",
+          "start": 0,
+          "username": "xsh19068663"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077073976858382394",
+    "in_reply_to_user_id": "1622114910133002241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076934399388758461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsh19068663 加一🤝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2076934399388758461",
+        "created_at": "2026-07-14T16:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077073976858382394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1622114910133002241",
+              "start": 0,
+              "username": "xsh19068663"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077073976858382394",
+        "in_reply_to_user_id": "1622114910133002241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076934399388758461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsh19068663 加一🤝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622114910133002241",
+        "conversation_id": "2076934399388758461",
+        "created_at": "2026-07-14T07:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076934399388758461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076934399388758461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2142,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人还是需要多读书多思考的，这几年大学下来感觉自己已经变成弱智，表达能力奇差无比。我重新玩 X 的初衷之一，就是想把它当成一个稳定的输出平台。希望很久以后回过头来能发现自己的进步，哪怕进步得很缓慢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CV",
+              "full_name": "Cape Verde",
+              "geo": {
+                "coordinates": [
+                  -24.0,
+                  16.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "06｜sub｜永远不要停止感受｜皮肤飢渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "天涯海角。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 196,
+          "like_count": 3274,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T06:08:55.000Z",
+        "description": "防丢小号@Kuromise887\n匿名提问链接https://t.co/od9N959uey",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Kuromise887"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%80%81%E5%8…",
+                "end": 46,
+                "expanded_url": "https://ngl.link/%E8%80%81%E5%85%AC%E7%A1%AC%E7%A1%AC%E7%9A%84%E5%8E%9F%E6%9D%A5%E6%98%AF%E6%AD%BB%E4%BA%86",
+                "start": 23,
+                "url": "https://t.co/od9N959uey"
+              }
+            ]
+          }
+        },
+        "id": "1622114910133002241",
+        "location": "2.4km  ",
+        "name": "老公硬硬的原来是死了",
+        "pinned_tweet_id": "2025389471706050656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047853531894624256/uIrZEsBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3046,
+          "following_count": 403,
+          "like_count": 2623,
+          "listed_count": 6,
+          "media_count": 287,
+          "tweet_count": 3721
+        },
+        "url": "",
+        "username": "xsh19068663",
+        "verified": false
+      }
+    ]
+  }
+}

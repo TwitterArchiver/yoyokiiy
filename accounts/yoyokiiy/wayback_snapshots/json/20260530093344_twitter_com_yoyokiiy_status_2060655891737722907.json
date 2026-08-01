@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2060655891737722907",
+    "created_at": "2026-05-30T09:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060655891737722907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1207645815428259840",
+          "start": 3,
+          "username": "poppoudamykler"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060655891737722907",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1849
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060394423934939267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poppoudamykler: vocês tem q parar de perder a individualidade quando namoram sinceramente"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2060655891737722907",
+        "created_at": "2026-05-30T09:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060655891737722907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1207645815428259840",
+              "start": 3,
+              "username": "poppoudamykler"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060655891737722907",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1849
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060394423934939267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poppoudamykler: vocês tem q parar de perder a individualidade quando namoram sinceramente"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1207645815428259840",
+        "conversation_id": "2060394423934939267",
+        "created_at": "2026-05-29T16:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060394423934939267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060394423934939267",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 366,
+          "impression_count": 151032,
+          "like_count": 11542,
+          "quote_count": 200,
+          "reply_count": 41,
+          "retweet_count": 1849
+        },
+        "reply_settings": "everyone",
+        "text": "vocês tem q parar de perder a individualidade quando namoram sinceramente"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "幸福就在我手心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2047344429397066161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 214,
+          "like_count": 2566,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 715
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-19T12:56:26.000Z",
+        "description": "love will tear us apart, again\n𓂀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/samunopp",
+                "end": 23,
+                "expanded_url": "http://instagram.com/samunopp",
+                "start": 0,
+                "url": "https://t.co/BKQQ7CAB7M"
+              }
+            ]
+          }
+        },
+        "id": "1207645815428259840",
+        "location": "in the backseat of my heart ",
+        "name": "samu txa boba jr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722411693710458880/xvmMV3WG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 700,
+          "like_count": 13920,
+          "listed_count": 1,
+          "media_count": 1299,
+          "tweet_count": 12547
+        },
+        "url": "https://t.co/BKQQ7CAB7M",
+        "username": "poppoudamykler",
+        "verified": false
+      }
+    ]
+  }
+}

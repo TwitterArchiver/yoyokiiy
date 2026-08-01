@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2057419212398948799",
+    "created_at": "2026-05-22T10:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057767581201698961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1589967071470915585",
+          "start": 0,
+          "username": "zovoe_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057767581201698961",
+    "in_reply_to_user_id": "1589967071470915585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057419212398948799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zovoe_ 所以我买了一个一插十的充电线🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2057419212398948799",
+        "created_at": "2026-05-22T10:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057767581201698961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1589967071470915585",
+              "start": 0,
+              "username": "zovoe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057767581201698961",
+        "in_reply_to_user_id": "1589967071470915585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057419212398948799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zovoe_ 所以我买了一个一插十的充电线🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589967071470915585",
+        "conversation_id": "2057419212398948799",
+        "created_at": "2026-05-21T11:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057419212398948799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057419212398948799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 241865,
+          "like_count": 2007,
+          "quote_count": 15,
+          "reply_count": 228,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "女用玩具界能不能来个秦始皇统一一下充电器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我有皮肤饥渴症",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "乱涂乱画的日记本",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2048267815459959268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012152372487680001/DH0_dqtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 212,
+          "like_count": 2518,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 683
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T13:04:36.000Z",
+        "description": "Pain, danger and love make me real again.",
+        "id": "1589967071470915585",
+        "name": "Zoeee",
+        "pinned_tweet_id": "1914963479620145555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589967253419835396/UL_AVZoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48157,
+          "following_count": 61,
+          "like_count": 693,
+          "listed_count": 128,
+          "media_count": 149,
+          "tweet_count": 643
+        },
+        "username": "zovoe_",
+        "verified": false
+      }
+    ]
+  }
+}

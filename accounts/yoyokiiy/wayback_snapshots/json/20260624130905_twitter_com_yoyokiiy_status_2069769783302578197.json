@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2069753969056845920",
+    "created_at": "2026-06-24T13:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T14:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069769783302578197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1922879057425010688",
+          "start": 0,
+          "username": "PehirzatPerhat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069769783302578197",
+    "in_reply_to_user_id": "1922879057425010688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069753969056845920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PehirzatPerhat 哎呦哎呦好甜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2069753955433717760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLk-QaYWIAAPUOc.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2069753969056845920",
+        "created_at": "2026-06-24T13:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069769783302578197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1922879057425010688",
+              "start": 0,
+              "username": "PehirzatPerhat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069769783302578197",
+        "in_reply_to_user_id": "1922879057425010688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069753969056845920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PehirzatPerhat 哎呦哎呦好甜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069753955433717760"
+          ]
+        },
+        "author_id": "1922879057425010688",
+        "conversation_id": "2069753969056845920",
+        "created_at": "2026-06-24T12:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069753969056845920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRzLAO9d3D",
+              "end": 26,
+              "expanded_url": "https://x.com/PehirzatPerhat/status/2069753969056845920/photo/1",
+              "media_key": "3_2069753955433717760",
+              "start": 3,
+              "url": "https://t.co/fRzLAO9d3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069753969056845920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后续 https://t.co/fRzLAO9d3D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "06｜sub｜碎碎念多一些偶尔丢点图片｜苦笑面对世界中｜只想长大｜关注我你只会看到一个女孩乱七八糟的奇思妙想𖨆♡𖨆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "我有皮肤飢渴症。",
+        "name": "萌狗教主",
+        "pinned_tweet_id": "2066923167218880519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066760222367219712/VnUqvJpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 211,
+          "like_count": 2953,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T04:57:57.000Z",
+        "description": "赋予客观事实最深刻的主观意义为我所用",
+        "id": "1922879057425010688",
+        "location": "Shanghai",
+        "name": "Phr_Hahalife",
+        "pinned_tweet_id": "2065124625881977170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062144231385575424/96M9hFcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 92,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "PehirzatPerhat",
+        "verified": false
+      }
+    ]
+  }
+}
