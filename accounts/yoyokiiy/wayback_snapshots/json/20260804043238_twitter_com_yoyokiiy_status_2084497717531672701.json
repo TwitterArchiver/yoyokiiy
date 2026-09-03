@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "2084497717531672701",
+    "created_at": "2026-08-04T04:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084497717531672701"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084497717531672701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道为什么我有这么个想法，东京可以一个人去很多次，但京都一定要和男朋友一起去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2084497717531672701",
+        "created_at": "2026-08-04T04:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084497717531672701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084497717531672701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么我有这么个想法，东京可以一个人去很多次，但京都一定要和男朋友一起去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "MaeTaeng",
+        "name": "caTvT",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084134203458007040/1YhBS97s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 159,
+          "like_count": 3434,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 992
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

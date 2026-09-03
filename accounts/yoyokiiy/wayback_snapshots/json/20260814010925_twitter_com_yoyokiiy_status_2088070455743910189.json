@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity includes all conversations about travel and vacation.",
+          "id": "839161975712067584",
+          "name": "Travel Actions"
+        }
+      }
+    ],
+    "conversation_id": "2088070455743910189",
+    "created_at": "2026-08-14T01:09:25.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T02:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088070455743910189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1281787943472869377",
+          "start": 3,
+          "username": "paya_paya_kun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088070455743910189",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 529
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087848197532356650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paya_paya_kun: 一人旅が好きな人は「メンタルが強い」のではなく、ADHD傾向が強い人が多い印象です。衝動的に「あっちに行きたい」「こっちに行きたい」と思うので、みんなで旅行をするよりも一人旅をする方が楽しめます。  \n\nまた「気さくな一人ぼっち」なので…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          }
+        ],
+        "conversation_id": "2088070455743910189",
+        "created_at": "2026-08-14T01:09:25.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088070455743910189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1281787943472869377",
+              "start": 3,
+              "username": "paya_paya_kun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088070455743910189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 529
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087848197532356650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paya_paya_kun: 一人旅が好きな人は「メンタルが強い」のではなく、ADHD傾向が強い人が多い印象です。衝動的に「あっちに行きたい」「こっちに行きたい」と思うので、みんなで旅行をするよりも一人旅をする方が楽しめます。  \n\nまた「気さくな一人ぼっち」なので…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1281787943472869377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          }
+        ],
+        "conversation_id": "2087848197532356650",
+        "created_at": "2026-08-13T10:26:15.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087848197532356650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087848197532356650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "一人旅が好きな人は「メンタルが強い」のではなく、ADHD傾向が強い人が多い印象です。衝動的に「あっちに行きたい」「こっちに行きたい」と思うので、みんなで旅行をするよりも一人旅をする方が楽しめます。  \n\nまた「気さくな一人ぼっち」なので 現地で友達を調達でき、さみしいと感じることもあまりありません。\n\n協調性がなく、社会から浮いていますが、生き延びる力みたいなものは強いのが特徴です。  \n\n私です。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 580,
+          "impression_count": 514207,
+          "like_count": 5254,
+          "quote_count": 296,
+          "reply_count": 58,
+          "retweet_count": 529
+        },
+        "reply_settings": "everyone",
+        "text": "一人旅が好きな人は「メンタルが強い」のではなく、ADHD傾向が強い人が多い印象です。衝動的に「あっちに行きたい」「こっちに行きたい」と思うので、みんなで旅行をするよりも一人旅をする方が楽しめます。  \n\nまた「気さくな一人ぼっち」なので"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2088070455743910189",
+        "name": "一颗芭乐提",
+        "pinned_tweet_id": "2086049653863362819",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1785731301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085165137590116352/_JthcJko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 158,
+          "like_count": 3498,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1010
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-11T03:10:42.000Z",
+        "description": "防大→陸自→流浪の民です。清濁併せ呑むタイプです。【著書】陸上自衛隊ますらお日記/飯は食えるときに食っておく寝れるときは寝る/弱さを抱きしめて、生きていく/など お仕事の話や献本はお気軽にDMどうぞ。小説も書いてます。 note→https://t.co/ysRjrKsWJn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/payapayakun",
+                "end": 138,
+                "expanded_url": "https://note.com/payapayakun",
+                "start": 115,
+                "url": "https://t.co/ysRjrKsWJn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/payapayakun/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/payapayakun/",
+                "start": 0,
+                "url": "https://t.co/1o830XJtAD"
+              }
+            ]
+          }
+        },
+        "id": "1281787943472869377",
+        "is_identity_verified": false,
+        "location": "配信リンクはAmazon Associatesを含みます。",
+        "most_recent_tweet_id": "2088058018261000391",
+        "name": "ぱやぱやくん",
+        "pinned_tweet_id": "1800912903878713414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1281787943472869377/1767075144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909819367845773313/WO5A0LAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316415,
+          "following_count": 155,
+          "like_count": 58913,
+          "listed_count": 1594,
+          "media_count": 1921,
+          "tweet_count": 40599
+        },
+        "url": "https://t.co/1o830XJtAD",
+        "username": "paya_paya_kun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

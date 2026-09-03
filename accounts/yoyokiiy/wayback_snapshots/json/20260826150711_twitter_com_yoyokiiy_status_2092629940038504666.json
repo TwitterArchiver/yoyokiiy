@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2092629940038504666",
+    "created_at": "2026-08-26T15:07:11.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092629940038504666"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092629940038504666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "狗血剧映照现实了。\n我的小闺蜜跟我分享和心选男的小暧昧了\n我好崩溃呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2092629940038504666",
+        "created_at": "2026-08-26T15:07:11.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092629940038504666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092629940038504666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗血剧映照现实了。\n我的小闺蜜跟我分享和心选男的小暧昧了\n我好崩溃呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2092629940038504666",
+        "name": "乌托邦在我这里",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1786688743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088148220111441920/68giJxHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 163,
+          "like_count": 3696,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

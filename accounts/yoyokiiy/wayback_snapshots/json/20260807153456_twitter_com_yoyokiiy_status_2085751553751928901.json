@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085751537050279936"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2085751553751928901",
+    "created_at": "2026-08-07T15:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085751553751928901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JBiYylh7tW",
+          "end": 42,
+          "expanded_url": "https://x.com/yoyokiiy/status/2085751553751928901/photo/1",
+          "media_key": "3_2085751537050279936",
+          "start": 19,
+          "url": "https://t.co/JBiYylh7tW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085751553751928901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给我推荐的都是目前不喜欢的气质类型。 https://t.co/JBiYylh7tW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1441,
+        "media_key": "3_2085751537050279936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIT-N-bYAAXSuy.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085751537050279936"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2085751553751928901",
+        "created_at": "2026-08-07T15:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085751553751928901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JBiYylh7tW",
+              "end": 42,
+              "expanded_url": "https://x.com/yoyokiiy/status/2085751553751928901/photo/1",
+              "media_key": "3_2085751537050279936",
+              "start": 19,
+              "url": "https://t.co/JBiYylh7tW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085751553751928901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我推荐的都是目前不喜欢的气质类型。 https://t.co/JBiYylh7tW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "MaeTaeng",
+        "name": "一颗芭乐提",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085165137590116352/_JthcJko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 160,
+          "like_count": 3477,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

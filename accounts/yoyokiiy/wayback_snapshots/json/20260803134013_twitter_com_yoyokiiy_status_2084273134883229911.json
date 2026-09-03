@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084273117158109184",
+        "3_2084273117107732480"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2084273134883229911",
+    "created_at": "2026-08-03T13:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084273134883229911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fSLp7nAWqN",
+          "end": 28,
+          "expanded_url": "https://x.com/yoyokiiy/status/2084273134883229911/photo/1",
+          "media_key": "3_2084273117158109184",
+          "start": 5,
+          "url": "https://t.co/fSLp7nAWqN"
+        },
+        {
+          "display_url": "pic.x.com/fSLp7nAWqN",
+          "end": 28,
+          "expanded_url": "https://x.com/yoyokiiy/status/2084273134883229911/photo/1",
+          "media_key": "3_2084273117107732480",
+          "start": 5,
+          "url": "https://t.co/fSLp7nAWqN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084273134883229911",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "江の電🚉 https://t.co/fSLp7nAWqN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2084273117158109184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzTW2sa8AAcruA.jpg",
+        "width": 744
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2084273117107732480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzTW2gaQAAum_2.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084273117158109184",
+            "3_2084273117107732480"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2084273134883229911",
+        "created_at": "2026-08-03T13:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084273134883229911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSLp7nAWqN",
+              "end": 28,
+              "expanded_url": "https://x.com/yoyokiiy/status/2084273134883229911/photo/1",
+              "media_key": "3_2084273117158109184",
+              "start": 5,
+              "url": "https://t.co/fSLp7nAWqN"
+            },
+            {
+              "display_url": "pic.x.com/fSLp7nAWqN",
+              "end": 28,
+              "expanded_url": "https://x.com/yoyokiiy/status/2084273134883229911/photo/1",
+              "media_key": "3_2084273117107732480",
+              "start": 5,
+              "url": "https://t.co/fSLp7nAWqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084273134883229911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "江の電🚉 https://t.co/fSLp7nAWqN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "MaeTaeng",
+        "name": "caTvT",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084134203458007040/1YhBS97s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 158,
+          "like_count": 3434,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 990
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

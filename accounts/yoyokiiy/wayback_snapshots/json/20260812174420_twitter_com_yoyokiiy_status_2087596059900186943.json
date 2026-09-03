@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2087583147710115980",
+    "created_at": "2026-08-12T17:44:20.000Z",
+    "display_text_range": [
+      17,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087596059900186943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1976884273543364612",
+          "start": 0,
+          "username": "azDGuucr9e47930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087596059900186943",
+    "in_reply_to_user_id": "1976884273543364612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087592391629066348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@azDGuucr9e47930 据自费留学朋友说遇到的csc都挺神的而且粉红也不少，中国留学圈比较排斥csc来的，还有就是这个项目对想润的限制挺多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2087583147710115980",
+        "created_at": "2026-08-12T17:44:20.000Z",
+        "display_text_range": [
+          17,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087596059900186943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1976884273543364612",
+              "start": 0,
+              "username": "azDGuucr9e47930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087596059900186943",
+        "in_reply_to_user_id": "1976884273543364612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087592391629066348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@azDGuucr9e47930 据自费留学朋友说遇到的csc都挺神的而且粉红也不少，中国留学圈比较排斥csc来的，还有就是这个项目对想润的限制挺多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976884273543364612",
+        "conversation_id": "2087583147710115980",
+        "created_at": "2026-08-12T17:29:46.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087592391629066348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087592391629066348",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087583147710115980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 为什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2087596059900186943",
+        "name": "一颗芭乐提",
+        "pinned_tweet_id": "2086049653863362819",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1785731301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085165137590116352/_JthcJko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 158,
+          "like_count": 3492,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1008
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T05:35:31.000Z",
+        "description": "",
+        "id": "1976884273543364612",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087592391629066348",
+        "name": "十九條魚",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060955284680613888/E2AiOS6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 58,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "azDGuucr9e47930",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

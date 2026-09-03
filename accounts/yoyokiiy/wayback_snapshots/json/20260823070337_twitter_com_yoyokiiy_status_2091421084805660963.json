@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2091421084805660963",
+    "created_at": "2026-08-23T07:03:37.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T08:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091421084805660963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "G.E.M. · 新的心跳 · Song · 2015",
+          "display_url": "open.spotify.com/track/5UAGQJmL…",
+          "end": 41,
+          "expanded_url": "https://open.spotify.com/track/5UAGQJmL7Rn4gn7wlkMyqS?si=Y29YXvtLT2Cwz-CHMmniYg&utm_source=twitter",
+          "start": 18,
+          "status": 200,
+          "title": "再見",
+          "unwound_url": "https://open.spotify.com/track/5UAGQJmL7Rn4gn7wlkMyqS?si=Y29YXvtLT2Cwz-CHMmniYg&utm_source=twitter",
+          "url": "https://t.co/fQ33VnuDHU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091421084805660963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "能否有朝一日跨越地平线听到你跟我说爱https://t.co/fQ33VnuDHU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2091421084805660963",
+        "created_at": "2026-08-23T07:03:37.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T08:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091421084805660963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "G.E.M. · 新的心跳 · Song · 2015",
+              "display_url": "open.spotify.com/track/5UAGQJmL…",
+              "end": 41,
+              "expanded_url": "https://open.spotify.com/track/5UAGQJmL7Rn4gn7wlkMyqS?si=Y29YXvtLT2Cwz-CHMmniYg&utm_source=twitter",
+              "start": 18,
+              "status": 200,
+              "title": "再見",
+              "unwound_url": "https://open.spotify.com/track/5UAGQJmL7Rn4gn7wlkMyqS?si=Y29YXvtLT2Cwz-CHMmniYg&utm_source=twitter",
+              "url": "https://t.co/fQ33VnuDHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091421084805660963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能否有朝一日跨越地平线听到你跟我说爱https://t.co/fQ33VnuDHU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2091421084805660963",
+        "name": "乌托邦在我这里",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1786688743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088148220111441920/68giJxHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 165,
+          "like_count": 3637,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1057
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

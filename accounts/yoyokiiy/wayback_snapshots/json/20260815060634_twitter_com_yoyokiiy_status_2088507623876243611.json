@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2088507623876243611",
+    "created_at": "2026-08-15T06:06:34.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088507623876243611"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088507623876243611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实奶奶被爷爷锁了一辈子。\n那时新集团招募戏曲演员，奶奶嗓子好可以拥有很好的工作机会，但是爷爷怕她见世面拿钱就会跑了，不给去；后来可以带家属进工厂也给了他女儿，所以奶奶现在也没有应得的退休金。\n奶奶也反抗过，但她妈妈，一个遭受家暴和被迫缠足的女人，劝诫她不挨打日子就能将就过下去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2088507623876243611",
+        "created_at": "2026-08-15T06:06:34.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088507623876243611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088507623876243611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实奶奶被爷爷锁了一辈子。\n那时新集团招募戏曲演员，奶奶嗓子好可以拥有很好的工作机会，但是爷爷怕她见世面拿钱就会跑了，不给去；后来可以带家属进工厂也给了他女儿，所以奶奶现在也没有应得的退休金。\n奶奶也反抗过，但她妈妈，一个遭受家暴和被迫缠足的女人，劝诫她不挨打日子就能将就过下去。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2088507623876243611",
+        "name": "乌托邦在我这里",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1786688743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088148220111441920/68giJxHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 159,
+          "like_count": 3499,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1003
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

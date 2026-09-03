@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091201024895995904"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091201038787489817",
+    "created_at": "2026-08-22T16:29:14.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T17:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091201038787489817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LIJcep1zwk",
+          "end": 35,
+          "expanded_url": "https://x.com/yoyokiiy/status/2091201038787489817/photo/1",
+          "media_key": "3_2091201024895995904",
+          "start": 12,
+          "url": "https://t.co/LIJcep1zwk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091201038787489817",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091201024895995904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回忆一个眩晕的童年瞬间 https://t.co/LIJcep1zwk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1517,
+        "media_key": "3_2091201024895995904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVwQKLb0AA-xyJ.jpg",
+        "width": 927
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091201024895995904"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091201038787489817",
+        "created_at": "2026-08-22T16:29:14.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091201038787489817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LIJcep1zwk",
+              "end": 35,
+              "expanded_url": "https://x.com/yoyokiiy/status/2091201038787489817/photo/1",
+              "media_key": "3_2091201024895995904",
+              "start": 12,
+              "url": "https://t.co/LIJcep1zwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091201038787489817",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091201024895995904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回忆一个眩晕的童年瞬间 https://t.co/LIJcep1zwk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2091201038787489817",
+        "name": "乌托邦在我这里",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1786688743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088148220111441920/68giJxHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 161,
+          "like_count": 3629,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

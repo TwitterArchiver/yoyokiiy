@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2090675756846191002",
+    "created_at": "2026-08-21T05:41:57.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090675756846191002"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090675756846191002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个朋友把我视为生命中特别重要的存在了…甚至有点幻视痴迷女主，缠着制定未来几个月我们的见面规划，我一一婉拒表示我们就算不旅行不做手工等等见面就有意义，哎，真的是有压力。\n互关们有朋友相关困扰的可以和我聊聊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2090675756846191002",
+        "created_at": "2026-08-21T05:41:57.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090675756846191002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090675756846191002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个朋友把我视为生命中特别重要的存在了…甚至有点幻视痴迷女主，缠着制定未来几个月我们的见面规划，我一一婉拒表示我们就算不旅行不做手工等等见面就有意义，哎，真的是有压力。\n互关们有朋友相关困扰的可以和我聊聊！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2090675756846191002",
+        "name": "乌托邦在我这里",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1786688743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088148220111441920/68giJxHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 154,
+          "like_count": 3541,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

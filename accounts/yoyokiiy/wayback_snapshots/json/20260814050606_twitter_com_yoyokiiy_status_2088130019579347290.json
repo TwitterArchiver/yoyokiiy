@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088129998339330048"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2088130019579347290",
+    "created_at": "2026-08-14T05:06:06.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T06:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088130019579347290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vvQsIiZQvG",
+          "end": 25,
+          "expanded_url": "https://x.com/yoyokiiy/status/2088130019579347290/photo/1",
+          "media_key": "3_2088129998339330048",
+          "start": 2,
+          "url": "https://t.co/vvQsIiZQvG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088130019579347290",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2088129998339330048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🚬 https://t.co/vvQsIiZQvG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2088129998339330048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqHK4vaUAA_b1_.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088129998339330048"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2088130019579347290",
+        "created_at": "2026-08-14T05:06:06.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088130019579347290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vvQsIiZQvG",
+              "end": 25,
+              "expanded_url": "https://x.com/yoyokiiy/status/2088130019579347290/photo/1",
+              "media_key": "3_2088129998339330048",
+              "start": 2,
+              "url": "https://t.co/vvQsIiZQvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088130019579347290",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088129998339330048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚬 https://t.co/vvQsIiZQvG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2088130019579347290",
+        "name": "一颗芭乐提",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1785731301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085165137590116352/_JthcJko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 158,
+          "like_count": 3499,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1007
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

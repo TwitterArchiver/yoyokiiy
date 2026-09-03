@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2090740141526843773",
+    "created_at": "2026-08-22T01:06:38.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T02:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090968855354990712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1732191775253774336",
+          "start": 0,
+          "username": "rivulet_for715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090968855354990712",
+    "in_reply_to_user_id": "1732191775253774336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090740141526843773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rivulet_for715 看一眼就觉得恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2090740141526843773",
+        "created_at": "2026-08-22T01:06:38.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090968855354990712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1732191775253774336",
+              "start": 0,
+              "username": "rivulet_for715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090968855354990712",
+        "in_reply_to_user_id": "1732191775253774336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090740141526843773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rivulet_for715 看一眼就觉得恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732191775253774336",
+        "conversation_id": "2090740141526843773",
+        "created_at": "2026-08-21T09:57:48.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090740141526843773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090740141526843773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10769,
+          "like_count": 399,
+          "quote_count": 7,
+          "reply_count": 50,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "我绝对不会看已经结束的关系的聊天记录\n\n因为我觉得当时我讲话太真心热情\n以至于现在的我觉得有点恶心的程度了……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2090968855354990712",
+        "name": "乌托邦在我这里",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1786688743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088148220111441920/68giJxHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 160,
+          "like_count": 3602,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1039
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-06T00:14:50.000Z",
+        "description": "水 \n｜从头细数命运由什么铸成｜\n     ｜心境每秒在注释生命｜",
+        "id": "1732191775253774336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090866215191453905",
+        "name": "shuiiuhs",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732191775253774336/1785996636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071631185856589826/t7kYUz0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 137,
+          "like_count": 27767,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 527
+        },
+        "url": "",
+        "username": "rivulet_for715",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

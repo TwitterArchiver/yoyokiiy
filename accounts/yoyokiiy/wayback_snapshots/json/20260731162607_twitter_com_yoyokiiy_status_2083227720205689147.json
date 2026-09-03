@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2083227720205689147",
+    "created_at": "2026-07-31T16:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083227720205689147"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083227720205689147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "八月和雅思、八月和练车、八月和健身、八月和规律作息、八月和护肤养生好吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2083227720205689147",
+        "created_at": "2026-07-31T16:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083227720205689147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083227720205689147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "八月和雅思、八月和练车、八月和健身、八月和规律作息、八月和护肤养生好吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "MaeTaeng",
+        "name": "熟睡的妻子",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079909173740118016/ahEmuHyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 160,
+          "like_count": 3422,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2085548857073783019",
+    "created_at": "2026-08-07T05:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T06:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085593475429364162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1944994854637068288",
+          "start": 0,
+          "username": "SuNN2MO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085593475429364162",
+    "in_reply_to_user_id": "1944994854637068288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085548857073783019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuNN2MO 卧槽我也是。直接让人滚蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2085548857073783019",
+        "created_at": "2026-08-07T05:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085593475429364162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1944994854637068288",
+              "start": 0,
+              "username": "SuNN2MO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085593475429364162",
+        "in_reply_to_user_id": "1944994854637068288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085548857073783019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuNN2MO 卧槽我也是。直接让人滚蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944994854637068288",
+        "conversation_id": "2085548857073783019",
+        "created_at": "2026-08-07T02:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085548857073783019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085548857073783019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我要是谈恋爱对方不是开玩笑地骂我傻b或者说我贱不贱这种话，我真的会让他直接滚蛋的程度\n而且我觉得要是谈恋爱我也不会用这种话来说对方……好伤感情啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "MaeTaeng",
+        "name": "一颗芭乐提",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085165137590116352/_JthcJko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 161,
+          "like_count": 3463,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 998
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:38:27.000Z",
+        "description": "我們不要在這裡，跟我回去十八歲，躲到台大校園杜鵑花叢下，不要被命運找到。",
+        "id": "1944994854637068288",
+        "name": "24°C多雲有雨適合生長❨･''⬮",
+        "pinned_tweet_id": "2034620342417907825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083687229025910785/LvH9bjZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1767,
+          "following_count": 66,
+          "like_count": 3685,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1635
+        },
+        "url": "",
+        "username": "SuNN2MO",
+        "verified": true
+      }
+    ]
+  }
+}

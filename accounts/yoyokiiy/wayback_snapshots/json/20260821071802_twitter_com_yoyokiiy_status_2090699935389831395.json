@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2090699935389831395",
+    "created_at": "2026-08-21T07:18:02.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T08:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090699935389831395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1183028604248027137",
+          "start": 3,
+          "username": "Songzjiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090699935389831395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090419305548820611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Songzjiu: 你能用你的手摸摸我的头吗\n你能用小指勾住我的小指吗\n你能重重地拥抱我吗\n你能在我哭泣时把我的眼泪抹去吗\n你的肩膀可以给我靠吗\n你能轻轻亲吻我的脸颊吗\n你能用手拨弄我的头发吗\n你能抓住我的手腕吗\n你能依偎在我的怀里闻我的味道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2090699935389831395",
+        "created_at": "2026-08-21T07:18:02.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090699935389831395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1183028604248027137",
+              "start": 3,
+              "username": "Songzjiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090699935389831395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090419305548820611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Songzjiu: 你能用你的手摸摸我的头吗\n你能用小指勾住我的小指吗\n你能重重地拥抱我吗\n你能在我哭泣时把我的眼泪抹去吗\n你的肩膀可以给我靠吗\n你能轻轻亲吻我的脸颊吗\n你能用手拨弄我的头发吗\n你能抓住我的手腕吗\n你能依偎在我的怀里闻我的味道吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183028604248027137",
+        "conversation_id": "2090419305548820611",
+        "created_at": "2026-08-20T12:42:55.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090419305548820611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090419305548820611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 17699,
+          "like_count": 101,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "你能用你的手摸摸我的头吗\n你能用小指勾住我的小指吗\n你能重重地拥抱我吗\n你能在我哭泣时把我的眼泪抹去吗\n你的肩膀可以给我靠吗\n你能轻轻亲吻我的脸颊吗\n你能用手拨弄我的头发吗\n你能抓住我的手腕吗\n你能依偎在我的怀里闻我的味道吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2090699935389831395",
+        "name": "乌托邦在我这里",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1786688743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088148220111441920/68giJxHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 154,
+          "like_count": 3563,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1029
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-12T14:36:19.000Z",
+        "description": "分享随笔黄文 性爱知识教学",
+        "id": "1183028604248027137",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090483944613703788",
+        "name": "松子酒（接交友投稿）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1183028604248027137/1582375722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993178303574790145/29wde5Bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328182,
+          "following_count": 227,
+          "like_count": 3299,
+          "listed_count": 803,
+          "media_count": 249,
+          "tweet_count": 1299
+        },
+        "url": "",
+        "username": "Songzjiu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

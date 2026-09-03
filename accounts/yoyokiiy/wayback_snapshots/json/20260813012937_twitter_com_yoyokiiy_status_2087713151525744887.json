@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2087100235801645502",
+    "created_at": "2026-08-13T01:29:37.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T02:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087713151525744887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741873315965538304",
+          "start": 0,
+          "username": "gougoujiaozhu31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087713151525744887",
+    "in_reply_to_user_id": "1741873315965538304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087100235801645502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gougoujiaozhu31 有的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_2087100189136035840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbekGgaoAAXPq6.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2087100235801645502",
+        "created_at": "2026-08-13T01:29:37.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087713151525744887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741873315965538304",
+              "start": 0,
+              "username": "gougoujiaozhu31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087713151525744887",
+        "in_reply_to_user_id": "1741873315965538304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087100235801645502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gougoujiaozhu31 有的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087100189136035840"
+          ]
+        },
+        "author_id": "1741873315965538304",
+        "conversation_id": "2087100235801645502",
+        "created_at": "2026-08-11T08:54:07.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087100235801645502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOXKmCGCkR",
+              "end": 40,
+              "expanded_url": "https://x.com/gougoujiaozhu31/status/2087100235801645502/photo/1",
+              "media_key": "3_2087100189136035840",
+              "start": 17,
+              "url": "https://t.co/KOXKmCGCkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087100235801645502",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087100189136035840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 11469,
+          "like_count": 481,
+          "quote_count": 0,
+          "reply_count": 81,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "为何我穿修身的衣服没有那种感觉？ https://t.co/KOXKmCGCkR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2087713151525744887",
+        "name": "一颗芭乐提",
+        "pinned_tweet_id": "2086049653863362819",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1785731301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085165137590116352/_JthcJko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 158,
+          "like_count": 3493,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1009
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:26:21.000Z",
+        "description": "生活本就是一地鸡毛\n🚪\n@xiaojimao123 本我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "xiaojimao123"
+              }
+            ]
+          }
+        },
+        "id": "1741873315965538304",
+        "is_identity_verified": false,
+        "location": "偏远孤岛",
+        "most_recent_tweet_id": "2087703222337290566",
+        "name": "狗狗教教主",
+        "pinned_tweet_id": "1948598206054764822",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741873315965538304/1710436177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959944857168101376/5bDpPmoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14177,
+          "following_count": 3103,
+          "like_count": 93523,
+          "listed_count": 21,
+          "media_count": 122,
+          "tweet_count": 10225
+        },
+        "url": "",
+        "username": "gougoujiaozhu31",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

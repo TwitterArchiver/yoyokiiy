@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084135167749398529",
+        "3_2084135167749480448"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2084135193292820571",
+    "created_at": "2026-08-03T04:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084135193292820571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eO86WQfXtP",
+          "end": 30,
+          "expanded_url": "https://x.com/yoyokiiy/status/2084135193292820571/photo/1",
+          "media_key": "3_2084135167749398529",
+          "start": 7,
+          "url": "https://t.co/eO86WQfXtP"
+        },
+        {
+          "display_url": "pic.x.com/eO86WQfXtP",
+          "end": 30,
+          "expanded_url": "https://x.com/yoyokiiy/status/2084135193292820571/photo/1",
+          "media_key": "3_2084135167749480448",
+          "start": 7,
+          "url": "https://t.co/eO86WQfXtP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084135193292820571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "练车偶遇萌猫 https://t.co/eO86WQfXtP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084135167749398529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxV5JGaIAEu72t.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084135167749480448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxV5JGbYAArdh7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084135167749398529",
+            "3_2084135167749480448"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2084135193292820571",
+        "created_at": "2026-08-03T04:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084135193292820571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eO86WQfXtP",
+              "end": 30,
+              "expanded_url": "https://x.com/yoyokiiy/status/2084135193292820571/photo/1",
+              "media_key": "3_2084135167749398529",
+              "start": 7,
+              "url": "https://t.co/eO86WQfXtP"
+            },
+            {
+              "display_url": "pic.x.com/eO86WQfXtP",
+              "end": 30,
+              "expanded_url": "https://x.com/yoyokiiy/status/2084135193292820571/photo/1",
+              "media_key": "3_2084135167749480448",
+              "start": 7,
+              "url": "https://t.co/eO86WQfXtP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084135193292820571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "练车偶遇萌猫 https://t.co/eO86WQfXtP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "MaeTaeng",
+        "name": "caTvT",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084134203458007040/1YhBS97s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 157,
+          "like_count": 3429,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 989
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

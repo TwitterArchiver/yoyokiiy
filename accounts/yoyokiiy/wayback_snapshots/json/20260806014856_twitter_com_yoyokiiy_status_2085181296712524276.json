@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2085173050056540574",
+    "created_at": "2026-08-06T01:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T02:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085181296712524276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018352531337031680",
+          "start": 0,
+          "username": "Papago1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085181296712524276",
+    "in_reply_to_user_id": "2018352531337031680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085178947076317238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Papago1204 可以请我来杯好茶摇一摇。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2085173050056540574",
+        "created_at": "2026-08-06T01:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085181296712524276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018352531337031680",
+              "start": 0,
+              "username": "Papago1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085181296712524276",
+        "in_reply_to_user_id": "2018352531337031680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085178947076317238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Papago1204 可以请我来杯好茶摇一摇。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018352531337031680",
+        "conversation_id": "2085173050056540574",
+        "created_at": "2026-08-06T01:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085178947076317238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085178947076317238",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085173050056540574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 喜茶好喝 有品位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "MaeTaeng",
+        "name": "一颗芭乐提",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085165137590116352/_JthcJko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 159,
+          "like_count": 3451,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1000
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T15:55:33.000Z",
+        "description": "",
+        "id": "2018352531337031680",
+        "name": "一烦",
+        "pinned_tweet_id": "2084929712804278771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018387940137996288/ZJszyU5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 181,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "Papago1204",
+        "verified": false
+      }
+    ]
+  }
+}
