@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099867403983441922",
+        "3_2099867403975016448"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2099867427266015635",
+    "created_at": "2026-09-15T14:26:22.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099867427266015635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qDbKY8Pg1D",
+          "end": 31,
+          "expanded_url": "https://x.com/yoyokiiy/status/2099867427266015635/photo/1",
+          "media_key": "3_2099867403983441922",
+          "start": 8,
+          "url": "https://t.co/qDbKY8Pg1D"
+        },
+        {
+          "display_url": "pic.x.com/qDbKY8Pg1D",
+          "end": 31,
+          "expanded_url": "https://x.com/yoyokiiy/status/2099867427266015635/photo/1",
+          "media_key": "3_2099867403975016448",
+          "start": 8,
+          "url": "https://t.co/qDbKY8Pg1D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099867427266015635",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099867403983441922"
+      },
+      {
+        "media_key": "3_2099867403975016448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那天我真哭了。 https://t.co/qDbKY8Pg1D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099867403983441922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQ6R0Ha0AIJ9xl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099867403975016448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQ6R0FaQAAcg_1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099867403983441922",
+            "3_2099867403975016448"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2099867427266015635",
+        "created_at": "2026-09-15T14:26:22.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099867427266015635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qDbKY8Pg1D",
+              "end": 31,
+              "expanded_url": "https://x.com/yoyokiiy/status/2099867427266015635/photo/1",
+              "media_key": "3_2099867403983441922",
+              "start": 8,
+              "url": "https://t.co/qDbKY8Pg1D"
+            },
+            {
+              "display_url": "pic.x.com/qDbKY8Pg1D",
+              "end": 31,
+              "expanded_url": "https://x.com/yoyokiiy/status/2099867427266015635/photo/1",
+              "media_key": "3_2099867403975016448",
+              "start": 8,
+              "url": "https://t.co/qDbKY8Pg1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099867427266015635",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099867403983441922"
+          },
+          {
+            "media_key": "3_2099867403975016448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那天我真哭了。 https://t.co/qDbKY8Pg1D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2099867427266015635",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2251,
+          "following_count": 165,
+          "like_count": 3824,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1112
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

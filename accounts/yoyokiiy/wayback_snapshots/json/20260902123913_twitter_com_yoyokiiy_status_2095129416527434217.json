@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2095129416527434217",
+    "created_at": "2026-09-02T12:39:13.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T13:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095129416527434217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "737863277074604033",
+          "start": 0,
+          "username": "0yrslfbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095129416527434217",
+    "in_reply_to_user_id": "737863277074604033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@0yrslfbb 指路小号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2095129416527434217",
+        "created_at": "2026-09-02T12:39:13.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095129416527434217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "737863277074604033",
+              "start": 0,
+              "username": "0yrslfbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095129416527434217",
+        "in_reply_to_user_id": "737863277074604033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@0yrslfbb 指路小号"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2095129416527434217",
+        "name": "乌托邦在我这里",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1786688743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088148220111441920/68giJxHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 165,
+          "like_count": 3693,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-06-01T04:28:08.000Z",
+        "description": "a hot mess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "secreto.site/id/22568355",
+                "end": 23,
+                "expanded_url": "https://secreto.site/id/22568355",
+                "start": 0,
+                "url": "https://t.co/6ZKVLRoxYm"
+              }
+            ]
+          }
+        },
+        "id": "737863277074604033",
+        "is_identity_verified": false,
+        "location": "Samarinda",
+        "most_recent_tweet_id": "1709873288246415491",
+        "name": "livlyyyyyy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/737863277074604033/1674566120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559172988653555712/A4Ry-BQ4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 576,
+          "like_count": 2326,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1621
+        },
+        "url": "https://t.co/6ZKVLRoxYm",
+        "username": "0yrslfbb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

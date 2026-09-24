@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2096954216497492435",
+    "created_at": "2026-09-08T12:35:23.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T13:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097302779446653151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1434475209709531141",
+          "start": 0,
+          "username": "LeLeLe79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097302779446653151",
+    "in_reply_to_user_id": "1434475209709531141",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096954216497492435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeLeLe79 膜拜原帖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2096954216497492435",
+        "created_at": "2026-09-08T12:35:23.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097302779446653151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1434475209709531141",
+              "start": 0,
+              "username": "LeLeLe79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097302779446653151",
+        "in_reply_to_user_id": "1434475209709531141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096954216497492435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeLeLe79 膜拜原帖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434475209709531141",
+        "conversation_id": "2096954216497492435",
+        "created_at": "2026-09-07T13:30:19.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096954216497492435"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096954216497492435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16118,
+          "impression_count": 5870267,
+          "like_count": 78260,
+          "quote_count": 1712,
+          "reply_count": 1080,
+          "retweet_count": 4119
+        },
+        "reply_settings": "everyone",
+        "text": "她说要做我的狗，我说我要用一个细细的绳子把她的阴蒂捆起来然后去花园里面遛全裸的她。她听到这话之后湿了，掰开腿问我“小阴蒂现在就想被妈妈捆起来。”我装作苦恼“你的阴蒂太小了，要被狠狠打几下才能捆起来哦。”“想被你牵着遛狗，在外面像狗一样尿尿。”她说完这话夹着腿轻喘。“变态母狗。”#女同"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2097302779446653151",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 166,
+          "like_count": 3763,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1092
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-05T11:15:36.000Z",
+        "description": "Les/ 0.5 饺子要吃烫烫的，女人要操壮壮的。厌蠢/爱国。纯爱战士。不能回复均广告。https://t.co/AZo6iz07RR匿名提问箱 小狗@hppppyX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "hppppyX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/liyang91770",
+                "end": 67,
+                "expanded_url": "https://ngl.link/liyang91770",
+                "start": 44,
+                "url": "https://t.co/AZo6iz07RR"
+              }
+            ]
+          }
+        },
+        "id": "1434475209709531141",
+        "is_identity_verified": false,
+        "location": "火星",
+        "most_recent_tweet_id": "2097302477062255025",
+        "name": "懦弱矜持",
+        "pinned_tweet_id": "1793151168253657333",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1434475209709531141/1757405569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055028476084617217/Z3_4bMnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21992,
+          "following_count": 309,
+          "like_count": 1112,
+          "listed_count": 32,
+          "media_count": 215,
+          "tweet_count": 1899
+        },
+        "url": "",
+        "username": "LeLeLe79",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2101227123616981502",
+    "created_at": "2026-09-19T08:29:19.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T09:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101227123616981502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoyokiiy/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/yoyokiiy/status/2045455479196049438",
+          "start": 34,
+          "url": "https://t.co/BNeKYw1hLp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101227123616981502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045455479196049438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这条裙子的后续是没剪吊牌就卖掉了\n因为我有点想花钱又舍不得用存的钱 https://t.co/BNeKYw1hLp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045455385960833024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLq1hQa4AAmxVZ.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045455385935609856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLq1hKaAAARhOu.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2101227123616981502",
+        "created_at": "2026-09-19T08:29:19.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101227123616981502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoyokiiy/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/yoyokiiy/status/2045455479196049438",
+              "start": 34,
+              "url": "https://t.co/BNeKYw1hLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101227123616981502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045455479196049438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这条裙子的后续是没剪吊牌就卖掉了\n因为我有点想花钱又舍不得用存的钱 https://t.co/BNeKYw1hLp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045455385960833024",
+            "3_2045455385935609856"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2045455479196049438",
+        "created_at": "2026-04-18T10:52:43.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045455479196049438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwAjbENFo2",
+              "end": 39,
+              "expanded_url": "https://x.com/yoyokiiy/status/2045455479196049438/photo/1",
+              "media_key": "3_2045455385960833024",
+              "start": 16,
+              "url": "https://t.co/iwAjbENFo2"
+            },
+            {
+              "display_url": "pic.x.com/iwAjbENFo2",
+              "end": 39,
+              "expanded_url": "https://x.com/yoyokiiy/status/2045455479196049438/photo/1",
+              "media_key": "3_2045455385935609856",
+              "start": 16,
+              "url": "https://t.co/iwAjbENFo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045455479196049438",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2045455385960833024"
+          },
+          {
+            "media_key": "3_2045455385935609856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 29000,
+          "like_count": 281,
+          "quote_count": 1,
+          "reply_count": 106,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的lolita到了我好喜欢呀 https://t.co/iwAjbENFo2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2101227123616981502",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 163,
+          "like_count": 3866,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 1129
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

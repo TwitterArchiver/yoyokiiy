@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2095546698089287818",
+    "created_at": "2026-09-04T08:35:02.000Z",
+    "display_text_range": [
+      9,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T09:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095792740890194058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1979526191347580928",
+          "start": 0,
+          "username": "Yrfq4Hs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095792740890194058",
+    "in_reply_to_user_id": "1979526191347580928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095698163281850405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yrfq4Hs 如果是没人认识的空间我也特别愿意，就算有蠢人来惹也是不足挂齿可以尽情反击。但是在有人认识的空间就会很难表露，有点像微信和朋友圈的区别吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2095546698089287818",
+        "created_at": "2026-09-04T08:35:02.000Z",
+        "display_text_range": [
+          9,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095792740890194058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1979526191347580928",
+              "start": 0,
+              "username": "Yrfq4Hs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095792740890194058",
+        "in_reply_to_user_id": "1979526191347580928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095698163281850405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yrfq4Hs 如果是没人认识的空间我也特别愿意，就算有蠢人来惹也是不足挂齿可以尽情反击。但是在有人认识的空间就会很难表露，有点像微信和朋友圈的区别吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979526191347580928",
+        "conversation_id": "2095546698089287818",
+        "created_at": "2026-09-04T02:19:12.000Z",
+        "display_text_range": [
+          10,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T03:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095698163281850405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095698163281850405",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095546698089287818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 我会喜欢在公共空间抒发，因为能吸引到同样柔软善良温和的人的共鸣。不安感来源于对部分恶人和蠢人的担忧。等他们循着味儿来惹你，这时你就可以抛下道德束缚站在某种制高点尽情地肘击他们了。算一石二鸟"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2095792740890194058",
+        "name": "乌托邦在我这里",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1786688743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088148220111441920/68giJxHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 165,
+          "like_count": 3715,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-18T12:34:42.000Z",
+        "description": "我閃你媽的這球場是我罩的",
+        "id": "1979526191347580928",
+        "is_identity_verified": false,
+        "location": "Wan Chai District, Hong Kong",
+        "most_recent_tweet_id": "2095792129444553011",
+        "name": "逐夢砵蘭街",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979526191347580928/1788329824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095184874886033410/R_UtU2jv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 177,
+          "like_count": 2537,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2104
+        },
+        "url": "",
+        "username": "Yrfq4Hs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

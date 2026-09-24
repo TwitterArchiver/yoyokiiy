@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2096845614919098464",
+    "created_at": "2026-09-07T07:45:16.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T08:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096867382912577610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1571376422668869632",
+          "start": 0,
+          "username": "Goudancapoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096867382912577610",
+    "in_reply_to_user_id": "1571376422668869632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096853623435378894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goudancapoo 哎 人 社会 金钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2096845614919098464",
+        "created_at": "2026-09-07T07:45:16.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096867382912577610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1571376422668869632",
+              "start": 0,
+              "username": "Goudancapoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096867382912577610",
+        "in_reply_to_user_id": "1571376422668869632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096853623435378894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goudancapoo 哎 人 社会 金钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571376422668869632",
+        "conversation_id": "2096845614919098464",
+        "created_at": "2026-09-07T06:50:36.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096853623435378894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096853623435378894",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096845614919098464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 研究社会的规律就是赚钱的渠道"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2096867382912577610",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 165,
+          "like_count": 3773,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-18T05:51:54.000Z",
+        "description": "📓 看书 买菜 发呆 做饭 喝酒 碎碎念",
+        "id": "1571376422668869632",
+        "is_identity_verified": false,
+        "location": "互联网公狗",
+        "most_recent_tweet_id": "2096859762268971124",
+        "name": "吃点牛肉饼",
+        "pinned_tweet_id": "2094786746202587274",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571376422668869632/1779451470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091413995593060352/ZhL8jemw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 487,
+          "like_count": 27667,
+          "listed_count": 2,
+          "media_count": 2165,
+          "tweet_count": 8117
+        },
+        "url": "",
+        "username": "Goudancapoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

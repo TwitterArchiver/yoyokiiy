@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096869480790097920"
+      ],
+      "media_source_tweet_id": [
+        "2096869486674739688"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2096927590024167581",
+    "created_at": "2026-09-07T11:44:31.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096927590024167581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581142988989747200",
+          "start": 3,
+          "username": "Zz000_9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/whIneYUdga",
+          "end": 45,
+          "expanded_url": "https://x.com/Zz000_9/status/2096869486674739688/photo/1",
+          "media_key": "3_2096869480790097920",
+          "start": 22,
+          "url": "https://t.co/whIneYUdga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096927590024167581",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096869480790097920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096869486674739688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zz000_9: 这种男孩我加您。 https://t.co/whIneYUdga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 389,
+        "media_key": "3_2096869480790097920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmTrt7aAAAx06e.jpg",
+        "width": 584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096869480790097920"
+          ],
+          "media_source_tweet_id": [
+            "2096869486674739688"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2096927590024167581",
+        "created_at": "2026-09-07T11:44:31.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096927590024167581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581142988989747200",
+              "start": 3,
+              "username": "Zz000_9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/whIneYUdga",
+              "end": 45,
+              "expanded_url": "https://x.com/Zz000_9/status/2096869486674739688/photo/1",
+              "media_key": "3_2096869480790097920",
+              "start": 22,
+              "url": "https://t.co/whIneYUdga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096927590024167581",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096869480790097920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096869486674739688",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zz000_9: 这种男孩我加您。 https://t.co/whIneYUdga"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096869480790097920"
+          ]
+        },
+        "author_id": "1581142988989747200",
+        "conversation_id": "2096869486674739688",
+        "created_at": "2026-09-07T07:53:38.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096869486674739688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/whIneYUdga",
+              "end": 32,
+              "expanded_url": "https://x.com/Zz000_9/status/2096869486674739688/photo/1",
+              "media_key": "3_2096869480790097920",
+              "start": 9,
+              "url": "https://t.co/whIneYUdga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096869486674739688",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096869480790097920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6778,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这种男孩我加您。 https://t.co/whIneYUdga"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2096927590024167581",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2207,
+          "following_count": 165,
+          "like_count": 3767,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1097
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-15T04:40:59.000Z",
+        "description": "随便发点",
+        "id": "1581142988989747200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096916353819213952",
+        "name": "^ ^",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581142988989747200/1726257988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865474576794423296/JYYJCY5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 215,
+          "like_count": 7253,
+          "listed_count": 1,
+          "media_count": 389,
+          "tweet_count": 3733
+        },
+        "url": "",
+        "username": "Zz000_9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

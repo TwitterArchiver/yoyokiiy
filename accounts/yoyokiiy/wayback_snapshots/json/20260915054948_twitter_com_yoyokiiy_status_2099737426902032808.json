@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2099532236613931443",
+    "created_at": "2026-09-15T05:49:48.000Z",
+    "display_text_range": [
+      8,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T06:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099737426902032808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1993940545706819584",
+          "start": 0,
+          "username": "ovo3oi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099737426902032808",
+    "in_reply_to_user_id": "1993940545706819584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099532236613931443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovo3oi 一样呀 这样还有人说我渣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2099532236613931443",
+        "created_at": "2026-09-15T05:49:48.000Z",
+        "display_text_range": [
+          8,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099737426902032808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1993940545706819584",
+              "start": 0,
+              "username": "ovo3oi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099737426902032808",
+        "in_reply_to_user_id": "1993940545706819584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099532236613931443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovo3oi 一样呀 这样还有人说我渣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993940545706819584",
+        "conversation_id": "2099532236613931443",
+        "created_at": "2026-09-14T16:14:27.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099532236613931443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099532236613931443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3899,
+          "like_count": 102,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我总是嘴上说着很想要谈恋爱，但单身太久导致我根本不想和另外一个人产生过深的联系。在我看来恋爱好麻烦，不仅要花很多钱，而且还得每天发消息报备维持感情。这种关系对我来说太复杂了，我又很迷恋短暂的新鲜感，这种长期关系让我感到很负担。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2099737426902032808",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 166,
+          "like_count": 3819,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1110
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-27T07:10:54.000Z",
+        "description": "剥开我萌萌的外表 得到一枚纯净的吊丝\n爱我的给我打钱 恨我的可以开始爱我了\n匿名提问👇 防走丢@dntjunjun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "dntjunjun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo3oi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovo3oi2",
+                "start": 0,
+                "url": "https://t.co/mZXfc2cC0R"
+              }
+            ]
+          }
+        },
+        "id": "1993940545706819584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099533748224282962",
+        "name": "苹什猫",
+        "pinned_tweet_id": "2050522324697571616",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1993940545706819584/1774881170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038625208815476736/_OyzoErq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 79,
+          "like_count": 4673,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 2362
+        },
+        "url": "https://t.co/mZXfc2cC0R",
+        "username": "ovo3oi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

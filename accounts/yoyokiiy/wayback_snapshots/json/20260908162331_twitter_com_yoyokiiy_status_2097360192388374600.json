@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2097360192388374600",
+    "created_at": "2026-09-08T16:23:31.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097360192388374600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097360192388374600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097198185332797704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 婚姻、性、伴侣，都只是表象。大家内心真正渴望的，是一段能彼此照亮、互相滋养的正向亲密关系，一个能深度对话、真正“看见”你、与你灵魂契合的伙伴。这无疑是人生顶级的奢侈品，可遇不可求。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2097360192388374600",
+        "created_at": "2026-09-08T16:23:31.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097360192388374600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097360192388374600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097198185332797704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 婚姻、性、伴侣，都只是表象。大家内心真正渴望的，是一段能彼此照亮、互相滋养的正向亲密关系，一个能深度对话、真正“看见”你、与你灵魂契合的伙伴。这无疑是人生顶级的奢侈品，可遇不可求。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2097198185332797704",
+        "created_at": "2026-09-08T05:39:46.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097198185332797704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097198185332797704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 13769,
+          "like_count": 385,
+          "quote_count": 9,
+          "reply_count": 31,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "婚姻、性、伴侣，都只是表象。大家内心真正渴望的，是一段能彼此照亮、互相滋养的正向亲密关系，一个能深度对话、真正“看见”你、与你灵魂契合的伙伴。这无疑是人生顶级的奢侈品，可遇不可求。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2097360192388374600",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 166,
+          "like_count": 3771,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097359552337564061",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2094788050329141292",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11975,
+          "following_count": 5,
+          "like_count": 1220,
+          "listed_count": 36,
+          "media_count": 169,
+          "tweet_count": 3682
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2096227758774919662",
+    "created_at": "2026-09-06T12:39:27.000Z",
+    "display_text_range": [
+      11,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096579029776384108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1832664562086060032",
+          "start": 0,
+          "username": "Amy526969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096579029776384108",
+    "in_reply_to_user_id": "1832664562086060032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096566088712487261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amy526969 来个精致般配的男人或许就不羞耻了😭🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2096227758774919662",
+        "created_at": "2026-09-06T12:39:27.000Z",
+        "display_text_range": [
+          11,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096579029776384108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832664562086060032",
+              "start": 0,
+              "username": "Amy526969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096579029776384108",
+        "in_reply_to_user_id": "1832664562086060032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096566088712487261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amy526969 来个精致般配的男人或许就不羞耻了😭🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832664562086060032",
+        "conversation_id": "2096227758774919662",
+        "created_at": "2026-09-06T11:48:02.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096566088712487261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096566088712487261",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096227758774919662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 我也是，但是我有点精致羞耻😤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2096579029776384108",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 165,
+          "like_count": 3765,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-08T06:17:50.000Z",
+        "description": "宝贝们可以叫我艾米｜防走丢小号： @mili07190 ｜提问箱 https://t.co/mQpJze4fzI｜我来这里想骂谁就骂谁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "mili07190"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amy81021",
+                "end": 56,
+                "expanded_url": "https://ngl.link/amy81021",
+                "start": 33,
+                "url": "https://t.co/mQpJze4fzI"
+              }
+            ]
+          }
+        },
+        "id": "1832664562086060032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096579018153755012",
+        "name": "amy",
+        "pinned_tweet_id": "2012493963584770511",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832664562086060032/1726908072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931712353025822720/lfj_LOPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3207,
+          "following_count": 179,
+          "like_count": 23070,
+          "listed_count": 3,
+          "media_count": 585,
+          "tweet_count": 8774
+        },
+        "url": "",
+        "username": "Amy526969",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

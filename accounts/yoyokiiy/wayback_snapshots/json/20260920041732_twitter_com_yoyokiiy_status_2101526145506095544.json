@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2100985190801948899",
+    "created_at": "2026-09-20T04:17:32.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T05:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101526145506095544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1324943600929529857",
+          "start": 0,
+          "username": "chucaorenlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101526145506095544",
+    "in_reply_to_user_id": "1324943600929529857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100985190801948899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chucaorenlei 我偷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2100985190801948899",
+        "created_at": "2026-09-20T04:17:32.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T05:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101526145506095544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1324943600929529857",
+              "start": 0,
+              "username": "chucaorenlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101526145506095544",
+        "in_reply_to_user_id": "1324943600929529857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100985190801948899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chucaorenlei 我偷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324943600929529857",
+        "conversation_id": "2100985190801948899",
+        "created_at": "2026-09-18T16:27:58.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100985190801948899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100985190801948899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9874,
+          "like_count": 225,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "今年不会再乱买什么 丝袜 眼罩 夹子 低温蜡烛 止咬器 口球 后塞 项圈 皮鞭 藤条 手脚束缚器 什么乱七八糟的东西了 我要买五常大米 买花生油 买柴米油盐酱醋茶 我要转型做家庭主夫 我要做个笨男人 我要让我未来的爱人爱我 不仅是我会做饭 知道他喜欢什么 想要什么 我要让我成为无人代替的有趣灵魂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2101526145506095544",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 163,
+          "like_count": 3866,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-07T05:15:55.000Z",
+        "description": "重新自我介绍下吧💔爱哭脾气不好💔胆小💔强迫症💔喜欢自闭💔成绩差打游戏菜💔满口脏话💔矫情爱吃醋💔爱生气喜欢听歌💔睡觉吃东西缺乏安全感💔熬夜洁癖💔爱黏人话多不自信💔爱他脑子有病💔内向难以控制情绪💔 如果有天我变坏了💔善良也不在了💔就别把我往回拽了💔更别说你爱了💔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chucaorenlei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chucaorenlei",
+                "start": 0,
+                "url": "https://t.co/9MGsrQXWp4"
+              }
+            ]
+          }
+        },
+        "id": "1324943600929529857",
+        "is_identity_verified": false,
+        "location": "不会卖萌的不要跟我讲话 我看到冰冷的文字就聊不下去",
+        "most_recent_tweet_id": "2101361910663008734",
+        "name": "除草人类",
+        "pinned_tweet_id": "2005516941327524139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1324943600929529857/1763077722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053175513053536260/JMOBufQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6040,
+          "following_count": 620,
+          "like_count": 1392,
+          "listed_count": 20,
+          "media_count": 218,
+          "tweet_count": 1756
+        },
+        "url": "https://t.co/9MGsrQXWp4",
+        "username": "chucaorenlei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

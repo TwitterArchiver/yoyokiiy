@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2098302821632540695",
+    "created_at": "2026-09-11T06:49:11.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T07:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098302821632540695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513444882865856516",
+          "start": 3,
+          "username": "thorino10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098302821632540695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097774227613163738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thorino10: 和朋友处得好，无论同性还是异性，完全是因为互相能够去性别地一眼看到彼此的闪光点，即最可爱可贵之处，并礼貌真诚地欣赏与信任，精神的吸引以至靠近有时仅仅是取暖，或者玩耍。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2098302821632540695",
+        "created_at": "2026-09-11T06:49:11.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098302821632540695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513444882865856516",
+              "start": 3,
+              "username": "thorino10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098302821632540695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097774227613163738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thorino10: 和朋友处得好，无论同性还是异性，完全是因为互相能够去性别地一眼看到彼此的闪光点，即最可爱可贵之处，并礼貌真诚地欣赏与信任，精神的吸引以至靠近有时仅仅是取暖，或者玩耍。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513444882865856516",
+        "conversation_id": "2097774227613163738",
+        "created_at": "2026-09-09T19:48:45.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097774227613163738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097774227613163738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 818,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "和朋友处得好，无论同性还是异性，完全是因为互相能够去性别地一眼看到彼此的闪光点，即最可爱可贵之处，并礼貌真诚地欣赏与信任，精神的吸引以至靠近有时仅仅是取暖，或者玩耍。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2098302821632540695",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 165,
+          "like_count": 3776,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1098
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-11T09:12:57.000Z",
+        "description": "你从不道别，你闷着头往前走，顺手接过命运递到你手上的东西，不管它是什么。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thorino10",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thorino10",
+                "start": 0,
+                "url": "https://t.co/ofjPiybh3V"
+              }
+            ]
+          }
+        },
+        "id": "1513444882865856516",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098097286031270358",
+        "name": "日内瓦十六夜",
+        "pinned_tweet_id": "1920530931422724192",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1513444882865856516/1717081873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977356427384721408/9V-JtoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7095,
+          "following_count": 489,
+          "like_count": 21222,
+          "listed_count": 25,
+          "media_count": 487,
+          "tweet_count": 7000
+        },
+        "url": "https://t.co/ofjPiybh3V",
+        "username": "thorino10",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

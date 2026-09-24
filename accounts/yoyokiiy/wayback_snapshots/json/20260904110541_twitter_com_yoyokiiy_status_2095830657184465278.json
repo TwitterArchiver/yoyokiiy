@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095830637735448576"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2095830657184465278",
+    "created_at": "2026-09-04T11:05:41.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T12:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095830657184465278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aMXbsuuxJL",
+          "end": 50,
+          "expanded_url": "https://x.com/yoyokiiy/status/2095830657184465278/photo/1",
+          "media_key": "3_2095830637735448576",
+          "start": 27,
+          "url": "https://t.co/aMXbsuuxJL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095830657184465278",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095830637735448576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘴上说只能建立toxic关系的我看到纯爱番还是这样： https://t.co/aMXbsuuxJL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2095830637735448576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXi3F-aEAArkeC.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095830637735448576"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2095830657184465278",
+        "created_at": "2026-09-04T11:05:41.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095830657184465278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aMXbsuuxJL",
+              "end": 50,
+              "expanded_url": "https://x.com/yoyokiiy/status/2095830657184465278/photo/1",
+              "media_key": "3_2095830637735448576",
+              "start": 27,
+              "url": "https://t.co/aMXbsuuxJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095830657184465278",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095830637735448576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘴上说只能建立toxic关系的我看到纯爱番还是这样： https://t.co/aMXbsuuxJL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2095830657184465278",
+        "name": "乌托邦在我这里",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1786688743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088148220111441920/68giJxHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 165,
+          "like_count": 3712,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

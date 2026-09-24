@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2100894299407675610",
+    "created_at": "2026-09-18T10:26:48.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100894299407675610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817746725811179520",
+          "start": 3,
+          "username": "shujing_sub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100894299407675610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100252646649311643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shujing_sub: 为什么推特上有优质内容的dom寥寥无几啊，全是辱骂女性以及性压抑的文字，一点也没有对ds关系的真知灼见，也没有自己的想法，给我一种公狗饥渴难耐的感觉，看了内容就觉得刺眼，让人很难有关注的欲望，就更不可能主动私信了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2100894299407675610",
+        "created_at": "2026-09-18T10:26:48.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100894299407675610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817746725811179520",
+              "start": 3,
+              "username": "shujing_sub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100894299407675610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100252646649311643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shujing_sub: 为什么推特上有优质内容的dom寥寥无几啊，全是辱骂女性以及性压抑的文字，一点也没有对ds关系的真知灼见，也没有自己的想法，给我一种公狗饥渴难耐的感觉，看了内容就觉得刺眼，让人很难有关注的欲望，就更不可能主动私信了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817746725811179520",
+        "conversation_id": "2100252646649311643",
+        "created_at": "2026-09-16T15:57:06.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100252646649311643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100252646649311643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 150846,
+          "like_count": 1687,
+          "quote_count": 10,
+          "reply_count": 202,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "为什么推特上有优质内容的dom寥寥无几啊，全是辱骂女性以及性压抑的文字，一点也没有对ds关系的真知灼见，也没有自己的想法，给我一种公狗饥渴难耐的感觉，看了内容就觉得刺眼，让人很难有关注的欲望，就更不可能主动私信了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2100894299407675610",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 166,
+          "like_count": 3851,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 1123
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-29T02:19:43.000Z",
+        "description": "可可爱爱的伤官女一枚啊",
+        "id": "1817746725811179520",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2100853459251785765",
+        "name": "舒婧",
+        "pinned_tweet_id": "2023078908879683749",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817746725811179520/1781395659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817747237822464000/UgmgCOqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 346,
+          "like_count": 101,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 640
+        },
+        "url": "",
+        "username": "shujing_sub",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

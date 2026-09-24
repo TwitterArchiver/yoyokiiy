@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2096470057589334501",
+    "created_at": "2026-09-06T09:18:55.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096528562878869565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2034946103507038209",
+          "start": 0,
+          "username": "namelily01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096528562878869565",
+    "in_reply_to_user_id": "2034946103507038209",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096492526953996612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@namelily01 🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2096470057589334501",
+        "created_at": "2026-09-06T09:18:55.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096528562878869565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2034946103507038209",
+              "start": 0,
+              "username": "namelily01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096528562878869565",
+        "in_reply_to_user_id": "2034946103507038209",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096492526953996612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@namelily01 🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034946103507038209",
+        "conversation_id": "2096470057589334501",
+        "created_at": "2026-09-06T06:55:44.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096492526953996612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096492526953996612",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096470057589334501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 那很美了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2096528562878869565",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 164,
+          "like_count": 3759,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-20T10:52:25.000Z",
+        "description": "",
+        "id": "2034946103507038209",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096521501608673679",
+        "name": "yois",
+        "pinned_tweet_id": "2074150205059150194",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2034946103507038209/1774004272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045403745039929344/wFGiBP1Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1321
+        },
+        "url": "",
+        "username": "namelily01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

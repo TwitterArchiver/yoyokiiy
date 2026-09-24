@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2101631958535024699",
+    "created_at": "2026-09-20T11:18:00.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T12:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101631958535024699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1895012275741958147",
+          "start": 3,
+          "username": "ElysiaNorelax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101631958535024699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101527890903138535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElysiaNorelax: “我想了解你”才是最沉重的情话\n我不只想了解你的喜恶，你的经历，你的志向，你的愿望\n我还想了解你的痛苦，你的悲伤，你难以启齿的幻想，你不可言说的秘密，你飘忽不定的思绪，你天衣无缝的伪装\n想了解你在不同人面前，不同关系中的不同形象和表现\n这意…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2101631958535024699",
+        "created_at": "2026-09-20T11:18:00.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101631958535024699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1895012275741958147",
+              "start": 3,
+              "username": "ElysiaNorelax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101631958535024699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101527890903138535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ElysiaNorelax: “我想了解你”才是最沉重的情话\n我不只想了解你的喜恶，你的经历，你的志向，你的愿望\n我还想了解你的痛苦，你的悲伤，你难以启齿的幻想，你不可言说的秘密，你飘忽不定的思绪，你天衣无缝的伪装\n想了解你在不同人面前，不同关系中的不同形象和表现\n这意…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895012275741958147",
+        "conversation_id": "2101527890903138535",
+        "created_at": "2026-09-20T04:24:28.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T05:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101527890903138535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101527890903138535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3335,
+          "like_count": 157,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "“我想了解你”才是最沉重的情话\n我不只想了解你的喜恶，你的经历，你的志向，你的愿望\n我还想了解你的痛苦，你的悲伤，你难以启齿的幻想，你不可言说的秘密，你飘忽不定的思绪，你天衣无缝的伪装\n想了解你在不同人面前，不同关系中的不同形象和表现\n这意味着：我不止想成为你的挚友、恋人、同好，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2101631958535024699",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 163,
+          "like_count": 3867,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 1133
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T07:25:19.000Z",
+        "description": "04直男，211应心毕业，一个永远业余的心理学爱好者，情绪控制大师，你的电子好友\n欢迎向我提问↓↓↓\nhttps://t.co/Rt0zKKShIk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/elysia49853",
+                "end": 74,
+                "expanded_url": "https://ngl.link/elysia49853",
+                "start": 51,
+                "url": "https://t.co/Rt0zKKShIk"
+              }
+            ]
+          }
+        },
+        "id": "1895012275741958147",
+        "is_identity_verified": false,
+        "location": "已然遥远的理想之城",
+        "most_recent_tweet_id": "2101629455181435279",
+        "name": "Elysia",
+        "pinned_tweet_id": "2100054412588953968",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096171233050038273/brNow9Bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 40,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "ElysiaNorelax",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

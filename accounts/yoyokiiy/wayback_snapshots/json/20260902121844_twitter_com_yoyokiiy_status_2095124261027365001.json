@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095124240752058369"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2095124261027365001",
+    "created_at": "2026-09-02T12:18:44.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T13:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095124261027365001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OohgUI08C6",
+          "end": 34,
+          "expanded_url": "https://x.com/yoyokiiy/status/2095124261027365001/photo/1",
+          "media_key": "3_2095124240752058369",
+          "start": 11,
+          "url": "https://t.co/OohgUI08C6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095124261027365001",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095124240752058369"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "閨蜜說今天化的像整的 https://t.co/OohgUI08C6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095124240752058369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNgZYJWIAEpHG5.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095124240752058369"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2095124261027365001",
+        "created_at": "2026-09-02T12:18:44.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095124261027365001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OohgUI08C6",
+              "end": 34,
+              "expanded_url": "https://x.com/yoyokiiy/status/2095124261027365001/photo/1",
+              "media_key": "3_2095124240752058369",
+              "start": 11,
+              "url": "https://t.co/OohgUI08C6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095124261027365001",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095124240752058369"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "閨蜜說今天化的像整的 https://t.co/OohgUI08C6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "我是一切 我爱一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2095124261027365001",
+        "name": "乌托邦在我这里",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1786688743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088148220111441920/68giJxHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 165,
+          "like_count": 3690,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

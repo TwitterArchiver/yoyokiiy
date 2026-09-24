@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2098631464460112292",
+    "created_at": "2026-09-12T05:49:41.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T06:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098650232237989891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1908850461891026945",
+          "start": 0,
+          "username": "qwykoou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098650232237989891",
+    "in_reply_to_user_id": "1908850461891026945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098631464460112292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwykoou 加一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2098631464460112292",
+        "created_at": "2026-09-12T05:49:41.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098650232237989891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1908850461891026945",
+              "start": 0,
+              "username": "qwykoou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098650232237989891",
+        "in_reply_to_user_id": "1908850461891026945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098631464460112292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwykoou 加一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908850461891026945",
+        "conversation_id": "2098631464460112292",
+        "created_at": "2026-09-12T04:35:06.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098631464460112292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098631464460112292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 800,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然放了15天我已经不知道该怎么办该去哪玩了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2098650232237989891",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 165,
+          "like_count": 3804,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T11:53:17.000Z",
+        "description": "我素小湫/小咪｜07sub｜不收🚪不闲聊｜电子宠物一枚｜小号@nomadnoamd，只过部分人，防被封",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "nomadnoamd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwykoou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwykoou",
+                "start": 0,
+                "url": "https://t.co/YKFhe6RwoX"
+              }
+            ]
+          }
+        },
+        "id": "1908850461891026945",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098642701088702503",
+        "name": "愈合",
+        "pinned_tweet_id": "2026604947043995930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908850461891026945/1771641203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044103811808276483/4oUebaKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4382,
+          "following_count": 315,
+          "like_count": 5682,
+          "listed_count": 3,
+          "media_count": 141,
+          "tweet_count": 2978
+        },
+        "url": "https://t.co/YKFhe6RwoX",
+        "username": "qwykoou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

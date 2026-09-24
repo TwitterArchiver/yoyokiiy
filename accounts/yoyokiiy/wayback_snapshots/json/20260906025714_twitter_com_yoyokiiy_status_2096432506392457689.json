@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096235929040240640",
+        "3_2096235938342916098",
+        "3_2096235947507564544",
+        "3_2096235957347381250"
+      ],
+      "media_source_tweet_id": [
+        "2096235966277071056",
+        "2096235966277071056",
+        "2096235966277071056",
+        "2096235966277071056"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2096432506392457689",
+    "created_at": "2026-09-06T02:57:14.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T03:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096432506392457689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741480096727195648",
+          "start": 3,
+          "username": "purelivn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ffTarfUAS",
+          "end": 52,
+          "expanded_url": "https://x.com/purelivn/status/2096235966277071056/photo/1",
+          "media_key": "3_2096235929040240640",
+          "start": 29,
+          "url": "https://t.co/0ffTarfUAS"
+        },
+        {
+          "display_url": "pic.x.com/0ffTarfUAS",
+          "end": 52,
+          "expanded_url": "https://x.com/purelivn/status/2096235966277071056/photo/1",
+          "media_key": "3_2096235938342916098",
+          "start": 29,
+          "url": "https://t.co/0ffTarfUAS"
+        },
+        {
+          "display_url": "pic.x.com/0ffTarfUAS",
+          "end": 52,
+          "expanded_url": "https://x.com/purelivn/status/2096235966277071056/photo/1",
+          "media_key": "3_2096235947507564544",
+          "start": 29,
+          "url": "https://t.co/0ffTarfUAS"
+        },
+        {
+          "display_url": "pic.x.com/0ffTarfUAS",
+          "end": 52,
+          "expanded_url": "https://x.com/purelivn/status/2096235966277071056/photo/1",
+          "media_key": "3_2096235957347381250",
+          "start": 29,
+          "url": "https://t.co/0ffTarfUAS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096432506392457689",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2096235929040240640"
+      },
+      {
+        "media_key": "3_2096235938342916098"
+      },
+      {
+        "media_key": "3_2096235947507564544"
+      },
+      {
+        "media_key": "3_2096235957347381250"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 307
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096235966277071056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @purelivn: Tuscany, Italy https://t.co/0ffTarfUAS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2096235929040240640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdTeJvawAAgCS1.jpg",
+        "width": 736
+      },
+      {
+        "height": 1189,
+        "media_key": "3_2096235938342916098",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdTesZWUAIPIqA.jpg",
+        "width": 735
+      },
+      {
+        "height": 1288,
+        "media_key": "3_2096235947507564544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdTfOiXwAAEmsd.jpg",
+        "width": 736
+      },
+      {
+        "height": 979,
+        "media_key": "3_2096235957347381250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdTfzMXcAIjaa6.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096235929040240640",
+            "3_2096235938342916098",
+            "3_2096235947507564544",
+            "3_2096235957347381250"
+          ],
+          "media_source_tweet_id": [
+            "2096235966277071056",
+            "2096235966277071056",
+            "2096235966277071056",
+            "2096235966277071056"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2096432506392457689",
+        "created_at": "2026-09-06T02:57:14.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096432506392457689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741480096727195648",
+              "start": 3,
+              "username": "purelivn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ffTarfUAS",
+              "end": 52,
+              "expanded_url": "https://x.com/purelivn/status/2096235966277071056/photo/1",
+              "media_key": "3_2096235929040240640",
+              "start": 29,
+              "url": "https://t.co/0ffTarfUAS"
+            },
+            {
+              "display_url": "pic.x.com/0ffTarfUAS",
+              "end": 52,
+              "expanded_url": "https://x.com/purelivn/status/2096235966277071056/photo/1",
+              "media_key": "3_2096235938342916098",
+              "start": 29,
+              "url": "https://t.co/0ffTarfUAS"
+            },
+            {
+              "display_url": "pic.x.com/0ffTarfUAS",
+              "end": 52,
+              "expanded_url": "https://x.com/purelivn/status/2096235966277071056/photo/1",
+              "media_key": "3_2096235947507564544",
+              "start": 29,
+              "url": "https://t.co/0ffTarfUAS"
+            },
+            {
+              "display_url": "pic.x.com/0ffTarfUAS",
+              "end": 52,
+              "expanded_url": "https://x.com/purelivn/status/2096235966277071056/photo/1",
+              "media_key": "3_2096235957347381250",
+              "start": 29,
+              "url": "https://t.co/0ffTarfUAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096432506392457689",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096235929040240640"
+          },
+          {
+            "media_key": "3_2096235938342916098"
+          },
+          {
+            "media_key": "3_2096235947507564544"
+          },
+          {
+            "media_key": "3_2096235957347381250"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096235966277071056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @purelivn: Tuscany, Italy https://t.co/0ffTarfUAS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096235929040240640",
+            "3_2096235938342916098",
+            "3_2096235947507564544",
+            "3_2096235957347381250"
+          ]
+        },
+        "author_id": "1741480096727195648",
+        "conversation_id": "2096235966277071056",
+        "created_at": "2026-09-05T13:56:15.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096235966277071056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ffTarfUAS",
+              "end": 38,
+              "expanded_url": "https://x.com/purelivn/status/2096235966277071056/photo/1",
+              "media_key": "3_2096235929040240640",
+              "start": 15,
+              "url": "https://t.co/0ffTarfUAS"
+            },
+            {
+              "display_url": "pic.x.com/0ffTarfUAS",
+              "end": 38,
+              "expanded_url": "https://x.com/purelivn/status/2096235966277071056/photo/1",
+              "media_key": "3_2096235938342916098",
+              "start": 15,
+              "url": "https://t.co/0ffTarfUAS"
+            },
+            {
+              "display_url": "pic.x.com/0ffTarfUAS",
+              "end": 38,
+              "expanded_url": "https://x.com/purelivn/status/2096235966277071056/photo/1",
+              "media_key": "3_2096235947507564544",
+              "start": 15,
+              "url": "https://t.co/0ffTarfUAS"
+            },
+            {
+              "display_url": "pic.x.com/0ffTarfUAS",
+              "end": 38,
+              "expanded_url": "https://x.com/purelivn/status/2096235966277071056/photo/1",
+              "media_key": "3_2096235957347381250",
+              "start": 15,
+              "url": "https://t.co/0ffTarfUAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096235966277071056",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096235929040240640"
+          },
+          {
+            "media_key": "3_2096235938342916098"
+          },
+          {
+            "media_key": "3_2096235947507564544"
+          },
+          {
+            "media_key": "3_2096235957347381250"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 24591,
+          "like_count": 2157,
+          "quote_count": 19,
+          "reply_count": 22,
+          "retweet_count": 307
+        },
+        "reply_settings": "everyone",
+        "text": "Tuscany, Italy https://t.co/0ffTarfUAS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2096432506392457689",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 164,
+          "like_count": 3749,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-31T15:23:16.000Z",
+        "description": "peace in simplicity, life in nature 🍃",
+        "id": "1741480096727195648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096420117244702845",
+        "name": "𝑝𝑢𝑟𝑒",
+        "pinned_tweet_id": "2074635128140165626",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741480096727195648/1765531667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941937713910775808/6lJmq8Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164324,
+          "following_count": 52,
+          "like_count": 23302,
+          "listed_count": 421,
+          "media_count": 4959,
+          "tweet_count": 5238
+        },
+        "url": "",
+        "username": "purelivn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2096191640440295680",
+    "created_at": "2026-09-05T11:16:11.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096195686857355412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1788937644988325888",
+          "start": 0,
+          "username": "Erii_Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096195686857355412",
+    "in_reply_to_user_id": "1788937644988325888",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096195421278490816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erii_Rei 😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2096191640440295680",
+        "created_at": "2026-09-05T11:16:11.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096195686857355412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788937644988325888",
+              "start": 0,
+              "username": "Erii_Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096195686857355412",
+        "in_reply_to_user_id": "1788937644988325888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096195421278490816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erii_Rei 😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788937644988325888",
+        "conversation_id": "2096191640440295680",
+        "created_at": "2026-09-05T11:15:08.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096195421278490816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096195421278490816",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096191640440295680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 享受"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2096195686857355412",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 163,
+          "like_count": 3718,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-10T14:23:20.000Z",
+        "description": "",
+        "id": "1788937644988325888",
+        "is_identity_verified": false,
+        "location": "🛏",
+        "most_recent_tweet_id": "2096195421278490816",
+        "name": "Ayanami",
+        "pinned_tweet_id": "2095544672928362728",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095460587568599040/PykK_WSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 251,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "Erii_Rei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
