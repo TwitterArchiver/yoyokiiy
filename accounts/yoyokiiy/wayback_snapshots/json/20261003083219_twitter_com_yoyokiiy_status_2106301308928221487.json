@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106008494511968256"
+      ],
+      "media_source_tweet_id": [
+        "2106008502745571565"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2106301308928221487",
+    "created_at": "2026-10-03T08:32:19.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106301308928221487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2022573851847143424",
+          "start": 3,
+          "username": "_missbanter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WkMdxCpOO2",
+          "end": 40,
+          "expanded_url": "https://x.com/_missbanter/status/2106008502745571565/photo/1",
+          "media_key": "3_2106008494511968256",
+          "start": 17,
+          "url": "https://t.co/WkMdxCpOO2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106301308928221487",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2106008494511968256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1002
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106008502745571565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_missbanter: https://t.co/WkMdxCpOO2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2106008494511968256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToLkVFXUAAPL9d.jpg",
+        "width": 824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106008494511968256"
+          ],
+          "media_source_tweet_id": [
+            "2106008502745571565"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2106301308928221487",
+        "created_at": "2026-10-03T08:32:19.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106301308928221487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2022573851847143424",
+              "start": 3,
+              "username": "_missbanter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WkMdxCpOO2",
+              "end": 40,
+              "expanded_url": "https://x.com/_missbanter/status/2106008502745571565/photo/1",
+              "media_key": "3_2106008494511968256",
+              "start": 17,
+              "url": "https://t.co/WkMdxCpOO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106301308928221487",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106008494511968256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1002
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106008502745571565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_missbanter: https://t.co/WkMdxCpOO2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106008494511968256"
+          ]
+        },
+        "author_id": "2022573851847143424",
+        "conversation_id": "2106008502745571565",
+        "created_at": "2026-10-02T13:08:49.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106008502745571565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WkMdxCpOO2",
+              "end": 23,
+              "expanded_url": "https://x.com/_missbanter/status/2106008502745571565/photo/1",
+              "media_key": "3_2106008494511968256",
+              "start": 0,
+              "url": "https://t.co/WkMdxCpOO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106008502745571565",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106008494511968256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 42862,
+          "like_count": 4793,
+          "quote_count": 26,
+          "reply_count": 3,
+          "retweet_count": 1002
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WkMdxCpOO2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2106301308928221487",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 164,
+          "like_count": 4025,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-14T07:29:38.000Z",
+        "description": "where girlhood meets humor 🌷",
+        "id": "2022573851847143424",
+        "is_identity_verified": true,
+        "location": "global ",
+        "most_recent_tweet_id": "2106114732092731405",
+        "name": "ᘛ❥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022573851847143424/1785011638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081115715948408832/xEDtN9VB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7539,
+          "following_count": 176,
+          "like_count": 39105,
+          "listed_count": 14,
+          "media_count": 6596,
+          "tweet_count": 7706
+        },
+        "url": "",
+        "username": "_missbanter",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

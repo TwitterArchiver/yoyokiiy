@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2109218504419463639",
+    "created_at": "2026-10-11T10:19:10.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T11:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109227300718039120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024798549008072704",
+          "start": 0,
+          "username": "ovocakeuui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109227300718039120",
+    "in_reply_to_user_id": "2024798549008072704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109218504419463639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovocakeuui 我明明什么都没做啊。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2109218504419463639].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2109218504419463639",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2109218504419463639"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2109218504419463639",
+        "created_at": "2026-10-11T10:19:10.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T11:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109227300718039120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024798549008072704",
+              "start": 0,
+              "username": "ovocakeuui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109227300718039120",
+        "in_reply_to_user_id": "2024798549008072704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109218504419463639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovocakeuui 我明明什么都没做啊。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2109227300718039120",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2072159993210548714",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 156,
+          "like_count": 4160,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 1232
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-20T10:49:42.000Z",
+        "description": "我不玩推特了宝宝们",
+        "id": "2024798549008072704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100194566611833235",
+        "name": "梅渍小番茄",
+        "pinned_tweet_id": "2100986933585584475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024798549008072704/1786548950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077725756441194497/RR70y1To_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8648,
+          "following_count": 22,
+          "like_count": 3708,
+          "listed_count": 22,
+          "media_count": 189,
+          "tweet_count": 5884
+        },
+        "url": "",
+        "username": "ovocakeuui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

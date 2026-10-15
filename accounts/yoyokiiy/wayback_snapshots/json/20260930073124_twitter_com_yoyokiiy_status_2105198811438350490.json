@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2105198811438350490",
+    "created_at": "2026-09-30T07:31:24.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T08:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105198811438350490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hyper3go/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/hyper3go/status/2104954768800264269",
+          "start": 15,
+          "url": "https://t.co/cUIGhpWsBS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105198811438350490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104954768800264269",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要物色这种给我家男孩穿了。 https://t.co/cUIGhpWsBS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2104954759518281729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZNM4Va4AEcW5C.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104954759488917504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZNM4Oa0AAGAB2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2105198811438350490",
+        "created_at": "2026-09-30T07:31:24.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105198811438350490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyper3go/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/hyper3go/status/2104954768800264269",
+              "start": 15,
+              "url": "https://t.co/cUIGhpWsBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105198811438350490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104954768800264269",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要物色这种给我家男孩穿了。 https://t.co/cUIGhpWsBS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104954759518281729",
+            "3_2104954759488917504"
+          ]
+        },
+        "author_id": "1843246891997474816",
+        "conversation_id": "2104954768800264269",
+        "created_at": "2026-09-29T15:21:39.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T16:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104954768800264269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jj4uu3oEow",
+              "end": 41,
+              "expanded_url": "https://x.com/hyper3go/status/2104954768800264269/photo/1",
+              "media_key": "3_2104954759518281729",
+              "start": 18,
+              "url": "https://t.co/Jj4uu3oEow"
+            },
+            {
+              "display_url": "pic.x.com/Jj4uu3oEow",
+              "end": 41,
+              "expanded_url": "https://x.com/hyper3go/status/2104954768800264269/photo/1",
+              "media_key": "3_2104954759488917504",
+              "start": 18,
+              "url": "https://t.co/Jj4uu3oEow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104954768800264269",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104954759518281729"
+          },
+          {
+            "media_key": "3_2104954759488917504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 946,
+          "impression_count": 108831,
+          "like_count": 4734,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "i can be pretty4U https://t.co/Jj4uu3oEow"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2105198811438350490",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 164,
+          "like_count": 3991,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T11:08:08.000Z",
+        "description": "22 / mdni",
+        "id": "1843246891997474816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105172342339199345",
+        "name": "a",
+        "pinned_tweet_id": "2100969442520011123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843246891997474816/1786358402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089203057368449024/D2XH5WmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3542,
+          "following_count": 108,
+          "like_count": 1251,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "hyper3go",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

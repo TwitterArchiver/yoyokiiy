@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108103359173435394",
+        "3_2108103359177637889"
+      ]
+    },
+    "author_id": "1897445432365821952",
+    "conversation_id": "2108103376839848088",
+    "created_at": "2026-10-08T07:53:06.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T08:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108103376839848088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wXo6NM2XCo",
+          "end": 87,
+          "expanded_url": "https://x.com/yoyokiiy/status/2108103376839848088/photo/1",
+          "media_key": "3_2108103359173435394",
+          "start": 64,
+          "url": "https://t.co/wXo6NM2XCo"
+        },
+        {
+          "display_url": "pic.x.com/wXo6NM2XCo",
+          "end": 87,
+          "expanded_url": "https://x.com/yoyokiiy/status/2108103376839848088/photo/1",
+          "media_key": "3_2108103359177637889",
+          "start": 64,
+          "url": "https://t.co/wXo6NM2XCo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108103376839848088",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108103359173435394"
+      },
+      {
+        "media_key": "3_2108103359177637889"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闺蜜们明天是定情日的话穿哪套啊！\n\n去江边看落日再吃个饭\n1文艺点 帽子可以遮我发际线冒出来的痘\n2女人味 如果拍照应该很好看 https://t.co/wXo6NM2XCo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2108103359173435394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUF81gFXIAIYD9m.jpg",
+        "width": 1396
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2108103359177637889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUF81gGXQAEmtdL.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108103359173435394",
+            "3_2108103359177637889"
+          ]
+        },
+        "author_id": "1897445432365821952",
+        "conversation_id": "2108103376839848088",
+        "created_at": "2026-10-08T07:53:06.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T08:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108103376839848088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXo6NM2XCo",
+              "end": 87,
+              "expanded_url": "https://x.com/yoyokiiy/status/2108103376839848088/photo/1",
+              "media_key": "3_2108103359173435394",
+              "start": 64,
+              "url": "https://t.co/wXo6NM2XCo"
+            },
+            {
+              "display_url": "pic.x.com/wXo6NM2XCo",
+              "end": 87,
+              "expanded_url": "https://x.com/yoyokiiy/status/2108103376839848088/photo/1",
+              "media_key": "3_2108103359177637889",
+              "start": 64,
+              "url": "https://t.co/wXo6NM2XCo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108103376839848088",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108103359173435394"
+          },
+          {
+            "media_key": "3_2108103359177637889"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜们明天是定情日的话穿哪套啊！\n\n去江边看落日再吃个饭\n1文艺点 帽子可以遮我发际线冒出来的痘\n2女人味 如果拍照应该很好看 https://t.co/wXo6NM2XCo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2108103376839848088",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 156,
+          "like_count": 4118,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 1200
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

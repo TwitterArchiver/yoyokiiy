@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2108103376839848088",
+    "created_at": "2026-10-08T11:24:50.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T12:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108156660435067027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2082166310650413057",
+          "start": 0,
+          "username": "Dorisxx2a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108156660435067027",
+    "in_reply_to_user_id": "2082166310650413057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108153153262899387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dorisxx2a 感谢详评！哦坤呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2108103376839848088",
+        "created_at": "2026-10-08T11:24:50.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T12:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108156660435067027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2082166310650413057",
+              "start": 0,
+              "username": "Dorisxx2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108156660435067027",
+        "in_reply_to_user_id": "2082166310650413057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108153153262899387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dorisxx2a 感谢详评！哦坤呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082166310650413057",
+        "conversation_id": "2108103376839848088",
+        "created_at": "2026-10-08T11:10:53.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T12:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108153153262899387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897445432365821952",
+              "start": 0,
+              "username": "yoyokiiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108153153262899387",
+        "in_reply_to_user_id": "1897445432365821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108103376839848088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyokiiy 1感觉又正式又舒服 2的话感觉有些日常呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2108156660435067027",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 156,
+          "like_count": 4129,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T18:09:03.000Z",
+        "description": "07 I can speak English and Chinese. welcome to DM me 🥺 关于我的在置顶及评论区 泛性恋 infp学建筑的 性别不明 私信都会回关注的一般都会回关 很幼稚精神病碎碎念 不约 爱口嗨耍起爱找乐子 私信大欢迎",
+        "id": "2082166310650413057",
+        "is_identity_verified": false,
+        "location": "苏州来耍",
+        "most_recent_tweet_id": "2108154349675594220",
+        "name": "Doris",
+        "pinned_tweet_id": "2095720111181328575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082166310650413057/1785262815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089890287107891200/xTnfi77K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 169,
+          "like_count": 6260,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1223
+        },
+        "url": "",
+        "username": "Dorisxx2a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2103920107332526419",
+    "created_at": "2026-09-27T03:41:03.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T04:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104053678470844790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938108852752502784",
+          "start": 0,
+          "username": "520Seulgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104053678470844790",
+    "in_reply_to_user_id": "1938108852752502784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103920107332526419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Seulgi 我笑不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2103920107332526419",
+        "created_at": "2026-09-27T03:41:03.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104053678470844790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938108852752502784",
+              "start": 0,
+              "username": "520Seulgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104053678470844790",
+        "in_reply_to_user_id": "1938108852752502784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103920107332526419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Seulgi 我笑不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938108852752502784",
+        "conversation_id": "2103920107332526419",
+        "created_at": "2026-09-26T18:50:17.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T19:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103920107332526419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/poca2381/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/poca2381/status/2103690880955855121",
+              "start": 14,
+              "url": "https://t.co/MkXHX6yZ6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103920107332526419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103690880955855121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好诡异.. 像龟头.... https://t.co/MkXHX6yZ6Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2104053678470844790",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2276,
+          "following_count": 164,
+          "like_count": 3936,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "我的生活需要 音乐 美食 和姜涩琪\n恋人：@Moguchaozhurou\ndy🎵：520Seulgi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "Moguchaozhurou"
+              }
+            ]
+          }
+        },
+        "id": "1938108852752502784",
+        "is_identity_verified": false,
+        "location": "≦10m",
+        "most_recent_tweet_id": "2103920107332526419",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "2065064205238321443",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938108852752502784/1769652027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016692815770890240/wMgnuoLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4979,
+          "following_count": 384,
+          "like_count": 13673,
+          "listed_count": 2,
+          "media_count": 2685,
+          "tweet_count": 8869
+        },
+        "url": "",
+        "username": "520Seulgi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

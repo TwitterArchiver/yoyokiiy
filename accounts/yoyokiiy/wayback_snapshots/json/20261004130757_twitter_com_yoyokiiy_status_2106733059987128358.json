@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2106387149201543621",
+    "created_at": "2026-10-04T13:07:57.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T14:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106733059987128358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1890591824391397376",
+          "start": 0,
+          "username": "YiQuandbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106733059987128358",
+    "in_reply_to_user_id": "1890591824391397376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106387149201543621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiQuandbn 我有个朋友爱加全糖…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2106387149201543621",
+        "created_at": "2026-10-04T13:07:57.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106733059987128358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1890591824391397376",
+              "start": 0,
+              "username": "YiQuandbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106733059987128358",
+        "in_reply_to_user_id": "1890591824391397376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106387149201543621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiQuandbn 我有个朋友爱加全糖…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890591824391397376",
+        "conversation_id": "2106387149201543621",
+        "created_at": "2026-10-03T14:13:25.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106387149201543621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106387149201543621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1450,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我朋友有多嗜甜呢……我喝QQ美莓奶茶不另外加糖 而她喝七分糖。。甚至还有小料。。。。感觉这么一口下去口腔细胞都脱水了😇😇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2106733059987128358",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 164,
+          "like_count": 4042,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 1184
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-15T02:40:08.000Z",
+        "description": "我想要好多好多钱",
+        "id": "1890591824391397376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106732708718379115",
+        "name": "👊🏻",
+        "pinned_tweet_id": "1958912929275027840",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890591824391397376/1745133645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099342949159227392/bG3V1T2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13613,
+          "following_count": 285,
+          "like_count": 155,
+          "listed_count": 8,
+          "media_count": 223,
+          "tweet_count": 14851
+        },
+        "url": "",
+        "username": "YiQuandbn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

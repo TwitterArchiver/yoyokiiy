@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2104178436487155798",
+    "created_at": "2026-09-28T05:26:55.000Z",
+    "display_text_range": [
+      13,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104442711621456025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870093566909001728",
+          "start": 0,
+          "username": "Calliopebbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104442711621456025",
+    "in_reply_to_user_id": "1870093566909001728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104178436487155798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Calliopebbb 我踏马笑死了！整这图的没觉得像销售吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2104178427393978368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOLIZzbsAAZseW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2104178436487155798",
+        "created_at": "2026-09-28T05:26:55.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104442711621456025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870093566909001728",
+              "start": 0,
+              "username": "Calliopebbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104442711621456025",
+        "in_reply_to_user_id": "1870093566909001728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104178436487155798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Calliopebbb 我踏马笑死了！整这图的没觉得像销售吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104178427393978368"
+          ]
+        },
+        "author_id": "1870093566909001728",
+        "conversation_id": "2104178436487155798",
+        "created_at": "2026-09-27T11:56:47.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104178436487155798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1QK4AOmrY",
+              "end": 33,
+              "expanded_url": "https://x.com/Calliopebbb/status/2104178436487155798/photo/1",
+              "media_key": "3_2104178427393978368",
+              "start": 10,
+              "url": "https://t.co/I1QK4AOmrY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104178436487155798",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104178427393978368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2791,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拉黑上限了。。。。 https://t.co/I1QK4AOmrY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2104442711621456025",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 165,
+          "like_count": 3977,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 1175
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T13:07:16.000Z",
+        "description": "",
+        "id": "1870093566909001728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104424753557811501",
+        "name": "闲盐",
+        "pinned_tweet_id": "2093977438858744027",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039635135407214592/7EyFoJlX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 132,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 1872
+        },
+        "url": "",
+        "username": "Calliopebbb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

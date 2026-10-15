@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1897445432365821952",
+    "conversation_id": "2104277392932131324",
+    "created_at": "2026-09-28T01:12:42.000Z",
+    "display_text_range": [
+      12,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T02:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104378732769361940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058094415504351232",
+          "start": 0,
+          "username": "Xxxxxxnans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104378732769361940",
+    "in_reply_to_user_id": "2058094415504351232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104277392932131324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxxxxnans 推特对我的意义已经变了。因为我在这认识了一群素不相识却可以袒露心扉的朋友。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2104277392932131324",
+        "created_at": "2026-09-28T01:12:42.000Z",
+        "display_text_range": [
+          12,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104378732769361940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058094415504351232",
+              "start": 0,
+              "username": "Xxxxxxnans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104378732769361940",
+        "in_reply_to_user_id": "2058094415504351232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104277392932131324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxxxxnans 推特对我的意义已经变了。因为我在这认识了一群素不相识却可以袒露心扉的朋友。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058094415504351232",
+        "conversation_id": "2104277392932131324",
+        "created_at": "2026-09-27T18:30:00.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104277392932131324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104277392932131324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4016,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "推特对我的意义已经变了。因为我在这认识了一群素不相识却可以袒露心扉的朋友。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "想在时光里轻盈的走",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0Bq2Ew"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "is_identity_verified": false,
+        "location": "MaeTaeng",
+        "most_recent_tweet_id": "2104378732769361940",
+        "name": "小柳絮",
+        "pinned_tweet_id": "2047573259193823600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897445432365821952/1788603963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096183016976760832/QfgDbH8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 163,
+          "like_count": 3969,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/uQ9D0Bq2Ew",
+        "username": "yoyokiiy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T07:56:24.000Z",
+        "description": "iiii\n我们只是网友你看不惯我把你那个手机往地上一扔我就死了你知道吧",
+        "id": "2058094415504351232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104315556904214555",
+        "name": "Xxxx",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058094415504351232/1789757179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101019959296176128/06IYbNAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 385,
+          "like_count": 6384,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 2286
+        },
+        "url": "",
+        "username": "Xxxxxxnans",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
